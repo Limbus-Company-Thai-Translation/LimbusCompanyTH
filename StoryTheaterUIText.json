@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "MAINSTORY",
-      "content": "Main Story"
+      "content": "เนื้อเรื่องหลัก"
     },
     {
       "id": "PERSONALITYSTORY",
-      "content": "Identity Archive"
+      "content": "แฟ้มข้อมูลตัวตนบุคคล"
     },
     {
       "id": "NOTE_OF_DANTE",
-      "content": "Dante’s Notes"
+      "content": "โน้ตของดันเต้"
     },
     {
       "id": "EPISODE",
@@ -174,7 +174,7 @@
     },
     {
       "id": "OTHERSTORY",
-      "content": "Detour Tales"
+      "content": "เรื่องราวระหว่างทาง"
     },
     {
       "id": "DanteNote_Record",

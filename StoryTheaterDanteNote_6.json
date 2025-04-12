@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "AbnormalityLevel",
-      "content": "Risk Levels"
+      "content": "ระดับความอันตราย"
     },
     {
       "id": "LCA",
-      "content": "The LCA"
+      "content": "หน่วย LCA"
     },
     {
       "id": "Distortion",
@@ -22,7 +22,7 @@
     },
     {
       "id": "LCD",
-      "content": "The LCD"
+      "content": "หน่วย LCD"
     },
     {
       "id": "Monolith",

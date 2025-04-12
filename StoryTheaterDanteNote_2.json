@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "Association",
-      "content": "The Associations"
+      "content": "เหล่าสมาคม"
     },
     {
       "id": "ShiAsso",
@@ -14,7 +14,7 @@
     },
     {
       "id": "Office",
-      "content": "Offices"
+      "content": "สำนักงาน"
     },
     {
       "id": "LobotomyCorp",

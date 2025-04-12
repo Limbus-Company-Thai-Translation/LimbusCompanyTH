@@ -2,27 +2,27 @@
   "dataList": [
     {
       "id": "mainui_main_button0",
-      "content": "Window"
+      "content": "ล็อบบี้"
     },
     {
       "id": "mainui_main_button1",
-      "content": "Sinners"
+      "content": "จัดทีม"
     },
     {
       "id": "mainui_main_button2",
-      "content": "Theater"
+      "content": "โรงหนัง"
     },
     {
       "id": "mainui_main_button3",
-      "content": "Drive"
+      "content": "ออกรถ"
     },
     {
       "id": "mainui_main_button4",
-      "content": "Extract"
+      "content": "กาชา"
     },
     {
       "id": "mainui_main_button5",
-      "content": "Dispense"
+      "content": "แลกเปลี่ยน"
     },
     {
       "id": "mainui_main_exp",
@@ -42,7 +42,7 @@
     },
     {
       "id": "mainui_battleselection_everydungeon",
-      "content": "Mirror Dungeons"
+      "content": "ดันเจียน กระจกเงา"
     },
     {
       "id": "mainui_stageinfo_recommendlevel",
@@ -126,7 +126,7 @@
     },
     {
       "id": "mainui_skip_desc",
-      "content": "Are you sure you want to skip?"
+      "content": "แน่ใจหรอว่าจะกดข้าม ?"
     },
     {
       "id": "mainui_battleresult_reward",
@@ -142,7 +142,7 @@
     },
     {
       "id": "mainui_ok",
-      "content": "Confirm"
+      "content": "แน่ใจ"
     },
     {
       "id": "mainui_battleresult_victory",
@@ -166,7 +166,7 @@
     },
     {
       "id": "mainui_cancel",
-      "content": "Cancel"
+      "content": "ยกเลิก"
     },
     {
       "id": "mainui_select",

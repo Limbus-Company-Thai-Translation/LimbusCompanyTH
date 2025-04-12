@@ -10,11 +10,11 @@
     },
     {
       "id": "LCB",
-      "content": "The LCB"
+      "content": "หน่วย LCB"
     },
     {
       "id": "LCC",
-      "content": "The LCC"
+      "content": "หน่วย LCC"
     },
     {
       "id": "Nest",
@@ -66,7 +66,7 @@
     },
     {
       "id": "Organization",
-      "content": "Syndicates"
+      "content": "Syndicate"
     },
     {
       "id": "Fixer",
@@ -74,7 +74,7 @@
     },
     {
       "id": "Goldenbranch",
-      "content": "The Golden Boughs"
+      "content": "กิ่งทอง"
     }
   ]
 }
