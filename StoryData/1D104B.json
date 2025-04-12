@@ -2,89 +2,89 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
+      "place": "ภายในศูนย์ L Corp. สาขาเขต 4",
       "model": "파우스트",
-      "content": "Well, I suppose this place is as good as any."
+      "content": "ที่นี่ก็น่าจะเหมาะพอๆกับที่อื่นๆมั้งคะ"
     },
     {
       "id": 1,
-      "content": "As I opened the door, Faust suddenly stood before me."
+      "content": "ขณะที่ฉันกำลังเปิดประตู เฟาสท์ก้าวมายืนขวางฉันไว้"
     },
     {
       "id": 2,
       "model": "파우스트",
-      "content": "Dante, close your eyes and look for the glimmer hiding in the dark."
+      "content": "ดันเต้คะ… ช่วยหลับตา แล้วมองหาประกายแสงที่ซ่อนอยู่ในความมืดดูทีค่ะ"
     },
     {
       "id": 3,
       "model": "파우스트",
-      "content": "Find the faint star of truth, twinkling gently."
+      "content": "จงมองหาดวงดาวแห่งความสัจจริง ที่ทอแสงอย่างแผ่วเบาอยู่ค่ะ"
     },
     {
       "id": 4,
       "model": "단테",
-      "content": "<The star… This one won’t hurt, right?>"
+      "content": "< … ดวงดาวเหรอ ? อันนี้มันจะไม่ทำให้ฉันเจ็บใช่ไหม ? >"
     },
     {
       "id": 5,
       "model": "파우스트",
-      "content": "It shouldn’t cause you any pain since you’re simply locating it."
+      "content": "ไม่ควรจะเจ็บนะคะฉันคิดว่า เพราะคุณแค่จะลองระบุตำแหน่งมันดูเท่านั้นค่ะ"
     },
     {
       "id": 6,
-      "content": "Something about the way Faust put that bothered me, but I decided to trust her and block my sight."
+      "content": "น้ำเสียงของเธอทำให้ฉันรู้สึกแปลกๆ แต่สุดท้าย ฉันก็ตัดสินใจเชื่อเธอแล้วหลับตา"
     },
     {
       "id": 7,
       "model": "파우스트",
-      "content": "When you open your eyes, what seemed so far away…"
+      "content": "เมื่อลืมตาขึ้น สิ่งใดก็ตามที่เคยดูห่างไกล…"
     },
     {
       "id": 8,
       "model": "파우스트",
-      "content": "Will shine right into your vision."
+      "content": "…จะมาส่องประกายตรงสู่สายตาของคุณ"
     },
     {
       "id": 9,
       "model": "단테",
-      "content": "<That’s… beautiful.>"
+      "content": "< นี่มัน สวยงามจริงๆแหะ >"
     },
     {
       "id": 10,
       "model": "단테",
-      "content": "<That light… Is it only visible to me?>"
+      "content": "< แสงนี้… มีแค่ฉันที่มองเห็นเหรอ ? >"
     },
     {
       "id": 11,
       "model": "파우스트",
-      "content": "Not quite. Through you, now all of us can see it."
+      "content": "ไม่เชิงแบบนั้นค่ะ… ผ่านดวงตาของคุณ ทำให้ตอนนี้ทุกคนสามารถเห็นมันได้ค่ะ"
     },
     {
       "id": 12,
       "model": "파우스트",
-      "content": "Even though we’re inside a dungeon, we can now reap the benefits of your ability through the star."
+      "content": "หลังจากนี้แม้ว่าเราจะอยู่ในดันเจี้ยน เราก็จะยังสามารถใช้ความสามารถของคุณผ่านแสงดาวดวงนี้ได้ค่ะ"
     },
     {
       "id": 13,
       "model": "이스마엘",
-      "content": "Can you please hurry up with the clock, then? I think I dislocated my shoulder."
+      "content": "งั้นก็ช่วยเร่งมือใช้ นาฬิกา ได้แล้วได้ไหม ? ฉันว่าหัวไหล่ฉันหลุดแน่ๆแล้วเนี่ย!"
     },
     {
       "id": 14,
       "model": "유리",
-      "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "The clock? It wasn’t just for show?"
+      "teller": "ยูริ",
+      "title": "Fixer ระดับ 8",
+      "content": "นาฬิกา ? มันไม่ได้เป็นของที่มีไว้แค่โชว์เหรอ ?"
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "That’s not all it does. They have a really neat power. You should come and take a look, Yuri."
+      "content": "มันไม่ใช่แค่ของโชว์หรอกนะ นี่ๆมันมีพลังเจ๋งๆอยู่ด้วยนะยูริ มาดูสิๆ"
     },
     {
       "id": 16,
       "model": "단테",
-      "content": "<…Will no one recognize the pain I endure?>"
+      "content": "<… นี่ไม่มีใครจำได้เลยหรอว่าชั้นต้องเจ็บแค่ไหนตอนใช้พลัง ? >"
     }
   ]
 }
