@@ -4,12 +4,12 @@
             "levelList": [{
                     "level": 1,
                     "name": "Stay Calm",
-                    "desc": "ได้รับ +3 [Vibration] เคาท์ ถ้าหากสกิลนี้  ถูก[Discard]",
+                    "desc": "ได้รับ +3 [Vibration] อัตรา,ถ้าหากสกิลนี้ถูก[Discard]",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ +2 [Vibration] เคาท์"
+                                "desc": "[OnSucceedAttackHead] ทำสถานะ +2 [Vibration] อัตรา"
                             }]
                         }
                     ]
@@ -17,12 +17,12 @@
                 {
                     "level": 2,
                     "name": "Stay Calm",
-                    "desc": "ถ้าสกิลนี้ ถูก[Discard], ได้รับ +4 [Vibration] เคาท์\n[WhenUse] ได้รับ +2 [Vibration] เคาท์",
+                    "desc": "ถ้าสกิลนี้ ถูก[Discard], ได้รับ +4 [Vibration] อัตรา\n[WhenUse] ได้รับ +2 [Vibration] อัตรา",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Vibration] เคาท์"
+                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Vibration] อัตรา"
                             }]
                         }
                     ]
@@ -30,12 +30,12 @@
                 {
                     "level": 4,
                     "name": "Stay Calm",
-                    "desc": "ถ้าสกิลนี้ ถูก[Discard], ได้รับ +4 [Vibration] เคาท์\n[WhenUse] ได้รับ +2 [Vibration] เคาท์\nเมื่อมี 5+ [Vibration] เคาท์, ได้รับ พลังของเหรียญ +1",
+                    "desc": "ถ้าสกิลนี้ ถูก[Discard], ได้รับ +4 [Vibration] อัตรา\n[WhenUse] ได้รับ +2 [Vibration] อัตรา\nเมื่อมี 5+ [Vibration] อัตรา, ได้รับ พลังของเหรียญ +1",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Vibration] เคาท์"
+                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Vibration] อัตรา"
                             }]
                         }
                     ]
@@ -47,23 +47,23 @@
             "levelList": [{
                     "level": 1,
                     "name": "Gamble",
-                    "desc": "ถ้าสกิลนี้ ถูก[Discard], ได้รับ +3 [Vibration] เคาท์\n[WhenUse] [Discard] 1 สกิลที่มีระดับต่ำสุด จากทุกช่องของตัวผม",
+                    "desc": "ถ้าสกิลนี้ ถูก[Discard], ได้รับ +3 [Vibration] อัตรา\n[WhenUse] [Discard] 1 สกิลที่มีระดับต่ำสุด จากทุกช่องของตัวผม",
                     "coinlist": [{
                         "coindescs": [{
-                            "desc": "[OnSucceedAttack] เมื่อมี 5+ [Vibration] เคาท์,\n กระตุ้น [VibrationExplosion] จากนั้น\n ลด 2 [Vibration] เคาท์ จากเป้าหมาย"
+                            "desc": "[OnSucceedAttack] เมื่อมี 5+ [Vibration] อัตรา,\n กระตุ้น [VibrationExplosion] จากนั้น\n ลด 2 [Vibration] อัตรา จากเป้าหมาย"
                         }]
                     }]
                 },
                 {
                     "level": 2,
                     "name": "Gamble",
-                    "desc": "ถ้าสกิลนี้ ถูก[Discard], ได้รับ +4 [Vibration] เคาท์\n[WhenUse] [Discard] 1 สกิลที่มีระดับต่ำสุด จากทุกช่องของตัวผม",
+                    "desc": "ถ้าสกิลนี้ ถูก[Discard], ได้รับ +4 [Vibration] อัตรา\n[WhenUse] [Discard] 1 สกิลที่มีระดับต่ำสุด จากทุกช่องของตัวผม",
                     "coinlist": [{
                         "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Vibration] เคาท์"
+                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Vibration] อัตรา"
                             },
                             {
-                                "desc": "[OnSucceedAttack] เมื่อมี 5+ [Vibration] เคาท์,\n กระตุ้น [VibrationExplosion] จากนั้น\n ลด 2 [Vibration] เคาท์ จากเป้าหมาย"
+                                "desc": "[OnSucceedAttack] เมื่อมี 5+ [Vibration] อัตรา,\n กระตุ้น [VibrationExplosion] จากนั้น\n ลด 2 [Vibration] อัตรา จากเป้าหมาย"
                             }
                         ]
                     }]
@@ -71,13 +71,13 @@
                 {
                     "level": 4,
                     "name": "Gamble",
-                    "desc": "ถ้าสกิลนี้ ถูก[Discard], ได้รับ +4 [Vibration] เคาท์\n[WhenUse] [Discard] 1 สกิลที่มีระดับต่ำสุด จากทุกช่องของตัวผม",
+                    "desc": "ถ้าสกิลนี้ ถูก[Discard], ได้รับ +4 [Vibration] อัตรา\n[WhenUse] [Discard] 1 สกิลที่มีระดับต่ำสุด จากทุกช่องของตัวผม",
                     "coinlist": [{
                         "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ +3 [Vibration] เคาท์"
+                                "desc": "[OnSucceedAttack] ทำสถานะ +3 [Vibration] อัตรา"
                             },
                             {
-                                "desc": "[OnSucceedAttack] เมื่อมี 5+ [Vibration] เคาท์,\n กระตุ้น [VibrationExplosion] จากนั้น \n ลด 2 [Vibration] เคาท์ จากเป้าหมาย"
+                                "desc": "[OnSucceedAttack] เมื่อมี 5+ [Vibration] อัตรา,\n กระตุ้น [VibrationExplosion] จากนั้น \n ลด 2 [Vibration] อัตรา จากเป้าหมาย"
                             }
                         ]
                     }]
@@ -89,13 +89,13 @@
             "levelList": [{
                     "level": 3,
                     "name": "Grinding the Molars",
-                    "desc": "[WhenUse] [Discard] 1 สกิลที่มีระดับต่ำสุด จากทุกช่องของตัวฉัน\n[WhenUse] จ่าย 10 [Vibration] เคาท์ เพื่อ ได้รับ พลังของเหรียญ +1",
+                    "desc": "[WhenUse] [Discard] 1 สกิลที่มีระดับต่ำสุด จากทุกช่องของตัวฉัน\n[WhenUse] จ่าย 10 [Vibration] อัตรา เพื่อ ได้รับ พลังของเหรียญ +1",
                     "coinlist": [{
                             "coindescs": [{
                                     "desc": "[OnSucceedAttack] ทำสถานะ 4 [Vibration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ถ้าสกิลนี้ได้จ่าย [Vibration] เคาท์ \n ทำให้ติดการกระตุ้น [VibrationExplosion]"
+                                    "desc": "[OnSucceedAttack] ถ้าสกิลนี้ได้จ่าย [Vibration] อัตรา \n ทำให้ติดการกระตุ้น [VibrationExplosion]"
                                 }
                             ]
                         },
@@ -105,7 +105,7 @@
                                     "desc": "[OnSucceedAttackHead] ทำสถานะ 2 [DefenseDown]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ถ้าสกิลนี้ได้จ่าย [Vibration] เคาท์ \n ทำให้ติดการกระตุ้น [VibrationExplosion]"
+                                    "desc": "[OnSucceedAttack] ถ้าสกิลนี้ได้จ่าย [Vibration] อัตรา \n ทำให้ติดการกระตุ้น [VibrationExplosion]"
                                 }
                             ]
                         }
@@ -114,13 +114,13 @@
                 {
                     "level": 4,
                     "name": "Grinding the Molars",
-                    "desc": "[WhenUse] [Discard] 1 สกิลที่มีระดับต่ำสุด จากทุกช่องของตัวฉัน\n[WhenUse] จ่าย 10 [Vibration] เคาท์ เพื่อ ได้รับ พลังของเหรียญ +2",
+                    "desc": "[WhenUse] [Discard] 1 สกิลที่มีระดับต่ำสุด จากทุกช่องของตัวฉัน\n[WhenUse] จ่าย 10 [Vibration] อัตรา เพื่อ ได้รับ พลังของเหรียญ +2",
                     "coinlist": [{
                             "coindescs": [{
                                     "desc": "[OnSucceedAttack] ทำสถานะ 4 [Vibration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ถ้าสกิลนี้ได้จ่าย [Vibration] เคาท์ \n ทำให้ติดการกระตุ้น [VibrationExplosion]"
+                                    "desc": "[OnSucceedAttack] ถ้าสกิลนี้ได้จ่าย [Vibration] อัตรา \n ทำให้ติดการกระตุ้น [VibrationExplosion]"
                                 }
                             ]
                         },
@@ -130,7 +130,7 @@
                                     "desc": "[OnSucceedAttack] ทำสถานะ 2 [DefenseDown]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ถ้าสกิลนี้ได้จ่าย [Vibration] เคาท์ \n ทำให้ติดการกระตุ้น [VibrationExplosion]"
+                                    "desc": "[OnSucceedAttack] ถ้าสกิลนี้ได้จ่าย [Vibration] อัตรา \n ทำให้ติดการกระตุ้น [VibrationExplosion]"
                                 }
                             ]
                         }
@@ -163,20 +163,20 @@
             "levelList": [{
                     "level": 1,
                     "name": "Dimensional Slit",
-                    "desc": "[WhenUse] ได้รับ +2 [Charge] เคาท์",
+                    "desc": "[WhenUse] ได้รับ +2 [Charge] อัตรา",
                     "coinlist": [{
                         "coindescs": [{
-                            "desc": "[OnSucceedAttack] ได้รับ +2 [Charge] เคาท์"
+                            "desc": "[OnSucceedAttack] ได้รับ +2 [Charge] อัตรา"
                         }]
                     }]
                 },
                 {
                     "level": 2,
                     "name": "Dimensional Slit",
-                    "desc": "[WhenUse] ได้รับ +2 [Charge] เคาท์",
+                    "desc": "[WhenUse] ได้รับ +2 [Charge] อัตรา",
                     "coinlist": [{
                         "coindescs": [{
-                                "desc": "[OnSucceedAttack] ได้รับ +2 [Charge] เคาท์"
+                                "desc": "[OnSucceedAttack] ได้รับ +2 [Charge] อัตรา"
                             },
                             {
                                 "desc": "[OnSucceedAttackHead] ทำสถานะ 2 [Burst]"
@@ -187,10 +187,10 @@
                 {
                     "level": 4,
                     "name": "Dimensional Slit",
-                    "desc": "[WhenUse] ได้รับ +2 [Charge] เคาท์\nเมื่อมี 10+ [Charge] เคาท์, พลังของเหรียญ +2",
+                    "desc": "[WhenUse] ได้รับ +2 [Charge] อัตรา\nเมื่อมี 10+ [Charge] อัตรา, พลังของเหรียญ +2",
                     "coinlist": [{
                         "coindescs": [{
-                                "desc": "[OnSucceedAttack] ได้รับ +2 [Charge] เคาท์"
+                                "desc": "[OnSucceedAttack] ได้รับ +2 [Charge] อัตรา"
                             },
                             {
                                 "desc": "[OnSucceedAttack] ทำสถานะ 2 [Burst]"
@@ -205,7 +205,7 @@
             "levelList": [{
                     "level": 1,
                     "name": "Energy Cycle",
-                    "desc": "[WhenUse] ได้รับ +5 [Charge] เคาท์",
+                    "desc": "[WhenUse] ได้รับ +5 [Charge] อัตรา",
                     "coinlist": [{
                             "coindescs": [{
                                 "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Binding] เทิร์นถัดไป"
@@ -221,7 +221,7 @@
                 {
                     "level": 2,
                     "name": "Energy Cycle",
-                    "desc": "[WhenUse] ได้รับ +6 [Charge] เคาท์\nเมื่อมี 10+ [Charge] เคาท์, พลังของเหรียญ +1",
+                    "desc": "[WhenUse] ได้รับ +6 [Charge] อัตรา\nเมื่อมี 10+ [Charge] อัตรา, พลังของเหรียญ +1",
                     "coinlist": [{
                             "coindescs": [{
                                 "desc": "[OnSucceedAttack] ทำสถานะ 1 [Binding] เทิร์นถัดไป"
@@ -232,7 +232,7 @@
                                     "desc": "[OnSucceedAttack] ทำสถานะ 3 [Burst]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] เมื่อมี 10+ [Charge] เคาท์, ทำสถานะ 3 [Burst]"
+                                    "desc": "[OnSucceedAttack] เมื่อมี 10+ [Charge] อัตรา, ทำสถานะ 3 [Burst]"
                                 }
                             ]
                         }
@@ -241,7 +241,7 @@
                 {
                     "level": 4,
                     "name": "Energy Cycle",
-                    "desc": "[WhenUse] ได้รับ +7 [Charge] เคาท์\nเมื่อมี 10+ [Charge] เคาท์, พลังของเหรียญ +1",
+                    "desc": "[WhenUse] ได้รับ +7 [Charge] อัตรา\nเมื่อมี 10+ [Charge] อัตรา, พลังของเหรียญ +1",
                     "coinlist": [{
                             "coindescs": [{
                                 "desc": "[OnSucceedAttack] ทำสถานะ 1 [Binding] เทิร์นถัดไป"
@@ -252,7 +252,7 @@
                                     "desc": "[OnSucceedAttack] ทำสถานะ 3 [Burst]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] เมื่อมี 10+ [Charge] เคาท์, ทำสถานะ 3 [Burst] and +2 [Burst] เคาท์"
+                                    "desc": "[OnSucceedAttack] เมื่อมี 10+ [Charge] อัตรา, ทำสถานะ 3 [Burst] and +2 [Burst] อัตรา"
                                 }
                             ]
                         }
@@ -265,7 +265,7 @@
             "levelList": [{
                     "level": 3,
                     "name": "Dimensional Rift",
-                    "desc": "[WhenUse] เมื่อมีจำนวนน้อยกว่า 15 [Charge] เคาท์,จ่าย 10 [Charge] เคาท์ เพื่อ ได้รับ +1 พลังของเหรียญ\n[WhenUse] ใช้ 15 [Charge] เคาท์ เพื่อ ได้รับ +2 พลังของเหรียญ",
+                    "desc": "[WhenUse] เมื่อมีจำนวนน้อยกว่า 15 [Charge] อัตรา,จ่าย 10 [Charge] อัตรา เพื่อ ได้รับ +1 พลังของเหรียญ\n[WhenUse] ใช้ 15 [Charge] อัตรา เพื่อ ได้รับ +2 พลังของเหรียญ",
                     "coinlist": [{
                             "coindescs": [{
                                 "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Burst]"
@@ -278,10 +278,10 @@
                         },
                         {
                             "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 2 [Burst] สำหรับทุก 5 [Charge] เคาท์ ที่ถูกใช้จากสกิล (มากที่สุด 6)"
+                                    "desc": "[OnSucceedAttack] ทำสถานะ 2 [Burst] สำหรับทุก 5 [Charge] อัตรา ที่ถูกใช้จากสกิล (มากที่สุด 6)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ถ้าหากสกิลนี้ ถูกใช้ 15 [Charge] เคาท์ \nเมื่อใช้งาน, ทำสถานะ 2 [DimensionRift]"
+                                    "desc": "[OnSucceedAttack] ถ้าหากสกิลนี้ ถูกใช้ 15 [Charge] อัตรา \nเมื่อใช้งาน, ทำสถานะ 2 [DimensionRift]"
                                 },
                                 {
                                     "desc": "[EnemyKill] ได้รับ 3 [ChargeForceField]"
@@ -293,7 +293,7 @@
                 {
                     "level": 4,
                     "name": "Dimensional Rift",
-                    "desc": "[WhenUse] เมื่อมี น้อยกว่า 15 [Charge] เคาท์, ใช้ 10 [Charge] เคาท์ เพื่อ ได้รับ +1 พลังของเหรียญ\n[WhenUse] ใช้ 15 [Charge] เคาท์ เพื่อ ได้รับ +2 พลังของเหรียญ\n[BeforeAttack] หากใช้ 15 [Charge] เคาท์, ทำสถานะ +3 [Burst] เคาท์",
+                    "desc": "[WhenUse] เมื่อมี น้อยกว่า 15 [Charge] อัตรา, ใช้ 10 [Charge] อัตรา เพื่อ ได้รับ +1 พลังของเหรียญ\n[WhenUse] ใช้ 15 [Charge] อัตรา เพื่อ ได้รับ +2 พลังของเหรียญ\n[BeforeAttack] หากใช้ 15 [Charge] อัตรา, ทำสถานะ +3 [Burst] อัตรา",
                     "coinlist": [{
                             "coindescs": [{
                                 "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Burst]"
@@ -306,10 +306,10 @@
                         },
                         {
                             "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 3 [Burst] สำหรับทุก 5 [Charge] เคาท์ ที่ถูกใช้จากสกิล (มากที่สุด 9)"
+                                    "desc": "[OnSucceedAttack] ทำสถานะ 3 [Burst] สำหรับทุก 5 [Charge] อัตรา ที่ถูกใช้จากสกิล (มากที่สุด 9)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ถ้าหากสกิลนี้ใช้ 15 [Charge] เคาท์ \nเมื่อใช้งาน, ทำสถานะ 2 [DimensionRift]"
+                                    "desc": "[OnSucceedAttack] ถ้าหากสกิลนี้ใช้ 15 [Charge] อัตรา \nเมื่อใช้งาน, ทำสถานะ 2 [DimensionRift]"
                                 },
                                 {
                                     "desc": "[EnemyKill] ได้รับ 5 [ChargeForceField]"
@@ -325,7 +325,7 @@
             "levelList": [{
                     "level": 1,
                     "name": "Hollow Dimension",
-                    "desc": "พลังพื้นฐาน +1 ต่อ 5 [Charge] เคาท์ (มากที่สุด 2)",
+                    "desc": "พลังพื้นฐาน +1 ต่อ 5 [Charge] อัตรา (มากที่สุด 2)",
                     "coinlist": [
                         {}
                     ]
@@ -333,7 +333,7 @@
                 {
                     "level": 4,
                     "name": "Hollow Dimension",
-                    "desc": "พลังพื้นฐาน +1 ต่อ 5 [Charge] เคาท์ (มากที่สุด 2)",
+                    "desc": "พลังพื้นฐาน +1 ต่อ 5 [Charge] อัตรา (มากที่สุด 2)",
                     "coinlist": [{
                         "coindescs": [{
                             "desc": "[OnSucceedEvade] +1 โพเทนซี่ เมื่อมอบ [Burst] ครั้งแรกด้วยผลของสกิล ในเทิร์นถัดไป (มากที่สุด +3 ต่อ เทิร์น)"
@@ -347,7 +347,7 @@
             "levelList": [{
                     "level": 1,
                     "name": "Impale",
-                    "desc": "[WhenUse] ได้รับ +2 [Breath] เคาท์",
+                    "desc": "[WhenUse] ได้รับ +2 [Breath] อัตรา",
                     "coinlist": [
                         {},
                         {
@@ -360,7 +360,7 @@
                 {
                     "level": 2,
                     "name": "Impale",
-                    "desc": "[WhenUse] ได้รับ +2 [Breath] เคาท์",
+                    "desc": "[WhenUse] ได้รับ +2 [Breath] อัตรา",
                     "coinlist": [
                         {},
                         {
@@ -377,7 +377,7 @@
                 {
                     "level": 4,
                     "name": "Impale",
-                    "desc": "[WhenUse] ได้รับ +2 [Breath] เคาท์",
+                    "desc": "[WhenUse] ได้รับ +2 [Breath] อัตรา",
                     "coinlist": [
                         {},
                         {
@@ -398,7 +398,7 @@
             "levelList": [{
                     "level": 1,
                     "name": "Relentless Stabbing",
-                    "desc": "[WhenUse] ได้รับ +2 [Breath] เคาท์\nเมื่อมี 5+ [Breath], พลังตอนปะทะ +2",
+                    "desc": "[WhenUse] ได้รับ +2 [Breath] อัตรา\nเมื่อมี 5+ [Breath], พลังตอนปะทะ +2",
                     "coinlist": [{
                             "coindescs": [{
                                 "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath]"
@@ -414,7 +414,7 @@
                 {
                     "level": 2,
                     "name": "Relentless Stabbing",
-                    "desc": "[WhenUse] ได้รับ +2 [Breath] เคาท์\nเมื่อมี 5+ [Breath], พลังตอนปะทะ +2",
+                    "desc": "[WhenUse] ได้รับ +2 [Breath] อัตรา\nเมื่อมี 5+ [Breath], พลังตอนปะทะ +2",
                     "coinlist": [{
                             "coindescs": [{
                                 "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath]"
@@ -434,7 +434,7 @@
                 {
                     "level": 4,
                     "name": "Relentless Stabbing",
-                    "desc": "[WhenUse] ได้รับ +2 [Breath] เคาท์\nเมื่อมี 5+ [Breath], พลังตอนปะทะ +3",
+                    "desc": "[WhenUse] ได้รับ +2 [Breath] อัตรา\nเมื่อมี 5+ [Breath], พลังตอนปะทะ +3",
                     "coinlist": [{
                             "coindescs": [{
                                 "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
@@ -461,7 +461,7 @@
                     "desc": "[WhenUse] ได้รับ 5 [Breath]",
                     "coinlist": [{
                             "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ได้รับ +2 [Breath] เคาท์"
+                                "desc": "[OnSucceedAttackHead] ได้รับ +2 [Breath] อัตรา"
                             }]
                         },
                         {
@@ -469,7 +469,7 @@
                                     "desc": "[OnSucceedAttack] ทำสถานะ 4 [Laceration]"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] ทำสถานะ +4 [Laceration] เคาท์"
+                                    "desc": "[CriticalOnSucceedAttack] ทำสถานะ +4 [Laceration] อัตรา"
                                 }
                             ]
                         }
@@ -481,7 +481,7 @@
                     "desc": "[WhenUse] ได้รับ 5 [Breath]\nเมื่อมี 7+ [Breath], พลังของเหรียญ +1",
                     "coinlist": [{
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] เคาท์"
+                                "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] อัตรา"
                             }]
                         },
                         {
@@ -489,7 +489,7 @@
                                     "desc": "[OnSucceedAttack] ทำสถานะ 4 [Laceration]"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] ทำสถานะ +6 [Laceration] เคาท์"
+                                    "desc": "[CriticalOnSucceedAttack] ทำสถานะ +6 [Laceration] อัตรา"
                                 }
                             ]
                         }
@@ -643,7 +643,7 @@
                         {},
                         {
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Sinking] เคาท์"
+                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Sinking] อัตรา"
                             }]
                         }
                     ]
@@ -658,7 +658,7 @@
                         {},
                         {
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ +3 [Sinking] เคาท์"
+                                "desc": "[OnSucceedAttack] ทำสถานะ +3 [Sinking] อัตรา"
                             }]
                         }
                     ]
@@ -699,7 +699,7 @@
                         {},
                         {
                             "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำให้เกิด +2 เคาท์ สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]."
+                                "desc": "[OnSucceedAttackHead] ทำให้เกิด +2 อัตรา สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]."
                             }]
                         },
                         {
@@ -717,7 +717,7 @@
                         {},
                         {
                             "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำให้เกิด +2 เคาท์ สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]."
+                                "desc": "[OnSucceedAttackHead] ทำให้เกิด +2 อัตรา สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]."
                             }]
                         },
                         {
@@ -735,7 +735,7 @@
                         {},
                         {
                             "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำให้เกิด +2 เคาท์ สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]."
+                                "desc": "[OnSucceedAttackHead] ทำให้เกิด +2 อัตรา สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]."
                             }]
                         },
                         {
@@ -758,10 +758,10 @@
                                 "desc": "[OnSucceedAttack] มีโอกาส 20% ที่จะได้โยนเหรียญอีกครั้ง (มีผลครั้งเดียว). มีโอกาสเพิ่มอีก +20% ในโยนเหรียญอีกครั้ง ตามจำนวนของ สถานะผิดปกติ ที่เป้าหมายมี"
                             },
                             {
-                                "desc": "[OnSucceedAttack] ทำสถานะ +1 [Laceration] เคาท์"
+                                "desc": "[OnSucceedAttack] ทำสถานะ +1 [Laceration] อัตรา"
                             },
                             {
-                                "desc": "[OnSucceedAttack] ทำสถานะ +2 เคาท์ สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]."
+                                "desc": "[OnSucceedAttack] ทำสถานะ +2 อัตรา สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]."
                             }
                         ]
                     }]
@@ -775,10 +775,10 @@
                                 "desc": "[OnSucceedAttack] มีโอกาส 20% ที่จะได้โยนเหรียญอีกครั้ง (มีผลครั้งเดียว). มีโอกาสเพิ่มอีก +20% ในโยนเหรียญอีกครั้ง ตามจำนวนของ สถานะผิดปกติ ที่เป้าหมายมี"
                             },
                             {
-                                "desc": "[OnSucceedAttack] ทำสถานะ +1 [Laceration] เคาท์"
+                                "desc": "[OnSucceedAttack] ทำสถานะ +1 [Laceration] อัตรา"
                             },
                             {
-                                "desc": "[OnSucceedAttack] ทำสถานะ +3 เคาท์ สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]."
+                                "desc": "[OnSucceedAttack] ทำสถานะ +3 อัตรา สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]."
                             }
                         ]
                     }]
@@ -786,16 +786,16 @@
                 {
                     "level": 4,
                     "name": "Sanguine Pointillism",
-                    "desc": "เพิ่มพลังตอนปะทะ +1 สำหรับทุก [Laceration] 3 หน่วย บนตัวเป้าหมาย (มากสุด 2)\nเพิ่มพลังของเหรียญ +1 สำหรับทุก [Laceration] เคาท์ 3 หน่วย ของเป้าหมาย (มากที่สุด 2)",
+                    "desc": "เพิ่มพลังตอนปะทะ +1 สำหรับทุก [Laceration] 3 หน่วย บนตัวเป้าหมาย (มากสุด 2)\nเพิ่มพลังของเหรียญ +1 สำหรับทุก [Laceration] อัตรา 3 หน่วย ของเป้าหมาย (มากที่สุด 2)",
                     "coinlist": [{
                         "coindescs": [{
                                 "desc": "[OnSucceedAttack] มีโอกาส 40% ที่จะได้โยนเหรียญอีกครั้ง. มีโอกาสเพิ่มอีก +20% ในโยนเหรียญอีกครั้ง ตามจำนวนของ สถานะผิดปกติ ที่เป้าหมายมี (มากสุด 2 ครั้ง ต่อ สกิล)"
                             },
                             {
-                                "desc": "[OnSucceedAttack] ทำสถานะ +1 [Laceration] เคาท์"
+                                "desc": "[OnSucceedAttack] ทำสถานะ +1 [Laceration] อัตรา"
                             },
                             {
-                                "desc": "[OnSucceedAttack] ทำสถานะ +3 เคาท์ สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]. "
+                                "desc": "[OnSucceedAttack] ทำสถานะ +3 อัตรา สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]. "
                             }
                         ]
                     }]
@@ -812,10 +812,10 @@
                         {},
                         {
                             "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ +1 [Laceration] เคาท์. ถ้าเป้าหมายมี 4+ types of negative effects, ทำสถานะ +2 เพิ่มเติม [Laceration] เคาท์"
+                                    "desc": "[OnSucceedAttack] ทำสถานะ +1 [Laceration] อัตรา. ถ้าเป้าหมายมี 4+ types of negative effects, ทำสถานะ +2 เพิ่มเติม [Laceration] อัตรา"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ +3 เคาท์ สำหรับผล 1 อย่าง จากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]. ผลที่ได้เป็นจะการสุ่ม."
+                                    "desc": "[OnSucceedAttack] ทำสถานะ +3 อัตรา สำหรับผล 1 อย่าง จากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]. ผลที่ได้เป็นจะการสุ่ม."
                                 }
                             ]
                         },
@@ -842,15 +842,15 @@
                 {
                     "level": 4,
                     "name": "Hematic Coloring",
-                    "desc": "พลังตอนปะทะ +1 สำหรับทุก 3 [Laceration] ของเป้าหมาย (มากที่สุด 2)\nพลังของเหรียญ +1 สำหรับทุก 3 [Laceration] เคาท์ ของเป้าหมาย (มากที่สุด 2)",
+                    "desc": "พลังตอนปะทะ +1 สำหรับทุก 3 [Laceration] ของเป้าหมาย (มากที่สุด 2)\nพลังของเหรียญ +1 สำหรับทุก 3 [Laceration] อัตรา ของเป้าหมาย (มากที่สุด 2)",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ +1 [Laceration] เคาท์. ถ้าเป้าหมายมี 3+ types of negative effects, ทำสถานะ +2 เพิ่มเติม [Laceration] เคาท์"
+                                    "desc": "[OnSucceedAttack] ทำสถานะ +1 [Laceration] อัตรา. ถ้าเป้าหมายมี 3+ types of negative effects, ทำสถานะ +2 เพิ่มเติม [Laceration] อัตรา"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ +3 เคาท์ สำหรับผล 1 อย่าง จากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]. ผลที่ได้เป็นจะการสุ่ม."
+                                    "desc": "[OnSucceedAttack] ทำสถานะ +3 อัตรา สำหรับผล 1 อย่าง จากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]. ผลที่ได้เป็นจะการสุ่ม."
                                 }
                             ]
                         },
@@ -929,7 +929,7 @@
                 {
                     "level": 2,
                     "name": "Celebration for the Departed",
-                    "desc": "ถ้าเป้าหมายมีผลรวมของ [Sinking] and both [SinkingWhite] is 6 หรือ higher, พลังของเหรียญ +1\n[WinDuel] ทำสถานะ +2 [Sinking] เคาท์",
+                    "desc": "ถ้าเป้าหมายมีผลรวมของ [Sinking] and both [SinkingWhite] is 6 หรือ higher, พลังของเหรียญ +1\n[WinDuel] ทำสถานะ +2 [Sinking] อัตรา",
                     "coinlist": [{
                             "coindescs": [{
                                     "desc": "ใช้กระสุน [BulletLament] 1 นัด "
@@ -953,7 +953,7 @@
                 {
                     "level": 4,
                     "name": "Celebration for the Departed",
-                    "desc": "<style=\"highlight\">หากมีกระสุน [BulletLament] 10+ นัด,พลังตอนปะทะ +1</style>\nถ้าเป้าหมายมีผลรวมของ [Sinking] และ [SinkingWhite] รวมแล้วมี 6 หรือมากกว่า, เพิ่มพลังของเหรียญ +1\n[WinDuel] ทำสถานะ +2 [Sinking] เคาท์",
+                    "desc": "<style=\"highlight\">หากมีกระสุน [BulletLament] 10+ นัด,พลังตอนปะทะ +1</style>\nถ้าเป้าหมายมีผลรวมของ [Sinking] และ [SinkingWhite] รวมแล้วมี 6 หรือมากกว่า, เพิ่มพลังของเหรียญ +1\n[WinDuel] ทำสถานะ +2 [Sinking] อัตรา",
                     "coinlist": [{
                             "coindescs": [{
                                     "desc": "ใช้กระสุน [BulletLament] 1 นัด "
@@ -1005,7 +1005,7 @@
                 {
                     "level": 2,
                     "name": "Solemn Lament for the Living",
-                    "desc": "ถ้าเป้าหมายมีผลรวมของ [Sinking] and both [SinkingWhite] is 6 หรือ higher, พลังของเหรียญ +1\n[WinDuel] ทำสถานะ +1 [Sinking] เคาท์\n[EndSkill] ได้รับ (highest Reson.) of [BulletLament] (มากที่สุด 6)\n- If the said Reson. was an A-Reson., ได้รับ (highest Reson. x 2) of [BulletLament] (มากที่สุด 12)",
+                    "desc": "ถ้าเป้าหมายมีผลรวมของ [Sinking] and both [SinkingWhite] is 6 หรือ higher, พลังของเหรียญ +1\n[WinDuel] ทำสถานะ +1 [Sinking] อัตรา\n[EndSkill] ได้รับ (highest Reson.) of [BulletLament] (มากที่สุด 6)\n- If the said Reson. was an A-Reson., ได้รับ (highest Reson. x 2) of [BulletLament] (มากที่สุด 12)",
                     "coinlist": [{
                             "coindescs": [{
                                     "desc": "ใช้กระสุน [BulletLament]  5 นัด "
@@ -1029,7 +1029,7 @@
                 {
                     "level": 4,
                     "name": "Solemn Lament for the Living",
-                    "desc": "เมื่อมี 10+ [BulletLament], พลังตอนปะทะ +1\n<style=\"highlight\">พลังของเหรียญ +1 สำหรับทุก 6 หน่วยของผลรวมของเป้าหมาย</style> [Sinking] และ [SinkingWhite] <style=\"highlight\">(มากที่สุด 2)</style>\n[WinDuel] ทำสถานะ +1 [Sinking] เคาท์\n[EndSkill] ได้รับ (highest Reson.) of [BulletLament] (มากที่สุด 6)\n- If the said Reson. was an A-Reson., ได้รับ (highest Reson. x 2) of [BulletLament] (มากที่สุด 12)\n- If the said Reson. was at 4+ A-Reson., [ReloadLament] แทน",
+                    "desc": "เมื่อมี 10+ [BulletLament], พลังตอนปะทะ +1\n<style=\"highlight\">พลังของเหรียญ +1 สำหรับทุก 6 หน่วยของผลรวมของเป้าหมาย</style> [Sinking] และ [SinkingWhite] <style=\"highlight\">(มากที่สุด 2)</style>\n[WinDuel] ทำสถานะ +1 [Sinking] อัตรา\n[EndSkill] ได้รับ (highest Reson.) of [BulletLament] (มากที่สุด 6)\n- If the said Reson. was an A-Reson., ได้รับ (highest Reson. x 2) of [BulletLament] (มากที่สุด 12)\n- If the said Reson. was at 4+ A-Reson., [ReloadLament] แทน",
                     "coinlist": [{
                             "coindescs": [{
                                     "desc": "ใช้กระสุน [BulletLament]  5 นัด "
@@ -1057,7 +1057,7 @@
             "levelList": [{
                     "level": 3,
                     "name": "Goodbye Now, A Sorrow In You",
-                    "desc": "พลังพื้นฐาน +1 สำหรับทุก 10 value of [BulletLament] (มากที่สุด 2)\n[WinDuel] ทำสถานะ +3 [Sinking] เคาท์\n[EndSkill] [ReloadLament]",
+                    "desc": "พลังพื้นฐาน +1 สำหรับทุก 10 value of [BulletLament] (มากที่สุด 2)\n[WinDuel] ทำสถานะ +3 [Sinking] อัตรา\n[EndSkill] [ReloadLament]",
                     "coinlist": [{
                             "coindescs": [{
                                     "desc": "ใช้กระสุน [BulletLament] 1 นัด "
@@ -1098,7 +1098,7 @@
                 {
                     "level": 4,
                     "name": "Goodbye Now, A Sorrow In You",
-                    "desc": "พลังพื้นฐาน +1 สำหรับทุก <style=\"highlight\">5</style> value of [BulletLament] <style=\"highlight\">(มากที่สุด 4)</style>\nพลังของเหรียญ +1 สำหรับทุก 6 value of the sum of the target's [Sinking] and both [SinkingWhite] (มากที่สุด 2)\n[WinDuel] ทำสถานะ +3 [Sinking] เคาท์\n[EndSkill] [ReloadLament]",
+                    "desc": "พลังพื้นฐาน +1 สำหรับทุก <style=\"highlight\">5</style> value of [BulletLament] <style=\"highlight\">(มากที่สุด 4)</style>\nพลังของเหรียญ +1 สำหรับทุก 6 value of the sum of the target's [Sinking] and both [SinkingWhite] (มากที่สุด 2)\n[WinDuel] ทำสถานะ +3 [Sinking] อัตรา\n[EndSkill] [ReloadLament]",
                     "coinlist": [{
                             "coindescs": [{
                                     "desc": "ใช้กระสุน [BulletLament] 1 นัด "
@@ -1167,7 +1167,7 @@
             "levelList": [{
                     "level": 1,
                     "name": "คงต้องกล่าวบอกไว้ก่อนว่า E.G.O นั้นเป็นอุปกรณ์ขั้นพื้นฐาน",
-                    "desc": "[WhenUse] ได้รับ +2 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] เคาท์: สกิลนี้ไม่ ทำสถานะ [Burst] ด้วยผลของมัน",
+                    "desc": "[WhenUse] ได้รับ +2 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] อัตรา: สกิลนี้ไม่ ทำสถานะ [Burst] ด้วยผลของมัน",
                     "coinlist": [{
                             "coindescs": [{
                                     "desc": "[SuperCoin]"
@@ -1191,7 +1191,7 @@
                 {
                     "level": 2,
                     "name": "คงต้องกล่าวบอกไว้ก่อนว่า E.G.O นั้นเป็นอุปกรณ์ขั้นพื้นฐาน",
-                    "desc": "[StartBattle] เมื่อแพ้การปะทะ, ได้รับ พลังโดยรวม เท่ากับ สกิลที่เล็งตัวผล (มากที่สุด 2)\n[WhenUse] ได้รับ +3 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] เคาท์: สกิลนี้ไม่ ทำสถานะ [Burst] ด้วยผลของมัน\n[DefeatDuel] [Burst] โพเทนซี่ ทำให้ติดed ด้วยสกิลนี้ +1",
+                    "desc": "[StartBattle] เมื่อแพ้การปะทะ, ได้รับ พลังโดยรวม เท่ากับ สกิลที่เล็งตัวผล (มากที่สุด 2)\n[WhenUse] ได้รับ +3 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] อัตรา: สกิลนี้ไม่ ทำสถานะ [Burst] ด้วยผลของมัน\n[DefeatDuel] [Burst] โพเทนซี่ ทำให้ติดed ด้วยสกิลนี้ +1",
                     "coinlist": [{
                             "coindescs": [{
                                     "desc": "[SuperCoin]"
@@ -1215,7 +1215,7 @@
                 {
                     "level": 4,
                     "name": "คงต้องกล่าวบอกไว้ก่อนว่า E.G.O นั้นเป็นอุปกรณ์ขั้นพื้นฐาน",
-                    "desc": "[StartBattle] เมื่อแพ้การปะทะ, ได้รับ พลังโดยรวม เท่ากับ สกิลที่เล็งตัวผล (มากที่สุด 3)\n[WhenUse] ได้รับ +3 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] เคาท์: สกิลนี้ไม่ ทำสถานะ [Burst] ด้วยผลของมัน\n[DefeatDuel] [Burst] โพเทนซี่ ทำให้ติดed ด้วยสกิลนี้ +2",
+                    "desc": "[StartBattle] เมื่อแพ้การปะทะ, ได้รับ พลังโดยรวม เท่ากับ สกิลที่เล็งตัวผล (มากที่สุด 3)\n[WhenUse] ได้รับ +3 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] อัตรา: สกิลนี้ไม่ ทำสถานะ [Burst] ด้วยผลของมัน\n[DefeatDuel] [Burst] โพเทนซี่ ทำให้ติดed ด้วยสกิลนี้ +2",
                     "coinlist": [{
                             "coindescs": [{
                                     "desc": "[SuperCoin]"
@@ -1243,13 +1243,13 @@
             "levelList": [{
                     "level": 1,
                     "name": "เมื่อวางเทียบกับ E.G.O จาก L Corp. โดยขึ้นอยู่กับระดับของสิ่งผิดปกติแต่ล่ะตัวแล้วนั้น",
-                    "desc": "[WhenUse] ได้รับ +2 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] เคาท์: สกิลนี้ไม่ ทำสถานะ [Burst] เคาท์ ด้วยผลของมัน",
+                    "desc": "[WhenUse] ได้รับ +2 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] อัตรา: สกิลนี้ไม่ ทำสถานะ [Burst] อัตรา ด้วยผลของมัน",
                     "coinlist": [{
                         "coindescs": [{
                                 "desc": "[SuperCoin]"
                             },
                             {
-                                "desc": "[OnSucceedAttack] ทำสถานะ +1 [Burst] เคาท์"
+                                "desc": "[OnSucceedAttack] ทำสถานะ +1 [Burst] อัตรา"
                             }
                         ]
                     }]
@@ -1257,13 +1257,13 @@
                 {
                     "level": 2,
                     "name": "เมื่อวางเทียบกับ E.G.O จาก L Corp. โดยขึ้นอยู่กับระดับของสิ่งผิดปกติแต่ล่ะตัวแล้วนั้น",
-                    "desc": "[StartBattle] เมื่อแพ้การปะทะ, ได้รับ พลังโดยรวม เท่ากับ สกิลที่เล็งตัวผม (มากที่สุด 3)\n[WhenUse] ได้รับ +3 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] เคาท์: สกิลนี้ไม่ ทำสถานะ [Burst] เคาท์ ด้วยผลของมัน\n[DefeatDuel] ทำสถานะ [Burst] เคาท์ ด้วยสกิลนี้ +1",
+                    "desc": "[StartBattle] เมื่อแพ้การปะทะ, ได้รับ พลังโดยรวม เท่ากับ สกิลที่เล็งตัวผม (มากที่สุด 3)\n[WhenUse] ได้รับ +3 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] อัตรา: สกิลนี้ไม่ ทำสถานะ [Burst] อัตรา ด้วยผลของมัน\n[DefeatDuel] ทำสถานะ [Burst] อัตรา ด้วยสกิลนี้ +1",
                     "coinlist": [{
                         "coindescs": [{
                                 "desc": "[SuperCoin]"
                             },
                             {
-                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] เคาท์"
+                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] อัตรา"
                             }
                         ]
                     }]
@@ -1271,13 +1271,13 @@
                 {
                     "level": 4,
                     "name": "เมื่อวางเทียบกับ E.G.O จาก L Corp. โดยขึ้นอยู่กับระดับของสิ่งผิดปกติแต่ล่ะตัวแล้วนั้น",
-                    "desc": "[StartBattle] <style=\"highlight\">เมื่อแพ้การปะทะ, ได้รับ (# ตามจำนวนสกิลที่เล็งตัวผม x 2) พลังโดยรวม (มากที่สุด 6)</style>\n[WhenUse] ได้รับ +4 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] เคาท์: สกิลนี้ไม่ ทำสถานะ [Burst] เคาท์ ด้วยผลของมัน\n[DefeatDuel] ทำสถานะ [Burst] เคาท์ ด้วยสกิลนี้ +2",
+                    "desc": "[StartBattle] <style=\"highlight\">เมื่อแพ้การปะทะ, ได้รับ (# ตามจำนวนสกิลที่เล็งตัวผม x 2) พลังโดยรวม (มากที่สุด 6)</style>\n[WhenUse] ได้รับ +4 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] อัตรา: สกิลนี้ไม่ ทำสถานะ [Burst] อัตรา ด้วยผลของมัน\n[DefeatDuel] ทำสถานะ [Burst] อัตรา ด้วยสกิลนี้ +2",
                     "coinlist": [{
                         "coindescs": [{
                                 "desc": "[SuperCoin]"
                             },
                             {
-                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] เคาท์"
+                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] อัตรา"
                             }
                         ]
                     }]
@@ -1289,10 +1289,10 @@
             "levelList": [{
                     "level": 3,
                     "name": "จักรมีการใข้งานต่างๆที่หลากหลายและแตกต่างมากขึ้น",
-                    "desc": "ทำดาเมจเพิ่ม +0.5% สำหรับทุก 1% HP ที่หายไปจากตัวผม\n[StartBattle] พลังพื้นฐาน +1 สำหรับทุกสกิลที่เล็งมาที่ผม (มากที่สุด 2)\n[WhenUse] ได้รับ 2 [GlowingLantern] (ครั้งเดียว ต่อ เทิร์น)\n[WhenUse] ได้รับ +6 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] เคาท์, สกิลนี้ไม่ ทำสถานะ [Burst] โพเทนซี่ หรือ เคาท์ ด้วยผลของมัน; แต่จะได้รับ พลังพื้นฐาน +1 แทน\n[EndSkill] Heal 30 SP",
+                    "desc": "ทำดาเมจเพิ่ม +0.5% สำหรับทุก 1% HP ที่หายไปจากตัวผม\n[StartBattle] พลังพื้นฐาน +1 สำหรับทุกสกิลที่เล็งมาที่ผม (มากที่สุด 2)\n[WhenUse] ได้รับ 2 [GlowingLantern] (ครั้งเดียว ต่อ เทิร์น)\n[WhenUse] ได้รับ +6 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] อัตรา, สกิลนี้ไม่ ทำสถานะ [Burst] โพเทนซี่ หรือ อัตรา ด้วยผลของมัน; แต่จะได้รับ พลังพื้นฐาน +1 แทน\n[EndSkill] Heal 30 SP",
                     "coinlist": [{
                             "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] เคาท์"
+                                    "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] อัตรา"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] ทำสถานะ 1 [Binding] เทิร์นถัดไป"
@@ -1314,10 +1314,10 @@
                 {
                     "level": 4,
                     "name": "จักรมีการใข้งานต่างๆที่หลากหลายและแตกต่างมากขึ้น",
-                    "desc": "ทำดาเมจเพิ่ม +0.8% สำหรับทุก 1% HP ที่หายไปจากตัวผม\n[StartBattle] พลังพื้นฐาน +1 สำหรับทุกสกิลที่เล็งมาที่ผม (มากที่สุด 3)\n[WhenUse] ได้รับ 3 [GlowingLantern] (ครั้งเดียว ต่อ เทิร์น)\n[WhenUse] ได้รับ +8 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] เคาท์, สกิลนี้ไม่ ทำสถานะ [Burst] โพเทนซี่ หรือ เคาท์ ด้วยผลของมัน; แต่จะได้รับ พลังพื้นฐาน +1 แทน\n[EndSkill] Heal 30 SP",
+                    "desc": "ทำดาเมจเพิ่ม +0.8% สำหรับทุก 1% HP ที่หายไปจากตัวผม\n[StartBattle] พลังพื้นฐาน +1 สำหรับทุกสกิลที่เล็งมาที่ผม (มากที่สุด 3)\n[WhenUse] ได้รับ 3 [GlowingLantern] (ครั้งเดียว ต่อ เทิร์น)\n[WhenUse] ได้รับ +8 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] อัตรา, สกิลนี้ไม่ ทำสถานะ [Burst] โพเทนซี่ หรือ อัตรา ด้วยผลของมัน; แต่จะได้รับ พลังพื้นฐาน +1 แทน\n[EndSkill] Heal 30 SP",
                     "coinlist": [{
                             "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ +3 [Burst] เคาท์"
+                                    "desc": "[OnSucceedAttack] ทำสถานะ +3 [Burst] อัตรา"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] ทำสถานะ 2 [Binding] เทิร์นถัดไป"
@@ -1343,20 +1343,20 @@
             "levelList": [{
                     "level": 1,
                     "name": "อย่างไรก็ตาม การปรับเข้าและหลอมรวมกับอุปกรณ์นั้นอาจมีผลกระทบให้ผู้ใช้ถูกกลืนกินได้",
-                    "desc": "[StartBattle] ได้รับ 2 [GlowingLantern] (ครั้งเดียว ต่อ เทิร์น)\n[WhenUse] ได้รับ +6 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] เคาท์, สกิลนี้ไม่ ทำสถานะ [Burst] เคาท์ ด้วยผลของมัน; แต่จะได้รับ พลังพื้นฐาน +3 แทน",
+                    "desc": "[StartBattle] ได้รับ 2 [GlowingLantern] (ครั้งเดียว ต่อ เทิร์น)\n[WhenUse] ได้รับ +6 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] อัตรา, สกิลนี้ไม่ ทำสถานะ [Burst] อัตรา ด้วยผลของมัน; แต่จะได้รับ พลังพื้นฐาน +3 แทน",
                     "coinlist": [{
                         "coindescs": [{
-                            "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] เคาท์"
+                            "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] อัตรา"
                         }]
                     }]
                 },
                 {
                     "level": 4,
                     "name": "อย่างไรก็ตาม การปรับเข้าและหลอมรวมกับอุปกรณ์นั้นอาจมีผลกระทบให้ผู้ใช้ถูกกลืนกินได้",
-                    "desc": "[StartBattle] ได้รับ 3 [GlowingLantern] (ครั้งเดียว ต่อ เทิร์น)\n[WhenUse] ได้รับ +8 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] เคาท์, สกิลนี้ไม่ ทำสถานะ [Burst] เคาท์ ด้วยผลของมัน; แต่จะได้รับ พลังพื้นฐาน +3 แทน",
+                    "desc": "[StartBattle] ได้รับ 3 [GlowingLantern] (ครั้งเดียว ต่อ เทิร์น)\n[WhenUse] ได้รับ +8 [Aggro] เทิร์นถัดไป\n[WhenUse] ถ้าเป้าหมายมี 15+ [Burst] and 3+ [Burst] อัตรา, สกิลนี้ไม่ ทำสถานะ [Burst] อัตรา ด้วยผลของมัน; แต่จะได้รับ พลังพื้นฐาน +3 แทน",
                     "coinlist": [{
                         "coindescs": [{
-                            "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] เคาท์"
+                            "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] อัตรา"
                         }]
                     }]
                 }
@@ -1440,7 +1440,7 @@
                         },
                         {
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 6+ [Combustion], ทำสถานะ +2 [Combustion] เคาท์ ของเป้าหมาย"
+                                "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 6+ [Combustion], ทำสถานะ +2 [Combustion] อัตรา ของเป้าหมาย"
                             }]
                         }
                     ]
@@ -1464,7 +1464,7 @@
                                     "desc": "ทำ +2.5% ดาเมจเพิ่มอีก สำหรับทุก [Combustion] ของเป้าหมาย (มากที่สุด 30%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 6+ [Combustion], ทำสถานะ +2 [Combustion] เคาท์ ของเป้าหมาย<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 6+ [Combustion], ทำสถานะ +2 [Combustion] อัตรา ของเป้าหมาย<style=\"highlight\"></style>"
                                 }
                             ]
                         }
@@ -1489,7 +1489,7 @@
                                     "desc": "ทำ +<style=\"highlight\">5</style>% ดาเมจเพิ่มอีก สำหรับทุก [Combustion] ของเป้าหมาย (มากที่สุด <style=\"highlight\">60</style>%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 6+ [Combustion], ทำสถานะ +2 [Combustion] เคาท์ ของเป้าหมาย<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 6+ [Combustion], ทำสถานะ +2 [Combustion] อัตรา ของเป้าหมาย<style=\"highlight\"></style>"
                                 }
                             ]
                         }
@@ -1523,7 +1523,7 @@
                                     "desc": "ทำ +2% ดาเมจเพิ่มอีก สำหรับทุก [Combustion] ของเป้าหมาย (มากที่สุด 60%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ Wrath Affinity damage เท่ากับของ [Combustion] โพเทนซี่ ของเป้าหมาย. (มากที่สุด 30) Reduce Target's [Combustion] เคาท์ by 2"
+                                    "desc": "[OnSucceedAttack] ทำสถานะ Wrath Affinity damage เท่ากับของ [Combustion] โพเทนซี่ ของเป้าหมาย. (มากที่สุด 30) Reduce Target's [Combustion] อัตรา by 2"
                                 }
                             ]
                         }
@@ -1553,7 +1553,7 @@
                                     "desc": "ทำ +2% ดาเมจเพิ่มอีก สำหรับทุก [Combustion] ของเป้าหมาย (มากที่สุด 60%)"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ Wrath Affinity damage เท่ากับของ [Combustion] โพเทนซี่ ของเป้าหมาย. (มากที่สุด 30) Reduce Target's [Combustion] เคาท์ by 2"
+                                    "desc": "[OnSucceedAttack] ทำสถานะ Wrath Affinity damage เท่ากับของ [Combustion] โพเทนซี่ ของเป้าหมาย. (มากที่สุด 30) Reduce Target's [Combustion] อัตรา by 2"
                                 }
                             ]
                         }
@@ -1565,7 +1565,7 @@
             "id": 1011204,
             "levelList": [{
                     "level": 1,
-                    "name": "Flame เคาท์er",
+                    "name": "Flame อัตราer",
                     "desc": "[BeforeHit] ได้รับ เกราะ เท่ากับของ [Combustion] ของเป้าหมาย (มากที่สุด 10, ครั้งเดียว ต่อ เทิร์น)",
                     "coinlist": [{
                             "coindescs": [{
@@ -1581,7 +1581,7 @@
                 },
                 {
                     "level": 4,
-                    "name": "Flame เคาท์er",
+                    "name": "Flame อัตราer",
                     "desc": "[BeforeHit] ได้รับ เกราะ เท่ากับของ [Combustion] ของเป้าหมาย (มากที่สุด 15, ครั้งเดียว ต่อ เทิร์น)\n[WhenUse] ถ้าเป้าหมายมี 10+ [Combustion], ทำ +10% more damage",
                     "coinlist": [{
                             "coindescs": [{
