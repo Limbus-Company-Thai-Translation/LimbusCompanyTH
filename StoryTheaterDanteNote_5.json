@@ -6,27 +6,27 @@
     },
     {
       "id": "NestT",
-      "content": "T Corp."
+      "content": "T คอร์ป"
     },
     {
       "id": "NestU",
-      "content": "U Corp."
+      "content": "U คอร์ป"
     },
     {
       "id": "Library",
-      "content": "The Library"
+      "content": "หอสมุด"
     },
     {
       "id": "SevenAsso",
-      "content": "Seven Association"
+      "content": "สมาพันธ์เซเว่น"
     },
     {
       "id": "DebatyAsso",
-      "content": "Devyat' Association"
+      "content": "สมาพันธ์ Devyat"
     },
     {
       "id": "Armory",
-      "content": "Workshops"
+      "content": "เวิร์คช็อป"
     },
     {
       "id": "Outside",
@@ -38,7 +38,7 @@
     },
     {
       "id": "Creature",
-      "content": "Monsters"
+      "content": "มอนสเตอร์"
     },
     {
       "id": "Misc",
@@ -46,7 +46,7 @@
     },
     {
       "id": "Walpurgis",
-      "content": "Walpurgis Night"
+      "content": "คืนวัลเพอกิส"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "City",
-      "content": "The City"
+      "content": "นคร"
     },
     {
       "id": "Limbuscompany",
-      "content": "Limbus Company"
+      "content": "ลิมบัส คอมพานี"
     },
     {
       "id": "LCB",
@@ -18,11 +18,11 @@
     },
     {
       "id": "Nest",
-      "content": "The Nests"
+      "content": "รัง"
     },
     {
       "id": "Sinner",
-      "content": "Sinners"
+      "content": "คนบาป"
     },
     {
       "id": "Wings",
@@ -30,19 +30,19 @@
     },
     {
       "id": "NestK",
-      "content": "K Corp."
+      "content": "K คอร์ป"
     },
     {
       "id": "NestN",
-      "content": "N Corp."
+      "content": "N คอร์ป"
     },
     {
       "id": "NestL",
-      "content": "L Corp."
+      "content": "L คอร์ป"
     },
     {
       "id": "Backstreet",
-      "content": "The Backstreets"
+      "content": "แบ็คสตรีทส์"
     },
     {
       "id": "Swordgroup",
@@ -50,7 +50,7 @@
     },
     {
       "id": "Kurokumo",
-      "content": "The Kurokumo Clan"
+      "content": "ตระกูลคุโรคุโมะ"
     },
     {
       "id": "Personality",
@@ -62,15 +62,15 @@
     },
     {
       "id": "Tech",
-      "content": "The City’s Technology"
+      "content": "เทคโนโลยีของนคร"
     },
     {
       "id": "Organization",
-      "content": "Syndicate"
+      "content": "ซินดิเคท"
     },
     {
       "id": "Fixer",
-      "content": "Fixers"
+      "content": "ฟิกเซอร์"
     },
     {
       "id": "Goldenbranch",
