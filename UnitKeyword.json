@@ -2,143 +2,143 @@
   "dataList": [
     {
       "id": "UnitKeyword_BLADE_LINEAGE",
-      "content": "Blade Lineage"
+      "content": "วงศ์ใบดาบ"
     },
     {
       "id": "UnitKeyword_BLACK_CLOUD",
-      "content": "Kurokumo Clan"
+      "content": "ตระกูลคุโรคุโมะ"
     },
     {
       "id": "UnitKeyword_YURODIVY",
-      "content": "Yurodiviye"
+      "content": "ยูโรดีวีย์"
     },
     {
       "id": "UnitKeyword_MACHINE_BOUND_ORGANISM",
-      "content": "Mechanical Amalgam"
+      "content": "สิ่งมีชีวิตจักรกล"
     },
     {
       "id": "UnitKeyword_ON_THE_LAKE",
-      "content": "Lake Entity"
+      "content": "สิ่งมีชีวิตในทะเลสาบ"
     },
     {
       "id": "UnitKeyword_N_CORP",
-      "content": "N Corp."
+      "content": "N คอร์ป"
     },
     {
       "id": "UnitKeyword_K_CORP",
-      "content": "K Corp."
+      "content": "K คอร์ป"
     },
     {
       "id": "UnitKeyword_G_CORP",
-      "content": "G Corp."
+      "content": "G คอร์ป"
     },
     {
       "id": "UnitKeyword_W_CORP",
-      "content": "W Corp."
+      "content": "W คอร์ป"
     },
     {
       "id": "UnitKeyword_R_CORP",
-      "content": "R Corp."
+      "content": "R คอร์ป"
     },
     {
       "id": "UnitKeyword_T_CORP",
-      "content": "T Corp."
+      "content": "T คอร์ป"
     },
     {
       "id": "UnitKeyword_SEVEN",
-      "content": "Seven Association"
+      "content": "สมาพันธ์เซเว่น"
     },
     {
       "id": "UnitKeyword_CINQ",
-      "content": "Cinq Association"
+      "content": "สมาพันธ์ซึงค์"
     },
     {
       "id": "UnitKeyword_ZWEI",
-      "content": "Zwei Association"
+      "content": "สมาพันธ์ซไวล์"
     },
     {
       "id": "UnitKeyword_LIU",
-      "content": "Liu Association"
+      "content": "สมาพันธ์ลิ่ว"
     },
     {
       "id": "UnitKeyword_SHI",
-      "content": "Shi Association"
+      "content": "สมาพันธ์ชิ"
     },
     {
       "id": "UnitKeyword_DIECI",
-      "content": "Dieci Association"
+      "content": "สมาพันธ์เดียชิ"
     },
     {
       "id": "UnitKeyword_OUFI",
-      "content": "Öufi Association"
+      "content": "สมาพันธ์ Öufi "
     },
     {
       "id": "UnitKeyword_TROUBLE_SHOOTER",
-      "content": "Rosespanner Workshop"
+      "content": "โรสสแปนเนอร์ เวิร์คชอป"
     },
     {
       "id": "UnitKeyword_ATL",
-      "content": "Technology Liberation Alliance"
+      "content": "พันธมิตรปลดแอกเทคโนโลยี"
     },
     {
       "id": "UnitKeyword_MOLAR",
-      "content": "Molar Office"
+      "content": "โมลาร์ ออฟฟิศ"
     },
     {
       "id": "UnitKeyword_MIDDLE_FINGER",
-      "content": "The Middle"
+      "content": "มิดเดิล"
     },
     {
       "id": "UnitKeyword_RING_FINGER",
-      "content": "The Ring"
+      "content": "ริง"
     },
     {
       "id": "UnitKeyword_PEQUOD_CREW",
-      "content": "The Pequod"
+      "content": "เรือพีควอด"
     },
     {
       "id": "UnitKeyword_WUTHERING_HEIGHTS",
-      "content": "Wuthering Heights"
+      "content": "วูทเธอริง ไฮทส์"
     },
     {
       "id": "UnitKeyword_DEAD_RABBITS",
-      "content": "The Dead Rabbits"
+      "content": "แก๊งเดด แรบบิทส์"
     },
     {
       "id": "UnitKeyword_WILD_HUNT",
-      "content": "The Wild Hunt"
+      "content": "ไวล์ ฮันท์"
     },
     {
       "id": "UnitKeyword_LIMBUS_COMPANY",
-      "content": "Limbus Company"
+      "content": "ลิมบัส คอมพานี"
     },
     {
       "id": "UnitKeyword_KONG_KONG",
-      "content": "Tingtang Gang"
+      "content": "แก๊งติงแตง"
     },
     {
       "id": "UnitKeyword_MARIACHI",
-      "content": "Los Mariachis"
+      "content": "ลอส มาริอาชิส์"
     },
     {
       "id": "UnitKeyword_HOOK_OFFICE",
-      "content": "Hook Office"
+      "content": "ฮุค ออฟฟิศ"
     },
     {
       "id": "UnitKeyword_DUAL_HOOK_PIRATE",
-      "content": "Twinhook Pirates"
+      "content": "โจรสลัดทวินฮุค"
     },
     {
       "id": "UnitKeyword_DAWN",
-      "content": "Dawn Office"
+      "content": "ดอว์น ออฟฟิศ"
     },
     {
       "id": "UnitKeyword_MULTI_CRACK",
-      "content": "MultiCrack Office"
+      "content": "มัลทิแครก ออฟฟิศ"
     },
     {
       "id": "UnitKeyword_BACKSTREET_COOK",
-      "content": "R.B."
+      "content": "ร.ภ."
     },
     {
       "id": "UnitKeyword_TIEQIU",
@@ -146,23 +146,23 @@
     },
     {
       "id": "UnitKeyword_LINTON",
-      "content": "Edgar Family"
+      "content": "ตระกูลเอ็ดการ์"
     },
     {
       "id": "UnitKeyword_LOBOTOMY_HEAD",
-      "content": "Lobotomy Corp. Headquarters"
+      "content": "ศูนย์ใหญ่ โลโบโตมี คอร์ป"
     },
     {
       "id": "UnitKeyword_LOBOTOMY_BRANCH",
-      "content": "Lobotomy Corp. Branch"
+      "content": "โลโบโตมี คอร์ป สายาย่อย"
     },
     {
       "id": "UnitKeyword_FIXER",
-      "content": "Fixer"
+      "content": "ฟิกเซอร์"
     },
     {
       "id": "UnitKeyword_CLAN",
-      "content": "Syndicate"
+      "content": "ซินดิเคท"
     },
     {
       "id": "UnitKeyword_WHITE_PARASITE",
@@ -170,19 +170,19 @@
     },
     {
       "id": "UnitKeyword_N_CORP_FNATIC",
-      "content": "N Corp. Fanatic"
+      "content": "สาวกคลั่ง N คอร์ป"
     },
     {
       "id": "UnitKeyword_BACK_STREET",
-      "content": "The Backstreets"
+      "content": "แบ็คสตรีทส์"
     },
     {
       "id": "UnitKeyword_DEVYAT",
-      "content": "Devyat' Association"
+      "content": "สมาพันธ์เดเวียท"
     },
     {
       "id": "UnitKeyword_LA_MANCHA_LAND",
-      "content": "La Manchaland"
+      "content": "ลา มันชาแลนด์"
     },
     {
       "id": "UnitKeyword_LIMBUS_COMPANY_LCE",

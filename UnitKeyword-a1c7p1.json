@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "UnitKeyword_BLOODBAG",
-      "content": "Bloodbag"
+      "content": "ถุงโลหิต"
     },
     {
       "id": "UnitKeyword_BLOODFIEND",
-      "content": "Bloodfiend"
+      "content": "อสูรโลหิต"
     },
     {
       "id": "UnitKeyword_THIRD_DEPENDENT",
-      "content": "Third Kindred"
+      "content": "Kindred รุ่นสาม"
     },
     {
       "id": "UnitKeyword_DEPENDENT",
@@ -18,11 +18,11 @@
     },
     {
       "id": "UnitKeyword_FANG_HUNT",
-      "content": "Fanghunt Office"
+      "content": "แฟงก์ฮันท์ ออฟฟิศ"
     },
     {
       "id": "UnitKeyword_FULL_STOP",
-      "content": "Full-Stop Office"
+      "content": "ฟลู สต็อป ออฟฟิศ"
     }
   ]
 }
