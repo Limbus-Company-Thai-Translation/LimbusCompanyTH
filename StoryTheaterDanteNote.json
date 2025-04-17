@@ -10,11 +10,11 @@
     },
     {
       "id": "LCB",
-      "content": "หน่วย LCB"
+      "content": "แผนก LCB"
     },
     {
       "id": "LCC",
-      "content": "หน่วย LCC"
+      "content": "แผนก LCC"
     },
     {
       "id": "Nest",
@@ -46,7 +46,7 @@
     },
     {
       "id": "Swordgroup",
-      "content": "The Blade Lineage"
+      "content": "วงค์ตระกูลใบดาบ"
     },
     {
       "id": "Kurokumo",
@@ -54,7 +54,7 @@
     },
     {
       "id": "Personality",
-      "content": "Identities"
+      "content": "ตัวตน"
     },
     {
       "id": "Ego",
