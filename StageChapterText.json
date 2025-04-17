@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "chapter_d_100",
-      "company": "D Corp",
+      "company": "D Corp.",
       "area": "เขตที่ 4",
       "chapter": "บทนำ",
       "chapterNumber": "00",
@@ -11,7 +11,7 @@
     },
     {
       "id": "chapter_d_101",
-      "company": "D Corp",
+      "company": "D Corp.",
       "area": "เขตที่ 4",
       "chapter": "Canto I",
       "chapterNumber": "01",
@@ -20,7 +20,7 @@
     },
     {
       "id": "chapter_j_102",
-      "company": "J Corp",
+      "company": "J Corp.",
       "area": "เขตที่ 10",
       "chapter": "Canto II",
       "chapterNumber": "02",
@@ -29,7 +29,7 @@
     },
     {
       "id": "chapter_k_103",
-      "company": "K Corp",
+      "company": "K Corp.",
       "area": "เขตที่ 11",
       "chapter": "Canto III",
       "chapterNumber": "03",
@@ -38,7 +38,7 @@
     },
     {
       "id": "chapter_k_9103",
-      "company": "K Corp",
+      "company": "K Corp.",
       "area": "เขตที่ 11",
       "chapter": "Intervallo I",
       "chapterNumber": "3.5",
@@ -47,7 +47,7 @@
     },
     {
       "id": "chapter_k_104",
-      "company": "K Corp",
+      "company": "K Corp.",
       "area": "เขตที่ 11",
       "chapter": "Canto IV",
       "chapterNumber": "04",
@@ -56,7 +56,7 @@
     },
     {
       "id": "chapter_u_9104",
-      "company": "U Corp",
+      "company": "U Corp.",
       "area": "เขตที่ 21",
       "chapter": "Intervallo II",
       "chapterNumber": "4.5",
@@ -65,7 +65,7 @@
     },
     {
       "id": "chapter_u_105",
-      "company": "U Corp",
+      "company": "U Corp.",
       "area": "เขตที่ 21",
       "chapter": "Canto V",
       "chapterNumber": "05",
@@ -74,7 +74,7 @@
     },
     {
       "id": "chapter_u_9105",
-      "company": "U Corp",
+      "company": "U Corp.",
       "area": "เขตที่ 21",
       "chapter": "Intervallo III",
       "chapterNumber": "5.5",
@@ -83,7 +83,7 @@
     },
     {
       "id": "chapter_u_9106",
-      "company": "U Corp",
+      "company": "U Corp.",
       "area": "เขตที่ 21",
       "chapter": "",
       "chapterNumber": "",
