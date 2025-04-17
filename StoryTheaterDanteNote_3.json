@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "NestW",
-      "content": "W Corp"
+      "content": "W Corp."
     },
     {
       "id": "PersonalitySync",
@@ -18,7 +18,7 @@
     },
     {
       "id": "NestR",
-      "content": "R Corp"
+      "content": "R Corp."
     }
   ]
 }
