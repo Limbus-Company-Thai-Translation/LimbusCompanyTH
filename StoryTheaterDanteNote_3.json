@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "NestW",
-      "content": "W Corp."
+      "content": "W คอร์ป"
     },
     {
       "id": "PersonalitySync",
@@ -10,15 +10,15 @@
     },
     {
       "id": "AbnormalityInterpret",
-      "content": "Threadspinning"
+      "content": "การปั่นด้าย"
     },
     {
       "id": "PersonalityUpgrade",
-      "content": "Upgrading Identities"
+      "content": "การอัปเกรด Identities"
     },
     {
       "id": "NestR",
-      "content": "R Corp."
+      "content": "R คอร์ป"
     }
   ]
 }
