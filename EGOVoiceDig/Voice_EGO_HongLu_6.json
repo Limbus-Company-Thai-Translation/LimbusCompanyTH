@@ -53,17 +53,17 @@
     {
       "id": "battle_erosion_20606_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ร้องไห้ไปกับผมเถอะ...ร้องจนตัวจะแตกไปเลย"
+      "dlg": "ร้องไห้ไปกับผมเถอะ...ร้องกว่าจนตัวจะแตกไปเลย"
     },
     {
       "id": "battle_awaken_20607_1",
       "desc": "E.G.O Activation",
-      "dlg": "Run along the flow and voilà~ There you are!"
+      "dlg": "ไหลไปตามใจและวาล่า~ คุณอยู่นี่เอง!"
     },
     {
       "id": "battle_erosion_20607_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Hahah! Gotcha~! This is what happens when\nyou don't know your place and run away, fugitive."
+      "dlg": "ฮะฮ่า! ได้ตัวแล้ว~! นี่คือสิ่งที่จะเกิดขึ้น\nถ้าคุณไม่รู้จักที่ของตัวเองแล้วหนีนะ, ผู้หลบหนี"
     }
   ]
 }
