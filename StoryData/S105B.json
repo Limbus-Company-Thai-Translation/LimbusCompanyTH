@@ -2,264 +2,264 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Some Backstreets of District 4",
+      "place": "ซักเเห่งใน Backstreets เขต 4",
       "model": "베르길리우스",
-      "content": "Hey! That’s enough of that. We’re expecting a guest any time now."
+      "content": "เฮ้ย! พอเเค่นั้นเเหละ อีกไม่ช้าเดี๋ยวพวกเราก็จะเจอกับเเขกของเราเเล้ว"
     },
     {
       "id": 1,
-      "content": "Vergilius said, poking his head out the window."
+      "content": "เวอร์จิลิอุสพูดออกมาในขณะที่เขาโผล่หัวออกมาทางหน้าต่าง"
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "<A guest? Who?>"
+      "content": "<เเขกหรอ? ใครกัน?>"
     },
     {
       "id": 3,
       "model": "파우스트",
-      "content": "I’ve determined that we’ll need a guide as this is our first trip to a dungeon."
+      "content": "ฉันตัดสินใจว่าพวกเราต้องการผู้นำทางเนื่องจากนี้จะเป็นครั้งเเรกที่พวกเราจะเดินทางสู่ดันเจี้ยนค่ะ"
     },
     {
       "id": 4,
       "model": "유리",
-      "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Excuse me… Are you the people from Limbus Company?"
+      "teller": "ยูริ",
+      "title": "ฟิกเซอร์ระดับ 8",
+      "content": "ขอโทษทีนะคะ… พวกคุณเป็นคนจาก Limbus Company ใช่ไหมคะ?"
     },
     {
       "id": 5,
-      "content": "Someone approaches us slowly."
+      "content": "มีใครสักคนกำลังมุ่งหน้ามาที่เราอย่างช้าๆ"
     },
     {
       "id": 6,
       "model": "유리",
-      "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Looks like it…"
+      "teller": "ยูริ",
+      "title": "ฟิกเซอร์ระดับ 8",
+      "content": "น่าจะใช่นะ…"
     },
     {
       "id": 7,
-      "content": "The bus had just about finished its meal, crunching on the last remaining bone chips."
+      "content": "ในช่วงนั้น รถบัสเพิ่งจากทานอาหารเสร็จ กำลังหม่ำเศษกระดูกที่เหลืออยู่"
     },
     {
       "id": 8,
-      "place": "Aboard Mephistopheles",
-      "content": "Yuri watched it indifferently before introducing herself."
+      "place": "บน เมฟิสโตเฟเลส",
+      "content": "ยูริมองดูอย่างไม่สนใจก่อนที่เธอจะเเนะนำตัว"
     },
     {
       "id": 9,
       "model": "유리",
-      "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "I’m Yuri, a former employee of the previous L Corp. I look forward to working with you."
+      "teller": "ยูริ",
+      "title": "ฟิกเซอร์ระดับ 8",
+      "content": "ฉันชื่อยูริค่ะ เป็นอดีตพนักงานของ L คอร์ปก่อนหน้านี้ ยินดีที่ได้ร่วมงานค่ะ"
     },
     {
       "id": 10,
       "model": "단테",
-      "content": "<By L Corp, do you mean…>"
+      "content": "<L คอร์ปที่ว่านี่ หมายถึง…>"
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "Has to be Lobotomy Corporation."
+      "content": "น่าจะหมายถึง Lobotomy Corporation นะ"
     },
     {
       "id": 12,
       "model": "파우스트",
-      "content": "That’s right, we will explore the former branch facilities of Lobotomy Corporation—also called the old L Corp."
+      "content": "ถูกต้องค่ะ พวกเราจะไปสำรวจสาขาเเยกของ Lobotomy Corporation—หรือรู้จักกันในชื่อ L คอร์ปเก่าค่ะ"
     },
     {
       "id": 13,
       "model": "이스마엘",
-      "content": "If I were you, I wouldn’t have taken part in this."
+      "content": "ถ้าฉันเป็นเธอล่ะก็ ฉันคงไม่อยากเข้าไปสำรวจหรอก"
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "Being a fallen Wing and everything, I doubt your employment ended on pleasant terms."
+      "content": "เป็นทั้งปีกที่ล่มสลายไปอะไรต่ออะไร ฉันสงสัยเลยเกินว่าการจ้างงานจะจบในเงื่อนไขที่สวยไหม"
     },
     {
       "id": 15,
       "model": "로쟈",
-      "content": "What’re you on about? Any point in your life can be pleasant as long as you’ve money to spend."
+      "content": "พูดเรื่องไรของเธอเนี่ย? ในช่วงเวลาชีวิตไหนก็สวยงามหมดตราบเท่าที่มีเงินจ่ายอ่ะนะ"
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "Hrm, I heard those places are still teeming with monsters to this day…"
+      "content": "เฮ้อ ได้ยินข่าวลืออยู่เลยว่าทุกวันนี้ ที่ตรงนั้นยังเต็มไปด้วยสัตว์ประหลาดอยู่เลย…"
     },
     {
       "id": 17,
       "model": "파우스트",
-      "content": "Not “monsters”, Abnormalities. The rumors are true, either way. But there are more important matters."
+      "content": "ไม่ใช่ “สัตว์ประหลาดค่ะ” เเต่คือเหล่า Abnormalities ค่ะ เเละข่าวลือนั้นเป็นเรื่องจริงค่ะ ยังไงก็ตามเเต่ เรามีเรื่องที่สำคัญกว่าค่ะ"
     },
     {
       "id": 18,
       "model": "파우스트",
-      "content": "In the deepest reaches of these branches are neoplastic plantlike growths holding the essence of L Corp’s technology."
+      "content": "ในส่วนที่ลึกที่สุดของสาขาพวกนี้มีพืชที่มีลักษณะคล้ายนีโอพลาสติกเติบโตออกมา ซึ่งพืชนั้นถือสสารที่สำคัญต่อเทคโนโลยีของ L คอร์ปไว้ค่ะ"
     },
     {
       "id": 19,
       "model": "베르길리우스",
-      "content": "Dante, if you remember, I believe I offered to let you finish engraving your Aspect a few days ago."
+      "content": "ดันเต้ ถ้ายังจำได้อยู่ล่ะก็ ผมเชื่อว่าผมยื่นข้อเสนอให้คุณเเกะสลักรูปลักษณ์ในเมื่อไม่กี่วันที่ผ่านมา"
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "With the essence… those Golden Boughs in our hands, it’ll be as easy as pie."
+      "content": "ด้วยสสารนั้น… เเละพวกกิ่งทองล่ะก็ จะสามารถสลักได้ง่ายเหมือนปอกกล้วยเข้าปากเลยล่ะ"
     },
     {
       "id": 21,
-      "content": "The word ‘Aspect’ still makes my head ache."
+      "content": "คำว่า ‘รูปลักษณ์’ นั้นยังคงทำให้หัวฉันปวดอยู่"
     },
     {
       "id": 22,
-      "content": "What was ‘I’ trying to do?"
+      "content": "ในตอนนั้น ‘ฉัน’ พยายามจะทำอะไรกันเเน่นะ?"
     },
     {
       "id": 23,
       "model": "파우스트",
-      "content": "There’s no need to rouse your brain trying to remember what you can’t. It’ll all come back in due time."
+      "content": "ไม่ต้องคุ้ยสมองเพื่อเรียกความทรงจำในสิ่งที่จำไม่ได้หรอกค่ะ เดี๋ยวพอถึงเวลา มันก็จะกลับมาเองค่ะ"
     },
     {
       "id": 24,
-      "content": "I returned a slow nod to Faust’s placid advice."
+      "content": "ฉันพยักหน้าตอบคำเเนะนำอันสงบของเฟาสท์อย่างช้าๆ"
     },
     {
       "id": 25,
-      "content": "Alright, for now, I should focus on what I currently know and see."
+      "content": "เอาล่ะ ในตอนนี้ ฉันควรจะจดจ่อกับสิ่งที่ฉันรู้เเละเห็นก็พอเเล้ว"
     },
     {
       "id": 26,
       "model": "단테",
-      "content": "<And if it’s Lobotomy Corp we’re scouring… we might find some Enkephalin, too.>"
+      "content": "<เเละถ้าเรากำลังจะเข้าไปตระเวนใน Lobotomy Corp ล่ะก็… เราก็อาจจะเจอเอนเคฟาลีนด้วยสินะ>"
     },
     {
       "id": 27,
       "model": "싱클레어",
-      "content": "Oh, does that mean we won’t have to… feed people into our vehicle?"
+      "content": "ง-งั้นหมายความว่าเราก็ไม่ต้องเอาคนมาเป็นอาหารให้กับรถบัสเเล้วสินะครับ?"
     },
     {
       "id": 28,
       "model": "이스마엘",
-      "content": "We could also grab some E.G.O if we’re lucky, so that’s three rats with one stone."
+      "content": "ถ้าโชคดีพอ พวกเราอาจจะได้ E.G.O ติดกลับมาด้วย ก็เหมือนยิงปืนนัดเดียว ได้นกสามหัวนั้นเเหละ"
     },
     {
       "id": 29,
-      "content": "E.G.O? That’s another unknown term that makes my head tilt…"
+      "content": "E.G.O? เป็นอีกหนึ่งคำที่ฉันเอียงหัวไม่รู้จักเลย…"
     },
     {
       "id": 30,
-      "content": "But in any case, it seemed rather rude to keep talking to each other when we had a guest on board."
+      "content": "ยังไงก็ตาม คงจะเสียมารยาทน่าดูถ้าเรามัวเเต่คุยกันเองในขณะที่มีเเขกอยู่บนรถด้วย"
     },
     {
       "id": 31,
-      "content": "…And someone else seemed to agree."
+      "content": "…เเละใครบางคนก็ดูจะเห็นด้วยกับเรา"
     },
     {
       "id": 32,
       "model": "그레고르",
-      "content": "So, Miss Yuri, what’ve you been up to since the layoff?"
+      "content": "เเล้ว คุณยูริ ไปอยู่ไหนมาหลังจากบริษัทเลิกจ้างเเล้วนะครับ?"
     },
     {
       "id": 33,
-      "content": "Gregor gave his best shot at making some conversation with a well-meaning smile to put the newest passenger at ease."
+      "content": "เกรกอร์พยายามอย่างดีที่สุดที่จะพูดคุยกับผู้โดยสารคนใหม่ของเราด้วยรอยยิ้มที่จริงใจเเละเป็นมิตร"
     },
     {
       "id": 34,
-      "content": "His brows seemed to twitch due to a lack of practice, but it’s no big deal."
+      "content": "ถึงคิ้วของเขาอาจจะกระตุกเนื่องจากขาดทักษะการพูดคุย เเต่ก็ไม่ได้เป็นเรื่องใหญ่อะไร"
     },
     {
       "id": 35,
       "model": "돈키호테",
-      "content": "It appears to me that thou art an honorable Fixer! It is said that all Fixers exude the noble scent of heroes!"
+      "content": "ดูประหนึ่งว่าท่านคือฟิกเซอร์ผู้เยี่ยมยศ! ว่ากันว่าเหล่าฟิกเซอร์ทั้งหลายนั้นล้วนมีกลิ่นอายที่สูงส่งดั่งวีรชนเลยค่ะ!"
     },
     {
       "id": 36,
-      "content": "As Yuri was nodding lightly, I heard Ishmael let out a deep sigh."
+      "content": "อิชมาเอลก็ถอนหายใจยกใหญ่ ในขณะที่ยูริก็พยักหน้าให้เล็กน้อย"
     },
     {
       "id": 37,
       "model": "이스마엘",
-      "content": "I don’t know who gave you that idea, but Fixers are anything but noble or heroic. The only scent you’ll smell is the miserable stink of wage slaves."
+      "content": "ไม่รู้อะไรทำให้เธอคิดอย่างนั้นนะ เเต่เหล่าฟิกเซอร์นั้นไม่ได้มีเกียรติหรือเป็นดังวีรบุรุษหรอก สิ่งเดียวที่ฟิกเซอร์เป็นคือเเรงงานรับจ้างที่ทำงานสกปรกเท่านั้นล่ะ"
     },
     {
       "id": 38,
       "model": "그레고르",
-      "content": "…It couldn’t have been easy to find another job so soon. Good that you’re holding up."
+      "content": "…คงไม่ง่ายเลยที่เธอจะหางานอื่นได้เร็วขนาดนี้นะ ดีที่เธอยังเลี้ยงชีพตัวเองได้นะ"
     },
     {
       "id": 39,
       "model": "유리",
-      "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "For now… I’m just a contract worker."
+      "teller": "ยูริ",
+      "title": "ฟิกเซอร์ระดับ 8",
+      "content": "ในตอนนี้… ฉันก็เป็นเพียงพนักงานตามสัญญาจ้างค่ะ"
     },
     {
       "id": 40,
       "model": "이스마엘",
-      "content": "Aha. That explains why you decided to crawl on back there."
+      "content": "อ่าหะ คงอธิบายว่าทำไมตอนนั้นเธอถึงเลือกที่จะคลานไปข้างหลังนั้นสินะ"
     },
     {
       "id": 41,
       "model": "이스마엘",
-      "content": "Did they promise to promote you to team leader or something if you struck gold in your former workplace?"
+      "content": "พวกเขาสัญญาว่าจะเลื่อนตำเเหน่งเธอขึ้นเป็นหัวหน้าทีมหรืออะไรทำนองนั้นหรอ ถ้าเธอประสบความสำเร็จในที่ทำงานของเธอนะ?"
     },
     {
       "id": 42,
       "model": "유리",
-      "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…My contracts might get extended if I return with results."
+      "teller": "ยูริ",
+      "title": "ฟิกเซอร์ระดับ 8",
+      "content": "…สัญญาว่าจ้างฉันอาจจะได้ขยายเวลาถ้าฉันกลับมาพร้อมกับผลลัพธ์ที่พึงพอใจค่ะ"
     },
     {
       "id": 43,
       "model": "그레고르",
-      "content": "R—Right. A good result is something to risk your life for if you want to earn a permanent spot."
+      "content": "อ—อ่า ผลลัพธ์ที่ดีเป็นสิ่งที่เธอต้องเสี่ยงชีวิตตัวเองอยู่เเล้ว ถ้าอยากจะให้ตัวเองคงอยู่ในตำเเหน่งนั้นนะ"
     },
     {
       "id": 44,
       "model": "이스마엘",
-      "content": "Ha, and what a futile life that is."
+      "content": "หึ เเล้วก็ช่างเป็นชีวิตที่ไร้ค่าสิ้นดีนัก"
     },
     {
       "id": 45,
       "model": "그레고르",
-      "content": "(Hey, what’s with the sarcasm? Is something a problem?)"
+      "content": "(เห้ย ประชดประชันทำไมเล่า? มีปัญหาอะไรหรือไง?)"
     },
     {
       "id": 46,
       "model": "이스마엘",
-      "content": "…I dunno, I have a problem with every single thing I’m hearing right now. "
+      "content": "…ไม่รู้สิ ฉันมีปัญหากับทุกสิ่งทุกอย่างที่ฉันกำลังได้ฟังอยู่เนี่ย "
     },
     {
       "id": 47,
-      "content": "Seemingly unaffected by the abrasive attitude, Yuri quietly took an empty seat."
+      "content": "ยูริได้นั่งลงไปตรงที่ว่างอย่างเงียบๆ ไม่สะทกสะท้านต่อทัศนคติอันหยาบคายของเธอ"
     },
     {
       "id": 48,
-      "content": "Looking back and forth between the two, Gregor returned to his seat as well, scratching his head."
+      "content": "เกรกอร์มองกลับไปกลับมาระหว่างทั้งสองคน ก่อนที่กลับไปนั่งเกาหัวในที่ของเขาเช่นกัน"
     },
     {
       "id": 49,
       "model": "단테",
-      "content": "<I… can’t seem to get used to being around these people.>"
+      "content": "<ฉัน…ไม่ชินกับการอยู่เคียงข้างพวกคนเหล่านี้เลย>"
     },
     {
       "id": 50,
       "model": "베르길리우스",
-      "content": "It will be beneficial for you to adapt to them sooner than later, Dante."
+      "content": "จะเป็นประโยชน์ถ้าปรับตัวให้คุ้นชินกับพวกนั้นโดยเร็วนะ ดันเต้"
     },
     {
       "id": 51,
       "model": "베르길리우스",
-      "content": "…Charon, time to go. Our guest has taken her seat."
+      "content": "…คารอน ไปได้ เเขกของเราได้นั่งที่เรียบร้อยเเล้ว"
     },
     {
       "id": 52,
       "model": "카론",
-      "content": "Mephi’s tum revived. Charon’s raring to drive."
+      "content": "ท้องเมฟิอิ่มเเล้ว คารอนอยากขับรถใจจะขาดเเล้วค่ะ"
     }
   ]
 }

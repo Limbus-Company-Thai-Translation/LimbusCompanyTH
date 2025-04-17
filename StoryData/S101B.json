@@ -6,30 +6,30 @@
     },
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "บน เมฟิสโตเฟเลส",
       "model": "카론",
-      "content": "Verg."
+      "content": "เวิร์ก"
     },
     {
       "id": 1,
       "model": "카론",
-      "content": "Blockage ahead. Permission to vroom-vroom?"
+      "content": "ข้างหน้ามีสิ่งขีดขวาง ขออนุญาตบรึ่น-บรึ้นได้ไหมคะ?"
     },
     {
       "id": 2,
-      "content": "The chatter was what finally got me to open my eyes."
+      "content": "เสียงพูดคุยนั้นทำให้ฉันลืมตาตื่นขึ้นมา"
     },
     {
       "id": 3,
-      "content": "After all, nothing beats blocking out your sight when you want to keep boredom at bay."
+      "content": "อย่างน้อย ไม่มีสิ่งใดดีกว่าปิดตาหลับไปเมื่อต้องทนทุกข์กับความเบื่อหน่ายเเบบนี้"
     },
     {
       "id": 4,
-      "content": "Not that there was much else to do on a bus whose destination was unknown to me…"
+      "content": "ก็ไม่มีอะไรให้ทำบนรถนี่ อีกอย่างฉันยังไม่รู้เลยว่าจะไปที่ไหนด้วยซ้ำ…"
     },
     {
       "id": 5,
-      "content": "My lack of head and memories certainly don’t help, either."
+      "content": "หัวใหม่เเละความทรงจำที่หายไปของฉันก็ไม่ช่วยอะไรเลย"
     },
     {
       "id": 6,
@@ -39,81 +39,81 @@
     {
       "id": 7,
       "model": "베르길리우스",
-      "content": "Alright, let’s proceed."
+      "content": "เอาล่ะ ไปกันเถอะ"
     },
     {
       "id": 8,
       "model": "카론",
-      "content": "Ok. Here come bumpity-bumps."
+      "content": "โอเค รถจะบึ๋มบั๋มหน่อยนะคะ"
     },
     {
       "id": 9,
       "model": "카론",
-      "content": "Expensive washer fluid. Verg said he paid a fortune."
+      "content": "น้ำยาฉีดกระจกค่ะ เห็นเวิร์กบอกจ่ายมาค่อนข้างเเพง"
     },
     {
       "id": 10,
-      "content": "The clumps stuck to the window gently dissolve, letting light through."
+      "content": "ก้อนเนื้อที่ติดอยู่ค่อยๆจางหายไปจนเเสงสามารถส่องผ่านมาได้"
     },
     {
       "id": 11,
-      "content": "Many different sets of eyes on the bus are lethargically facing forward."
+      "content": "ในขณะที่หลายสายตาบนรถบัสมองตรงมาด้วยความเฉื่อยชา"
     },
     {
       "id": 12,
-      "content": "It felt like a pretty gruesome scene, but based on the others’ reactions, maybe this kind of violence is common in the City."
+      "content": "มันดูเป็นฉากที่สยดสยองพอตัว เเต่จากปฎิกิริยาของคนอื่นเเล้ว ความรุนเเรงเเบบนี้คงเป็นเรื่องธรรมดาในนครเเห่งนี้"
     },
     {
       "id": 13,
       "model": "단테",
-      "content": "<Hey…>"
+      "content": "<นี่…>"
     },
     {
       "id": 14,
-      "content": "It felt rather awkward to close my eyes again now that I was wide awake. That’s when the conspicuously bearded man grabbed my attention."
+      "content": "คงรู้สึกเเปลกที่จะหลับตาต่อถ้าฉันตื่นจนตาสว่างเเล้ว นั้นคือตอนที่ฉันเห็นชายมีเคราซึ่งดึงดูดความสนใจของฉัน"
     },
     {
       "id": 15,
       "model": "단테",
-      "content": "<Bu― I mean, Glasses. Know where we’re going right now?>"
+      "content": "<เเมล― ไม่สิ คุณเเว่น รู้หรือเปล่าว่าเรากำลังไปไหนกัน?>"
     },
     {
       "id": 16,
-      "content": "…A feature far more conspicuous than his beard made me slip."
+      "content": "…เผลอเกือบพูดลักษณะสุดเด่นเหนือเคราของเขาออกไป"
     },
     {
       "id": 17,
       "model": "그레고르",
-      "content": "…You almost called me “bug guy”, didn’t you?"
+      "content": "…เกือบเรียกฉันว่า “มนุษย์เเมลง” เเล้วใช่ไหมล่ะ?"
     },
     {
       "id": 18,
       "model": "그레고르",
-      "content": "Once again, my name is Gregor."
+      "content": "อีกอย่าง ผมชื่อว่าเกรกอร์"
     },
     {
       "id": 19,
       "model": "그레고르",
-      "content": "The same way you’re called Dante and not clockface."
+      "content": "เหมือนกับที่ฉันเรียกนายว่าดันเต้ ไม่ใช่ไอหัวนาฬิกา"
     },
     {
       "id": 20,
-      "content": "…I couldn’t find any excuses so I just gave back a light nod."
+      "content": "…ฉันหาคำเเก้ตัวไม่ค่อยได้จึงพยักหน้าเล็กๆอืออาไป"
     },
     {
       "id": 21,
       "model": "그레고르",
-      "content": "Say, Bus Girlie. Where are we headed?"
+      "content": "นี่ หนูคนขับบัส พวกเรากำลังไปไหนกัน?"
     },
     {
       "id": 22,
       "model": "카론",
-      "content": "Once again, my name is Charon."
+      "content": "อีกอย่าง หนูชื่อคารอนค่ะ"
     },
     {
       "id": 23,
       "model": "카론",
-      "content": "The same way you’re called Gregor and not bug guy."
+      "content": "เหมือนกับที่หนูเรียกพี่ว่าเกรกอร์ ไม่ใช่มนุษย์เเมลงค่ะ"
     },
     {
       "id": 24,
@@ -123,105 +123,105 @@
     {
       "id": 25,
       "model": "단테",
-      "content": "<She got you there, Gregor.>"
+      "content": "<โดนเธอเล่นเเล้วไง เกรกอร์>"
     },
     {
       "id": 26,
       "model": "그레고르",
-      "content": "Haha, she really did."
+      "content": "ฮ่าๆ จริงด้วยสินะ"
     },
     {
       "id": 27,
       "model": "카론",
-      "content": "…Verg said:"
+      "content": "…เวิร์กบอกว่า"
     },
     {
       "id": 28,
       "model": "카론",
-      "content": "“The Sinners will go to District 4.”"
+      "content": "“เหล่า Sinners จะเดินทางไปที่เขตที่ 4”"
     },
     {
       "id": 29,
       "model": "돈키호테",
-      "content": "Whaaaat ho?! Did District 4 fall upon my ears?!"
+      "content": "อันใดน่าาาา?! ข้าได้ยินคำว่าเขตที่สี่เช่นนั้นรึ!"
     },
     {
       "id": 30,
       "model": "돈키호테",
-      "content": "That place is known to be the home of the Grass Maiden! ‘Tis the origin of the heroine’s journey. And ‘twas the…"
+      "content": "สถานที่นั้นเลื่องชื่อว่าเป็นถิ่นพำนักของนางพฤกษา! ที่นั่นแลคือจุดเริ่มต้นแห่งมหากาพย์ของนางผู้กล้า และกาลนั้นคือ…"
     },
     {
       "id": 31,
       "model": "히스클리프",
-      "content": "Bloody hell, you’re rattling on and on and on…"
+      "content": "อะไรของเเก เอาเเต่พล่ามไปพล่ามมาอยู่นั้นเเหละ…"
     },
     {
       "id": 32,
       "model": "히스클리프",
-      "content": "Can’t you just shut up and let the trip go in peace?"
+      "content": "หุบปากเเล้วให้การเดินทางมันราบรื่นหน่อยไม่ได้ไง?"
     },
     {
       "id": 33,
       "model": "돈키호테",
-      "content": "Why, I had remained silent unto mere moments ago!"
+      "content": "เหตุใดเล่า เมื่อกี้ข้าก็มิได้เอ๋ยคำจาอะไรจนเมื่อครู่นี้นะ!"
     },
     {
       "id": 34,
       "model": "히스클리프",
-      "content": "I said to shut up!"
+      "content": "ก็บอกว่าให้หุบปากไง!"
     },
     {
       "id": 35,
       "model": "이스마엘",
-      "content": "…Sorry, did you happen to realize you’re being louder here?"
+      "content": "…โทษทีนะ รู้ตัวเปล่าว่านายโหวกเหวกมากกว่าเธออีกนะ?"
     },
     {
       "id": 36,
       "model": "히스클리프",
-      "content": "…Even if you can’t die, you sure as hell can suffer, no? So say that again."
+      "content": "…ถึงเเกจะตายไม่ได้ เเต่ก็ยังร้องโหวกเหวกได้นี่เนาะ? พูดอีกทีสิ"
     },
     {
       "id": 37,
       "model": "이스마엘",
-      "content": "I say the right thing and your first response is violence? Shows how refined you are."
+      "content": "ฉันพูดในสิ่งที่ถูก เเล้วคำตอบเเรกของนายคือความรุนเเรงเนี่ยนะ สุภาพบุรุษจริงๆเลยนายเนี่ย"
     },
     {
       "id": 38,
       "model": "히스클리프",
-      "content": "…Ha."
+      "content": "…หึ"
     },
     {
       "id": 39,
-      "content": "I contemplated for a second."
+      "content": "ฉันขบคิดอยู่ครู่หนึ่ง"
     },
     {
       "id": 40,
-      "content": "Should I step in? Is this the part where I exercise my authority as the manager with dignity and grace? A faint memory urges me to do something."
+      "content": "จะเข้าไปขวางดีไหม? คงเป็นโอกาสดีที่ฉันจะได้ฝึกใช้อำนาจในฐานะผู้จัดการอย่างมีเกียรติเเละศักดิ์ศรีหรือเปล่า? ความทรงจำที่เลือนลางนี่กำลังบอกให้ฉันทำอะไรซักอย่าง"
     },
     {
       "id": 41,
       "model": "단테",
-      "content": "<Now now, guys, it’s inadvisable to lose your c―>"
+      "content": "<เอาน่า พวกเธอ ฉันไม่เเนะนำให้พวกเธอจะเสีย―>"
     },
     {
       "id": 42,
       "model": "히스클리프",
-      "content": "Grh…"
+      "content": "เฮือก…"
     },
     {
       "id": 43,
       "model": "이스마엘",
-      "content": "Kuhㅡ"
+      "content": "อึกกㅡ"
     },
     {
       "id": 44,
       "model": "료슈",
-      "content": "TRANCHES."
+      "content": "สคหส."
     },
     {
       "id": 45,
       "model": "료슈",
-      "content": "To right against noisy crying hogs entails scragging."
+      "content": "สะบั้น คอหมูที่ร้องอูีดอ๊าดไป ให้ หมดสิ้น"
     },
     {
       "id": 46,
@@ -231,78 +231,78 @@
     {
       "id": 47,
       "model": "돈키호테",
-      "content": "Senseless violence shan’t be forgiven! I will bring about justice!"
+      "content": "ความรุนแรงอันไร้เหตุผลเป็นสิ่งที่มิอาจให้อภัยได้! ข้าจักได้ความยุติธรรมคืนสู่ที่นี้!"
     },
     {
       "id": 48,
       "model": "로쟈",
-      "content": "Aw~ I knew this would happen—it left a spot on my clothes. Look, do you guys really have to fight next to me?"
+      "content": "อา~ ว่าเเล้วต้องมีเรื่องเเบบนี้เกิดขึ้น เลอะจุดเเดงบนเสื้อฉันหมดเลย นี่ พวกนายจะสู้กันในระหว่างฉันนั่งอยู่ข้างๆเนี่ยนะ"
     },
     {
       "id": 49,
       "model": "단테",
-      "content": "<I must be mad…>"
+      "content": "<ฉันต้องเป็นบ้าไปเเล้วเเน่…>"
     },
     {
       "id": 50,
-      "content": "We haven’t even reached our destination and they've already killed three. Of our own, that is."
+      "content": "พวกเรายังไม่เเม้เเต่จะถึงที่หมาย พวกเขาก็ได้ฆ่าคนไปเเล้วสามศพ ที่เป็นพวกของตัวเอง ด้วยนะสิ"
     },
     {
       "id": 51,
       "model": "베르길리우스",
-      "content": "Can’t take a small break without anticipating trouble, can I."
+      "content": "ขอพักซักนิดหน่อยโดยไม่คิดว่าจะมีปัญหาเกิดขึ้นไม่ได้หรือไง"
     },
     {
       "id": 52,
       "model": "베르길리우스",
-      "content": "You four. Cleaning duty for the next month."
+      "content": "พวกเเกสี่คน มีหน้าที่ทำความสะอาดรถเดือนหน้า"
     },
     {
       "id": 53,
       "model": "돈키호테",
-      "content": "Such unfairness! I merely sought the hand of justice!"
+      "content": "ช่างอยุติธรรมเสียจริง! ข้าเพียงเเค่ต้องการไขว่ขว้าความยุติธรรมเอง!"
     },
     {
       "id": 54,
       "model": "로쟈",
-      "content": "Oh, also! Tell them to do my laundry, too. Blood doesn’t wash off as easily as wine stains. Sheesh, dry cleaning’s costly…"
+      "content": "อ๋อ! ละก็บอกพวกนั้นให้ซักเสื้อให้ฉันด้วยนะ คราบเลือดมันไม่ได้ล้างง่ายเท่าคราบไวน์นะ ให้ตายสิ ซักแห้งก็ยิ่งแพงนะเนี่ย"
     },
     {
       "id": 55,
-      "content": "No one bats an eye at the lifeless janitors-to-be littering the floor."
+      "content": "ไม่มีใครใส่ใจร่างไร้ชีวิตของคนที่กำลังจะเป็นภารโรงเกลือนอยู่บนพื้นด้วยซ้ำ"
     },
     {
       "id": 56,
-      "content": "Maybe they’re already taking their indefinite revivals for granted."
+      "content": "บางทีการฟื้นคืนชีพอันเป็นอนันต์ก็คงเป็นเรื่องธรรมดาไปเเล้วล่ะมั้ง"
     },
     {
       "id": 57,
-      "content": "But, I don’t even know how exactly I’m supposed to bring them back…"
+      "content": "เเต่ ฉันก็ยังจำไม่ได้เลยว่าจะชุบชีวิตพวกเขากลับมายังไง…"
     },
     {
       "id": 58,
       "model": "베르길리우스",
-      "content": "Dante, I’d like you to turn the clock back."
+      "content": "ดันเต้ ผมอยากให้คุณหมุนเข็มนาฬิกาย้อนกลับไป"
     },
     {
       "id": 59,
       "model": "단테",
-      "content": "<Turn… the clock?>"
+      "content": "<หมุน… ย้อนกลับไป?>"
     },
     {
       "id": 60,
       "model": "베르길리우스",
-      "content": "…Sigh."
+      "content": "…เฮ้อ"
     },
     {
       "id": 61,
       "model": "베르길리우스",
-      "content": "That must mean there’s a puzzled look where your face should be. I’ll keep that in mind."
+      "content": "หน้านั้นของนายหมายความกำลังสับสนมึนงงสินะ ผมจะจำมันไว้"
     },
     {
       "id": 62,
       "model": "베르길리우스",
-      "content": "Ms. Faust."
+      "content": "คุณเฟาสท์"
     },
     {
       "id": 63,
@@ -311,234 +311,234 @@
     },
     {
       "id": 64,
-      "content": "Vergilius gives Faust a tired nod and gestures to me."
+      "content": "เวอร์จิลิอุสพยักหน้าอย่างเหนื่อยล้าให้กับเฟาสท์เเละชี้มาที่ฉัน"
     },
     {
       "id": 65,
-      "content": "She let out a small sigh but still came to my seat, probably out of a sense of obligation."
+      "content": "เธอถอนหายใจออกมาเล็กน้อยเเต่ก็ยังเดินมานั่งที่ฉัน อาจจะเพราะรู้สึกว่าเป็นหน้าที่ที่ต้องทำ"
     },
     {
       "id": 66,
       "model": "파우스트",
-      "content": "It’s the same thing you did the day we first met, Dante. Though, I suppose that was more of an instinctual reaction."
+      "content": "มันคือสิ่งที่คุณทำตอนที่พวกเราเจอกันวันเเรกไงค่ะ ดันเต้ เเม้ว่านั้นจะเหมือนกับปฎิกิริยาตามสัญชาตญาณมากกว่า"
     },
     {
       "id": 67,
       "model": "파우스트",
-      "content": "Now, let’s try again. Close your eyes."
+      "content": "ฉะนั้น เรามาลองใหม่อีกที หลับตาลงค่ะ"
     },
     {
       "id": 68,
-      "content": "Though I have no eyes to close, blocking out my sight is something I’ve done."
+      "content": "ถึงเเม้ฉันจะไม่มีตาให้หลับ เเต่การบดบังสายตาคือสิ่งที่ฉันเคยทำมาก่อน"
     },
     {
       "id": 69,
-      "content": "I had no reason not to follow Faust’s instruction here."
+      "content": "ไม่มีสาเหตุที่ให้ฉันจะไม่ทำตามคำสั่งของเฟาสท์ในตอนนี้"
     },
     {
       "id": 70,
       "model": "파우스트",
-      "content": "In fact, the door is everywhere."
+      "content": "จริงๆเเล้ว ประตูนั้นมีอยู่ทุกที่ค่ะ"
     },
     {
       "id": 71,
       "model": "파우스트",
-      "content": "However, only you can see it. For the stars never set in your sky."
+      "content": "อย่างไรก็ตาม มีเเค่คุณเท่านั้นที่เห็นมันค่ะ เเด่เหล่าดวงดาวที่ไม่มีวันลับขอบฟ้า"
     },
     {
       "id": 72,
-      "content": "At that, I felt a thread of light creep into my sight."
+      "content": "ในขณะนั้น ฉันก็รู้สึกได้ถึงเเสงบางอย่างที่ลอดเข้ามาในตาของฉัน"
     },
     {
       "id": 73,
-      "content": "As if to open my eyes, I embraced that light."
+      "content": "ราวดังกับถ้าลืมตานั้น ฉันจะโอบรับเเสงนั้นไว้"
     },
     {
       "id": 74,
       "place": "???",
-      "content": "Then I saw a space."
+      "content": "จากนั้นฉันก็เห็นพึ้นที่โล่งเปล่า"
     },
     {
       "id": 75,
-      "content": "I was alone there."
+      "content": "ฉันอยู่ที่นี้เพียงตัวคนเดียว"
     },
     {
       "id": 76,
-      "content": "And a massive door stood before me."
+      "content": "เเละเห็นประตูบานใหญ่ที่ตั้งตระหง่านอยู่ตรงหน้า"
     },
     {
       "id": 77,
-      "content": "It wasn’t a pleasant sight."
+      "content": "มันไม่ใช่ภาพที่น่ามองนัก"
     },
     {
       "id": 78,
-      "content": "Suffocating heat and agonized cries seep through the gap."
+      "content": "ความร้อนอบอ้าวเเละเสียงกรีดร้องโหยหวนเเทรกผ่านช่องเล็กๆนั้นออกมา"
     },
     {
       "id": 79,
-      "content": "Hearing the endless laments and wailing for even a split second makes me feel faint."
+      "content": "ได้ยินเสียงคร่ำครวญเเล้วคร่ำครวญเล่าอันไม่สิ้นสุดเเม้เพียงเสี้ยววินาทีก็ทำให้ฉันจะเป็นลมเเล้ว"
     },
     {
       "id": 80,
-      "content": "However, I’m approaching the door, grasping at its handles as if it’s what I was born to do."
+      "content": "ถึงอย่างนั้น ฉันก็มุ่งหน้าไปที่ประตูบานนั้น คว้าที่จับราวกับเป็นสิ่งเดียวที่ฉันเกิดมาเพื่อทำมัน"
     },
     {
       "id": 81,
-      "content": "Despite being seemingly heavy, pulling it open was surprisingly easy."
+      "content": "ถึงเเม้มันจะดูหนักเพียงไหน การดึงเปิดออกมาถือเป็นเรื่องที่ง่ายดายนัก"
     },
     {
       "id": 82,
-      "content": "I grope about in the door. Thousands upon thousands of last wails lay within."
+      "content": "ฉันคลำเข้าไปในขณะที่เสียงคร่ำครวญเป็นพันร้องโหยหวนออกมาจากข้างใน"
     },
     {
       "id": 83,
-      "content": "And reaching inside, I grab a few unknown hands."
+      "content": "เเละพอจับได้ ฉันก็ได้ดึงมือปริศนาออกมาบางส่วน"
     },
     {
       "id": 84,
-      "content": "I can feel the histories of different sins bearing their brands crawl up my hand onto my arm."
+      "content": "ฉันสัมผัสได้ถึงประวัติศาสตร์ของบาปต่างๆ ที่พวกมันประทับตรา ค่อยๆคลานจากมือมาที่เเขนของฉัน"
     },
     {
       "id": 85,
-      "content": "Art thou prepared to share the pain?"
+      "content": "เจ้าพร้อมที่จะเเบกรับความเจ็บปวดนี่หรือยัง?"
     },
     {
       "id": 86,
-      "content": "Could that have been a question? Or rather, pressure to comply?"
+      "content": "นั้นเป็นเพียงเเค่คำถาม หรือเป็นเพียงความกดดันที่บังคับให้ทำตามกัน?"
     },
     {
       "id": 87,
-      "content": "I pulled forth the Sinners grasping my hand with all my strength."
+      "content": "ฉันดึงเหล่า Sinners พวกนั้นออกด้วยเเรงทั้งหมดที่ฉันมี"
     },
     {
       "id": 88,
       "model": "단테",
-      "content": "<…RAHHHHGH!>"
+      "content": "<…อ๊ากกกกกกก!>"
     },
     {
       "id": 89,
-      "content": "A terrible pain spreads through my neck and head."
+      "content": "ความเจ็บปวดเเสนสาหัสไหลไปทั่วคอเเละหัวของฉัน"
     },
     {
       "id": 90,
-      "content": "It’s so crushingly severe, it makes me wish I were dead."
+      "content": "มันหนักเเละรุนเเรงมาก ราวกับอยากให้ฉันตาย"
     },
     {
       "id": 91,
-      "content": "The indescribable sensation of bone and muscle twisting, entangling with each other, goes on for what feels like an eternity."
+      "content": "ความรู้สึกที่กระดูกกับกล้ามเนื้อนั้นบิดเเละพันเข้าดัวยกันนั้น มันยาวนานราวชั่วนิรันดร์"
     },
     {
       "id": 92,
-      "content": "My legs weren’t prepared to endure all this agony; I fell to kneel atop the pool of blood in helplessness."
+      "content": "ขาของฉันไม่พร้อมจะรับความทุกข์ทรมานทั้งหมดนี้; ทำให้ฉันล้มคุกเข่าลงไปบนเเอ่งเลือดอย่างไร้หนทาง"
     },
     {
       "id": 93,
-      "content": "Then I see it."
+      "content": "จากนั้นฉันก็เห็นมัน"
     },
     {
       "id": 94,
-      "content": "Trembles in the bloody pools, gradually growing into waves and bubbles rising from the floor."
+      "content": "จากเเรงสั่นเพียงเล็กน้อยในบ่อเลือด ค่อยๆกลายเป็นคลื่นเเละฟองขึ้นมาจากพื้น "
     },
     {
       "id": 95,
-      "content": "Soon, that blood soaking the ground coalesced into three masses."
+      "content": "ทันใดนั้น เลือดที่ซึมอยู่ในพื้นก็รวมตัวกลายเป็นก้อนสามก้อน"
     },
     {
       "id": 96,
-      "content": "Then the agony that seemed to last forever vanished just like that."
+      "content": "เเละความทุกข์ทรมานที่เหมือนจะเป็นนิรันดร์ก็หายวับไป"
     },
     {
       "id": 97,
-      "place": "Aboard Mephistopheles",
+      "place": "บน เมฟิสโตเฟเลส",
       "model": "히스클리프",
-      "content": "Mmgh…"
+      "content": "อึก…"
     },
     {
       "id": 98,
       "model": "이스마엘",
-      "content": "…Ugh."
+      "content": "…เฮือก"
     },
     {
       "id": 99,
-      "content": "As the lumps of blood rose into the air and flew away, my sight was cleared of dreadful redness, returning to the grumbling bus."
+      "content": "พอก้อนเลือดลอยหายไปในอากาศเเล้วนั้น สายตาฉันก็มองเห็นได้ชัดเจนปราศจากรอยเเดงอันน่ากลัว กลับมาที่รถบัสที่มีเสียงบ่นกันอีกครั้ง"
     },
     {
       "id": 100,
       "model": "료슈",
-      "content": "Keh… How does it feel to have your head back after it was severed? Was it exciting?"
+      "content": "หึ… รู้สึกยังไงบ้างที่ได้หัวคืนมาจากการโดนตัดกันล่ะ? มันน่าตื่นเต้นไหมล่ะ"
     },
     {
       "id": 101,
-      "content": "Right as Heathcliff is restored to consciousness, he rubs his neck, mutters vulgar words, and approaches Ryōshū."
+      "content": "หลังจากที่ฮีธคลิฟฟ์ได้สติขึ้นมา เขาถูคอเล็กน้อย พึมพำคำหยาบคาย เเล้วมุ่งตรงไปหาเรียวชูทันที"
     },
     {
       "id": 102,
       "model": "단테",
-      "content": "<Hold on, I just brought you back and you’re going straight into another fight?>"
+      "content": "<เดี๋ยวนะ ฉันเพิ่งชุบเเกกลับมาเเล้วจะไปหาเรื่องต่อเลยเนี่ยนะ?>"
     },
     {
       "id": 103,
-      "content": "Heathcliff turns around to glare at me. His eyes are those of a man devoured by blind fury."
+      "content": "ฮีธคลิฟฟ์จ้องกลับมาที่ฉันทันที สายตาของคนที่ครอบงำไปด้วยความโกรธเกรี้ยวจนตาบอด"
     },
     {
       "id": 104,
       "model": "히스클리프",
-      "content": "Isn’t it your job to bring us back?"
+      "content": "หน้าที่ของเเกคือชุบชีวิตพวกเรากลับมาไม่ใช่หรือไง?"
     },
     {
       "id": 105,
       "model": "히스클리프",
-      "content": "If your job’s done, then step aside before I knock your dumb clock off."
+      "content": "ถ้าชุบเสร็จเเล้ว ก็ถอยออกไปก่อนที่กูจะทุบหัวนาฬิกาโง่ๆของเเกออก"
     },
     {
       "id": 106,
       "model": "싱클레어",
-      "content": "P—Please, wait! Dante looks like they’re in a lot of pain, so we really should sh―"
+      "content": "ด―เดี๋ยวก่อนสิ! เมื่อกี้ดันเต้ดูเจ็บมากเลยนะ เพราะฉะนั้นพวกเราควรจะ―"
     },
     {
       "id": 107,
-      "content": "Before he could finish, Heathcliff’s steel bat caved in the side of Sinclair’s head."
+      "content": "ก่อนที่เขาจะพูดจบ ฮีธคลิฟฟ์ก็ซัดกระบองเหล็กเข้าไปที่หัวของซินเเคลร์อย่างจัง"
     },
     {
       "id": 108,
       "model": "싱클레어",
-      "content": "Kurgh…grh…"
+      "content": "กะ-เฮิอก… อึก…"
     },
     {
       "id": 109,
-      "content": "The incoherent gurgles of a dying person violated my ears."
+      "content": "เสียงพูดที่ขาดตอนของคนที่กำลังจะตายเข้ามาที่หูฉัน"
     },
     {
       "id": 110,
       "model": "히스클리프",
-      "content": "Next time, Clockface, you’re crushed. Are we clear?"
+      "content": "ถ้ามีครั้งหน้าอีกล่ะก็ โดนเเน่ เข้าใจไหม ไอหัวนาฬิกา?"
     },
     {
       "id": 111,
       "model": "이스마엘",
-      "content": "You really are as coarse as you look."
+      "content": "หยาบกระด้างสมกับเป็นนายจริงๆ"
     },
     {
       "id": 112,
       "model": "히스클리프",
-      "content": "…Was dying once not enough for you?"
+      "content": "…ตายเเค่ครั้งเดียวยังไม่พออีกหรือไง?"
     },
     {
       "id": 113,
-      "content": "Heathcliff tightens his grip on the bat, and Ishmael is ready to swing her weapon as well."
+      "content": "ฮีธคลิฟฟ์กำไม้เบสบอลของเขาให้เเน่น ในขณะที่อิชมาเอลก็พร้อมที่จะเขวี้ยงอาวุธของเธอเช่นกัน"
     },
     {
       "id": 114,
-      "content": "…Have I seriously become the manager of people who can’t be stopped even by death?"
+      "content": "…นี่ฉันเป็นผู้จัดการที่ห้ามใครไม่ได้เเม้กระทั้งความตายเเล้วหรอ?"
     },
     {
       "id": 115,
-      "content": "While I was lost in thought, all tension in the bus suddenly dropped and froze over."
+      "content": "ในขณะที่ฉันกำลังหลงอยู่ในความคิด ความกดดันทั้งหมดในรถบัสก็หายไปจนนิ่งสนิท"
     },
     {
       "id": 116,
       "model": "베르길리우스",
-      "content": "Ahem, it seems this team’s in serious need of discipline."
+      "content": "หึม ดูเหมือนทีมนี้จะต้องการวินัยเป็นอย่างหนักเลยนะ"
     },
     {
       "id": 117,
@@ -552,167 +552,167 @@
     },
     {
       "id": 119,
-      "content": "The Sinners on a collision course stopped dead in their tracks."
+      "content": "เหล่า Sinners ที่กำลังจะหันอาวุธใส่กันหยุดนิ่งในทันที"
     },
     {
       "id": 120,
-      "content": "A cold pair of red eyes cast their glare between the two."
+      "content": "เนตรสีเเดงที่เหี้ยมโหดนั้นได้จ้องตรงมาที่ทั้งสอง"
     },
     {
       "id": 121,
       "model": "베르길리우스",
-      "content": "Rule number one."
+      "content": "กฎข้อที่หนึ่ง"
     },
     {
       "id": 122,
       "model": "베르길리우스",
-      "content": "Do not let me hear weapons clashing inside the bus."
+      "content": "ห้ามมีเเม้เเต่เสียงอาวุธตีกันบนรถบัส"
     },
     {
       "id": 123,
       "model": "베르길리우스",
-      "content": "If any of you break this rule as of now…"
+      "content": "ถ้ามีใครคนใดคนหนึ่งไม่ทำตามกฎนี้ล่ะก็…"
     },
     {
       "id": 124,
       "model": "베르길리우스",
-      "content": "You’re going to be begging for me to let you die."
+      "content": "พวกเเกจะต้องร้องขอชีวิตให้ฉันฆ่าเเกจนตาย"
     },
     {
       "id": 125,
       "model": "베르길리우스",
-      "content": "I’m sure you know I’m capable of that and more, right?"
+      "content": "ก็คงจะรู้ดีว่าฉันสามารถทำอะไรเเบบนั้นได้มากกว่านี้อีก ใช่ไหมล่ะ?"
     },
     {
       "id": 126,
-      "content": "Sinclair’s writhing on the floor was the only sound breaking the silence."
+      "content": "เสียงของซินเเคลร์ที่ดิ้นรนอยู่บนพื้นนั้น เป็นเพียงเสียงเดียวที่ดังออกมาจากความเงียบนี้"
     },
     {
       "id": 127,
-      "content": "Heathcliff glowered, but couldn’t bring himself to argue back."
+      "content": "ฮีธคลิฟฟ์จ้องตาเขม็ง เเต่ก็ไม่สามารถที่จะเถียงกลับไปได้"
     },
     {
       "id": 128,
       "model": "베르길리우스",
-      "content": "Dante, I’m sorry about this. I need you to rewind one more time."
+      "content": "ผมต้องขอโทษจริงๆ ดันเต้ เเต่ผมอยากจะให้คุณย้อนเวลากลับไปอีกรอบ"
     },
     {
       "id": 129,
       "model": "단테",
-      "content": "<I have to do that again…?>"
+      "content": "<ฉันต้องทำเเบบนี้อีกเเล้วหรอ…?>"
     },
     {
       "id": 130,
-      "content": "I’d rather die than have to bear that harrowing pain once more. I waggled my head in dejection."
+      "content": "ขอตายเสียดีกว่าที่จะทนทุกข์ทรมานเเบบนี้อีก ฉันจึงส่ายหัวไปด้วยความท้อเเท้"
     },
     {
       "id": 131,
-      "content": "The faint hint of a smile on Vergilius’s face vanishes as his expression shifts."
+      "content": "รอยยิ่มเล็กน้อยของเวอร์จิลิอุสหายไปในขณะที่หน้าตาของเขาเปลี่ยนไป"
     },
     {
       "id": 132,
       "model": "베르길리우스",
-      "content": "…You’d better open up while I’m still feeling generous enough to ask and offer apologies, Manager Dante."
+      "content": "…นายควรจะเปิดใจในขณะที่ฉันยังรู้สึกใจดีพอที่จะให้คำขอโทษได้นะ ดันเต้"
     },
     {
       "id": 133,
       "model": "베르길리우스",
-      "content": "Oh, in case you’re refusing simply because you don’t want more pain, I can gladly help you with that."
+      "content": "เเละก็ ถ้านายปฎิเสธเพียงเพราะนายไม่อยากทนทุกข์มากกว่านี้ล่ะก็ จะให้ผมช่วยเรื่องนั้นก็ได้นะ"
     },
     {
       "id": 134,
       "model": "베르길리우스",
-      "content": "This degree of pain will feel like nothing by the time I’m done. Surely you’ll be a tougher person afterward, right?"
+      "content": "ความเจ็บปวดเเบบนี้ยังไม่เท่ากับสิ่งที่ฉันกำลังจะทำใส่พวกเเกหรอก เเน่นอนนายจะเป็นคนที่ทึกขึ้นใช่ไหมล่ะ หึม?"
     },
     {
       "id": 135,
       "model": "오티스",
-      "content": "Did I hear correctly? I’m pretty sure our manager clearly declined your request."
+      "content": "เมื่อกี้ได้ยินถูกใช่ไหมคะ? ผู้จัดการของพวกเราพึ่งจะปฎิเสธคำร้องขอของคุณไปค่ะ"
     },
     {
       "id": 136,
       "model": "베르길리우스",
-      "content": "You… This is not the time to step in."
+      "content": "เจ้า… นี้ไม่ใช่เวลาที่เธอควรจะมายุ่ง"
     },
     {
       "id": 137,
       "model": "오티스",
-      "content": "I was informed when I joined the company that the Executive Manager would be my superior, not you."
+      "content": "ฉันได้ยินมาว่าตอนที่ฉันเข้าร่วมกับบริษัทที่ผู้จัดการสูงสุดเป็นนายของฉันไม่ใช่คุณค่ะ"
     },
     {
       "id": 138,
       "model": "오티스",
-      "content": "I would say that the manager has made themself clear with a shake of the head."
+      "content": "ดิฉันมั่นใจว่าผู้จัดการค่อนข้างเคลียร์กับการปฎิเสธของคุณด้วยการส่ายหัวนะคะ"
     },
     {
       "id": 139,
       "model": "베르길리우스",
-      "content": "I see, so their aide has decided to step in, is that it?"
+      "content": "เข้าใจล่ะ ผู้ช่วยเลือกที่จะเดินเข้ามา เเล้วสินะ?"
     },
     {
       "id": 140,
       "model": "베르길리우스",
-      "content": "Then it’s my turn to make clear what I mean."
+      "content": "งั้นก็ถึงตาของผมที่จะบอกให้ชัดเเล้วว่าเมื่อกี้หมายความว่ายังไง"
     },
     {
       "id": 141,
-      "content": "The red hue of his eyes grew deeper, much to my dread."
+      "content": "สายตาสีเเดงนั้นเข้มขึ้นเรื่อยๆ เข้มเทียบเท่ากับความกลัวของฉันเลย"
     },
     {
       "id": 142,
-      "content": "…I don’t really know what I’m meant to do as the manager, or if I even deserve to take this role."
+      "content": "…ฉันไม่เข้าใจเลยว่าฉันต้องทำอะไรกันเเน่ในฐานะผู้จัดการ หรือทำไมฉันต้องทำบทบาทหน้าที่กัน"
     },
     {
       "id": 143,
-      "content": "But I felt that I should at least stop things here so we don’t get into an even bigger mess."
+      "content": "เเต่ฉันรู้สึกว่าควรจะหยุดเรื่องนี้ก่อนที่มันจะบานปลายไปมากกว่านี้"
     },
     {
       "id": 144,
-      "content": "Reviving one should hurt less than reviving twelve at once…"
+      "content": "การชุบชีวิตเพียงหนึ่งคนน่าจะเจ็บน้อยกว่าสิบสองคนนะ…"
     },
     {
       "id": 145,
       "model": "단테",
-      "content": "<Outis… I’ll rewind the clock. It’s okay.>"
+      "content": "<อูทิส… ไม่เป็นไร ฉันจะหมุนนาฬิกาเอง>"
     },
     {
       "id": 146,
-      "content": "Vergilius noticed me motioning her to stand down, and withdrew the red glow from his glare as if in mutual understanding."
+      "content": "เวอร์จิลิอุสเห็นท่าทางที่ฉันบอกให้เธอหยุด เเละเนตรสีเเดงของเขาก็ค่อยๆจางลงราวกับว่าเข้าใจซึ่งกันเเละกันเเล้ว"
     },
     {
       "id": 147,
       "model": "베르길리우스",
-      "content": "Good thinking."
+      "content": "คิดได้ดี"
     },
     {
       "id": 148,
       "model": "오티스",
-      "content": "…As you wish, Manager."
+      "content": "…ตามบัญชาค่ะ ท่านผู้จัดการ"
     },
     {
       "id": 149,
-      "content": "Outis seemed to want to add her input, but she promptly backed down and straightened herself out."
+      "content": "อูทิสดูเหมือนจะพูดอะไรเพิ่มเติม เเต่เธอกลับลดถอยลงไปพร้อมกับยืดตัวให้ตรง"
     },
     {
       "id": 150,
-      "content": "The red door greeted me again, along with the twisting sensation."
+      "content": "ฉันได้พบกับประตูสีเเดงนั้นอีกครั้ง พร้อมกับความรู้สึกที่เเสนบิดเบี้ยวนั้น"
     },
     {
       "id": 151,
-      "content": "I’ve given up trying to describe the throes I go through."
+      "content": "ฉันเลิกจะบรรยายความทุกข์ทรมานที่ฉันเจอเเล้ว"
     },
     {
       "id": 152,
-      "content": "Words can’t express it in full, anyway."
+      "content": "เพราะคำพูดก็ไม่สามารถที่จะอธิบายได้ครบถ้วนหรอก"
     },
     {
       "id": 153,
       "model": "싱클레어",
-      "content": "…Th, thank you very much…"
+      "content": "…ข-ขอบคุณมากครับ…"
     },
     {
       "id": 154,
-      "content": "Sinclair stood up with a pained moan and bowed to me before waddling back to his seat."
+      "content": "ซินเเคลร์ยืนขึ้นพร้อมครวญครางอย่างเจ็บปวดเเละโค้งคำนับให้ฉันก่อนที่จะกลับไปนั่งที่เดิม"
     }
   ]
 }
