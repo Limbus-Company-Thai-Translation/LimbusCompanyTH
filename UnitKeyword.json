@@ -22,27 +22,27 @@
     },
     {
       "id": "UnitKeyword_N_CORP",
-      "content": "N คอร์ป"
+      "content": "N Corp"
     },
     {
       "id": "UnitKeyword_K_CORP",
-      "content": "K คอร์ป"
+      "content": "K Corp"
     },
     {
       "id": "UnitKeyword_G_CORP",
-      "content": "G คอร์ป"
+      "content": "G Corp"
     },
     {
       "id": "UnitKeyword_W_CORP",
-      "content": "W คอร์ป"
+      "content": "W Corp"
     },
     {
       "id": "UnitKeyword_R_CORP",
-      "content": "R คอร์ป"
+      "content": "R Corp"
     },
     {
       "id": "UnitKeyword_T_CORP",
-      "content": "T คอร์ป"
+      "content": "T Corp"
     },
     {
       "id": "UnitKeyword_SEVEN",
@@ -150,11 +150,11 @@
     },
     {
       "id": "UnitKeyword_LOBOTOMY_HEAD",
-      "content": "ศูนย์ใหญ่ โลโบโตมี คอร์ป"
+      "content": "ศูนย์ใหญ่ โลโบโตมี Corp"
     },
     {
       "id": "UnitKeyword_LOBOTOMY_BRANCH",
-      "content": "โลโบโตมี คอร์ป สายาย่อย"
+      "content": "โลโบโตมี Corp สายาย่อย"
     },
     {
       "id": "UnitKeyword_FIXER",
@@ -170,7 +170,7 @@
     },
     {
       "id": "UnitKeyword_N_CORP_FNATIC",
-      "content": "สาวกคลั่ง N คอร์ป"
+      "content": "สาวกคลั่ง N Corp"
     },
     {
       "id": "UnitKeyword_BACK_STREET",
