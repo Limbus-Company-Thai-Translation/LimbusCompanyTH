@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "บน เมฟิสโตเฟเลส",
       "model": "유리",
-      "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Okay, let’s look at the map again."
+      "teller": "ยูริ",
+      "title": "ฟิกเซอร์เกรด 8",
+      "content": "โอเค ดูเเผนที่กันอีกทีนะ"
     },
     {
       "id": 1,
@@ -16,16 +16,16 @@
     {
       "id": 2,
       "model": "싱클레어",
-      "content": "Charon, can you please focus?"
+      "content": "คารอน ช่วยตั้งใจดูหน่อยได้ไหมคะ?"
     },
     {
       "id": 3,
-      "content": "Looking at the trio arguing over the map once again, a question arose in my mind."
+      "content": "ในขณะที่ดูทั้งสามคนกำลังเถียงกันเรื่องเเผนที่ ก็มีคำถามผุดเข้ามาในหัวของฉัน"
     },
     {
       "id": 4,
       "model": "단테",
-      "content": "<By the way, this bus was specifically made for Limbus Company, right?>"
+      "content": "<จะว่าไปเเล้ว รถบัสนี้ถูกสร้างขึ้นมาเพื่อให้ Limbus Company โดยเฉพาะเลยใช่ไหม?>"
     },
     {
       "id": 5,
