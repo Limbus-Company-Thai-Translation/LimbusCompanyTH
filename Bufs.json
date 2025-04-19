@@ -833,7 +833,7 @@
         },
         {
             "id": "PenetrateTakeDamageUp",
-            "name": "เปราะบางต่อ กับการแทง",
+            "name": "เปราะบางต่อ การแทง",
             "desc": "Take +{0}0% damage from Pierce skills this turn. (Max 100%)",
             "summary": "Pierce damage taken +{0}0%"
         },
