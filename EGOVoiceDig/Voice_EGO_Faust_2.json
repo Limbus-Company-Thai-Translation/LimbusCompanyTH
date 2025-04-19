@@ -3,32 +3,32 @@
     {
       "id": "battle_awaken_20201_1",
       "desc": "E.G.O Activation",
-      "dlg": "เฟาสท์รู้ทุกอย่างอยู่แล้ว"
+      "dlg": "Faust knows all outcomes."
     },
     {
       "id": "battle_awaken_20202_1",
       "desc": "E.G.O Activation",
-      "dlg": "บทสรุปของการต่อสู้ครั้งนี้จะจบลงด้วยชัยชนะ"
+      "dlg": "This battle will conclude with victory."
     },
     {
       "id": "battle_awaken_20203_1",
       "desc": "E.G.O Activation",
-      "dlg": "เจาะทะลุ... สู่ห่วงลึกของหัวใจ..."
+      "dlg": "Pierce… to the profundities of the heart…"
     },
     {
       "id": "battle_erosion_20202_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "แม้ว่าฉันจะต้องละทิ้งทุกสิ่ง..."
+      "dlg": "Even if I must disgorge everything…"
     },
     {
       "id": "battle_erosion_20203_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "มานี่สิ... ฉันจะกอดคุณไว้แน่นๆเอง..."
+      "dlg": "Come here… I’ll hug you tight…"
     },
     {
       "id": "battle_awaken_20204_1",
       "desc": "E.G.O Activation",
-      "dlg": "สายฟ้า: ชาร์จเต็มแล้ว"
+      "dlg": "Lightning: Fully charged."
     },
     {
       "id": "battle_erosion_20204_1",
@@ -38,42 +38,42 @@
     {
       "id": "battle_awaken_20205_1",
       "desc": "E.G.O Activation",
-      "dlg": "ทุกสิ่งได้ถูกบันทึกไว้แล้ว สิ่งเดียวที่เหลืออยู่... คือการทำให้คุณเป็นอิสระ"
+      "dlg": "It is now written. All that remains... is to set you free."
     },
     {
       "id": "battle_erosion_20205_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ความจริง, ความจริงอยู่ตรงหน้าฉันแล้ว...  ฮ่ะฮ่ะ, เอะฮ่ะฮ่ะ, ฮ่ะฮ่ะ!!!"
+      "dlg": "Truth, the truth is right before me... Heheh, Eheheheh, heheh!!!"
     },
     {
       "id": "battle_awaken_20206_1",
       "desc": "E.G.O Activation",
-      "dlg": "รูปลักษณ์ของฉัน, เป็นยังไงในสายตาของคุณละ?\nบางทีคำตอบก็อาจซ่อนอยู่ภายในกลไกของกาลเวลา?"
+      "dlg": "How does it appear, my form in your eyes?\nPerhaps within the clockwork of time the answer lies?"
     },
     {
       "id": "battle_erosion_20206_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ดังนั้น คุณจึงหยุดเคลื่อนไหว และติดอยู่ในห้วงเวลาที่หยุดนิ่งไปชั่วนิรันดร์"
+      "dlg": "Thus. You cease to move. Trapped in the stopped time. For eternity."
     },
     {
       "id": "battle_awaken_20207_1",
       "desc": "E.G.O Activation",
-      "dlg": "จงก้าวไปตามเส้นทางของเรื่องราวที่ถูกกำหนดไว้\nจงยอมถูกพันธนาการ เพราะนั่นคือสิ่งที่ถูกต้อง"
+      "dlg": "Follow the predetermined path of the tale.\nBe ensnared, for that is only right."
     },
     {
       "id": "battle_erosion_20207_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ไปให้พ้น...! แอปเปิ้ล, แอบเปิ้ลนั่น...! แกเอาไปซ่อนไว้ที่ไหนกัน?!"
+      "dlg": "Get lost...! The apple, the apple...! Where did you hide it?!"
     },
     {
       "id": "battle_awaken_20208_1",
       "desc": "E.G.O Activation",
-      "dlg": "คุณยังจำได้รึเปล่า... ตอนที่คุณได้รับโอกาสให้หายใจได้อย่างอิสระเป็นครั้งแรก?\nสำหรับฉัน... ตอนนี้คือช่วงเวลานั้น"
+      "dlg": "Do you recall the moment when you could breathe free for the first time?\nFor me... that moment is now."
     },
     {
       "id": "battle_erosion_20208_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "จงหายใจเข้าลึก ๆ... เพราะนั้นจะเป็นครั้งสุดท้ายของคุณแล้ว"
+      "dlg": "Take a deep breath... For it will be your last."
     }
   ]
 }

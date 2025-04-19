@@ -2,189 +2,189 @@
   "dataList": [
     {
       "id": 0,
-      "place": "บน เมฟิสโตเฟเลส",
+      "place": "Aboard Mephistopheles",
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "เอาล่ะ คารอน นี่ทิศตะวันออกหรือตะวันตกล่ะ?"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "Now Charon, tell me, is this east or west?"
     },
     {
       "id": 1,
       "model": "카론",
-      "content": "คารอนรู้จักเเค่สองทิศทางค่ะ ข้างหน้าเเละข้างหลังของเมฟิค่ะ"
+      "content": "Charon only knows two directions: Mephi’s front and back."
     },
     {
       "id": 2,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "มาไกลขนาดนี้ได้ไงเนี่ยในฐานะคนขับที่ไม่รู้ทิศทางเลยอ่ะ?"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "How did you come so far with a driver who has zero sense of direction?"
     },
     {
       "id": 3,
       "model": "싱클레어",
-      "content": "คารอน… อย่างที่ผมบอก พระอาทิตย์ขึ้นทางทิศ…"
+      "content": "Charon… Like I said, the sun rises from…"
     },
     {
       "id": 4,
-      "content": "ณ ที่นั่งคนชับ มีสามหัวกำลังมุงกันอยู่ที่เเผนที่"
+      "content": "At the driver’s seat, three heads gathered together over a map."
     },
     {
       "id": 5,
-      "content": "ก็ หนึ่งในพวกนั้นอาจจะอยู่ในระดับที่สูงกว่านิดนึงจากคนอื่นอ่ะนะ"
+      "content": "Well, one of them might have been at a slightly different elevation from the others."
     },
     {
       "id": 6,
       "model": "로쟈",
-      "content": "หิ… นี่เด็กน้อย~ ไม่ไปช่วยเขาหน่อยหรอ?"
+      "content": "Pft… Chiquita~ Aren’t you gonna join them too?"
     },
     {
       "id": 7,
       "model": "돈키호테",
-      "content": "ขอร้องเถอะ! ข้ามิใช่เด็กน้อยเสียหน่อย! แล้วก็ไม่ได้ตัวเล็กด้วย!"
+      "content": "I beg your pardon! I am no child! And most certainly not little!"
     },
     {
       "id": 8,
-      "content": "ขณะที่ดอนกีโฮเต้ยกหมัดขึ้นสูงใส่ร๊อดย่า ฉันสังเกตเห็นสายตาที่ขมขื่นจ้องมองมาที่พวกเขาจากมุมสายตาของฉัน"
+      "content": "Watching Don Quixote shake her fist sky-high at Rodya, I noticed a bitter gaze falling upon them out of the corner of my view."
     },
     {
       "id": 9,
       "model": "단테",
-      "content": "<…ฉันเริ่มจะคิดเเล้วว่ายูรินี่ต้องผ่านเรื่องวัยเด็กที่ยากลำบากมาเเน่ๆเลย>"
+      "content": "<…I’m starting to think that Yuri gal might’ve put up with a rough childhood.>"
     },
     {
       "id": 10,
-      "content": "เกรกอร์หันกลับมามองที่ฉัน ก่อนที่จะส่ายหัวเเล้วกลับไปมองที่ฝั่งคนขับโดยที่มือเท้าคางของเขาอยู่"
+      "content": "Gregor turned around to take a glance in my direction, then shook his head and went back to looking at the driver’s side with his chin resting on his hand."
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "…คงไม่ใช่เเค่ตอนเด็กหรอก Nest บางที่ก็เคยเกณฑ์คนที่มีอายุมากพอที่จะถือมีดได้นะ"
+      "content": "…Wouldn’t be on the youngest side, either. Some Nests used to conscript anyone old enough to hold a knife."
     },
     {
       "id": 12,
-      "content": "Nests… ถ้าความจำฉันไม่ผิดล่ะก็ Nest ก็คือศูนย์กลางของเขตนั้นๆ"
+      "content": "Nests… A Nest was basically the center of a District, if my memory is correct."
     },
     {
       "id": 13,
-      "content": "ดูเหมือนว่า Nests เคยเป็นที่ที่เอาไว้ทำสงครามกันมาก่อนในอดีตสินะ"
+      "content": "Sounds like Nests used to get into wars with one another in the past."
     },
     {
       "id": 14,
       "model": "단테",
-      "content": "<เหตุการณ์เเบบนั้นเคยเกิดบ่อยหรือเปล่า?>"
+      "content": "<Did that happen often?>"
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "ไม่บ่อยนัก เเต่มันเคยเกิดขึ้นจริงๆล่ะเเน่นอน"
+      "content": "Not frequently, but it sure as hell did happen."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "…สนใจเรียนรู้เกี่ยวกับเรื่องสงครามหรอ ตาผู้จัดการ?"
+      "content": "…Interested in learning about wars, Manager Bud?"
     },
     {
       "id": 17,
       "model": "단테",
-      "content": "<โอ้ ฉันไม่ได้สนใจรายละเอียดขนาดนั้นหรอก เเค่เก็บข้อมูลที่ฉันควรรู้ในฐานะผู้จัดการนะ…>"
+      "content": "<Oh, I’m not really curious about the details, just gathering info I should know as the manager…>"
     },
     {
       "id": 18,
-      "content": "ในขณะที่ฉันกำลังจะพูดต่อ สีหน้าของเกรกอร์เสี้ยวนึงที่ฉันเห็นก็ทำให้ฉันหยุดพูดทันที"
+      "content": "As I was about to go on, a glimpse of Gregor’s expression I caught from the side stopped me in my tracks."
     },
     {
       "id": 19,
-      "content": "ตาของเขานั้นดูจะจ้องมองไปในที่ที่ไกลกว่าที่นั่งคนขับไปเสียอีก"
+      "content": "His eyes seemed to be fixed somewhere far more distant than the driver’s seat."
     },
     {
       "id": 20,
       "model": "그레고르",
-      "content": "อย่าเข้าใจผิดไปนะ ตาผู้จัดการ ผมไม่ได้จะวิจารณ์คุณหรืออะไรทั้งนั้น จริงๆเเล้ว ผมว่ามันเป็นทัศนคติที่ดีในฐานะเจ้านายด้วยซ้ำไป"
+      "content": "Don’t get me wrong, Manager Bud, I’m not trying to criticize you or anything. Heck, it’s actually a pretty standup attitude for a boss, I’d say."
     },
     {
       "id": 21,
-      "content": "เขาพูดต่อไปอย่างช้าๆ ในขณะที่หยิบซองบุหรี่ออกมาจากกระเป๋าของเขา"
+      "content": "He slowly continued, taking a pack of cigarettes from his pocket."
     },
     {
       "id": 22,
       "model": "그레고르",
-      "content": "ยังไงก็ตาม ความไม่รู้ก็เป็นดังของขวัญที่ควรเก็บเเละชื่นชมไว้ในขณะที่ยังมีอยู่ ผมว่านะ"
+      "content": "Still, ignorance is a gift you should savor while you have it, if you ask me."
     },
     {
       "id": 23,
       "model": "그레고르",
-      "content": "พอคุณต้องเเบกรับความรู้พวกนั้นเมื่อไหร่ มันก็จะไม่มีคำว่าลืมอีกเเล้ว"
+      "content": "Once you’re burdened with knowledge, there’s no going back."
     },
     {
       "id": 24,
-      "content": "เขาจุดบุหรี่ขึ้นมาโดยไร้ซึ่งคำพูดต่อไป "
+      "content": "Without another word, he lit his cigarette."
     },
     {
       "id": 25,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "ไม่ เธอต้องเลี้ยวขวาตรงเเยกนั้นสิ!"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "No, you should’ve turned right at that intersection!"
     },
     {
       "id": 26,
       "model": "싱클레어",
-      "content": "ม-ไม่เป็นหรอกคารอน พวกเรายังหมุนรถกลับในเเยกต่อไปได้นะครับ"
+      "content": "I-It’s okay, Charon. We can turn around at the next junction."
     },
     {
       "id": 27,
       "model": "카론",
-      "content": "อ่า… ความลำบากของคนขับรถ"
+      "content": "Ahh… The woes of a driver."
     },
     {
       "id": 28,
       "model": "그레고르",
-      "content": "เอ่อ… เราดูเหมือนจะเจอปัญหาที่เร่งด่วนกว่า ใช่ไหมล่ะ ตาผู้จัดการ?"
+      "content": "Well… Looks like we have more pressing matters at hand. Ain’t that right, Manager Bud?"
     },
     {
       "id": 29,
-      "content": "เกรกอร์หัวเราะคิกคักในขณะที่ควันบุหรี่ยังอยู่ในปากเขา"
+      "content": "Gregor cackled with cigarette smoke still in his mouth."
     },
     {
       "id": 30,
-      "content": "ฉันยังคงสงสัยอยู่ว่าเขาผ่านอะไรมาบ้าง เเต่เขาพูดถูก เราควรจะโฟกัสกับปัญหาอื่นก่อนดีกว่า"
+      "content": "I was still curious to learn what he’d been through, but he’s right that I should focus on other things for now."
     },
     {
       "id": 31,
-      "content": "เป็นปัญหาด่วนที่โผล่ขึ้นมาต่อหน้าประตูรูปรถบัสของเราด้วย"
+      "content": "An urgent matter showed up right before our bus-shaped doorstep, too."
     },
     {
       "id": 32,
       "model": "베르길리우스",
-      "content": "หยุดทะเลาะกันได้เเล้ว ศัตรูเข้ามาเพิ่ม"
+      "content": "Enough squabbling now. More enemies inbound."
     },
     {
       "id": 33,
-      "teller": "อันธพาลหัวโจก",
-      "title": "เเบ๊คสตรีทเขตที่ 4",
-      "content": "พวกเเกโยนเพื่อนลงไปในรถบัสบ้านั้น ไอสารเลว! บ้าไปเเล้วหรือไง?"
+      "teller": "Head Hooligan",
+      "title": "District 4 Backstreets",
+      "content": "You shoved my pals into that bus, you sick bastards! Are you nuts?"
     },
     {
       "id": 34,
-      "teller": "อันธพาลหัวโจก",
-      "title": "เเบ๊คสตรีทเขตที่ 4",
-      "content": "พวกเเกจะต้องขดใช้! ตอนเเรกก็จะปล่อยๆไปดีๆ เเต่ตอนนี้พวกเเกจะต้องนองเลือดกันให้หมดเลย!"
+      "teller": "Head Hooligan",
+      "title": "District 4 Backstreets",
+      "content": "You’ll pay for this! We were just gonna leave with the bus, but now I’ve gotta see you all bleed!"
     },
     {
       "id": 35,
       "model": "카론",
-      "content": "เวิร์ก เชื้อเพลิงกำลังดูจู้จี้ค่ะ คารอนจะเวียนหัวเอาถ้าเสียงพวกนั้นยังดังอยู่ค่ะ"
+      "content": "Verg, fuel is making a fuss. Charon will get dizzy if many mouths are being noisy."
     },
     {
       "id": 36,
       "model": "베르길리우스",
-      "content": "ไม่ต้องเป็นห่วงไป คารอน เดี๋ยวปากพวกนั้นก็โดนหุบเร็วๆนี้ล่ะ"
+      "content": "Nothing to worry about, Charon. They’ll shut their mouths soon enough."
     },
     {
       "id": 37,
       "model": "베르길리우스",
-      "content": "ลงรถบัสได้"
+      "content": "Off the bus."
     }
   ]
 }

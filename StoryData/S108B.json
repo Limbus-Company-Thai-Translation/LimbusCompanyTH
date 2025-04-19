@@ -2,235 +2,235 @@
   "dataList": [
     {
       "id": 0,
-      "place": "บน เมฟิสโตเฟเลส",
+      "place": "Aboard Mephistopheles",
       "model": "로쟈",
-      "content": "เเหวะ… เกรก รู้จักพวกนี้ป่ะ?"
+      "content": "Bweh… Greg, you know those pals?"
     },
     {
       "id": 1,
       "model": "그레고르",
-      "content": "ห๊ะ? ให้ตายสิ… ผมจะไปรู้จักไอคนเเถวนี้ในมุมของเเบ๊คสตรีทได้ไงก―"
+      "content": "Huh? Gimme a break… There’s no way I’d know someone in this corner of the Backstreets―"
     },
     {
       "id": 2,
-      "content": "สีหน้าของเกรกอร์พลันหม่นทันทีที่เขามองออกไปนอกหน้าต่าง"
+      "content": "Gregor’s face goes dark the moment he looks out the window."
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<…พวกหัวเเมลง?>"
+      "content": "<…Bug heads?>"
     },
     {
       "id": 4,
-      "content": "ต่างจากพวกอันธพาลที่เราเจอมา พวกนี้มีส่วนของเเมลงอยู่"
+      "content": "Unlike the other miscreants we’ve run into, they were part insectoid."
     },
     {
       "id": 5,
       "model": "로쟈",
-      "content": "โห… ดันเต้ ขอบใจจริงที่หัวเธอเป็นรูปนาฬิกาอ่ะ ฉันคงอ้วกเเน่ถ้าผู้จัดการฉันเป็นเเมลงตัวใหญ่เนี่ย"
+      "content": "Gosh… Dante, thank goodness your head’s shaped like a clock. I would’ve gagged if my manager was a huge bug."
     },
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "นั้นไม่ใช่… ส่วนเสริมเดียวกันกับที่นายมีหรอ เกรกอร์?"
+      "content": "Isn’t that… the same type of augmentation you have, Gregor?"
     },
     {
       "id": 7,
       "model": "히스클리프",
-      "content": "พวกนั้นคงตั้งใจเย็บหัวเเมลงอันน่าขยะเเขยงไว้บนหัวล่ะมั้ง?"
+      "content": "They stitch disgusting insect heads to their necks on purpose?"
     },
     {
       "id": 8,
       "model": "그레고르",
-      "content": "พวกนายถอยไปเถอะนะ คงไม่อยากให้ปลวกขึ้นหรอ เนาะ?"
+      "content": "You’d better stay away. Wouldn’t want to catch the pest, ‘ne?"
     },
     {
       "id": 9,
       "model": "싱클레어",
-      "content": "อี๋?! จริงหรอครับ?!"
+      "content": "Eek, is that true?!"
     },
     {
       "id": 10,
       "model": "그레고르",
-      "content": "ล้อเล่นน่า… เดี๋ยวนี้ฉันตลกไม่พอเด็กยุคนี้เเล้วหรอไงเนี่ย?"
+      "content": "Just a joke… Does my sense of humor not fly with kids your age?"
     },
     {
       "id": 11,
-      "content": "ขณะที่เกรเกอร์ยังเกาหัวด้วยความมึนงง รถบัสก็ส่งเสียงออดแอดออกมาก่อนที่จะชะลอลงช้าๆ แล้วหยุดนิ่ง"
+      "content": "While Gregor was left scratching his head, the bus made a languishing sound and came to a slow, deflating halt."
     },
     {
       "id": 12,
       "model": "파우스트",
-      "content": "ในอดีต G Corp นั้นมีกระบวนการที่ให้พนักงานส่วนใหญ่มีอาวุธที่เลียนเเบบชีวภาพเหมือนกับที่เกรกอร์มีค่ะ"
+      "content": "In the past, G Corp. had procedures on most employees to give them biomimetic weapons like the one Gregor has."
     },
     {
       "id": 13,
       "model": "이스마엘",
-      "content": "นายเคยทำงานให้กับ G Corp เก่าหรอ เกรกอร์? บริษัทนั้นคงจะ…"
+      "content": "You used to work for the old G Corp, Gregor? That company must’ve been…"
     },
     {
       "id": 14,
-      "content": "อิชมาเอลขมวดคิ้วราวกับจำเรื่องที่ไม่ค่อยดีนักออก เเต่เธอก็ไม่ได้พูดอะไรต่อไป"
+      "content": "Ishmael frowned as if she remembered something unpleasant, but didn’t speak further."
     },
     {
       "id": 15,
-      "content": "เเม้ว่าเกรกอร์จะยังยิ้มอยู่ก็ตาม เเต่ดวงตานั้นกับเเข็งกร้าว ยังคงมองต่ำไม่ต่างจากเมื่อกี้"
+      "content": "Gregor wore a smile on his mouth, but his hardened eyes were resting downcast, just as a moment ago."
     },
     {
       "id": 16,
       "model": "홍루",
-      "content": "ผมสงสัย ตอนกลางคืนคนพวกนี้นอนกันยังไงล่ะ?"
+      "content": "I wonder, where do people like them sleep at night?"
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "สำหรับหลายคน ท้องนภาก็เหมือนกับหลังคาที่ค้ำศีรษะ เเละดวงดาวก็เป็นเหมือนดังเเสงไฟ"
+      "content": "For many, the sky is the roof over their head, and the stars are their firelight."
     },
     {
       "id": 18,
       "model": "홍루",
-      "content": "อะฮ่า เเสดงว่าพวกนั้นเป็นพวกเจ้ากลอนสินะ!"
+      "content": "Aha, so they’re the poetic sort!"
     },
     {
       "id": 19,
       "model": "단테",
-      "content": "<ฉันไม่คิดว่าเขาหมายความอย่างนั้นนะ…>"
+      "content": "<I don’t think that’s what he meant…>"
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "เเละ ถ้าสายตาผมไม่ผิดพลาด พวกนั้นกำลังจะขัดขวางการเดินทางของเรา"
+      "content": "And, unless my eyes deceive me, they’re intent on obstructing our journey."
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "จะไม่ลงรถไปหรอกหรอ เกรกอร์?"
+      "content": "Aren’t you going to get off, Gregor?"
     },
     {
       "id": 22,
       "model": "그레고르",
-      "content": "อธิบายได้ไหมว่าทำไมถึงเรียกชื่อผมโดยเฉพาะ?"
+      "content": "Care to explain why you’re calling my name specifically?"
     },
     {
       "id": 23,
       "model": "베르길리우스",
-      "content": "ไม่รู้สิ ผมไม่อยากจะพูดถึงอดีตของคนอื่นจากปากของผมเอง"
+      "content": "Who knows. I don’t feel like rambling about someone else’s past with my own tongue."
     },
     {
       "id": 24,
       "model": "베르길리우스",
-      "content": "นำไปเลย เกรกอร์ คงรู้เหตุผลดีว่าทำไม"
+      "content": "Take the lead, Gregor. You know the reason."
     },
     {
       "id": 25,
       "model": "그레고르",
-      "content": "…นายนี่มันร้ายไม่เบาเลย"
+      "content": "…You’re one nasty fellow."
     },
     {
       "id": 26,
-      "place": "ซักเเห่งในเเบ็คสตรีทเขตที่ 4",
-      "content": "ทหารกองนึงที่่มีหัวเป็นเเมลงรวมตัวกันอยู่หน้ารถบัส"
+      "place": "Some Backstreets of District 4",
+      "content": "A group of soldiers with the heads of insects gathered near the bus."
     },
     {
       "id": 27,
       "model": "그레고르",
-      "content": "โธ่… ไม่ค่อยชินกับการอยู่เเถวหน้าเลยเเหะ"
+      "content": "Bah… I’m not too fond of being in the vanguard."
     },
     {
       "id": 28,
       "model": "화난패잔병",
-      "teller": "ทหารผ่านศึกไฟเเรง",
+      "teller": "Fiery Veteran",
       "title": "???",
-      "content": "เเกมันใครกัน? ทำไมมีเเขนเหมือนพวกเราเลย?"
+      "content": "What are you? Why does your arm look like ours?"
     },
     {
       "id": 29,
       "model": "의아한패잔병",
-      "teller": "ทหารผ่านศึกผู้สับสน",
+      "teller": "Puzzled Veteran",
       "title": "???",
-      "content": "เดี๋ยวก่อน… หน้าตาเเบบนั้นเคยเห็นที่ไหนมาก่อน"
+      "content": "Hold on… I’ve seen that face before."
     },
     {
       "id": 30,
       "model": "그레고르",
-      "content": "…เดาว่า ส่วนใหญ่เห็นบนใบปลิวกับปกนิตยสารสิท่า"
+      "content": "…Mostly on flyers and magazine covers, I’d bet."
     },
     {
       "id": 31,
       "model": "단테",
-      "content": "<เกรกอร์? รู้จักพวกนี้จากไหนหรอ?>"
+      "content": "<Gregor? Do you know them from somewhere?>"
     },
     {
       "id": 32,
       "model": "이스마엘",
-      "content": "…ตอนนี้ไม่สำคัญหรอก ผู้จัดการ พวกเราไม่มีเวลาให้หวนลำรึกหรอกค่ะ"
+      "content": "…Not really important right now, Manager. Don’t think we have the time for reminiscing."
     },
     {
       "id": 33,
       "model": "화난패잔병",
-      "teller": "ทหารผ่านศึกไฟเเรง",
+      "teller": "Fiery Veteran",
       "title": "???",
-      "content": "เเขนนั้นตะหงิดฉันชะมัด… เเต่ ช่างเถอะ จากตรงนี้ให้พวกเเกผ่านไปไม่ได้หรอก"
+      "content": "That arm bothers me… But, whatever. Point is, I can’t let you through."
     },
     {
       "id": 34,
       "model": "단테",
-      "content": "<อย่างงั้นหรอ เราคงจะคุยกันได้ล่ะมั้ง…>"
+      "content": "<Is that so. I suppose we can’t talk this out…>"
     },
     {
       "id": 35,
       "model": "로쟈",
-      "content": "ทำไมพวกนั้นถึงโชว์ส่วนที่เป็นเเมลงในที่เปิดเเบบนี้เนี่ย?"
+      "content": "Why are they showing their buggy sides out in the open, anyway?"
     },
     {
       "id": 36,
       "model": "로쟈",
-      "content": "เด็กเห็นก็ร้องเเงนะ หัดเรียนวิธีการปกปิดส่วนนั้นเหมือนกับเกรกเราหน่อยสิ ใช่ป่ะ?"
+      "content": "They’d make kids cry. Really ought to take some concealing lessons from our Greg over here, right?"
     },
     {
       "id": 37,
       "model": "그레고르",
-      "content": "ผมเป็นกรณีพิเศษนะ ส่วนใหญ่กระบวนการนั้นจะทำให้ส่วน “เเมลง” งอกไปที่หัวมากกว่านะ"
+      "content": "I’m a special case. The procedure makes those “buggy” parts grow on the head most of the time."
     },
     {
       "id": 38,
       "model": "그레고르",
-      "content": "อย่างไรก็เถอะ… ผมไม่มั่นใจหรอกที่จะบอกว่าตัวเองโชคดีนะ"
+      "content": "Although… I’m not sure if I’d consider myself lucky."
     },
     {
       "id": 39,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "ดูเหมือนพวกนั้นจะไม่ให้พวกเราเข้าไปในโรงงานสาขาเเยกนั้นด้วยสาเหตุบางประการนะ"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "It feels like they’re trying to stop us from getting to the branch facility for some reason."
     },
     {
       "id": 40,
       "model": "로쟈",
-      "content": "อย่าบอกนะว่าพวกมันกำลังตามหากิ่งทองด้วย?"
+      "content": "Are they after the Golden Bough too?"
     },
     {
       "id": 41,
       "model": "베르길리우스2",
-      "teller": "เวอร์จิลิอุส",
-      "content": "ก็อาจจะใช่"
+      "teller": "Vergilius",
+      "content": "Maybe so."
     },
     {
       "id": 42,
       "model": "베르길리우스2",
-      "teller": "เวอร์จิลิอุส",
-      "content": "เพราะหลายคนต่างก็ตามหาเจ้าสิ่งนั้นอยู่ไม่น้อย"
+      "teller": "Vergilius",
+      "content": "There ought to be many that are after the essence."
     },
     {
       "id": 43,
       "model": "베르길리우스2",
-      "teller": "เวอร์จิลิอุส",
-      "content": "…เเละผมเชื่อว่าพวกเราทุกคนต่างก็มีความปรารถนาของตัวเอง ใช่ไหมล่ะ?"
+      "teller": "Vergilius",
+      "content": "…And I’m sure each has their own wishes. Isn’t that true?"
     },
     {
       "id": 44,
       "model": "그레고르",
-      "content": "มองเเบบนั้นทำไมกัน? ไม่เห็นจะเข้าใจอะไรซักนิดเลย"
+      "content": "What’s that look for? I haven’t got a clue, either."
     }
   ]
 }

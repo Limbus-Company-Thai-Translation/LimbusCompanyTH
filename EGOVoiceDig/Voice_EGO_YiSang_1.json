@@ -3,82 +3,82 @@
     {
       "id": "battle_awaken_20101_1",
       "desc": "E.G.O Activation",
-      "dlg": "บอกผมหน่อยสิ คุณคิดว่าอุดมคติคืออะไร"
+      "dlg": "Utter to me what you think the ideal is."
     },
     {
       "id": "battle_upgrade_20101_1",
       "desc": "E.G.O Liberation",
-      "dlg": "ทำลายกรงนกนั้น,"
+      "dlg": "Break the birdcage,"
     },
     {
       "id": "battle_upgrade_20101_2",
       "desc": "E.G.O Liberation",
-      "dlg": "และจงเป็นอิสระ"
+      "dlg": "And be free."
     },
     {
       "id": "battle_awaken_20102_1",
       "desc": "E.G.O Activation",
-      "dlg": "ผมเผาซึ่งสิ่งที่ผมอยากจะเผา"
+      "dlg": "I burn what I wish to burn."
     },
     {
       "id": "battle_erosion_20102_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "และมัน... จะกลายเป็นเถ้าธุลีทั้งสิ้น"
+      "dlg": "It will… turn all to ash."
     },
     {
       "id": "battle_awaken_20103_1",
       "desc": "E.G.O Activation",
-      "dlg": "หากโชคลาภคือสิ่งที่คุณกำลังใฝ่หา—งั้นก็อธิษฐานด้วยความจริงใจสิ"
+      "dlg": "If it is fortune you seek—pray with all sincerity."
     },
     {
       "id": "battle_erosion_20103_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "บอกสิ่งที่คุณปรารถนากับผมสิ... จงแสดงความอยากของคุณออกมา..."
+      "dlg": "Speak unto me your wish… Vocalize your eagerness…"
     },
     {
       "id": "battle_awaken_20104_1",
       "desc": "E.G.O Activation",
-      "dlg": "ชั่งเป็นสีที่น่าหลงใหล... เส้นทางแบบเหมือนถูกสร้างขึ้นมาเพื่อให้ใครจำมันได้เลย"
+      "dlg": "Such enchanting colors… The path is intent on thwarting all attempts to memorize it."
     },
     {
       "id": "battle_erosion_20104_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ตามข้อเท็จจริงเเล้ว ตรอกนี้เป็นอันเปิดกว้างไว้อยู่"
+      "dlg": "As a matter of fact, the alley is an open one."
     },
     {
       "id": "battle_awaken_20105_1",
       "desc": "E.G.O Activation",
-      "dlg": "ผมเกรงว่าสายฝนแผ่วเบา อาจซึมผ่านร่มที่กางอยู่ได้"
+      "dlg": "I worry that this seeping rain may leak through the umbrella."
     },
     {
       "id": "battle_erosion_20105_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "อากาศชั่งหนาวเหลือเกิน... และฝนก็โปรยลงมาหนักกว่าเดิมอีก"
+      "dlg": "The air is too cold... and raindrops only grow thicker."
     },
     {
       "id": "battle_awaken_20106_1",
       "desc": "E.G.O Activation",
-      "dlg": "นี่คือภาพเสมือนของพวกเขา คุณจะลองสังเกตดู... ใกล้ๆกว่านี้ไหม?"
+      "dlg": "This is a portrait of theirs. Will you observe... a little closer?"
     },
     {
       "id": "battle_erosion_20106_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "จงออกไปซะ, เจ้าผู้บุกรุก! ออกไปจากที่นี่เดี๋ยวนี้...!"
+      "dlg": "Leave at once, interloper! Leave this place...!"
     },
     {
       "id": "battle_awaken_20107_1",
       "desc": "E.G.O Activation",
-      "dlg": "ผมจะรับรู้ถึงความหนักหน่วงของลำกล้องปืนที่ทาบทับลงบนกาย\nให้กระสุนต้องสาปนี้เจาะทะลุพวกมันไป...!"
+      "dlg": "I shall feel the ponderous mass of the gun barrel rest upon my viscera.\nLet this accursed bullet pierce through them...!"
     },
     {
       "id": "battle_erosion_20107_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ไม่มีสิ่งใดทั้งนั้น ไม่มีซึ่งเศษเสี้ยวความทรงจำ, ไม่มีสิ่งใดให้ย้อนกลับไปมอง... ยิง, แค่ยิงเท่านั้น!"
+      "dlg": "There is neither; no fragments of memories, no need to look into them... fire, only fire!"
     },
     {
       "id": "battle_erosion_20107_2",
       "desc": "E.G.O Corrosion",
-      "dlg": "ไม่มีสิ่งใดทั้งนั้น ไม่มีซึ่งเศษเสี้ยวความทรงจำ, ไม่มีสิ่งใดให้ย้อนกลับไปมอง... ยิง, แค่ยิงเท่านั้น!"
+      "dlg": "There is neither; no fragments of memories, no need to look into them... fire, only fire!"
     }
   ]
 }
