@@ -110,7 +110,11 @@
     },
     {
       "id": "UnitKeyword_LIMBUS_COMPANY",
+<<<<<<< Updated upstream
       "content": "Limbus Company"
+=======
+      "content": "Limbus company"
+>>>>>>> Stashed changes
     },
     {
       "id": "UnitKeyword_KONG_KONG",
