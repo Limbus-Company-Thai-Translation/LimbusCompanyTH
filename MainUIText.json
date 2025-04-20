@@ -390,11 +390,11 @@
     },
     {
       "id": "mainui_reward_random_box",
-      "content": "กล่องสุ่มเศษ EGO"
+      "content": "กล่องสุ่ม Egoshards"
     },
     {
       "id": "mainui_reward_select_box",
-      "content": "กล่องเลือกเศษ EGO"
+      "content": "กล่องเลือก Egoshards"
     },
     {
       "id": "mainui_manaUsage",
@@ -534,7 +534,7 @@
     },
     {
       "id": "mainui_consume",
-      "content": "ของใช้แล้วหมด"
+      "content": "ใช้เเล้วหมด"
     },
     {
       "id": "mainui_currencies",
@@ -1006,15 +1006,15 @@
     },
     {
       "id": "inventory_category_all",
-      "content": "All"
+      "content": "ทั้งหมด"
     },
     {
       "id": "inventory_category_normal",
-      "content": "Basic"
+      "content": "พื้นฐาน"
     },
     {
       "id": "inventory_category_consumable",
-      "content": "Consumables"
+      "content": "ของที่ใช้เเล้วหมด"
     },
     {
       "id": "inventory_category_pieces",
@@ -1030,19 +1030,19 @@
     },
     {
       "id": "notice_not_enough_pieces",
-      "content": "※ Not enough Egoshards."
+      "content": "※ มี Egoshards ไม่เพียงพอ"
     },
     {
       "id": "buy_personaliy",
-      "content": "Purchase Identity"
+      "content": "ซื้อ Identity"
     },
     {
       "id": "buy_ego",
-      "content": "Purchase E.G.O"
+      "content": "ซื้อ E.G.O"
     },
     {
       "id": "not_enough_pieces",
-      "content": "Not enough Egoshards"
+      "content": "มี Egoshards ไม่เพียงพอ"
     },
     {
       "id": "basis",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "mailbox",
-      "content": "Mailbox"
+      "content": "กล่องจดหมาย"
     },
     {
       "id": "remain_days_label",
@@ -1078,7 +1078,7 @@
     },
     {
       "id": "extract_again",
-      "content": "Extract Again"
+      "content": "สุ่มอีกครั้ง"
     },
     {
       "id": "ego_gift",
@@ -1102,11 +1102,11 @@
     },
     {
       "id": "notice_sold_out",
-      "content": "Out of Stock"
+      "content": "หมดสต๊อก"
     },
     {
       "id": "select_piece",
-      "content": "Choose Egoshard"
+      "content": "เลือก Egoshard ที่จะใช้"
     },
     {
       "id": "mail_item_warning",
@@ -1114,11 +1114,11 @@
     },
     {
       "id": "mainui_unlock_condition_by_ego_awaken_level",
-      "content": "Unlocked at Tier {0}"
+      "content": "ปลกล็อคที่ขั้น {0}"
     },
     {
       "id": "empty_mailbox_notice",
-      "content": "No mail in storage."
+      "content": "ไม่มีจดหมายใหม่ในตู้"
     },
     {
       "id": "gacha_rate_detail",
@@ -1326,7 +1326,7 @@
     },
     {
       "id": "get_not_acquired_rewards",
-      "content": "Unclaimed Rewards Delivered"
+      "content": "ได้รับรางวัลที่ไม่ได้กดรับไว้เเล้ว"
     },
     {
       "id": "items_changed_by_season_changed_desc",
@@ -1342,7 +1342,7 @@
     },
     {
       "id": "twine_store",
-      "content": "Shard::Thread Exchange"
+      "content": "Shard::ที่เเลกเปลี่ยน Thread"
     },
     {
       "id": "pass",
@@ -1846,11 +1846,11 @@
     },
     {
       "id": "mini_story_warning_spoiler_checkbox_desc",
-      "content": "Don't see this message again"
+      "content": "ไม่เเสดงข้อความนี้อีก"
     },
     {
       "id": "mainui_settings_push_notification",
-      "content": "Notification Settings"
+      "content": "การตั้งค่าการเเจ้งเตือน"
     },
     {
       "id": "paid_lunacy_ui",
@@ -1862,7 +1862,7 @@
     },
     {
       "id": "remote_download_quit_game",
-      "content": "A new download has been added.\nThe game will be closed; please restart the game to download the update."
+      "content": "พบเนื้อหาในการโหลดเพิ่ม\nเกมจะถูกปิดลง โปรดรีสตาร์ทเกมใหม่เพื่อโหลดอัพเดท"
     }
   ]
 }
