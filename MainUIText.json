@@ -534,11 +534,11 @@
     },
     {
       "id": "mainui_consume",
-      "content": "ใช้เเล้วหมด"
+      "content": "Consumables"
     },
     {
       "id": "mainui_currencies",
-      "content": "ค่าเงิน"
+      "content": "Currency"
     },
     {
       "id": "mainui_inventory",
@@ -546,7 +546,7 @@
     },
     {
       "id": "mainui_awaken_requirement_amount",
-      "content": "ต้องการค่าเงิน"
+      "content": "Currency Req."
     },
     {
       "id": "mainui_passive_skill_addition",
