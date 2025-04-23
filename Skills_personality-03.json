@@ -1338,7 +1338,7 @@
             "id": 1031102,
             "levelList": [{
                     "level": 1,
-                    "name": "ฝ่ามือเพลืงมรกต",
+                    "name": "ฝ่ามือเพลืงสีหยก",
                     "desc": "If this unit's Speed is faster than the target's by 3 or more, พลังเหรียญ +1\n[WinDuel] ได้รับ 3 [Breath]",
                     "coinlist": [{
                             "coindescs": [{
@@ -1363,7 +1363,7 @@
                 },
                 {
                     "level": 2,
-                    "name": "ฝ่ามือเพลืงมรกต",
+                    "name": "ฝ่ามือเพลืงสีหยก",
                     "desc": "If this unit's Speed is faster than the target's by <style=\"highlight\">2</style> or more, พลังเหรียญ +1\n[WinDuel] ได้รับ 3 [Breath]",
                     "coinlist": [{
                             "coindescs": [{
@@ -1388,7 +1388,7 @@
                 },
                 {
                     "level": 4,
-                    "name": "ฝ่ามือเพลืงมรกต",
+                    "name": "ฝ่ามือเพลืงสีหยก",
                     "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ พลังเหรียญ based on Speed difference (พลังเหรียญ +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] ได้รับ 3 [Breath]\n<style=\"highlight\">- ได้รับ additional [Breath] Count equal to [DianxueDonQuixote] บน เป้าหมาย</style>",
                     "coinlist": [{
                             "coindescs": [{
@@ -1417,7 +1417,7 @@
             "id": 1031103,
             "levelList": [{
                     "level": 3,
-                    "name": "ขอให้ การประลองชี้แนะทางด้วย",
+                    "name": "ขอให้ การประลองนี้เปืดหูเปิดตาด้วย",
                     "desc": "Deal +10% more damage for every 1 [DianxueDonQuixote] บน เป้าหมาย (มากสุด 30%)\nIf this unit's Speed is faster than the target's by 2 or more, พลังเหรียญ +1\n[WinDuel] ได้รับ 5 [Breath]\n- ถ้าเป้าหมายมี [DianxueDonQuixote], ได้รับ 3 additional [Breath]",
                     "coinlist": [{
                             "coindescs": [{
@@ -1443,7 +1443,7 @@
                 },
                 {
                     "level": 4,
-                    "name": "ขอให้ การประลองชี้แนะทางด้วย",
+                    "name": "ขอให้ การประลองนี้เปืดหูเปิดตาด้วย",
                     "desc": "Deal <style=\"highlight\">+15%</style> more damage for every 1 [DianxueDonQuixote] บน เป้าหมาย (มากสุด <style=\"highlight\">45%</style>)\n<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ พลังเหรียญ based on Speed difference (พลังเหรียญ +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] ได้รับ 5 [Breath]\n- ถ้าเป้าหมายมี [DianxueDonQuixote], ได้รับ 3 additional [Breath]",
                     "coinlist": [{
                             "coindescs": [{
