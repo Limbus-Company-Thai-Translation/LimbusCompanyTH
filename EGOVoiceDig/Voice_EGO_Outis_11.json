@@ -3,137 +3,137 @@
     {
       "id": "battle_erosion_21102_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Just a little more…"
+      "dlg": "อีกแค่นิดเดียวเท่านั้น..."
     },
     {
       "id": "battle_awaken_21101_1",
       "desc": "E.G.O Activation",
-      "dlg": "The odyssey had a purpose…"
+      "dlg": "เพราะการเดินทางครั้งนี้มีจุดประสงค์..."
     },
     {
       "id": "battle_awaken_21102_1",
       "desc": "E.G.O Activation",
-      "dlg": "If this is to seize victory…"
+      "dlg": "ถ้าเพื่อชัยชนะแล้วล่ะก็..."
     },
     {
       "id": "battle_awaken_21103_1",
       "desc": "E.G.O Activation",
-      "dlg": "Karma shall find its way back to you, and rest atop your head."
+      "dlg": "เวรกรรมจะย้อนกลับมาหาแก และจะทับอยู่เหนือหัวแกไม่จางหาย"
     },
     {
       "id": "battle_erosion_21103_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Fall silent… As if there were no suffering in the first place…"
+      "dlg": "จงเงียบซะ... ราวกับว่าไม่เคยมีความทุกข์ใดๆ อยู่ที่นี่ตั้งแต่แรก..."
     },
     {
       "id": "battle_awaken_21104_1",
       "desc": "E.G.O Activation",
-      "dlg": "I don't need... any pointless attention!"
+      "dlg": "ฉันไม่ต้องการ... ความใส่ใจไร้สาระพวกนั้น!"
     },
     {
       "id": "battle_erosion_21104_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Don't—leave me this time..."
+      "dlg": "อย่า— หายไปจากฉันอีก..."
     },
     {
       "id": "battle_awaken_21105_1",
       "desc": "E.G.O Activation",
-      "dlg": "I'll stuff your futile wrath in this gift sack... and hurl it right back at your face."
+      "dlg": "ฉันจะยัดความโกรธอันไร้ค่าของแกลงในถุงของขวัญนี่... แล้วเขวี้ยงใส่หน้าแกซะ"
     },
     {
       "id": "battle_erosion_21105_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Even crying, pouting kids... got the presents...!"
+      "dlg": "แม้แต่เด็กๆ ที่ร้องไห้และงอแง... ก็ยังได้ของขวัญ!"
     },
     {
       "id": "battle_awaken_21106_1",
       "desc": "E.G.O Activation",
-      "dlg": "How insipid... Must I deal with it myself?"
+      "dlg": "ช่างน่าเบื่อซะจริง... นี่ฉันจะต้องลงมือสะสางเองเหรอ?"
     },
     {
       "id": "battle_erosion_21106_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "You dare... challenge my authority?!"
+      "dlg": "นี่แกกล้า... มาท้าทายอำนาจของฉันเหรอ?!"
     },
     {
       "id": "battle_awaken_21107_1",
       "desc": "E.G.O Activation",
-      "dlg": "Do not avert your eyes even for a moment, lest you be ensnared in an eternal wandering."
+      "dlg": "อย่าละสายตาแม้แต่วินาทีเดียว, ไม่งั้นนั้นแกจะตกอยู่ในกับดักของการเดินทางที่ไม่มีวันสิ้นสุด"
     },
     {
       "id": "battle_erosion_21107_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "It's not there... not behind any of these doors... My path remains in shadows... my path is...!"
+      "dlg": "มันไม่ได้อยู่ที่นั่น... ไม่ได้อยู่หลังประตูพวกนั้น... เส้นทางของฉันยังคงถูกปกคลุมด้วยเงามืด... เส้นทางของฉันคือ...!"
     },
     {
       "id": "battle_awaken_21108_1",
       "desc": "E.G.O Activation",
-      "dlg": "It really is as you say; this is a magic bullet that will never miss."
+      "dlg": "จริงอย่างที่คุณพูดไว้ นี่คือกระสุนเวทมนตร์ที่ไม่มีวันพลาดเป้า"
     },
     {
       "id": "battle_awaken_21108_2",
       "desc": "E.G.O Activation",
-      "dlg": "My bullet inevitably flies in the same direction, its trajectory preordained.\nThere are no coincidences."
+      "dlg": "กระสุนของฉันพุ่งไปในทางเดียวกัน, วิถีของกระสุนถูกกำหนดไว้ล่วงหน้าแล้ว\nไม่มีเรื่องบังเอิญทั้งนั้น"
     },
     {
       "id": "battle_awaken_21108_3",
       "desc": "E.G.O Activation",
-      "dlg": "There's no going back when I've already come this far by firing the bullet.\nEven if this road I walk is an inevitable path to inferno."
+      "dlg": "ไม่มีทางไหนที่ย้อนกลับไปได้ ในเมื่อฉันมาไกลขนาดนี้เพราะการยิงกระสุน\nแม้ว่าเส้นทางที่ฉันเดินนี้จะเป็นเส้นทางสู่ขุมนรกก็ตาม"
     },
     {
       "id": "battle_awaken_21108_4",
       "desc": "E.G.O Activation",
-      "dlg": "Do not seek my mercy, for only desolation awaits\nthose who stand in my path."
+      "dlg": "อย่ามาหาความเมตตาจากฉัน เพราะมีแต่ความพินาศที่รออยู่\nแก่ใครก็ตามที่ขวางทางฉันอยู่"
     },
     {
       "id": "battle_awaken_21108_5",
       "desc": "E.G.O Activation",
-      "dlg": "Remain unshaken. Grant silence to all that stands before you.\nFollow the land horizon."
+      "dlg": "จงอย่าหวั่นไหว ให้ความเงียบกับทุกสิ่งที่ยืนอยู่ข้างหน้าแก\nไปตามเส้นขอบฟ้า"
     },
     {
       "id": "battle_awaken_21108_6",
       "desc": "E.G.O Activation",
-      "dlg": "The despairing heart is burnt black, never to fade away.\nOnly the shearing cold floods within."
+      "dlg": "ใจที่สิ้นหวังก็ถูกเผาไหม้จนมืดมน, และไม่จางหาย\nมีเพียงความหนาวเย็นเท่านั้นที่ซัดสาดเข้ามา"
     },
     {
       "id": "battle_awaken_21108_7",
       "desc": "E.G.O Activation",
-      "dlg": "Though it was despair that I sought, the bullet's trajectory...\n... is predetermined!"
+      "dlg": "แม้ว่าฉันจะแสวงหาความสิ้นหวัง, แต่วิถีของกระสุน...\n... ถูกกำหนดไว้แล้ว!"
     },
     {
       "id": "battle_erosion_21108_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "A bullet was fired, a magic bullet that will never miss."
+      "dlg": "กระสุนถูกลั่นไกออกไปแล้ว กระสุนเวทมนตร์ไม่เคยพลาดเป้าแม้แต่ครั้งเดียว"
     },
     {
       "id": "battle_erosion_21108_2",
       "desc": "E.G.O Corrosion",
-      "dlg": "Welcome this fate, for this bullet's flight will always strike true."
+      "dlg": "ยินดีรับชะตากรรมนี้, เพราะกระสุนนี้จะพุ่งชนความจริงเสมอ"
     },
     {
       "id": "battle_erosion_21108_3",
       "desc": "E.G.O Corrosion",
-      "dlg": "As long as this bullet has been in my possession,\nI have been overcome with an extreme sense of omnipotence."
+      "dlg": "ตราบใดที่กระสุนนี้ยังอยู่ในมือฉัน,\nฉันจะถูกครอบงำด้วยความรู้สึกมีอำนาจทุกอย่างๆ"
     },
     {
       "id": "battle_erosion_21108_4",
       "desc": "E.G.O Corrosion",
-      "dlg": "No justice, no malice. Only a finger that pulls the trigger."
+      "dlg": "ไม่มีความยุติธรรม ไม่มีความอาฆา มีเพียงนิ้วที่เหนี่ยวไกเท่านั้น"
     },
     {
       "id": "battle_erosion_21108_5",
       "desc": "E.G.O Corrosion",
-      "dlg": "Remain immutable. Follow the sea horizon;\nweave the bullet through them all."
+      "dlg": "คงไว้ไม่เปลี่ยนแปลง ไปตามขอบฟ้าทะเล,\nสานกระสุนทะลุพวกมันทั้งหมด"
     },
     {
       "id": "battle_erosion_21108_6",
       "desc": "E.G.O Corrosion",
-      "dlg": "I'll be left alone in this inferno at the end of the road."
+      "dlg": "ฉันจะถูกทิ้งให้อยู่ตัวคนเดียวในนรกที่ปลายทางนี้"
     },
     {
       "id": "battle_erosion_21108_7",
       "desc": "E.G.O Corrosion",
-      "dlg": "Though I may lack the will to move forward...\n... the bullet's forward-momentum cannot be stopped."
+      "dlg": "แม้ฉันอาจจะขาดความตั้งใจที่จะก้าวไปข้างหน้า...\n... แต่แรงโมเมนตัมที่ไปข้างหน้าของกระสุนไม่อาจหยุดได้"
     }
   ]
 }
