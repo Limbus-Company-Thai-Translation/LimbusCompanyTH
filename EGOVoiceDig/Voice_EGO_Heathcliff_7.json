@@ -63,42 +63,42 @@
     {
       "id": "battle_awaken_20706_1",
       "desc": "E.G.O Activation",
-      "dlg": "มีเพียงข้าเท่านั้นที่ลิขิตมาให้ครองราชย์บนบัลลังก์อย่างโดดเดี่ยว..."
+      "dlg": "มีเพียงฉันเท่านั้นที่ลิขิตมาให้ครองราชย์บนบัลลังก์อย่างโดดเดี่ยว..."
     },
     {
       "id": "battle_erosion_20706_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "These strands bandage and shackle me... When shall I be released?!!"
+      "dlg": "ผ้าพวกนี้ทั้งพันบาดเเผลและรั้งฉันไว้ เมื่อไรที่ฉันจะได้ถูกปล่อยจากที่นี่ซักที?!!"
     },
     {
       "id": "battle_awaken_20701_2",
       "desc": "E.G.O Activation",
-      "dlg": "I... have to meet Catherine. And everything that stands in my way will..."
+      "dlg": "ฉัน... ต้องไปหาเคทเธอรีน และทุกอย่างที่มันกล้าขวางทางฉัน มันจะได้รู้ซึ้ง..."
     },
     {
       "id": "battle_awaken_20701_3",
       "desc": "E.G.O Activation",
-      "dlg": "Even if you are forgotten to the world... I'll get you back."
+      "dlg": "แม้ว่าเธอจะถูกลืมไปจากใบโลกนี้แล้ว... ฉันก็จะเป็นคนเอาเธอกลับคืนมาเอง"
     },
     {
       "id": "battle_awaken_20707_1",
       "desc": "E.G.O Activation",
-      "dlg": "Leg it, if you want. My scattering bullets...\n...will turn your brain into fireworks no matter where you run."
+      "dlg": "ผ่นเลยสิ, ถ้าแกอยากนะ แต่กระสุนที่กระจายของฉัน...\n...มันจะเป่าสมองแกให้กระจุยเหมือนพลุอยู่ดีไม่ว่าแกจะหนีไปไหนก็ตาม"
     },
     {
       "id": "battle_erosion_20707_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "A single bullet ain't enough...\nUntil echoes of gunshots and plumes of smoke bury all that I've ever remembered...!"
+      "dlg": "กระสุนเม็ดเดียวมันพอที่ไหนกันเล่า...\nเป่ากระจุยไปให้หมดจนกว่าเสียงดังสนั่นนี่และเขม่าควันนี้มันจะกลบทุกอย่างที่ฉันจำได้มาตลอด...!"
     },
     {
       "id": "battle_awaken_20708_1",
       "desc": "E.G.O Activation",
-      "dlg": "I ain't off balance—I was just swayin' this side to smack 'em even harder on the comeback!"
+      "dlg": "ฉันไม่ได้โยกไปมาซะหน่อย— ฉันก็แค่แกว่งมาทางนี้เพื่อจะได้ฟาดพวกมันให้แรงกว่าเดิมตอนขากลับต่างหากเล่า!"
     },
     {
       "id": "battle_erosion_20708_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "You could've helped me... Before I fell apart...!"
+      "dlg": "แกน่ะมีโอกาสช่วยฉันได้แท้ๆ... ก่อนที่ฉันจะเเตกเป็นเสี่ยงๆ...!"
     }
   ]
 }
