@@ -14,7 +14,7 @@
     },
     {
       "id": "Peccatula",
-      "content": "Peccatula"
+      "content": "กิ่งก้านบาป"
     },
     {
       "id": "NestS",
@@ -30,7 +30,7 @@
     },
     {
       "id": "PeccatulaLv2",
-      "content": "Peccatula ระดับ 2"
+      "content": "กิ่งก้านบาประดับ 2"
     },
     {
       "id": "Line3",
@@ -38,7 +38,7 @@
     },
     {
       "id": "BattlePower",
-      "content": "Combat Capability"
+      "content": "ความสามารถการต่อสู้"
     }
   ]
 }
