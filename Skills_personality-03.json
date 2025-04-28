@@ -301,7 +301,7 @@
             "id": 1030702,
             "levelList": [{
                     "level": 1,
-                    "name": "เหยื่อหล่อไฟกระพิบ",
+                    "name": "เหยื่อล่อไฟกระพิบ",
                     "desc": "",
                     "coinlist": [{
                             "coindescs": [{
@@ -322,7 +322,7 @@
                 },
                 {
                     "level": 2,
-                    "name": "เหยื่อหล่อไฟกระพิบ",
+                    "name": "เหยื่อล่อไฟกระพิบ",
                     "desc": "[WhenUse] ได้รับ +2 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
                     "coinlist": [{
                             "coindescs": [{
@@ -347,7 +347,7 @@
                 },
                 {
                     "level": 4,
-                    "name": "เหยื่อหล่อไฟกระพิบ",
+                    "name": "เหยื่อล่อไฟกระพิบ",
                     "desc": "[WhenUse] ได้รับ +4 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า\n[WhenUse] ถ้าเป้าหมายมี 6+ [Burst], พลังเหรียญ +1",
                     "coinlist": [{
                             "coindescs": [{
@@ -1338,7 +1338,7 @@
             "id": 1031102,
             "levelList": [{
                     "level": 1,
-                    "name": "ฝ่ามือเพลืงสีหยก",
+                    "name": "ฝ่ามือเพลิงสีหยก",
                     "desc": "If this unit's Speed is faster than the target's by 3 or more, พลังเหรียญ +1\n[WinDuel] ได้รับ 3 [Breath]",
                     "coinlist": [{
                             "coindescs": [{
@@ -1363,7 +1363,7 @@
                 },
                 {
                     "level": 2,
-                    "name": "ฝ่ามือเพลืงสีหยก",
+                    "name": "ฝ่ามือเพลิงสีหยก",
                     "desc": "If this unit's Speed is faster than the target's by <style=\"highlight\">2</style> or more, พลังเหรียญ +1\n[WinDuel] ได้รับ 3 [Breath]",
                     "coinlist": [{
                             "coindescs": [{
@@ -1388,7 +1388,7 @@
                 },
                 {
                     "level": 4,
-                    "name": "ฝ่ามือเพลืงสีหยก",
+                    "name": "ฝ่ามือเพลิงสีหยก",
                     "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ พลังเหรียญ based on Speed difference (พลังเหรียญ +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] ได้รับ 3 [Breath]\n<style=\"highlight\">- ได้รับ additional [Breath] Count equal to [DianxueDonQuixote] บน เป้าหมาย</style>",
                     "coinlist": [{
                             "coindescs": [{
