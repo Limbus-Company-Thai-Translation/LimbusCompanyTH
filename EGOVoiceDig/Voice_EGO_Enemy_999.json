@@ -3,52 +3,52 @@
     {
       "id": "battle_8099_s4_1-02",
       "desc": "Skill Activation",
-      "dlg": "Enough games."
+      "dlg": "เลิกเล่นกันได้แล้ว"
     },
     {
       "id": "battle_8099_s2_2-01",
       "desc": "Skill Activation",
-      "dlg": "Complete and total..."
+      "dlg": "ล้างโคน..."
     },
     {
       "id": "battle_8099_s2_2-02",
       "desc": "Skill Activation",
-      "dlg": "Extermination!"
+      "dlg": "แม่งให้หมด!"
     },
     {
       "id": "battle_ak_8105_1-02",
       "desc": "Skill Activation",
-      "dlg": "I am the Captain of this Lake... of the City...\nI shall seize this beast's heart and sever the evil from its roots!"
+      "dlg": "ฉันคือกัปตันของทะเลสาบแห่งนี้... ของเมืองนี้...\nฉันจะควักหัวใจของอสูรตัวนี้ แล้วถอนรากถอนโคนความชั่วร้ายมันให้หมด"
     },
     {
       "id": "battle_selection1_8105_1",
       "desc": "Skill Activation",
-      "dlg": "Yes... Break my heart open and impale my skull, Ishmael!"
+      "dlg": "ใช่... กระซากหัวใจฉันออกมา และทะลวงกะโหลกของฉันเลย, อิชมาเอล!"
     },
     {
       "id": "battle_selection2_8105_1",
       "desc": "Skill Activation",
-      "dlg": "Once an Ahab... shall be Ahab evermore...!"
+      "dlg": "เป็นเอแฮบยังไง... ก็เป็นเอแฮบอย่างนั้นแหละ...!"
     },
     {
       "id": "battle_sacrifice_8106_1",
       "desc": "Phase Start",
-      "dlg": "Now, carve yourself in my stead!"
+      "dlg": "เอาละ, ทำหน้าที่แทนฉันซะ!"
     },
     {
       "id": "battle_sacrifice_8106_2",
       "desc": "Phase Start",
-      "dlg": "The time is finally upon us, my dear crew!"
+      "dlg": "เหล่าลูกเรือเอ๋ย!, เวลาของเราได้มาถึงแล้ว"
     },
     {
       "id": "battle_order_attack_8106",
       "desc": "Assist Attack",
-      "dlg": "Cover me!"
+      "dlg": "คุ้มกันฉัน!"
     },
     {
       "id": "battle_order_defence_8106",
       "desc": "Assist Defense",
-      "dlg": "Defend me now!"
+      "dlg": "ปกป้องฉันเดี๋ยวนี้!"
     },
     {
       "id": "battle_entry_10001_1",
