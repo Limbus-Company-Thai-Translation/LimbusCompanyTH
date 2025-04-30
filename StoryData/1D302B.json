@@ -2,164 +2,164 @@
   "dataList": [
     {
       "id": 0,
-      "place": "จุดกึ่งกลางของสงครามควัน",
+      "place": "Central Front in the Smoke War",
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "อึก… ฉันรู้สึกจะอ้วก… พื้นมันสั่นไปหมด…"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "Guh… I think I’m gonna throw up. Everything is wobbling…"
     },
     {
       "id": 1,
       "model": "파우스트",
-      "content": "ดูเหมือนว่าความเครียดทางจิตกำลังเพิ่มสูงขึ้นค่ะ"
+      "content": "It would appear that psychogenic pressure is rising."
     },
     {
       "id": 2,
       "model": "파우스트",
-      "content": "แต่คุณควรที่จะยัง… ไหวอยู่ค่ะ…"
+      "content": "But you should be… fine…"
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "ฉันว่าฉันเคยมีฝันร้ายที่แปลกประหลาดมาก่อน…"
+      "content": "I think I once had an unsettling nightmare."
     },
     {
       "id": 4,
       "model": "그레고르",
-      "content": "บางทีฉันอาจยังอยู่ในฝันร้ายนั้น แม้กระทั่งตอนนี้"
+      "content": "Maybe I’m still in one, even now."
     },
     {
       "id": 5,
       "model": "그레고르",
-      "content": "ในฝันนี้… มีเพียงสองสีเท่านั้นในห้องที่ฉันยืนอยู่"
+      "content": "In this dream, there are only two colors in the room where I stand."
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "กำแพงสีน้ำเงิน กับจุดสีแดงที่ห้อยลงมา"
+      "content": "The blue covering every wall, and the dangling dot of red."
     },
     {
       "id": 7,
       "model": "그레고르",
-      "content": "ฉันรู้ว่าฉันสามารถออกไปจากที่นี่ได้เช่นกัน"
+      "content": "I know how to get out of here, too."
     },
     {
       "id": 8,
       "model": "그레고르",
-      "content": "สิ่งที่ฉันต้องทำก็แค่… เอื้อมมือไป แล้วตัดแอปเปิ้ลที่ห้อยอยู่ลงมา"
+      "content": "All I had to do was stretch out my arm and cut the hanging apple."
     },
     {
       "id": 9,
       "model": "그레고르",
-      "content": "แต่พวกคนในเสื้อกาวน์สีน้ำเงินดูเหมือนจะคิดว่าฉันไม่เข้าใจสิ่งนั้น"
+      "content": "The people in blue coats seemed to think I failed to understand that."
     },
     {
       "id": 10,
       "model": "그레고르",
-      "content": "พวกเขาเข้ามาอธิบายให้ฉันฟังซ้ำแล้วซ้ำเล่า… ทุกวัน ทุกวัน…"
+      "content": "They would come in several times a day and explain it to me over and over…"
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "แต่โชคร้ายสำหรับพวกเขา เพราะจริงๆแล้วนั่นไม่ใช่ส่วนที่ฉันกำลังมีปัญหา"
+      "content": "Unfortunately for them, that wasn’t the part I struggled to understand."
     },
     {
       "id": 12,
       "model": "그레고르",
-      "content": "สุดท้าย… เมื่อละทิ้งความคิดไปแล้ว และปล่อยให้แอปเปิ้ลที่ถูกหั่นร่วงลงสู่พื้น…"
+      "content": "When I finally gave up thinking about it, and the sliced apple fell to the floor…"
     },
     {
       "id": 13,
       "model": "그레고르",
-      "content": "ประตูก็เปิดออก"
+      "content": "The door was opened."
     },
     {
       "id": 14,
       "model": "그레고르",
-      "content": "ฉันจำไม่ได้ด้วยซ้ำว่าทำไมถึงทำมันกัน"
+      "content": "I don’t remember what drove me to do it."
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "บางทีฉันอาจจะเหนื่อยล้าจนเกินไป"
+      "content": "Maybe I was exhausted mentally."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "หรือบางที ฉันอาจจะตัดสินใจยอมรับมันได้แล้ว"
+      "content": "Or maybe I thought to resign myself to it."
     },
     {
       "id": 17,
       "model": "그레고르",
-      "content": "แต่ไม่ว่าจะด้วยเหตุผลไหน สิ่งเดียวที่ฉันจำได้ก็คือความอยากที่จะหนีออกไปจากฝันร้ายนั่น"
+      "content": "In either case, what I do remember is my desire to break free from the nightmare."
     },
     {
       "id": 18,
       "teller": "???",
       "title": "???",
-      "content": "ในที่สุดนายก็ทำได้… ฉันรู้ว่านายทำได้แน่ การผ่าตัดประสบความสำเร็จแล้ว"
+      "content": "You finally did it. I knew you could. The surgery was successful, after all."
     },
     {
       "id": 19,
       "teller": "???",
       "title": "???",
-      "content": "ตอนนี้นายก็แค่ทำต่อไปเรื่อยๆ หั่นแอปเปิ้ลตรงหน้าออกเป็นสองซีก ง่ายใช่ไหมล่ะ?"
+      "content": "You just have to keep it up. Chop up the apples in front of you. Simple, isn’t it?"
     },
     {
       "id": 20,
       "teller": "???",
       "title": "???",
-      "content": "อ้อ จริงสิ— สุขสันต์วันเกิดปีที่ 15 นะ!"
+      "content": "Oh, right. Happy fifteenth birthday!"
     },
     {
       "id": 21,
       "model": "그레고르",
-      "content": "…ครับ"
+      "content": "…Okay."
     },
     {
       "id": 22,
       "model": "그레고르",
-      "content": "ฝันร้ายที่ฉันรอดมาได้ด้วยการทิ้งความเป็นตัวเองและการยอมแพ้"
+      "content": "A nightmare I escaped through renunciation and resignation."
     },
     {
       "id": 23,
       "model": "그레고르",
-      "content": "และแล้ววันหนึ่ง… เมื่อฉันตื่นขึ้นจากฝันร้ายที่ชวนสะอิดสะเอียน…"
+      "content": "One day, as I awoke from my unsettling dreams…"
     },
     {
       "id": 24,
       "model": "그레고르",
-      "content": "ฉันก็พบว่า ตัวเองได้กลายเป็นแมลงที่น่ารังเกียจไปแล้ว"
+      "content": "I had found myself transformed into some hideous pest."
     },
     {
       "id": 25,
       "model": "그레고르",
-      "content": "ฉันหั่นแอปเปิ้ลออกเป็นสองซีก"
+      "content": "I cut apples in half."
     },
     {
       "id": 26,
       "model": "그레고르",
-      "content": "บางลูกแข็ง บางลูกเปราะ บางลูกอ่อนนุ่ม บางลูกเปียกเยิ้ม"
+      "content": "Some were hard, some crumbly, some were soft, some sappy."
     },
     {
       "id": 27,
       "model": "그레고르",
-      "content": "กลิ่นหวานของมันบางครั้งก็ทำให้ฉันคลื่นไส้"
+      "content": "The sugary smell made me sick sometimes."
     },
     {
       "id": 28,
       "model": "그레고르",
-      "content": "แล้วฉันก็ตระหนักถึงบางสิ่ง"
+      "content": "At some point, I realized something:"
     },
     {
       "id": 29,
       "model": "그레고르",
-      "content": "ฉันคิดว่าฉันนั้นตื่นจากฝันร้ายแล้ว"
+      "content": "I thought I woke up from the dream."
     },
     {
       "id": 30,
       "model": "그레고르",
-      "content": "<color=#69350b>แต่ไม่ใช่เลย ความจริงแล้ว ฉันยังคงจมอยู่กลางฝันร้ายนั่นเหมือนเดิม</color>"
+      "content": "<color=#69350b>But I was still right in the middle of that nightmare.</color>"
     }
   ]
 }

@@ -2,27 +2,27 @@
   "dataList": [
     {
       "id": "mainui_main_button0",
-      "content": "ล็อบบี้"
+      "content": "Window"
     },
     {
       "id": "mainui_main_button1",
-      "content": "จัดทีม"
+      "content": "Sinners"
     },
     {
       "id": "mainui_main_button2",
-      "content": "โรงหนัง"
+      "content": "Theater"
     },
     {
       "id": "mainui_main_button3",
-      "content": "ออกรถ"
+      "content": "Drive"
     },
     {
       "id": "mainui_main_button4",
-      "content": "กาชา"
+      "content": "Extract"
     },
     {
       "id": "mainui_main_button5",
-      "content": "แลกเปลี่ยน"
+      "content": "Dispense"
     },
     {
       "id": "mainui_main_exp",
@@ -30,7 +30,7 @@
     },
     {
       "id": "mainui_main_stamina",
-      "content": "สตามิน่า"
+      "content": "Stamina"
     },
     {
       "id": "mainui_main_enkephalin",
@@ -42,35 +42,35 @@
     },
     {
       "id": "mainui_battleselection_everydungeon",
-      "content": "ดันเจียนกระจกเงา"
+      "content": "Mirror Dungeons"
     },
     {
       "id": "mainui_stageinfo_recommendlevel",
-      "content": "ความยาก"
+      "content": "Difficulty"
     },
     {
       "id": "mainui_stageinfo_enemyinfo",
-      "content": "ข้อมูลศัตรู"
+      "content": "Enemy Info"
     },
     {
       "id": "mainui_stageinfo_exclearcondition",
-      "content": "เป้าหมายพิเสษ"
+      "content": "EX Objectives"
     },
     {
       "id": "mainui_stageinfo_statinfo",
-      "content": "สถานะ"
+      "content": "Status"
     },
     {
       "id": "mainui_stageinfo_resistinfo",
-      "content": "ความต้านทาน"
+      "content": "Resistances"
     },
     {
       "id": "mainui_stageinfo_enterbutton",
-      "content": "เข้าเล่น"
+      "content": "Enter"
     },
     {
       "id": "mainui_stageinfo_dungeonclear",
-      "content": "ภารกิจหลัก"
+      "content": "Main Objectives"
     },
     {
       "id": "mainui_sinners_battleannouncer",
@@ -78,7 +78,7 @@
     },
     {
       "id": "mainui_sinners_dante",
-      "content": "ดันเต้"
+      "content": "Dante"
     },
     {
       "id": "mainui_sinners_decklist",
@@ -98,11 +98,11 @@
     },
     {
       "id": "mainui_sinners_participant",
-      "content": "เลือกผู้เข้าร่วม"
+      "content": "Select Participants"
     },
     {
       "id": "mainui_sinners_startbattle",
-      "content": "สู่การต่อสู้!"
+      "content": "To Battle!"
     },
     {
       "id": "mainui_common_personality",
@@ -126,15 +126,15 @@
     },
     {
       "id": "mainui_skip_desc",
-      "content": "ต้องการที่จะกดข้ามหรือไม่?"
+      "content": "Are you sure you want to skip?"
     },
     {
       "id": "mainui_battleresult_reward",
-      "content": "รางวัล"
+      "content": "Rewards"
     },
     {
       "id": "mainui_battleresult_exclearreward",
-      "content": "รางวัลพิเศษ"
+      "content": "EX Rewards"
     },
     {
       "id": "mainui_battleresult_statistics",
@@ -142,51 +142,51 @@
     },
     {
       "id": "mainui_ok",
-      "content": "แน่ใจ"
+      "content": "Confirm"
     },
     {
       "id": "mainui_battleresult_victory",
-      "content": "ชัยชนะ"
+      "content": "Victory"
     },
     {
       "id": "mainui_battleresult_defeat",
-      "content": "พ่ายเเพ้"
+      "content": "Defeat"
     },
     {
       "id": "mainui_battleresult_return",
-      "content": "กลับ"
+      "content": "Return"
     },
     {
       "id": "mainui_battleresult_hint",
-      "content": "คำใบ้"
+      "content": "Hint"
     },
     {
       "id": "mainui_page",
-      "content": "หน้า {0}"
+      "content": "Pg. {0}"
     },
     {
       "id": "mainui_cancel",
-      "content": "ยกเลิก"
+      "content": "Cancel"
     },
     {
       "id": "mainui_select",
-      "content": "เลือก"
+      "content": "Select"
     },
     {
       "id": "mainui_select_finished",
-      "content": "เสร็จสิ้น"
+      "content": "Finalize"
     },
     {
       "id": "mainui_grade",
-      "content": "ด่าน {0}"
+      "content": "Stage {0}"
     },
     {
       "id": "mainui_floor",
-      "content": "ชั้น {0}"
+      "content": "Floor {0}"
     },
     {
       "id": "mainui_main_enkephalin_Box",
-      "content": "กล่อง Enkephalin"
+      "content": "Enkephalin Box"
     },
     {
       "id": "mainui_main_own_count",
@@ -194,39 +194,39 @@
     },
     {
       "id": "mainui_mirror_entrance_entry",
-      "content": "จะเข้า {0} หรือไม่?"
+      "content": "Will you enter {0}?"
     },
     {
       "id": "mainui_mirror_entrance_progressing",
-      "content": "{0} อยู่ระหว่างการดำเนินการ"
-    },
-    {
-      "id": "mainui_mirror_entrance_progressing",
-      "content": "{0} อยู่ระหว่างการดำเนินการ."
+      "content": "{0} is in progress."
     },
     {
       "id": "mainui_mirror_entrance_re_entry",
-      "content": "กลับเข้าสู่ดันเจี้ยนใหม่หรือไม่?"
+      "content": "Will you reenter the dungeon?"
     },
     {
       "id": "mainui_mirror_entrance_quit",
-      "content": "ล้มเลิกการสำรวจดันเจี้ยนหรือไม่?"
+      "content": "Quit exploring the dungeon?"
+    },
+    {
+      "id": "mainui_mirror_entrance_quit_former",
+      "content": "Forfeit previous exploration progress?"
     },
     {
       "id": "mainui_mirror_entrance_warning",
-      "content": "※ Enkephalin Modules ที่เสียไปจะไม่ได้กลับคืน"
+      "content": "※ Spent Enkephalin Modules will not be refunded."
     },
     {
       "id": "mainui_proress",
-      "content": "ดำเนินการต่อ"
+      "content": "Proceed"
     },
     {
       "id": "mainui_stop",
-      "content": "หยุด"
+      "content": "Halt"
     },
     {
       "id": "mainui_next",
-      "content": "ถัดไป"
+      "content": "Next"
     },
     {
       "id": "mainui_ego_list",
@@ -238,11 +238,11 @@
     },
     {
       "id": "mainui_acquired_reward",
-      "content": "รางวัลที่ได้รับ"
+      "content": "Rewards Acquired"
     },
     {
       "id": "mainui_dungeon_finished",
-      "content": "หยุดการสำรวจชั่วคราว"
+      "content": "Pause Exploration"
     },
     {
       "id": "mainui_category",
@@ -270,7 +270,7 @@
     },
     {
       "id": "mainui_mirror_opening",
-      "content": "เปิดเเล้ว"
+      "content": "Now Open"
     },
     {
       "id": "mainui_simulation",
@@ -310,15 +310,15 @@
     },
     {
       "id": "mainui_gacha_extract1",
-      "content": "กด 1 ครั้ง"
+      "content": "Extract 1"
     },
     {
       "id": "mainui_gacha_extract10",
-      "content": "กด 10 ครั้ง"
+      "content": "Extract 10"
     },
     {
       "id": "mainui_open_battlepass",
-      "content": "ปลดล็อค Battle Pass เเล้ว!"
+      "content": "The Battle Pass is unlocked!"
     },
     {
       "id": "mainui_grade_without_space",
@@ -342,15 +342,15 @@
     },
     {
       "id": "mainui_networkingerror_content",
-      "content": "เครือข่ายไม่เสถียร\nกรุณาตรวจสอบการเชื่อมต่อเครือข่ายของคุณ"
+      "content": "The network is unstable.\nPlease check your Internet connection."
     },
     {
       "id": "mainui_networkingerror_close",
-      "content": "ปิด"
+      "content": "Close"
     },
     {
       "id": "mainui_networkingerror_retry",
-      "content": "ลองอีกครั้ง"
+      "content": "Retry"
     },
     {
       "id": "mainui_event_notice",
@@ -370,15 +370,15 @@
     },
     {
       "id": "mainui_dungeon_progress_rate",
-      "content": "ความคืบหน้าดันเจี้ยน"
+      "content": "Dungeon Progress"
     },
     {
       "id": "mainui_guaranteed_reward",
-      "content": "รางวัลที่ได้รับ"
+      "content": "Rewards"
     },
     {
       "id": "mainui_select_reward",
-      "content": "รางวัลทางเลือก"
+      "content": "Optional Rewards"
     },
     {
       "id": "mainui_battle_pass_exp",
@@ -386,19 +386,19 @@
     },
     {
       "id": "mainui_enforce_ticket",
-      "content": "ตั๋วอัปเกรด"
+      "content": "Upgrade Tickets"
     },
     {
       "id": "mainui_reward_random_box",
-      "content": "กล่องสุ่ม Egoshards"
+      "content": "Egoshard Crates"
     },
     {
       "id": "mainui_reward_select_box",
-      "content": "กล่องเลือก Egoshards"
+      "content": "Nominable Egoshard Crates"
     },
     {
       "id": "mainui_manaUsage",
-      "content": "ค่า Sanity"
+      "content": "Sanity Cost"
     },
     {
       "id": "mainui_abnormality_analysis_level",
@@ -414,11 +414,11 @@
     },
     {
       "id": "mainui_receive",
-      "content": "รับ"
+      "content": "Claim"
     },
     {
       "id": "mainui_dungeon_finished_reward",
-      "content": "รางวัลการสำรวจ"
+      "content": "Exploration Reward"
     },
     {
       "id": "mainui_passive",
@@ -434,7 +434,7 @@
     },
     {
       "id": "mainui_personality_synchronization_level",
-      "content": "Uptie ขั้น"
+      "content": "Uptie Tier"
     },
     {
       "id": "mainui_owned",
@@ -442,7 +442,7 @@
     },
     {
       "id": "mainui_growth_level_limited",
-      "content": "ไม่สามารถใช้ได้ที่ Lv. {0}+"
+      "content": "Cannot use at Lv. {0}+"
     },
     {
       "id": "mainui_stats_attack",
@@ -450,39 +450,39 @@
     },
     {
       "id": "mainui_mailbox_receive_all",
-      "content": "รับทั้งหมด"
+      "content": "Claim All"
     },
     {
       "id": "mainui_mailbox_receive_history",
-      "content": "ประวัติ"
+      "content": "History"
     },
     {
       "id": "mainui_remain_days",
-      "content": "เหลืออีก {0} วัน"
+      "content": "{0} days left"
     },
     {
       "id": "mainui_mail_remains_count",
-      "content": "กล่องจดหมาย"
+      "content": "Inbox"
     },
     {
       "id": "mainui_mail_warning",
-      "content": "※ จุได้สูงสุดที่ 100; จดหมายที่หมดอายุเเล้วจะถูก<color=#990000>ลบออก</color>."
+      "content": "※ Maximum capacity is 100; expired mail will be <color=#990000>deleted</color>."
     },
     {
       "id": "mainui_mail_warning2",
-      "content": "※ ของที่กดรับที่กล่องจดหมายอาจมีข้อจำกัดในการยกเลิก"
+      "content": "※ Items claimed at the mailbox may be subject to cancellation restrictions."
     },
     {
       "id": "main_information",
-      "content": "ข้อมูล"
+      "content": "Info"
     },
     {
       "id": "main_until",
-      "content": "หมดหายุ"
+      "content": "Expiry"
     },
     {
       "id": "mainui_synchronization_grade",
-      "content": "Uptie ขั้น"
+      "content": "Uptie Tier"
     },
     {
       "id": "mainui_organization",
@@ -490,51 +490,51 @@
     },
     {
       "id": "story_ui_log_popup",
-      "content": "บันทึก"
+      "content": "Log"
     },
     {
       "id": "mail_box_attachments",
-      "content": "เนื้อหา"
+      "content": "Content"
     },
     {
       "id": "mail_box_unseal_result",
-      "content": "ได้รับพัสดุเเล้ว"
+      "content": "Parcel Received"
     },
     {
       "id": "item_use_result",
-      "content": "ไอเทมที่ใช้"
+      "content": "Item Used"
     },
     {
       "id": "giving_up_story_dungeon_title",
-      "content": "ล้มเลิกการสำรวจดันเจี้ยนเนื้อเรื่อง"
+      "content": "Forfeit Story Dungeon"
     },
     {
       "id": "giving_up_story_dungeon_content",
-      "content": "คุณกำลังสำรวจดันเจี้ยนเนื้อเรื่องตอนที่ {0} อยู่\nยกเลิกความคืบหน้าเเล้วเข้าดันเจี้ยนอันใหม่?"
+      "content": "You’re currently exploring Episode {0}’s Story Dungeon.\nForfeit your progress and enter a new dungeon?"
     },
     {
       "id": "mainui_all",
-      "content": "ทั้งหมด"
+      "content": "All"
     },
     {
       "id": "mainui_opened",
-      "content": "เปิด"
+      "content": "Open"
     },
     {
       "id": "mainui_not_opened",
-      "content": "ล็อค"
+      "content": "Locked"
     },
     {
       "id": "mainui_buy",
-      "content": "ยืนยัน"
+      "content": "Confirm"
     },
     {
       "id": "mainui_use",
-      "content": "ใช้"
+      "content": "Use"
     },
     {
       "id": "mainui_consume",
-      "content": "Consumables"
+      "content": "Consumable"
     },
     {
       "id": "mainui_currencies",
@@ -542,7 +542,7 @@
     },
     {
       "id": "mainui_inventory",
-      "content": "ช่องเก็บของ"
+      "content": "Inventory"
     },
     {
       "id": "mainui_awaken_requirement_amount",
@@ -550,39 +550,39 @@
     },
     {
       "id": "mainui_passive_skill_addition",
-      "content": "ปลดล็อค Passives"
+      "content": "Passives Unlocked"
     },
     {
       "id": "mainui_ego_awaken_skill_reinforcement",
-      "content": "อัพเกรด E.G.O Awakening"
+      "content": "E.G.O Awakening Upgraded"
     },
     {
       "id": "mainui_ego_erosion_skill_reinforcement",
-      "content": "อัพเกรด E.G.O Corrosion"
+      "content": "E.G.O Corrosion Upgraded"
     },
     {
       "id": "mainui_lack_of_material_amount",
-      "content": "มี Thread ไม่เพียงพอ"
+      "content": "Not enough Thread."
     },
     {
       "id": "mainui_move",
-      "content": "ไป"
+      "content": "Go"
     },
     {
       "id": "mainui_move_to_twine_store",
-      "content": "Shard::ที่เเลกเปลี่ยน Thread"
+      "content": "Shard::Thread Exchange"
     },
     {
       "id": "mainui_move_to_twine_store_question",
-      "content": "Thread ไม่เพียงพอ\nไปที่ Shard::ที่เเลกเปลี่ยน Thread?"
+      "content": "Insufficient Thread.\nGo to the Shard::Thread Exchange?"
     },
     {
       "id": "mainui_confirm_of_purchased_twine",
-      "content": "เเลกเปลี่ยนเป็น Thread จำนวน {0} อัน?"
+      "content": "Convert to {0} Thread?"
     },
     {
       "id": "mainui_result_of_purchased_twine",
-      "content": "ได้รับ Thread จำรนวน {0} อัน"
+      "content": "Acquired {0} Thread."
     },
     {
       "id": "mainui_personality_awaken_completion",
@@ -594,95 +594,95 @@
     },
     {
       "id": "mainui_new_skill_acquisition",
-      "content": "สกิลใหม่: [{0}]"
+      "content": "New Skill: [{0}]"
     },
     {
       "id": "mainui_new_passive_skill_acquisition",
-      "content": "Passive ใหม่: [{0}]"
+      "content": "New Passive: [{0}]"
     },
     {
       "id": "mainui_new_battle_passive_acquisition",
-      "content": "Combat Passive ใหม่: [{0}]"
+      "content": "New Combat Passive: [{0}]"
     },
     {
       "id": "mainui_new_support_passive_acquisition",
-      "content": "Support Passive ใหม่: [{0}]"
+      "content": "New Support Passive: [{0}]"
     },
     {
       "id": "mainui_skill_reinforcement",
-      "content": "พัฒนาสกิล: [{0}]"
+      "content": "Skill Enhanced: [{0}]"
     },
     {
       "id": "mainui_unlock_personality_story",
-      "content": "ปลดล็อคเนื้อเรื่องของ [{0}] เเล้ว"
+      "content": "Story of [{0}] Unlocked"
     },
     {
       "id": "mainui_ego_awaken_skill_name_reinforcement",
-      "content": "อัพเกรด E.G.O Awakening [{0}]"
+      "content": "E.G.O Awakening [{0}] Upgraded"
     },
     {
       "id": "mainui_ego_erosion_skill_name_reinforcement",
-      "content": "อัพเกรด E.G.O Corrosion [{0}]"
+      "content": "E.G.O Corrosion [{0}] Upgraded"
     },
     {
       "id": "mainui_specific_level_achievement",
-      "content": "ถึง Lv. {0}"
+      "content": "Reach Lv. {0}"
     },
     {
       "id": "mainui_personality_awaken_level_up_condition",
-      "content": "ต้องการ Uptie ขั้นที่ {0}"
+      "content": "Uptie Tier {0} Requirements"
     },
     {
       "id": "mainui_battle_passsive_addition",
-      "content": "ปลดล็อค Combat Passives"
+      "content": "Combat Passives Unlocked"
     },
     {
       "id": "mainui_support_passsive_addition",
-      "content": "ปลดล็อค Support Passives"
+      "content": "Support Passives Unlocked"
     },
     {
       "id": "mainui_check_purchase",
-      "content": "ยืนยันคำสั่งซื้อ"
+      "content": "Confirm Purchase"
     },
     {
       "id": "mainui_acquire_banner",
-      "content": "ได้รับ Banner"
+      "content": "Banner Acquired"
     },
     {
       "id": "mainui_purchase_complete",
-      "content": "ซื้อเเล้ว"
+      "content": "Purchased"
     },
     {
       "id": "mainui_activation",
-      "content": "เปิดใช้งานแล้ว"
+      "content": "ACTIVATED"
     },
     {
       "id": "mainui_ask_purchase_enkephalin",
-      "content": "Enkephalin ไม่เพียงพอ\nต้องการที่จะเติม Enkephalin ของคุณหรือไม่?"
+      "content": "Insufficient Enkephalin.\nWould you like to recharge your Enkephalin?"
     },
     {
       "id": "mainui_ask_purchase_enkephalin_box",
-      "content": "คุณมีกล่อง Enkephalin ไม่เพียงพอ\nต้องการจะไปซื้อเพิ่มบางส่วนไหม?"
+      "content": "You don’t have enough Enkephalin Boxes.\nWould you like to go purchase some?"
     },
     {
       "id": "mainui_rewatching-stage-story",
-      "content": "ดูเนื้อเรื่องซ้ำ"
+      "content": "Rewatch Story"
     },
     {
       "id": "mainui_before_battle",
-      "content": "ก่อนต่อสู้"
+      "content": "Pre-battle"
     },
     {
       "id": "mainui_after_battle",
-      "content": "หลังต่อสู้"
+      "content": "Post-battle"
     },
     {
       "id": "mainui_story",
-      "content": "เนื้อเรื่อง"
+      "content": "Story"
     },
     {
       "id": "Get_Reward",
-      "content": "รางวัลที่ได้รับ"
+      "content": "Rewards Earned"
     },
     {
       "id": "mainui_user_exp",
@@ -690,7 +690,7 @@
     },
     {
       "id": "mainui_chapter_progress",
-      "content": "คืบหน้า"
+      "content": "Progress"
     },
     {
       "id": "mainui_ex_clear_progress",
@@ -698,31 +698,31 @@
     },
     {
       "id": "mainui_notice_spend_free_lunacy_first",
-      "content": "※ Lunacy ฟรีจะถูกใช้ก่อน"
+      "content": "※ Free Lunacy is used first."
     },
     {
       "id": "mainui_notice_require_lunacy",
-      "content": "※ Lunacy ไม่เพียงพอ"
+      "content": "※ Not enough Lunacy."
     },
     {
       "id": "mainui_progress_of_spend",
-      "content": "จ่าย {0} ในการกด {1}?"
+      "content": "Spend {0} to proceed with {1}?"
     },
     {
       "id": "game_setting",
-      "content": "ตั้งค่า"
+      "content": "Config"
     },
     {
       "id": "level",
-      "content": "เลเวล"
+      "content": "Level"
     },
     {
       "id": "name",
-      "content": "ชื่อ"
+      "content": "Name"
     },
     {
       "id": "order_of_acquisition",
-      "content": "ล่าสุด"
+      "content": "Recent"
     },
     {
       "id": "tolerance",
@@ -730,63 +730,63 @@
     },
     {
       "id": "outstanding_staff",
-      "content": "พนักงานที่ยอดเยี่ยมที่สุด"
+      "content": "Most Valued Employee"
     },
     {
       "id": "total_damage_contribution",
-      "content": "ทำดาเมจไปทั้งหมด"
+      "content": "Damage Contributed"
     },
     {
       "id": "deal_damage",
-      "content": "ทำไป"
+      "content": "Dealt"
     },
     {
       "id": "taken_damage",
-      "content": "ได้รับ"
+      "content": "Taken"
     },
     {
       "id": "user_level_up_notice",
-      "content": "เลเวลผู้จัดการเพิ่มขึ้น!"
+      "content": "Manager Level Increased!"
     },
     {
       "id": "increase_maxium_enkephalin",
-      "content": "เพิ่มความจุในการเก็บ Enkephalin!"
+      "content": "Enkephalin Capacity Up!"
     },
     {
       "id": "recharge_enkephalin_notice",
-      "content": "Enkephalin ถูกเติมจนเติมเเล้ว"
+      "content": "Enkephalin has been refilled."
     },
     {
       "id": "gacha_extract_multiple",
-      "content": "กด {0}"
+      "content": "Extract {0}"
     },
     {
       "id": "number_of_times",
-      "content": "ครั้ง"
+      "content": "Time(s)"
     },
     {
       "id": "number_of_remain_extract_times",
-      "content": "เหลือการกดอีก"
+      "content": "Extractions Remaining"
     },
     {
       "id": "notice_of_remain_extract_chance",
-      "content": "การันตี Identity or E.G.O 3★ ในอีก {0} ครั้ง"
+      "content": "3★ Identity or E.G.O assured in {0} Extractions"
     },
     {
       "id": "mainui_settings",
-      "content": "ตั้งค่า"
+      "content": "Settings"
     },
     {
       "id": "mainui_environment_settings",
-      "content": "ตั้งค่า"
+      "content": "Settings"
     },
     {
       "id": "mainui_back",
-      "content": "กลับ"
+      "content": "Return"
     },
     {
       "id": "mainui_quit_game",
-      "content": "ออกจากเกม"
+      "content": "Quit Game"
     },
     {
       "id": "mainui_acquisition",
@@ -802,15 +802,15 @@
     },
     {
       "id": "resume",
-      "content": "ไปต่อ"
+      "content": "Resume"
     },
     {
       "id": "mainui_entering",
-      "content": "เข้า"
+      "content": "Enter"
     },
     {
       "id": "mainui_open_after_clear",
-      "content": "เคลียร์ Ch. {0} เพื่อปลดล็อค"
+      "content": "Clear Ch. {0} to Unlock"
     },
     {
       "id": "mainui_organization_sharp",
@@ -826,7 +826,7 @@
     },
     {
       "id": "mainui_unlock_condition_by_personality_awaken_level",
-      "content": "ปลดล็อคในขั้นที่ {0}"
+      "content": "Unlocked at Tier {0}"
     },
     {
       "id": "skill_growth_value",
@@ -854,11 +854,11 @@
     },
     {
       "id": "used_currencies",
-      "content": "ใช่ค่าเงินไปจำนวน"
+      "content": "Currency Used"
     },
     {
       "id": "mainui_ask_purchase_enkephalin_module",
-      "content": "คุณมี Enkephalin Modules ไม่เพียงพอ\nต้องการที่จะประกอบเพิ่มไหม?"
+      "content": "You don’t have enough Enkephalin Modules.\nWould you like to go assemble some?"
     },
     {
       "id": "list",
@@ -1006,15 +1006,15 @@
     },
     {
       "id": "inventory_category_all",
-      "content": "ทั้งหมด"
+      "content": "All"
     },
     {
       "id": "inventory_category_normal",
-      "content": "พื้นฐาน"
+      "content": "Basic"
     },
     {
       "id": "inventory_category_consumable",
-      "content": "ของที่ใช้เเล้วหมด"
+      "content": "Consumables"
     },
     {
       "id": "inventory_category_pieces",
@@ -1030,19 +1030,19 @@
     },
     {
       "id": "notice_not_enough_pieces",
-      "content": "※ มี Egoshards ไม่เพียงพอ"
+      "content": "※ Not enough Egoshards."
     },
     {
       "id": "buy_personaliy",
-      "content": "ซื้อ Identity"
+      "content": "Purchase Identity"
     },
     {
       "id": "buy_ego",
-      "content": "ซื้อ E.G.O"
+      "content": "Purchase E.G.O"
     },
     {
       "id": "not_enough_pieces",
-      "content": "มี Egoshards ไม่เพียงพอ"
+      "content": "Not enough Egoshards"
     },
     {
       "id": "basis",
@@ -1050,11 +1050,11 @@
     },
     {
       "id": "skip_tutorial",
-      "content": "ข้ามการฝึกสอน"
+      "content": "Skip Tutorial"
     },
     {
       "id": "skip_tutorial_description",
-      "content": "ต้องการที่จะข้ามโหมดฝึกสอน?"
+      "content": "Are you sure you want to skip the tutorial?"
     },
     {
       "id": "min_speed_upgrade",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "mailbox",
-      "content": "กล่องจดหมาย"
+      "content": "Mailbox"
     },
     {
       "id": "remain_days_label",
@@ -1078,7 +1078,7 @@
     },
     {
       "id": "extract_again",
-      "content": "สุ่มอีกครั้ง"
+      "content": "Extract Again"
     },
     {
       "id": "ego_gift",
@@ -1102,11 +1102,11 @@
     },
     {
       "id": "notice_sold_out",
-      "content": "หมดสต๊อก"
+      "content": "Out of Stock"
     },
     {
       "id": "select_piece",
-      "content": "เลือก Egoshard ที่จะใช้"
+      "content": "Choose Egoshard"
     },
     {
       "id": "mail_item_warning",
@@ -1114,11 +1114,11 @@
     },
     {
       "id": "mainui_unlock_condition_by_ego_awaken_level",
-      "content": "ปลกล็อคที่ขั้น {0}"
+      "content": "Unlocked at Tier {0}"
     },
     {
       "id": "empty_mailbox_notice",
-      "content": "ไม่มีจดหมายใหม่ในตู้"
+      "content": "No mail in storage."
     },
     {
       "id": "gacha_rate_detail",
@@ -1130,11 +1130,11 @@
     },
     {
       "id": "clear_specific_stage",
-      "content": "เคลียร์ {0}"
+      "content": "Clear {0}"
     },
     {
       "id": "clear_main_chapter_stage",
-      "content": "เคลียร์ Ch. {0}"
+      "content": "Clear Ch. {0}"
     },
     {
       "id": "ingredients",
@@ -1270,7 +1270,7 @@
     },
     {
       "id": "mainui_acquire_user_ticker_deco",
-      "content": "(Dummy Text)"
+      "content": "Item gained"
     },
     {
       "id": "last_battlepass_season_level",
@@ -1326,7 +1326,7 @@
     },
     {
       "id": "get_not_acquired_rewards",
-      "content": "ได้รับรางวัลที่ไม่ได้กดรับไว้เเล้ว"
+      "content": "Unclaimed Rewards Delivered"
     },
     {
       "id": "items_changed_by_season_changed_desc",
@@ -1342,7 +1342,7 @@
     },
     {
       "id": "twine_store",
-      "content": "Shard::ที่เเลกเปลี่ยน Thread"
+      "content": "Shard::Thread Exchange"
     },
     {
       "id": "pass",
@@ -1558,7 +1558,7 @@
     },
     {
       "id": "open_after_clear_node",
-      "content": "เคลียร์ {0}-{1} เพื่อปลดล็อค"
+      "content": "Clear {0}-{1} to Unlock"
     },
     {
       "id": "effect_list_to_applied_level",
@@ -1618,11 +1618,11 @@
     },
     {
       "id": "mainui_battleresult_ordeal_victory",
-      "content": "การปราบปรามสำเร็จ"
+      "content": "Suppression Complete"
     },
     {
       "id": "mainui_battleresult_ordeal_defeat",
-      "content": "การปราบปรามล้มเหลว"
+      "content": "Suppression Failed"
     },
     {
       "id": "remain_exchange_count",
@@ -1754,15 +1754,15 @@
     },
     {
       "id": "item_owned_count",
-      "content": "(มีอยู่ : {0})"
+      "content": "(Owned : {0})"
     },
     {
       "id": "lunacy_owned_count_paid",
-      "content": "(จ่าย : {0}, ฟรี : {1})"
+      "content": "(Paid : {0}, Free : {1})"
     },
     {
       "id": "lunacy_owned_count_free",
-      "content": "(จ่าย : {0}, ฟรี : {1})"
+      "content": "(Paid : {0}, Free : {1})"
     },
     {
       "id": "mainui_ask_use_personality_level_ticket_disadvantage",
@@ -1806,7 +1806,7 @@
     },
     {
       "id": "announcer_spoiler_caution",
-      "content": "This Announcer contains spoilers for Chapter <color=#990000><{0}-{1}></color>.\n\nView anyway?\""
+      "content": "This Announcer contains spoilers for Chapter <color=#990000><{0}-{1}></color>.\n\nView anyway?"
     },
     {
       "id": "mass_announcer_spoiler_caution",
@@ -1846,11 +1846,11 @@
     },
     {
       "id": "mini_story_warning_spoiler_checkbox_desc",
-      "content": "ไม่เเสดงข้อความนี้อีก"
+      "content": "Don't see this message again"
     },
     {
       "id": "mainui_settings_push_notification",
-      "content": "การตั้งค่าการเเจ้งเตือน"
+      "content": "Notification Settings"
     },
     {
       "id": "paid_lunacy_ui",
@@ -1858,11 +1858,79 @@
     },
     {
       "id": "story_unable_to_skip",
-      "content": "เนื้อเรื่องตอนนี้ไม่สามารถข้ามได้."
+      "content": "This story cannot be skipped."
     },
     {
       "id": "remote_download_quit_game",
-      "content": "พบเนื้อหาในการโหลดเพิ่ม\nเกมจะถูกปิดลง โปรดรีสตาร์ทเกมใหม่เพื่อโหลดอัพเดท"
+      "content": "A new download has been added.\nThe game will be closed; please restart the game to download the update."
+    },
+    {
+      "id": "mainui_settings_battle_speech",
+      "content": "In-combat Dialogue Subtitles"
+    },
+    {
+      "id": "unable_to_upgrade_sync_level_by_main_story_1",
+      "content": "Upties upon\nclearing\nCanto I"
+    },
+    {
+      "id": "unable_to_upgrade_sync_level_by_main_story_2",
+      "content": "Upties upon\nclearing\nCanto II"
+    },
+    {
+      "id": "exp_dungeon_opened_desc",
+      "content": "EXP Luxcavation has been unlocked."
+    },
+    {
+      "id": "abnormality_tutorial_battle_participate_desc",
+      "content": "Select five Sinners to participate in this Encounter."
+    },
+    {
+      "id": "thread_dungeon_opened_desc",
+      "content": "Thread Luxcavation has been unlocked."
+    },
+    {
+      "id": "mirror_dungeon_opened_desc",
+      "content": "Mirror Dungeon has been unlocked."
+    },
+    {
+      "id": "ego_gift_combine_explain_title",
+      "content": "Fusion Recipes"
+    },
+    {
+      "id": "ego_gift_combine_explain_label_keyword",
+      "content": "Keywords"
+    },
+    {
+      "id": "ego_gift_combine_explain_label_attack_type",
+      "content": "Attack Type"
+    },
+    {
+      "id": "ego_gift_combine_explain_label_etc",
+      "content": "Other"
+    },
+    {
+      "id": "ego_gift_combine_explain_button_label",
+      "content": "Recipes"
+    },
+    {
+      "id": "ego_gift_combine_explain_no_item_list",
+      "content": "No related E.G.O Gift Fusion Recipes."
+    },
+    {
+      "id": "ego_gift_combine_explain_required_label",
+      "content": "{1} of {0}"
+    },
+    {
+      "id": "attendance_event_s6_desc",
+      "content": "Earn rewards based on your attendance during the Event period. Rewards are automatically claimed when the pop-up window appears.\n\nCollect 14 cumulative attendance checks to receive all rewards."
+    },
+    {
+      "id": "formation_none_selected_desc",
+      "content": "You haven't Deployed any Sinners.\n\nSelect the Sinners to set the Deployment order."
+    },
+    {
+      "id": "ego_gift_category_current_theme",
+      "content": "Theme Pack Exclusive Fusion Gift"
     }
   ]
 }

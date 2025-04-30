@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": "very-high",
-      "content": "เหนือกว่า"
+      "content": "Dominating"
     },
     {
       "id": "high",
-      "content": "ได้เปรียบ"
+      "content": "Favored"
     },
     {
       "id": "normal",
-      "content": "สูสี"
+      "content": "Neutral"
     },
     {
       "id": "low",
-      "content": "เสียเปรียบ"
+      "content": "Struggling"
     },
     {
       "id": "very-low",
-      "content": "สิ้นหวัง"
+      "content": "Hopeless"
     },
     {
       "id": "impossible",
-      "content": "เป็นไปไม่ได้"
+      "content": "Unselectable"
     },
     {
       "id": "event-very-high",
-      "content": "สูงมาก"
+      "content": "Very High"
     },
     {
       "id": "event-high",
-      "content": "สูง"
+      "content": "High"
     },
     {
       "id": "event-normal",
-      "content": "ปกติ"
+      "content": "Normal"
     },
     {
       "id": "event-low",
-      "content": "ต่ำ"
+      "content": "Low"
     },
     {
       "id": "event-very-low",
-      "content": "ต่ำมาก"
+      "content": "Very Low"
     },
     {
       "id": "event-impossible",
-      "content": "ใช้งานไม่ได้"
+      "content": "Unselectable"
     }
   ]
 }

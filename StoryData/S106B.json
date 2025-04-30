@@ -2,124 +2,124 @@
   "dataList": [
     {
       "id": 0,
-      "place": "บน เมฟิสโตเฟเลส",
+      "place": "Aboard Mephistopheles",
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "เอิ่ม ขอโทษที่ถามนะคะ…"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "Umm, sorry to ask…"
     },
     {
       "id": 1,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "ถึงเเม้ว่าฉันจะถือเเผนที่ก็ตาม เเต่รู้ได้ไงว่าต้องไปถนนเส้นไหนล่ะ?"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "But if I have the map, how do you know what roads to take?"
     },
     {
       "id": 2,
-      "content": "ไร้เสียงตอบกลับ รถบัสยังคงขับไปด้วยความเร็วสูง"
+      "content": "Answerless, the bus keeps speeding anyway."
     },
     {
       "id": 3,
       "model": "카론",
-      "content": "พวกเรามีสิ่งที่ใช้ในการนำทางค่ะ…"
+      "content": "We do have something to lead us…"
     },
     {
       "id": 4,
       "model": "카론",
-      "content": "นั้นคือสัญชาตญาณของคารอนค่ะ"
+      "content": "Intuition. Charon’s intuition."
     },
     {
       "id": 5,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "ห๊าาาาา?!"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "Whaaat?!"
     },
     {
       "id": 6,
       "model": "카론",
-      "content": "คุณหัวชมพูค่ะ อธิบายทีว่าทำไมถึงเอากระดาษนั้นมาถูหน้าคารอนอยู่ได้"
+      "content": "Pinky-hair, explain why you keep rubbing that odd paper in Charon’s face."
     },
     {
       "id": 7,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "ก็เธอเอาเเต่ไปทางเเปลกๆอ่ะ! ดูเเผนที่นี่สิ จุดหมายของเราอยู่ทางตะวันออกเฉียงใต้จากนี้นะ…"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "Because you keep going in weird directions! Take a look at this map. Our destination is to the southeast of here…"
     },
     {
       "id": 8,
-      "content": "คารอนจ้องไปที่เเผนที่อย่างไม่เต็มใจนัก เพราะเธอละสายตาจากสิ่งที่อยู่ตรงหน้าเธอไม่ได้"
+      "content": "Charon reluctantly gives the map a cursory glance, as she couldn’t ignore the thing right in front of her eyes."
     },
     {
       "id": 9,
       "model": "카론",
-      "content": "ทำตามหัวใจตัวเอง เเล้วนั้นจะนำไปสู่เส้นทางที่เเท้จริงค่ะ"
+      "content": "Follow the heart. That’s where the true path lies."
     },
     {
       "id": 10,
       "model": "돈키호테",
-      "content": "ฟังเถิด ฟังเถิด! เราทุกคนจักต้องก้าวตามเสียงเรียกร้องแห่งหัวใจ!"
+      "content": "Hear, hear! We all must follow as our hearts lead!"
     },
     {
       "id": 11,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "…เเค่ยอมรับมาเถอะว่าเธออ่านเเผนที่ไม่ออกนะ!"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "…You’re just admitting that you can’t read a map."
     },
     {
       "id": 12,
       "model": "이스마엘",
-      "content": "เธอเพิ่งพูดในสิ่งที่ฉันกำลังจะพูดเลย"
+      "content": "You took the words right out of my mouth."
     },
     {
       "id": 13,
-      "content": "ยูริกับอิชมาเอลเอาฝ่ามือปิดเข้าไปที่หน้าของตัวเองพร้อมๆกัน ราวกับว่าเชื่อมจิตมา"
+      "content": "Yuri and Ishmael put a palm over their respective faces at the same time, almost like they were in sync."
     },
     {
       "id": 14,
       "model": "로쟈",
-      "content": "อู้ว! คนขับรถเราได้เพื่อนใหม่หรอ?"
+      "content": "Ooh! Did our driver make a new friend?"
     },
     {
       "id": 15,
       "model": "카론",
-      "content": "พี่ชมพูเอาเเต่พล่ามอยู่ได้ หนูรู้ทางอยู่เเล้วค่ะ"
+      "content": "Pinky keeps on blabbing. I know the way."
     },
     {
       "id": 16,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "ไม่ ฉันหมายถึงเธอกำลังไปผิดทางนะ…"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "No, I mean, you’re going the wrong direction…"
     },
     {
       "id": 17,
       "model": "카론",
-      "content": "ทางข้างหน้า สิ่งขัดขวางอีกเเล้ว บรึ้น-บรึ้นได้ไหมคะ?"
+      "content": "Look ahead, more obstacles. Do I vroom-vroom?"
     },
     {
       "id": 18,
       "model": "베르길리우스",
-      "content": "ไม่ คารอน ขอเวลาสักครู่"
+      "content": "No, Charon. Wait one second."
     },
     {
       "id": 19,
-      "teller": "อันธพาลผู้หิวโหย",
-      "title": "เเบ็คสตรีทเขต 4",
-      "content": "ดูสิ! รถสวยดีนี่พี่! ขอให้ผมนั่งด้วยคนดิ!"
+      "teller": "Famished Hooligan",
+      "title": "District 4 Backstreets",
+      "content": "Lookie! Nice bus you got there! Why don’tcha gimme a ride!"
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "…ผมคิดว่าเมฟิสโตเฟเลสคงอยากจะได้ของหวานนะ"
+      "content": "…I guess Mephistopheles could use a helping of dessert."
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "ลงไปได้… มันสมควรได้กินอีกนิดนึง"
+      "content": "Get on down… It needs to be fed just a bit more."
     }
   ]
 }

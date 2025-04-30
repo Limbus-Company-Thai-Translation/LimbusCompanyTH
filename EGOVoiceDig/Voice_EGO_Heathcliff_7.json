@@ -3,12 +3,12 @@
     {
       "id": "battle_awaken_20701_1",
       "desc": "E.G.O Activation",
-      "dlg": "แกน่ะ... ก็จะถูกยัดลงไปในกระสอบนี้เหมือนกัน!"
+      "dlg": "You’ll… get shoved in this bag too!"
     },
     {
       "id": "battle_awaken_20702_1",
       "desc": "E.G.O Activation",
-      "dlg": "ก็ได้... งั้นเดี๋ยวฉันจะจี่ไฟใส่ไส้ในของแกเลย!"
+      "dlg": "Alright, I’ll sear you down to your guts!"
     },
     {
       "id": "battle_erosion_20702_1",
@@ -18,87 +18,87 @@
     {
       "id": "battle_awaken_20703_1",
       "desc": "E.G.O Activation",
-      "dlg": "คะฮะฮ่าฮ่า! งั้นฉันจะทำให้แกสุกไปทั้งตัว... จนถึงหัวใจของแกเลย!"
+      "dlg": "Kahahaha! I'll fry you... all the way to the heart!"
     },
     {
       "id": "battle_erosion_20703_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ถึงตาที่ฉันได้ทรมารแกบ้างเเล้วล่ะนะ... อยากลองโดนไฟฟ้าซ็อตสมองแกบ้างไหมล่ะ?!"
+      "dlg": "It's my turn to torment you now... Need some shock in your system?!"
     },
     {
       "id": "battle_awaken_20704_1",
       "desc": "E.G.O Activation",
-      "dlg": "หนึ่ง สอง น้ำหนักบาปของแกจะเข้าตัวเเกเองในทุกๆ เสียงที่ดังก้องกังวาล บนโลกนี้"
+      "dlg": "One. Two. The weight of your Karma returns with each rumbling of the earth."
     },
     {
       "id": "battle_erosion_20704_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "วัฏจักรเเห่งสังสารวัฏหมุนเพียงครั้งเดียว เเละในทันใดนั้นเเล้วแกก็จะไม่มีอยู่อีกต่อไป เพราะนั่นคือการมีอยู่ เพราะนั่นคือตัวตนของข้าเอง"
+      "dlg": "The wheel of samsara turns once. And you are forthwith no more. For that is existence. For that is I."
     },
     {
       "id": "battle_awaken_20705_1",
       "desc": "E.G.O Activation",
-      "dlg": "ฮ่า!, แกน่าจะได้เป็นของขวัญที่ดีเลยล่ะ!"
+      "dlg": "Hah, you'll make a fine gift!"
     },
     {
       "id": "battle_erosion_20705_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "เด็กดี! สมควร! ได้รับ! ของขวัญ!"
+      "dlg": "JOLLY! KIDS! DESERVE! PRESENTS!"
     },
     {
       "id": "battle_overdrive_20701_1-1",
       "desc": "Frenzied E.G.O Activation",
-      "dlg": "แก..และทุกๆอย่างที่เหยียบให้ฉันอยูใต้เท้าพวกมัน,\nสร้างกำเเพงกั้นระหว่างฉันกับเคทธี่..."
+      "dlg": "You... and everything that crushed me under their feet,\nbuilt this wall between me and Cathy..."
     },
     {
       "id": "battle_overdrive_20701_1-2",
       "desc": "Frenzied E.G.O Activation",
-      "dlg": "ฉันจะยัดพวกแกไว้ในกระสอบนี้ให้หมด... แล้วลากมันไปจนเลยสุดขอบนรกเลย..."
+      "dlg": "I'll shove all of it in this bag... drag it to the end of inferno..."
     },
     {
       "id": "battle_overdrive_20701_1-3",
       "desc": "Frenzied E.G.O Activation",
-      "dlg": "...เเล้วฟาดมันให้สุดแรงเกิด ในตอนที่ฉันยังมีเเรงอยู่...!"
+      "dlg": "... and pummel it as hard as my strength would allow...!"
     },
     {
       "id": "battle_awaken_20706_1",
       "desc": "E.G.O Activation",
-      "dlg": "มีเพียงฉันเท่านั้นที่ลิขิตมาให้ครองราชย์บนบัลลังก์อย่างโดดเดี่ยว..."
+      "dlg": "I am bound to reign alone atop this solitary throne..."
     },
     {
       "id": "battle_erosion_20706_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ผ้าพวกนี้ทั้งพันบาดเเผลและรั้งฉันไว้ เมื่อไรที่ฉันจะได้ถูกปล่อยจากที่นี่ซักที?!!"
+      "dlg": "These strands bandage and shackle me... When shall I be released?!!"
     },
     {
       "id": "battle_awaken_20701_2",
       "desc": "E.G.O Activation",
-      "dlg": "ฉัน... ต้องไปหาเคทเธอรีน และทุกอย่างที่มันกล้าขวางทางฉัน มันจะได้รู้ซึ้ง..."
+      "dlg": "I... have to meet Catherine. And everything that stands in my way will..."
     },
     {
       "id": "battle_awaken_20701_3",
       "desc": "E.G.O Activation",
-      "dlg": "แม้ว่าเธอจะถูกลืมไปจากใบโลกนี้แล้ว... ฉันก็จะเป็นคนเอาเธอกลับคืนมาเอง"
+      "dlg": "Even if you are forgotten to the world... I'll get you back."
     },
     {
       "id": "battle_awaken_20707_1",
       "desc": "E.G.O Activation",
-      "dlg": "เผ่นเลยสิ,ถ้าแกอยากนะ แต่กระสุนที่กระจายของฉัน...\n...มันจะเป่าสมองแกให้กระจุยเหมือนพลุอยู่ดีไม่ว่าแกจะหนีไปไหนก็ตาม"
+      "dlg": "Leg it, if you want. My scattering bullets...\n...will turn your brain into fireworks no matter where you run."
     },
     {
       "id": "battle_erosion_20707_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "กระสุนเม็ดเดียวมันพอที่ไหนกันเล่า...\nเป่ากระจุยไปให้หมดจนกว่าเสียงดังสนั่นนี่และเขม่าควันนี้มันจะกลบทุกอย่างที่ฉันจำได้มาตลอด...!"
+      "dlg": "A single bullet ain't enough...\nUntil echoes of gunshots and plumes of smoke bury all that I've ever remembered...!"
     },
     {
       "id": "battle_awaken_20708_1",
       "desc": "E.G.O Activation",
-      "dlg": "ฉันไม่ได้โยกไปมาซะหน่อย— ฉันแค่เหวี่ยงมาทางนี้เพื่อจะได้ฟาดพวกมันให้แรงกว่าเดิมตอนขากลับไง!"
+      "dlg": "I ain't off balance—I was just swayin' this side to smack 'em even harder on the comeback!"
     },
     {
       "id": "battle_erosion_20708_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "แกน่ะมีโอกาสช่วยฉันได้แท้ๆ... ก่อนที่ฉันจะเเตกเป็นเสี่ยงๆ...!"
+      "dlg": "You could've helped me... Before I fell apart...!"
     }
   ]
 }

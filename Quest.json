@@ -2,35 +2,35 @@
   "dataList": [
     {
       "id": "1",
-      "content": "เคลียร์ภายใน {0} เทิร์น"
+      "content": "Clear within {0} turns"
     },
     {
       "id": "2",
-      "content": "กำราบบอสในดันเจี้ยน"
+      "content": "Suppress the Dungeon Boss"
     },
     {
       "id": "3",
-      "content": "เคลียร์ด่าน"
+      "content": "Clear Stage"
     },
     {
       "id": "40000",
-      "content": "เคลียร์การต่อสู้ โดยที่  HP  ของพันธมิตรทุกคนยังเกิน 50%"
+      "content": "Clear Encounter with all allies at 50%+ HP"
     },
     {
       "id": "50000",
-      "content": "จัดการ Peccatula ภายในเทิร์นที่กำหรด"
+      "content": "Defeat the Peccatula within the turn limit"
     },
     {
       "id": "60000",
-      "content": "จัดการศัตรูก่อนที่พวกมันจะระเบิดตัวเอง"
+      "content": "Defeat the enemies before they self-detonate"
     },
     {
       "id": "70000",
-      "content": "ห้ามรับการโจมตีมากกว่า 10 ครั้งระหว่างการต่อสู้ในแต่ละตัวตน"
+      "content": "Do not take 10+ hits during the Encounter for each Identity"
     },
     {
       "id": "80000",
-      "content": "แต่ละยูนิตจัดการ Peccatulum ที่ใช้รูปพรรณของตัวเองหนึ่งครั้ง"
+      "content": "Each unit defeats the Peccatulum that has taken their shape once"
     }
   ]
 }

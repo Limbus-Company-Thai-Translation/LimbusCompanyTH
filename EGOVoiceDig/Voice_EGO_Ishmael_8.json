@@ -3,97 +3,97 @@
     {
       "id": "battle_awaken_20801_1",
       "desc": "E.G.O Activation",
-      "dlg": "ไอ้สารเลวนั่น... มันยังมีชีวิตอยู่แน่"
+      "dlg": "That bastard… has to be alive still."
     },
     {
       "id": "battle_awaken_20801_2",
       "desc": "E.G.O Activation",
-      "dlg": "นี่คือเส้นทางที่ฉันเลือกเดินด้วยตัวเอง..."
+      "dlg": "This is how I will chart my own path…"
     },
     {
       "id": "battle_special_1",
       "desc": "E.G.O Activation",
-      "dlg": "การเดินเรือครั้งนี้จะเต็มไปด้วยอุปสรรคมากมาย ทุกคน,จับอะไรบางอย่างไว้!"
+      "dlg": "This is going to be one bumpy voyage. Everyone, hold on to something!"
     },
     {
       "id": "battle_special_2",
       "desc": "E.G.O Activation",
-      "dlg": "กำหนดทางของเธอเอง ทางของเธอ นั้นคือคำขอของฉัน"
+      "dlg": "Chart your own way. Your path. That is my wish."
     },
     {
       "id": "battle_awaken_20802_1",
       "desc": "E.G.O Activation",
-      "dlg": "ก่อนที่ความสุขจะกลืนกินฉันจนหมด..."
+      "dlg": "Before pleasure swallows me whole…"
     },
     {
       "id": "battle_erosion_20802_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ฮิฮิ! ฉันจะห่อแก... ให้มันหลงใหลไปกับมัน!"
+      "dlg": "Wheehee! I’ll enwrap it… enrapture it."
     },
     {
       "id": "battle_awaken_20803_1",
       "desc": "E.G.O Activation",
-      "dlg": "แม้ฉันจะไม่สามารถนำทางให้คุณได้... แต่ฉันสามารถมอบความอบอุ่นให้คุณได้"
+      "dlg": "Though I can’t guide you… I can offer a warm embrace."
     },
     {
       "id": "battle_erosion_20803_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "เห็นไหม? การต่อสู้ที่บิดเบี้ยวของฉัน, หวังว่าโลกทั้งใบจะถูกเปลวไฟห่อหุ้มไปพร้อมกับฉัน..."
+      "dlg": "Do you see? My writhing struggle, hoping the world is cocooned in flames with me…"
     },
     {
       "id": "battle_awaken_20804_1",
       "desc": "E.G.O Activation",
-      "dlg": "เร็วเข้า... ทางนี้!"
+      "dlg": "Come on… This way!"
     },
     {
       "id": "battle_erosion_20804_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "มันต้องอยู่แถวนี้สิ... โอ๊ะ,หรือมันจะอยู่ตรงนั้น?"
+      "dlg": "Must be here… Oh, was it that way?"
     },
     {
       "id": "battle_awaken_20805_1",
       "desc": "E.G.O Activation",
-      "dlg": "ทุกคน, มุ่งหน้าเต็มกำลังไปยังแสงริบหรี่นั่น\nคลื่นลูกนั้น... จะกวาดล้างทุกสิ่งที่ขวางทางเราให้สิ้นซาก!."
+      "dlg": "All hands, full speed toward where the lights flicker.\nThe waves... will lay waste to everything in our way."
     },
     {
       "id": "battle_erosion_20805_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ทะเล, มุ่งหน้าไปยังทะเล! ทุกคน, สละเรือและจมสู่ห้วงลึก! พวกเราจะจมสู่ความมืดที่ริบหรี่ไปพร้อมกัน"
+      "dlg": "To the sea, to the sea. All hands, abandon ship and descend. Into the flickering depths we sink."
     },
     {
       "id": "battle_erosion_20805_3",
       "desc": "E.G.O Corrosion",
-      "dlg": "ทะเล, มุ่งหน้าไปยังทะเล! ทุกคน, สละเรือและจมสู่ห้วงลึก! พวกเราจะจมสู่ความมืดที่ริบหรี่ไปพร้อมกัน"
+      "dlg": "To the sea, to the sea. All hands, abandon ship and descend. Into the flickering depths we sink."
     },
     {
       "id": "battle_awaken_20806_1",
       "desc": "E.G.O Activation",
-      "dlg": "ดีมาก อยู่นิ่งๆ แล้วอย่าดิ้นล่ะ เนื้อที่มีแผล... มันไม่อร่อยหรอกนะ"
+      "dlg": "Very good. Sit still and be gentle. Scarred meat isn't... tasty."
     },
     {
       "id": "battle_erosion_20806_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ก-แกสงสัยฉัน,ใช่ไหมละ...?\nไอ้สารชั่วต้องเก็บงำความคิดต่ำทราบเอาไว้ละสิ...!"
+      "dlg": "Y-you suspected me, didn't you...?\nBastards harboring such evil thoughts must be...!"
     },
     {
       "id": "battle_awaken_20807_1",
       "desc": "E.G.O Activation",
-      "dlg": "ด้วยคำสั่งจากเจ้านายของฉันม ฉันจะ...กำจัดแกออกไปจากที่นี่"
+      "dlg": "By the command of my master, I... will cleanse you from this place."
     },
     {
       "id": "battle_erosion_20807_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "การทำความสะอาดนี้ไม่มีวันจบสิ้น... เฮ้ยแก! หยุดสร้างความวุ่นวายไปทั่วคฤหาสน์ได้แล้ว!"
+      "dlg": "There's no end to this cleaning... You! Stop leaving your mess all over the manor!"
     },
     {
       "id": "battle_awaken_20808_1",
       "desc": "E.G.O Activation",
-      "dlg": "สัตว์ประหลาดงั้นเหรอ? นี่คุณกำลังพูดเรื่องอะไรน่ะ...คงเห็นภาพหลอนไปเองแล้วล่ะ\nฮ่าา... คงไม่มีใครเห็นเมื่อกี้ใช่มั้ย?"
+      "dlg": "A monster? What are you... You've got to be hallucinating or something.\nHaah. ... No one saw that, right?"
     },
     {
       "id": "battle_erosion_20808_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ความอยากรู้น่ะมันอันตรายนะ,รู้ไหม... มีมากเกินไป, ความมืดจะกลืนกินแกทั้งตัว"
+      "dlg": "Curiosity is a dangerous thing, you know... too much of it, and the darkness will eat you whole!"
     }
   ]
 }

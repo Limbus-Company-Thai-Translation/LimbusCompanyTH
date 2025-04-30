@@ -3,77 +3,77 @@
     {
       "id": "battle_awaken_20901_1",
       "desc": "E.G.O Activation",
-      "dlg": "ฉันกลับไปแก้อะไรไม่ได้..."
+      "dlg": "I couldn’t undo a thing…"
     },
     {
       "id": "battle_awaken_20902_1",
       "desc": "E.G.O Activation",
-      "dlg": "หากเปลวไฟร้อนมากพอจะละลายหัวใจ..."
+      "dlg": "If fervent flames can thaw the heart…"
     },
     {
       "id": "battle_awaken_20903_1",
       "desc": "E.G.O Activation",
-      "dlg": "ก็นะ, ฉันคงยืนสั่นอยู่ในความหนาวตลอดไปไม่ได้หรอก"
+      "dlg": "Well, I can’t shiver in the cold forever."
     },
     {
       "id": "battle_erosion_20902_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "เป็นธุลี... เป็นฝุ่น..."
+      "dlg": "To ashes… To dust…"
     },
     {
       "id": "battle_erosion_20903_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ถ้าหยุดอยู่นิ่งๆ... และความเจ็บปวดก็จะไม่เกิดขึ้น"
+      "dlg": "Stay frozen… and there will be no pain."
     },
     {
       "id": "battle_awaken_20904_1",
       "desc": "E.G.O Activation",
-      "dlg": "เหนียวใช่เล่นนะ... คราวนี้แกหลบไม่พ้นแน่!"
+      "dlg": "It's pretty sticky... You won't dodge this!"
     },
     {
       "id": "battle_erosion_20904_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "อื้ม... แหวะ, หยะแหยง! แค่นี้ไม่คุ้มที่จะเอาไปทำเป็นไข่มุกด้วยซ้ำ"
+      "dlg": "Hmm... Ach, yuck. Not even worth turning into a pearl!"
     },
     {
       "id": "battle_awaken_20905_1",
       "desc": "E.G.O Activation",
-      "dlg": "แกจะถูกลงทัณฑ์... ตามบัญชาที่ถูกลิขิตไว้"
+      "dlg": "You will be executed... as it is written."
     },
     {
       "id": "battle_erosion_20905_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ทุกชีวิตต้องถูกลงทัณฑ์ตามบัญชาที่ถูกลิขิตไว้"
+      "dlg": "All shall be executed as it is written."
     },
     {
       "id": "battle_awaken_20906_1",
       "desc": "E.G.O Activation",
-      "dlg": "ต้องมีแค่ฉันเท่านั้นที่จะได้เต้นรำอันงดงามนี้...\nดังนั้นขอตัดข้อเท้าของเธอก่อนก็แล้วกันนะ...!"
+      "dlg": "I must be the only one to dance this beautiful dance...\nSo once I chop off your ankles...!"
     },
     {
       "id": "battle_erosion_20906_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ฮ่าฮ่าฮ่า! ฉันจะแกะสลักมันจนคมกริบ...\nทั้งหมดก็เพื่อให้ได้สีแดงสดฉ่ำ, งดงามกว่าที่เคยเป็น...!"
+      "dlg": "Ahahaha! I'll carve it 'till it's sharp...\nAll for a more sanguine, luscious hue of red...!"
     },
     {
       "id": "battle_awaken_20907_1",
       "desc": "E.G.O Activation",
-      "dlg": "เอาล่ะ, คุณหมีตัวน้อย~ เต้นตามฉันนะ! ทา-ดา!"
+      "dlg": "Now, little teddy~ Dance after me! Ta-da!"
     },
     {
       "id": "battle_erosion_20907_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "เอาล่ะ, ร๊อดย่าตัวน้อย ใช้มือคู่นี้จัดการพวกเขาซะสิ ฟุฟุ~ ทา-ดา!"
+      "dlg": "Now, little Rodya. Hurt them with your own hands. Fuhu, ta-da!"
     },
     {
       "id": "battle_awaken_20908_1",
       "desc": "E.G.O Activation",
-      "dlg": "แขวนพวกมัน, เผาพวกมัน ทำให้กระดูกมันกลายเป็นธุลีซะ"
+      "dlg": "Hang them, burn them. Reduce their bones to cinders."
     },
     {
       "id": "battle_erosion_20908_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "จะเป็นใครกันนะ? จะเป็นแก, หรือ... แก? ใครจะถูกเผาอย่างงดงามกว่ากันนะ... ฉันสงสัย?"
+      "dlg": "Who will it be? Is it you, or... you? Which of you shall burn with more grace... I wonder?"
     }
   ]
 }

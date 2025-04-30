@@ -2,163 +2,163 @@
   "dataList": [
     {
       "id": 0,
-      "place": "เขต 4 - ภายในศูนย์ L Corp",
+      "place": "District 4 - LC Branch Interior",
       "model": "히스클리프",
-      "content": "เเล้วไงต่อ? แค่นี้เองเหรอ?"
+      "content": "So what? That was it?"
     },
     {
       "id": 1,
       "model": "이스마엘",
-      "content": "ฉันเคยได้ยินว่าพวก Abnormalities ควรจะเป็นอะไรที่แข็งแกร่งมากๆ ขนาดแค่พยายามกักเก็บพวกมันยังอันตรายสุดๆเลยนะ…"
+      "content": "I heard Abnormalities were supposed to be so powerful that even suppressing them is a dangerous task…"
     },
     {
       "id": 2,
       "model": "파우스트",
-      "content": "นั่นเป็นผลมาจากเเรงยับยั้งของ Qliphoth ค่ะ"
+      "content": "It’s the Qliphoth Deterrence in action."
     },
-    { 
+    {
       "id": 3,
       "model": "히스클리프",
-      "content": "หา? คอฟฟีพอทส์?"
+      "content": "Huh? Coffee pots?"
     },
     {
       "id": 4,
       "model": "파우스트",
-      "content": "มันเป็นเเรงที่เอาไว้ทำให้เหล่า Abnormalities อ่อนแอลงค่ะ โดยมีจุดประสงค์เพื่อใช้ในการกักกันพวกมันโดยเฉพาะ"
+      "content": "…A force that weakens Abnormalities. Its original purpose is to safely supervise them in containment."
     },
     {
       "id": 5,
       "model": "파우스트",
-      "content": "และยิ่งพวกเราเก็บกิ่งทองได้มากขึ้นเท่าไหร่ เเรงยับยั้งของ Qliphoth ก็จะอ่อนแอลงไปด้วยค่ะ ถึงแม้ว่าครั้งนี้การต่อสู้จะง่ายก็ตาม…"
+      "content": "As we continue our assignment in collecting more Golden Boughs, the deterrence will weaken as well. Although this was a simple battle…"
     },
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "…แต่ในอนาคต พวกเราอาจต้องเอาชีวิตเข้าแลกเป็นร้อยๆเพื่อจัดการพวกมันสินะคะ…"
+      "content": "…Later on, one of them might take our lives more than a hundredfold to handle it."
     },
     {
       "id": 7,
-      "content": "เเค่คิดเเบบนั้นก็น่ากลัวแล้ว"
+      "content": "That’s a terrifying thought…"
     },
     {
       "id": 8,
       "model": "단테",
-      "content": "<…ว่าแต่ศพมันหายไปไหนแล้วล่ะ? ฉันมั่นใจว่าเราตีจนมันตายเเล้วนะ… >"
+      "content": "<…Where’d its corpse go, anyway? I’m pretty sure that attack did it in…>"
     },
     {
       "id": 9,
       "model": "오티스",
-      "content": "มันถูกกำจัดไปเเล้วอย่างไร้ข้อกังขาค่ะ และทั้งหมดต้องขอบคุณคำสั่งที่ยอดเยี่ยมของท่านค่ะ ท่านผู้จัดการ"
+      "content": "It was felled without a doubt. All thanks to your exceptional command, Manager."
     },
     {
       "id": 10,
       "model": "단테",
-      "content": "<แต่ศพมันคงไม่หายไปเฉยๆกลางอากาศแน่ๆ…>"
+      "content": "<It couldn’t have disappeared into the sky…>"
     },
     {
       "id": 11,
       "model": "오티스",
-      "content": "สายตาของท่านยังคงเฉียบแหลมเช่นเคยค่ะ ท่านผู้จัดการ เป็นความเป็นไปได้ที่ยังตัดออกไปไม่ได้ค่ะ"
+      "content": "Brilliant insight as always, Manager. Such possibilities cannot be ruled out."
     },
     {
       "id": 12,
       "model": "그레고르",
-      "content": "…นี่พวกนายไม่เห็นหลังคาที่ดูเเข็งเเรงบนนั่นจริงๆหรอ?"
+      "content": "…Is the tough-looking ceiling above us not a thing to you two?"
     },
     {
       "id": 13,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "…ตรงนั้นค่ะ"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "…Over there."
     },
     {
       "id": 14,
-      "content": "ยูริที่ดูไร้ชีวิตชีวาชี้ไปยังบางสิ่งบางอย่าง"
+      "content": "Listless, Yuri pointed at something."
     },
     {
       "id": 15,
-      "content": "ดูเหมือนความช็อคจากการสูญเสียอาย่าจะกระทบเธออย่างหนัก เเต่การที่เห็นเธอไม่ย่อท้อเเละยังคงเข้มเเข็งอยู่นั้น…"
+      "content": "The shock of losing Aya must’ve shaken her badly, but seeing her hold her own and keep her head up…"
     },
     {
       "id": 16,
-      "content": "ฉันคิดว่าควรปล่อยให้เธอจัดการความรู้สึกของตัวเองก่อน เเละตามเธอต่อไปสักพัก"
+      "content": "I felt I should let her be and follow along with her for a while."
     },
     {
       "id": 17,
       "model": "단테",
-      "content": "<…นั่นมัน 'ไข่' เหรอ?>"
+      "content": "<…Is that an egg?>"
     },
     {
       "id": 18,
       "model": "파우스트",
-      "content": "ดูเหมือนจะเป็นแกนกลางของ Abnormality ค่ะ เมื่อพวกมันถูกกำราบอย่างถูกต้อง มันจะอัดร่างตัวเองกลับไปเป็นรูปทรงไข่เช่นนี้ค่ะ"
+      "content": "It’s the core of the Abnormality. When suppressed via appropriate measures, it will be reduced to this condensed ovate form."
     },
     {
       "id": 19,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "…และไม่นานมันก็จะฟักตัวขึ้นมาใหม่ หลังจากเวลาผ่านไปค่ะ"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "…And it’ll hatch, once enough time has passed here."
     },
     {
       "id": 20,
       "model": "히스클리프",
-      "content": "ฟักตัว? ล้อกันเล่นใช่ไหมเนี่ย…"
+      "content": "Hatch? You’ve got to be joking…"
     },
     {
       "id": 21,
       "model": "이스마엘",
-      "content": "งั้นเธอกำลังจะบอกว่า พวกมันไม่มีวันตาย งั้นหรอ?"
+      "content": "You mean, those things won’t die?"
     },
     {
       "id": 22,
       "model": "파우스트",
-      "content": "Abnormalities นั้นไม่มีวันตายค่ะ นั่นเป็นหนึ่งในเหตุผลที่ทำให้ L Corp สามารถผลิตพลังงานอันมหาศาลจากพวกมันได้ค่ะ"
+      "content": "Abnormalities simply cannot die. It’s one of the factors that contributed to L Corp’s massive energy production."
     },
     {
       "id": 23,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "ตอนฉันยังเป็นพนักงานอยู่ หน้าที่ของฉันคือการเก็บไข่พวกนี้กลับไปไว้ที่ห้องกักกันค่ะ… แต่ตอนนี้ทุกอย่างเปลี่ยนไปแล้ว"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "As an employee, my job was to put the core back in its containment unit… Now things have changed."
     },
     {
       "id": 24,
       "model": "이스마엘",
-      "content": "อืมมม… แล้วก่อนที่ไข่นี่จะฟักตัวเนี่ย พวกเราพอจะทำอะไรกับมันได้บ้างไหมคะ?"
+      "content": "Umm… What can we do before this egg hatches?"
     },
     {
       "id": 25,
       "model": "파우스트",
-      "content": "Limbus Company ของเรามีหน่วยที่รับผิดชอบเรื่อง Abnormalities โดยเฉพาะอยู่ค่ะ เดี๋ยวพวกเขาจะมาเก็บมันไปเองค่ะ"
+      "content": "Limbus Company has a department dedicated to dealing with Abnormalities like this. They’ll retrieve them for us."
     },
     {
       "id": 26,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "อืม… น่าจะเป็นหน่วย After Team สินะคะ? ฉันเคยได้ยินชื่อพวกเขาตอนเข้ารับการปฐมนิเทศอยู่ค่ะ"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "Right… Was it the After Team? I remember hearing about them during orientation."
     },
     {
       "id": 27,
       "model": "로쟈",
-      "content": "แล้วทำไมไม่เรียกพวกเขามาตอนนี้เลยล่ะ?"
+      "content": "What’s stopping you from calling them now?"
     },
     {
       "id": 28,
       "model": "파우스트",
-      "content": "เพราะอุปกรณ์ส่งสัญญาณ… อยู่บนเมฟิสโตเฟเลสค่ะ"
+      "content": "The transmission device… is on Mephistopheles."
     },
     {
       "id": 29,
       "model": "그레고르",
-      "content": "…ว่าเเล้ว"
+      "content": "…Figures."
     },
     {
       "id": 30,
       "model": "파우스트",
-      "content": "ไม่ต้องกังวลหรอกค่ะ ยังไงหลังจากเก็บกู้กิ่งทองได้แล้ว เราก็ต้องกลับไปที่รถอยู่ดีค่ะ"
+      "content": "No need to worry. Once we have the Golden Bough, we’ll return whether we like it or not."
     }
   ]
 }

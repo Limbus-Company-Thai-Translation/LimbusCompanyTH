@@ -1,22 +1,22 @@
 {
-  "dataList": [{},
+  "dataList": [
     {
       "id": 0,
-      "place": "เขต 4 - ภายในศูนย์ L Corp",
+      "place": "District 4 - LC Branch Interior",
       "content": "……"
     },
     {
       "id": 1,
-      "content": "Abnormality นั้นกลืนยูริไปทั้งตัวในคำเดียว"
+      "content": "The Abnormality devoured Yuri in one bite."
     },
     {
       "id": 2,
-      "content": "เธอหายไปโดยไร้ร่องรอย…"
+      "content": "She was gone without a trace…"
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<ฉันช่วยเหล่า Sinners ได้… แต่กับยูริฉันกลับทำอะไรไม่ได้เลย>"
+      "content": "<I can save the other Sinners… but there’s nothing I can do about Yuri.>"
     },
     {
       "id": 4,
@@ -25,11 +25,11 @@
     },
     {
       "id": 5,
-      "content": "โดยไร้ซึ่งคำพูด เกรกอร์ได้เเต่เพียงฟาดอาวุธใส่ Abnormality อย่างไม่หยุดหย่อน"
+      "content": "Without a word, Gregor hacked and slashed away at the Abnormality."
     },
     {
       "id": 6,
-      "content": "ราวกับว่า… ถ้าผ่าผลแอปเปิ้ลลูกนั้นออกมาได้ เขาจะเจอกับยูริในสภาพที่ไร้รอยเเผล"
+      "content": "As if he expected to find Yuri unscathed by slicing the apple open."
     }
   ]
 }

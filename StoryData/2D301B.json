@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": 0,
-      "place": "ชั้นเหมือง B3 ของคาสิโน",
+      "place": "Casino Mine B3",
       "model": "싱클레어",
-      "content": "รู้สึกเหมือนอากาศเย็นลงเรื่อย ๆ เลย"
+      "content": "Feels like it’s getting colder and colder."
     },
     {
       "id": 1,
       "model": "싱클레어",
-      "content": "ทำไมรอบ ๆ ถึงมีแต่น้ำแข็งแบบนี้กันนะ...?"
+      "content": "What’s up with all this ice around…?"
     },
     {
       "id": 2,
       "model": "파우스트",
-      "content": "การที่เราพบกับความผิดปกติมากขึ้นเรื่อย ๆ ถือว่าเป็นสัญญาณที่ดีในอุดมคติค่ะ"
+      "content": "An increase in the frequency of anomalies should ideally be strong, positive reflections."
     },
     {
       "id": 3,
       "model": "이상",
-      "content": "ได้เรียกรึเปล่า"
+      "content": "Did you call?"
     },
     {
       "id": 4,
       "model": "이스마엘",
-      "content": "…บรื้อ หวังว่านั่นจะไม่ใช่การพยายามเล่นมุกของคุณนะคะ มุกเมื้อกี้ทำให้หนาวขึ้นเลย"
+      "content": "…Sigh. I hope that wasn’t your attempt at a joke. Thanks to you, I’m feeling even colder."
     },
     {
       "id": 5,
-      "content": "ขณะที่ฉันปล่อยให้เสียงบ่นของอิชมาเอลผ่านไป ฉันก็ครุ่นคิดถึงคำพูดของเฟาสท์"
+      "content": "Putting aside Ishmael’s grievance, I thought about what Faust had said."
     },
     {
       "id": 6,
       "model": "단테",
-      "content": "< …เพราะนี่มันหมายความว่าเราเข้าใกล้กี่งทองแล้ว แบบนั้นหรอ ? >"
+      "content": "<…Because that means we’re getting close to the Golden Bough… right?>"
     },
     {
       "id": 7,
-      "content": "ฉันว่ามันก็ดูเป็นคำตอบที่ชัดเจนดีนะ แต่จะให้พูดเองก็ยังไงอยู่"
+      "content": "It was a pretty solid answer if I do say so myself."
     },
     {
       "id": 8,
       "model": "파우스트",
-      "content": "ค่ะ ใช่"
+      "content": "Yeah, sure."
     },
     {
       "id": 9,
-      "content": "แต่คำตอบของเฟาสท์ไหงกลับฟังดูจืดชืดกว่าที่ฉันคาดไว้ อย่างน้อยก็ในความคิดฉันล่ะนะ"
+      "content": "But Faust’s reply was discouragingly dull, or at least that’s how I heard it."
     }
   ]
 }

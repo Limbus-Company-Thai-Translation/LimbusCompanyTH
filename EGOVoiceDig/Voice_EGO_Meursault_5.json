@@ -3,52 +3,52 @@
     {
       "id": "battle_awaken_20501_1",
       "desc": "E.G.O Activation",
-      "dlg": "ผู้คนเริ่มมีอำนาจมากขึ้น..."
+      "dlg": "The multitude tightens its hold…"
     },
     {
       "id": "battle_awaken_20502_1",
       "desc": "E.G.O Activation",
-      "dlg": "การกำจัดเป้าหมายตามขั้นตอน"
+      "dlg": "Eliminating target under procedure."
     },
     {
       "id": "battle_erosion_20502_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "อุปสรรคจะถูกขจัดออกไป"
+      "dlg": "Obstacles will be quelled."
     },
     {
       "id": "battle_awaken_20503_1",
       "desc": "E.G.O Activation",
-      "dlg": "ผมจะอธิษฐานให้คุณเอง เพื่อที่คุณจะได้แตกหักเช่นกัน"
+      "dlg": "I will pray for you, so that you shall surely break."
     },
     {
       "id": "battle_erosion_20503_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ก่อนหน้าใคร, คุณ... ไม่ควรยกโทษให้ผม"
+      "dlg": "Before anyone else, you… shan’t pardon me."
     },
     {
       "id": "battle_awaken_20504_1",
       "desc": "E.G.O Activation",
-      "dlg": "...หยุดเถอะ คุณหนีไม่พ้นหรอก"
+      "dlg": "…Halt. You may not escape."
     },
     {
       "id": "battle_erosion_20504_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ผมจะขวิดคุณเอง"
+      "dlg": "I will gore you myself."
     },
     {
       "id": "battle_awaken_20505_1",
       "desc": "E.G.O Activation",
-      "dlg": "ชุดผู้ป่วยจิตเวชตัวนี้... ก็ไม่สามารถที่จะหยุดความรุนแรงของผมได้"
+      "dlg": "This straight-jacket... isn't nearly enough to hold my violence back."
     },
     {
       "id": "battle_erosion_20505_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "หัวผม... กลายเป็น... เหล็ก... สมองผม... แบนแล้ว... จบ, เริ่ม จบ, เริ่ม!"
+      "dlg": "Head... turning into... metal... brain... flattened... Ends, Begins. ENDS, BEGINS!"
     },
     {
       "id": "battle_awaken_20506_1",
       "desc": "E.G.O Activation",
-      "dlg": "ไฟฟ้านี้คือสิ่งเดียวที่ผมมีเหลืออยู่... ผมไม่สามารถ...!"
+      "dlg": "This electricity is all I have left... I can't...!"
     },
     {
       "id": "battle_erosion_20506_1",
@@ -58,12 +58,12 @@
     {
       "id": "battle_awaken_20507_1",
       "desc": "E.G.O Activation",
-      "dlg": "เบ่งบานจากโลหิต, โอ้ ดอกไม่ที่แสนงดงาม\nผมจะน้อมรับคุณไว้เอง!"
+      "dlg": "Blossom from the blood, O beautiful flower.\nI shall gladly claim you as mine!"
     },
     {
       "id": "battle_erosion_20507_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "มากกว่า, มากกว่านี้อีก! นี่ไม่สามารถดับความกระหายของผมได้...\nชั่งมันสิ...! ทะลวงพวกมันด้วยรากแก้วนี้!!!"
+      "dlg": "More, more! This can't quench this scorching thirst...\nBurst the dams...! Penetrate them with the roots!!!"
     }
   ]
 }
