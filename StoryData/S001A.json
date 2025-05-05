@@ -2,21 +2,21 @@
   "dataList": [
     {
       "id": 0,
-      "place": "A Dark Forest",
+      "place": "ในป่าทมิฬ",
       "model": "표범",
-      "teller": "Panther",
+      "teller": "เเพนเทอร์",
       "title": "???",
-      "content": "I don’t get it. This is what Lion struggled against?"
+      "content": "ไม่เข้าใจเลย ไอพวกนี้เนี่ยนะที่ไลออนรับมือไม่ได้?"
     },
     {
       "id": 1,
       "model": "그레고르",
-      "content": "W-Whoa, hang on!"
+      "content": "ห-โห ใจเย็นสิ!"
     },
     {
       "id": 2,
       "model": "그레고르",
-      "content": "I know this is kinda weird coming from someone you were just fighting, but I’m pretty sure we can talk this o—"
+      "content": "รู้ว่าอาจจะฟังดูเเปลกๆ จากปากคนที่กำลังต่อสู้กับเเกเมื่อกี้ เเต่ฉันเชื่อว่าเราน่าจะคุยกั-"
     },
     {
       "id": 3,
@@ -26,17 +26,17 @@
     {
       "id": 4,
       "model": "이상",
-      "content": "This…"
+      "content": "นี้มัน…"
     },
     {
       "id": 5,
       "model": "이상",
-      "content": "…is unideal."
+      "content": "…ไม่เหมือนที่นึกฝันไว้เลย"
     },
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "Haa… I knew it was a ridiculous idea to put up a fight against them."
+      "content": "เฮ้อ… กะเเล้วเชียวว่าการสู้กับพวกนั้นเป็นไอเดียที่บ้าเกินไป"
     },
     {
       "id": 7,
@@ -46,21 +46,21 @@
     {
       "id": -1,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "วูฟฟ์",
       "title": "???",
-      "content": "How long are you going to lie there, Lion? We don’t have time."
+      "content": "จะนอนอยู่ตรงนั้นอีกนานไหม ไลออน? ไม่มีเวลาเเล้วนะ"
     },
     {
       "id": -1,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "ไลออน",
       "title": "???",
-      "content": "…You know, you’re right. No need to make this longer than it has to be."
+      "content": "เธอพูดถูกรู้ไหม ไม่ต้องปล่อยไว้ให้นานกว่านี้เเล้วล่ะ"
     },
     {
       "id": 8,
       "model": "로쟈",
-      "content": "Are y’all kidding? I haven’t even…"
+      "content": "ล้อกันเล่นป่ะเนี่ย? ฉันยังไม่ได้…"
     },
     {
       "id": 9,
@@ -70,78 +70,78 @@
     {
       "id": 10,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<What the hell is going on? You said you’ll fight in my stead!>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<เกิดเรื่องบ้าไรขึ้นเนี่ย? ไหนบอกจะสู้เพื่อฉันไง!>"
     },
     {
       "id": 11,
       "model": "파우스트",
-      "content": "We never promised to win said fights."
+      "content": "พวกเราไม่ได้สัญญาว่าจะชนะค่ะ"
     },
     {
       "id": 12,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<What…>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<อะไรกัน…>"
     },
     {
       "id": 13,
       "model": "파우스트",
-      "content": "And, it seems that I’m the only survivor."
+      "content": "เเละเหมือนว่า ฉันจะเป็นผู้เหลือรอดเพียงผู้เดียวค่ะ"
     },
     {
       "id": 14,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<Oookay. So you were waiting for this?>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<โออออเค งั้นเธอกำลังรอให้เรื่องเเบบนี้เกิดขึ้นหรอ?>"
     },
     {
       "id": 15,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<You have some hidden card up your sleeve, right?>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<อย่าบอกนะว่าเธอมีไพ่ตายซ่อนอยู่ ใช่ไหม?>"
     },
     {
       "id": 16,
       "model": "파우스트",
-      "content": "Not… necessarily a trump, no. Rather…"
+      "content": "ไม่ค่ะ… ไม่เชิงว่าเป็นไพ่ตาย เเต่เป็น…"
     },
     {
       "id": 17,
       "model": "파우스트",
-      "content": "It’s about following the star."
+      "content": "การเฝ้าตามดาวดวงนั้นไปมากกว่าค่ะ"
     },
     {
       "id": 18,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "เเพนเทอร์",
       "title": "???",
-      "content": "What is this, some kind of suicidal performance? Not the funnest lives to end."
+      "content": "อะไรเนี่ย วิ่งมาฆ่าตัวตายโชว์กันหรือไง? ไม่ตลกเลยนะ ต้องมาจบชีวิตเเบบนี้เนี่ย"
     },
     {
       "id": 19,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<What… what am I supposed to do?>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<เเล้ว… ฉันจะต้องทำยังไงกัน?>"
     },
     {
       "id": 20,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<They jumped in triumphantly only to die like flies…>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<พวกนั้นกระโดดเข้าไปอย่างกล้าหาญเเล้วตายอย่างกะโดนตบเหมือนเเมลง…>"
     },
     {
       "id": 21,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<Gah… I can’t remember a thing about the past since I repeated what she said.>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<โธ่เว้ย… จำบ้าอะไรไม่ได้เลยหลังจากพูดตามที่เธอบอกไป>"
     },
     {
       "id": -1,
@@ -153,193 +153,193 @@
     {
       "id": 22,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<Is this… how I die?>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<จะต้อง… ตายเเบบนี้จริงๆหรอ?>"
     },
     {
       "id": 23,
       "teller": "???",
       "title": "???",
-      "content": "Tell the Serpent this, false lion."
+      "content": "จงบอกอสรพิษซะ เจ้าราชสีห์จอมปลอม"
     },
     {
       "id": 24,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "ชายที่มีเนตรสีเเดง",
       "title": "???",
-      "content": "This flow cannot be stopped."
+      "content": "ไม่มีสิ่งใดที่จะหยุดคลื่นลูกนี้ได้"
     },
     {
       "id": 25,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "วูฟฟ์",
       "title": "???",
-      "content": "Grh… GAAAH!!"
+      "content": "เหือก… อ๊าาาากกกก!!"
     },
     {
       "id": 26,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "วูฟฟ์",
       "title": "???",
-      "content": "Red…? But why?"
+      "content": "เฉดสีเเดง…? ทำไมถึงได้?"
     },
     {
       "id": 27,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "วูฟฟ์",
       "title": "???",
-      "content": "Argh…"
+      "content": "อึก…"
     },
     {
       "id": 28,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "ชายที่มีเนตรสีเเดง",
       "title": "???",
-      "content": "Do you know why I only dismembered those two?"
+      "content": "รู้ไหมทำมันฉันถึงตัดเเขนตัดขาเเค่สองคนนั้น?"
     },
     {
       "id": 29,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "ชายที่มีเนตรสีเเดง",
       "title": "???",
-      "content": "Because at least one of you needs to be able to carry the rest out of here."
+      "content": "เพราะอย่างน้อย หนึ่งในพวกเเกก็สามารถเเบกพวกของเเกหนีออกไปจากที่นี้ได้"
     },
     {
       "id": 30,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "ชายที่มีเนตรสีเเดง",
       "title": "???",
-      "content": "And you’re the only one left to offer them any help."
+      "content": "เเละอีกอย่าง เเกเป็นเพียงคนเดียวที่จะช่วยเหลือสองคนนั้นได้"
     },
     {
       "id": 31,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "เเพนเทอร์",
       "title": "???",
-      "content": "…The Red Gaze."
+      "content": "…นัยเนตรสีแดง"
     },
     {
       "id": 32,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "ชายที่มีเนตรสีเเดง",
       "title": "???",
-      "content": "Don’t glare at me like that. This is nothing compared to what you did."
+      "content": "อย่ามองกันเเบบนั้นสิ ที่ฉันทำไปมันเทียบเท่ากับสิ่งที่พวกเเกทำไม่ได้หรอก"
     },
     {
       "id": 33,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "ชายที่มีเนตรสีเเดง",
       "title": "???",
-      "content": "With wounds like those, I’m sure your boss will recognize that you did your part. Consider them a medal of honor."
+      "content": "ด้วยบาดเเผลเช่นนั้น เชื่อว่านายของเเกคงคิดว่าเเกทำได้ดีที่สุดเเล้ว คิดซะว่าเป็นเหรียญกล้าหาญให้เเกเเล้วกัน"
     },
     {
       "id": 34,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "ชายที่มีเนตรสีเเดง",
       "title": "???",
-      "content": "Unless…"
+      "content": "นอกเสียว่า…"
     },
     {
       "id": 35,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "ชายที่มีเนตรสีเเดง",
       "title": "???",
-      "content": "You want this to be the end of your life?"
+      "content": "เเกอยากจะตายตามเพื่อนไปด้วยหรือไง?"
     },
     {
       "id": 36,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "เเพนเทอร์",
       "title": "???",
       "content": "……"
     },
     {
       "id": 37,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<Who are… Are you one of them?>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<นายเป็น… พวกเดียวกับเราหรอ?>"
     },
     {
       "id": 38,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<You’re too late, they’re already…>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<เเต่มันสายไปเเล้ว พวกนั้นได้…>"
     },
     {
       "id": 39,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "ชายที่มีเนตรสีเเดง",
       "title": "???",
-      "content": "No one is too late, Dante."
+      "content": "ยังไม่มีอะไรสายเกินเเก้หรอกนะ ดันเต้"
     },
     {
       "id": 40,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "ชายที่มีเนตรสีเเดง",
       "title": "???",
-      "content": "There is only one thing we need…"
+      "content": "สิ่งเดียวที่เจ้าต้องทำก็คือ…"
     },
     {
       "id": 41,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "ชายที่มีเนตรสีเเดง",
       "title": "???",
-      "content": "A little time to rewind."
+      "content": "เเค่ต้องย้อนเวลากลับไปเล็กน้อยเอง"
     },
     {
       "id": 42,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
       "content": "<…!>"
     },
     {
       "id": 43,
-      "content": "<color=#b01c37>I’m suddenly overwhelmed by a sharp pain in my chest, as though my heart were being torn asunder.</color>"
+      "content": "<color=#b01c37>จู่ๆ ฉันก็รู้สึกเจ็บเเปลบเข้าไปในอก ราวกับว่าหัวใจกำลังจะถูกฉีกออกมาเป็นชิ้นๆ</color>"
     },
     {
       "id": 44,
-      "content": "<color=#b01c37>Followed by flashes in the ribs, intestines, stomach, and lungs.</color>"
+      "content": "<color=#b01c37>เเล้วตามต่อไปที่ซี่โครง ลำไส้ กระเพาะ เเละปอดอย่างฉับพลัน</color>"
     },
     {
       "id": 45,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<GAAAAAAGH!!!>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<อ๊ากกกกกกกกกกก!!!>"
     },
     {
       "id": 46,
-      "content": "Engulfed in a deluge of torment twisting and squeezing my entire body, I let out an agonizing scream."
+      "content": "ฉันตะโกนร้องออกมาอย่างเจ็บปวด ในขณะที่ทั้งร่างถูกกลืนกืนไปด้วยความทรมานที่เเสนบิดเบี้ยวเเละบีบคั้นไปทั่วทุกอณู"
     },
     {
       "id": 47,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<You… Grgh…>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<เเก… เฮือก…>"
     },
     {
       "id": 48,
-      "content": "In my fading consciousness, the only thing I could perceive…"
+      "content": "ในตอนที่กำลังเริ่มหมดสติ สิ่งเดียวที่ฉันมองเห็นมีเพียง…"
     },
     {
       "id": 49,
-      "content": "…Was the deceased’s flesh reconstructing in a bizarre manner."
+      "content": "…ร่างเนื้อของคนตายที่กำลังก่อร่างสร้างตัวขึ้นมาใหม่อย่างน่าประหลาดใจ"
     },
     {
       "id": 50,
       "model": "눈이붉은자",
-      "teller": "Man with Red Eyes",
+      "teller": "ชายที่มีเนตรสีเเดง",
       "title": "???",
-      "content": "You’ll suffer aplenty from now on, Dante."
+      "content": "จากนี้ไปเจ้าจะทนทุกข์ทรมานหนักว่านี้นะ ดันเต้"
     },
     {
       "id": 51,
-      "content": "And the voice of the man with red eyes."
+      "content": "เสียงนั้นกล่าวออกมาจากปากของชายที่มีเนตรสีเเดง"
     }
   ]
 }

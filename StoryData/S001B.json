@@ -2,256 +2,256 @@
   "dataList": [
     {
       "id": 0,
-      "place": "A Dark Forest",
+      "place": "ในป่าทมิฬ",
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "วูฟฟ์",
       "title": "???",
-      "content": "Do you see now? You can’t run from us."
+      "content": "เห็นยังล่ะ บอกเเล้วว่าหนีจากพวกเราไม่รอดหรอก"
     },
     {
       "id": 1,
       "model": "프롤로그단테",
-      "teller": "Me",
+      "teller": "ตัวฉัน",
       "title": "■■■",
-      "content": "<You dare… interrupt me just as I was engraving the ■■■■■■… You must be out of your…>"
+      "content": "<พวกเเก… บังอาจขัดขวางตอนที่ฉันกำลังสลัก ■■■■■■… บ้าไปเเล้วหรือไง…>"
     },
     {
       "id": 2,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "ไลออน",
       "title": "???",
-      "content": "Ah~ If we’re being technical, what our master has planned apparently isn’t one of the City’s taboos."
+      "content": " อา~ ถ้าจะให้พูดตามเชิงเทคนิคล่ะก็ สิ่งที่นายของพวกเราวางเเผนมา ไม่ได้ถือว่าเป็นข้อห้ามของ The City หรอกนะ"
     },
     {
       "id": 3,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "ไลออน",
       "title": "???",
-      "content": "It’s just the kind of thing that… no one has ever dared to consider, you catch my drift?"
+      "content": "มันเป็นสิ่งที่… ไม่มีใครคิดจะกล้าทำมากกว่า พอเข้าใจสิ่งที่ฉันสื่อไหมล่ะ?"
     },
     {
       "id": 4,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "ไลออน",
       "title": "???",
-      "content": "Huh, would you look at that…"
+      "content": "ฮืม… ดูนั้นสิ"
     },
     {
       "id": 5,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "เเพนเทอร์",
       "title": "???",
-      "content": "You managed to get a different head in so fast. Do people like you always come prepared?"
+      "content": "นายสามารถเปลี่ยนหัวได้เร็วขนาดนั้น คงจะเตรียมตัวมาดีไม่เบา"
     },
     {
       "id": 6,
       "model": "프롤로그단테",
-      "teller": "Me",
+      "teller": "ตัวฉัน",
       "title": "■■■",
-      "content": "<Kngh… Just wait ‘til I get the ■■■■■■… You’ll be no match for my…>"
+      "content": "<หึ… รอให้ฉันสามารถที่จะเอา ■■■■■■… ถึงตอนนั้นพวกเเกไม่่มีทางที่จะเทียบทัดกับฉันได้…>"
     },
     {
       "id": 7,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "ไลออน",
       "title": "???",
-      "content": "Haha, I guess that new noggin doesn’t come with a mouth, huh?"
+      "content": "ฮาฮ่า ไอหัวเเก้วใหม่ของเเกไม่ได้มาพร้อมกับปากหรือไงกันห๊ะ? "
     },
     {
       "id": 8,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "วูฟฟ์",
       "title": "???",
-      "content": "Yep, ticking is all I can hear. You think they’re screaming on the inside?"
+      "content": "อืม ฉันได้ยินเเต่เสียงติ๊กๆ เจ้านี้กำลังกรีดร้องอยู่หรือเปล่านะ?"
     },
     {
       "id": 9,
       "model": "프롤로그단테",
-      "teller": "Me",
+      "teller": "ตัวฉัน",
       "title": "■■■",
-      "content": "<Ghaagh…!>"
+      "content": "<กะ-อ๊าาาก!>"
     },
     {
       "id": 10,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "วูฟฟ์",
       "title": "???",
-      "content": "Hmm. It’s ticking faster, so I guess they can still feel pain."
+      "content": "ฮืม เสียงนั้นดังเร็วขึ้น สงสัยจะยังรับรู้ความเจ็บปวดได้"
     },
     {
       "id": 11,
-      "content": "Dammit… Why… am I…!"
+      "content": "บ้าเอ้ย… ทำไม… ฉันถึงได้…"
     },
     {
       "id": 12,
-      "content": "…Why am I being attacked?"
+      "content": "…ทำไมฉันถึงโดนโจมตีได้กัน"
     },
     {
       "id": 13,
-      "content": "Not good… Memories are dissolving already… The ■■■ was done too quick…"
+      "content": "ไม่ดีเเล้ว… ความทรงจำกำลังเลือนหายไป… การ■■■ทำเร็วเกินไป…"
     },
     {
       "id": 14,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "วูฟฟ์",
       "title": "???",
-      "content": "What, they’ve gone quiet already. Let’s get this over with."
+      "content": "อะไร… เงียบปากไปเล้วหรอ งั้นจบเรื่องนี้กันเถอะ"
     },
     {
       "id": 15,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "ไลออน",
       "title": "???",
-      "content": "Wolf, this is a place no one visits and somewhere none can see. What’s the hurry?"
+      "content": "วูฟฟ์ เราอยู่ในที่ที่ไม่มีใครเห็นเเละไม่มีใครมานะ จะรีบร้อนไปไหนกันล่ะ?"
     },
     {
       "id": 16,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "วูฟฟ์",
       "title": "???",
-      "content": "We must follow her teachings. We can’t drag on any longer."
+      "content": "พวกเราจะต้องทำตามคำสอนของเธอ จะปล่อยไปนานกว่านี้ไม่ได้เเล้ว"
     },
     {
       "id": 17,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "ไลออน",
       "title": "???",
-      "content": "Yeah, but… Haa, this is the moment of a lifetime. We’re not gonna get a second chance to kill someone of this caliber…"
+      "content": "ก็ใช่ เเต่… ฮะฮ่า นี้เป็นโอกาสเเค่ครั้งเดียวในชีวิตเลยนะ จะไม่มีครั้งที่สองเเล้วนะที่จะได้ฆ่าคนระดับนี้เนี่ย"
     },
     {
       "id": 18,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "เเพนเทอร์",
       "title": "???",
-      "content": "Lion, you have a tendency to grow too emotional during your jobs. I hope you show some discretion."
+      "content": "ไลออน เธอไม่ควรจะเจ้าอารมณ์เกินไปในระหว่างเวลางานนะ หัดรอบคอบซะบ้างสิ"
     },
     {
       "id": 19,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "ไลออน",
       "title": "???",
-      "content": "Pshaw…"
+      "content": "ชิ…"
     },
     {
       "id": 20,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "เเพนเทอร์",
       "title": "???",
-      "content": "It’s a shame—I wanted to have a look at your face. I reckon you won’t tell us where your star is, right?"
+      "content": "ช่างน่าเสียดาย—ฉันก็อยากจะเห็นหน้าของเเกซักครั้ง คิดว่าเเกก็คงจะไม่บอกว่าดวงดาวนั้นอยู่ที่ไหน ใช่ไหมล่ะ?"
     },
     {
       "id": 21,
       "model": "프롤로그단테",
-      "teller": "Me",
+      "teller": "ตัวฉัน",
       "title": "■■■",
-      "content": "<Like hell I am. I’m taking ■■■’s location to the grave with…>"
+      "content": "<ก็ใช่นะสิ ฉันจะเอาตำเเหน่งของ ■■■ ฝังไปพร้อมกับ…>"
     },
     {
       "id": 22,
       "model": "프롤로그단테",
-      "teller": "Me",
+      "teller": "ตัวฉัน",
       "title": "■■■",
       "content": "<……>"
     },
     {
       "id": 23,
-      "content": "Dammit, where was ■■■ supposed to be again? My memories are escaping me too quickly…"
+      "content": "ให้ตายสิ ไอ ■■■ มันควรจะเป็นอะไรกันเเน่นะ? ความทรงจำของฉันมันเลือนหายไปหมดเเล้ว"
     },
     {
       "id": 24,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "เเพนเทอร์",
       "title": "???",
-      "content": "…Right. No mouth."
+      "content": "…ก็จริงอยู่ ที่เเกไม่มีปาก"
     },
     {
       "id": 25,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "เเพนเทอร์",
       "title": "???",
-      "content": "Which in turn means… we won’t learn how to acquire it from this person."
+      "content": "ก็หมายความว่า พวกเราก็จะไม่ได้ข้อมูลอะไรจากเเกทั้งนั้น"
     },
     {
       "id": 26,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "วูฟฟ์",
       "title": "???",
-      "content": "Can I end them now?"
+      "content": "ฉันฆ่าเจ้านี้ได้ยัง?"
     },
     {
       "id": 27,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "เเพนเทอร์",
       "title": "???",
-      "content": "Sure… Huh?"
+      "content": "ได้สิ… หึม?"
     },
     {
       "id": 28,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "ไลออน",
       "title": "???",
-      "content": "Hey, what’s that noise? Don’t tell me, Panther… did you allow yourself to be tracked?"
+      "content": "ห๊ะ นั้นมันเสียงอะไรกัน? เเพนเทอร์ อย่าบอกนะว่า… เเกโดนสะกดรอยตามมานะ?"
     },
     {
       "id": 29,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "เเพนเทอร์",
       "title": "???",
-      "content": "No, there was no one that could’ve pursued me. Perhaps a wild animal?"
+      "content": "ไม่หรอก ไม่น่าจะมีใครตามฉันมาที่นี้ได้ อาจจะเเค่สัตว์ป่าที่ไหนไม่รู้ก็ได้"
     },
     {
       "id": 30,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "วูฟฟ์",
       "title": "???",
-      "content": "This is not the sound a beast would make. It’s…"
+      "content": "มันฟังดูไม่เหมือนเสียงสัตว์เลยนะ เเต่เหมือนกับเสียง…"
     },
     {
       "id": 31,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "วูฟฟ์",
       "title": "???",
-      "content": "A bus…?"
+      "content": "รถบัสหรอ…?"
     },
     {
       "id": 32,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "เเพนเทอร์",
       "title": "???",
-      "content": "How did it even end up here?"
+      "content": "มาอยู่ตรงนี้ได้ยังไงกันล่ะเนี่ย?"
     },
     {
       "id": 33,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "ไลออน",
       "title": "???",
-      "content": "Must’ve taken a wrong turn?"
+      "content": "อาจจะหลงทางมาหรือเปล่า?"
     },
     {
       "id": 34,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "ไลออน",
       "title": "???",
-      "content": "Hoo, the price they’ll pay for taking the wrong road will be heavier than they expect…"
+      "content": "หูววว ค่าเสียหายที่จะต้องจ่ายเพราะเลี้ยวรถผิดเนี่ย น่าจะเเพงน่าดูนะเนี่ย…"
     },
     {
       "id": 35,
       "model": "사자",
-      "teller": "Lion",
+      "teller": "ไลออน",
       "title": "???",
       "content": "…!"
     },
     {
       "id": 36,
       "model": "늑대",
-      "teller": "Wolf",
+      "teller": "วูฟฟ์",
       "title": "???",
-      "content": "…It bested Lion’s strength?"
+      "content": "…มันสามารถเอาชนะพลังของไลออนได้?"
     },
     {
       "id": 37,
       "model": "표범",
-      "teller": "Panther",
+      "teller": "เเพนเทอร์",
       "title": "???",
       "content": "…!"
     },
@@ -266,311 +266,311 @@
       "id": 39,
       "teller": "???",
       "title": "???",
-      "content": "If my eyes are still right, then you will reach the harbor of glory."
+      "content": "ถ้าสายตาของฉันยังถูกล่ะก็ คุณก็ยังสามารถเอื้อมไปสู่ชัยชนะได้"
     },
     {
       "id": 40,
       "model": "프롤로그단테",
-      "teller": "Me",
+      "teller": "ตัวฉัน",
       "title": "■■■",
-      "content": "<Who… are you? That nameplate… says… Faust?>"
+      "content": "<เธอ… เป็นใครกัน? ป้ายชื่อนั้น… เขียนว่า… เฟาสท์หรอ?>"
     },
     {
       "id": 41,
       "model": "프롤로그파우스트",
-      "teller": "Faust",
+      "teller": "???",
       "title": "???",
-      "content": "You’ve lost your way in a dark forest."
+      "content": "ดูเหมือนคุณจะหลงทางในป่าทมิฬนะคะ"
     },
     {
       "id": 42,
       "model": "프롤로그단테",
-      "teller": "Me",
+      "teller": "ตัวฉัน",
       "title": "■■■",
-      "content": "<I’m… sorry, what?>"
+      "content": "<ฉัน… โทษที, อะไรนะ?>"
     },
     {
       "id": 43,
       "model": "프롤로그파우스트",
-      "teller": "Faust",
+      "teller": "เฟาสท์",
       "title": "???",
-      "content": "Yet you were not overcome with fear. Why was that?"
+      "content": "เเต่คุณก็ดูไม่เกรงกลัวสิ่งใดเลย ทำไมกันล่ะ?"
     },
     {
       "id": 44,
       "model": "프롤로그단테",
-      "teller": "Me",
+      "teller": "ตัวฉัน",
       "title": "■■■",
-      "content": "<That’s…>"
+      "content": "<นั้น…>"
     },
     {
       "id": 45,
       "model": "프롤로그단테",
-      "teller": "Me",
+      "teller": "ตัวฉัน",
       "title": "■■■",
-      "content": "<I could simply… lift my head to find the star.>"
+      "content": "<เพราะฉันคงเเค่… เงยหน้าขึ้นไปเพื่อตามหาดวงดาวดวงนั้น>"
     },
     {
       "id": 46,
       "model": "프롤로그파우스트",
-      "teller": "Faust",
+      "teller": "เฟาสท์",
       "title": "???",
-      "content": "That’s right."
+      "content": "ถูกต้องเเล้ว"
     },
     {
       "id": 47,
       "model": "프롤로그파우스트",
-      "teller": "Faust",
+      "teller": "เฟาสท์",
       "title": "???",
-      "content": "Now, repeat with the heart what I tell you aloud as you remind yourself of that image."
+      "content": "งั้น ก็จงกล่าวคำพูดตามฉันด้วยใจของคุณ พร้อมกับนึกภาพที่คุณคอยเตือนตัวเองอยู่เสมอ"
     },
     {
       "id": 48,
       "model": "프롤로그파우스트",
-      "teller": "Faust",
+      "teller": "เฟาสท์",
       "title": "???",
-      "content": "Follow your star."
+      "content": "จงตามดวงดาวของคุณไป"
     },
     {
       "id": 49,
       "model": "프롤로그단테",
-      "teller": "Me",
+      "teller": "ตัวฉัน",
       "title": "■■■",
-      "content": "<Follow… your star.>"
+      "content": "<ตาม… ดวงดาวของฉันไป>"
     },
     {
       "id": 50,
-      "content": "At that moment…"
+      "content": "ในชั่วพริบตานั้น…"
     },
     {
       "id": 51,
-      "content": "I felt a sudden thump in my head."
+      "content": "ฉันรู้สึกได้ถึงเสียงตึบที่ดังก้องกังวานในหัว"
     },
     {
       "id": 52,
-      "content": "Followed by the sting of several chains penetrating my chest."
+      "content": "ตามด้วยเส้นสายของโซ่มากมายทะลุทะลวงออกมาจากอกของฉัน"
     },
     {
       "id": 53,
       "model": "프롤로그단테",
-      "teller": "Me",
+      "teller": "ตัวฉัน",
       "title": "■■■",
-      "content": "<Hyag… Ah— Aaagh!!!>"
+      "content": "<ฮึก… อา-อ๊ากกกกก!!!>"
     },
     {
       "id": 54,
       "model": "프롤로그파우스트",
-      "teller": "Faust",
+      "teller": "เฟาสท์",
       "title": "???",
-      "content": "Relax. Though it may feel otherwise, your heart is still functional."
+      "content": "ผ่อนคลายเสียเถิด ถึงเเม้คุณจะรู้สึกถึงสิ่งอื่นก็ตาม เเต่หัวใจของคุณก็ยังคงอยู่ดี"
     },
     {
       "id": 55,
       "model": "파우스트",
-      "content": "With this, the pact has been sealed."
+      "content": "ด้วยคำพูดนี้ พันธสัญญาได้ถูกทำเป็นที่เรียบร้อย"
     },
     {
-      "id": 56,
+     "id": 56,
       "model": "파우스트",
-      "content": "Dante, from this day forth, we are bound to your time."
+      "content": "ดันเต้ นับจากวันนี้เป็นต้นไป พวกเราตกอยู่ภายใต้กาลเวลาของคุณ"
     },
     {
       "id": 57,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<What do you…?>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<หมายความว่ายังไง…?>"
     },
     {
       "id": 58,
       "model": "파우스트",
-      "content": "The beating of our hearts now depends on where your hands fall."
+      "content": "เสียงหัวใจของพวกเราตอนนี้อยู่ในกำมือของคุณเเล้วค่ะ"
     },
     {
       "id": 59,
       "model": "파우스트",
-      "content": "I hope you’ll make a fine leader."
+      "content": "หวังว่าคุณจะกลายเป็นผู้นำที่ดีค่ะ"
     },
     {
       "id": 60,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<“Our”…?>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<“พวกเรา”…?>"
     },
     {
       "id": 61,
       "model": "이스마엘",
-      "content": "Is that really everything?"
+      "content": "พูดจบทุกอย่างเเล้วใช่ไหม?"
     },
     {
       "id": 62,
       "model": "이상",
-      "content": "A single apple has fallen."
+      "content": "ลูกเเอปเปิ้ลลูกหนึ่งได้ล่วงหล่นลงเเล้ว"
     },
     {
       "id": 63,
       "model": "이스마엘",
-      "content": "…This guy’s still not making any sense."
+      "content": "…เฮ้อ ไอหมอนี่ก็ยังพูดไม่รู้เรื่องอยู่ดี"
     },
     {
       "id": 64,
       "model": "로쟈",
-      "content": "Geeeez~ The wait was killing me! Finally some action now?"
+      "content": "โธ่~ ฉันนั่งรอเเทบตาย! ในที่สุดจะได้ลุยซักทีใช่ม๊ะ?"
     },
     {
       "id": 65,
       "model": "그레고르",
-      "content": "Well, I guess we could use a little warm-up."
+      "content": "ก็นะ คงถึงเวลาได้วอร์มอัพซักเล็กน้อย"
     },
     {
       "id": 66,
       "model": "오티스",
-      "content": "What is that wretch miserably writhing on the ground? Are they to be the newest addition to the team?"
+      "content": "ไอขี้ขลาดที่ดิ้นทุรนทุรายอยู่ตรงนั้นมันอะไรกัน? เป็นสมาชิกใหม่ล่าสุดของทีมเราหรือเปล่า?"
     },
     {
       "id": 67,
       "model": "그레고르",
-      "content": "Uh… You might wanna watch your words… I heard that’s our soon-to-be boss…"
+      "content": "เออ… ระวังคำพูดคำจาหน่อยก็ดีนะ… ได้ยินว่าไอหมอนี่จะเป็นผู้นำคนใหม่ของเรา…"
     },
     {
       "id": 68,
       "model": "파우스트",
-      "content": "The attack must’ve happened in an instant—I’m impressed you managed to hide your head."
+      "content": "ฉันประทับใจที่หัวคุณยังไม่หลุดออกมานะคะ เพราะเมื่อกี้ดูเหมือนว่าจะโดนโจมตีเข้าไปอย่างจัง"
     },
     {
       "id": 69,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<Who are you people? And what’s up with this bus?>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<พ-พวกเธอเป็นใครกัน? ล-เเล้วรถบัสนั้นมันอะไรกัน?>"
     },
     {
       "id": 70,
       "model": "파우스트",
-      "content": "We are bearers of justice who have come to aid you, and this is the magical bus that takes us wherever we wish to go."
+      "content": "พวกเราคือผู้ผดุงความยุติธรรมที่พร้อมจะให้ความช่วยเหลือคุณค่ะ เเละนี้คือรถบัสวิเศษที่สามารถพาพวกเราไปที่ไหนก็ได้ที่พวกเราปรารถนาค่ะ"
     },
     {
       "id": 71,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<Justice? Bus? I don’t…>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<ความยุติธรรม? รสบัส? ฉันไม่เข้า…>"
     },
     {
       "id": 72,
       "model": "파우스트",
-      "content": "Wasn’t that what you expected to hear? Either way, you’re better off believing us to be your saviors."
+      "content": "คงไม่คิดว่านี่จะเป็นสิ่งที่ได้ยินในวันนี้สินะคะ ยังไงก็ตาม คุณควรเชื่อเถอะว่า พวกเราเป็นผู้ช่วยชีวิตคุณนะคะ"
     },
     {
       "id": 73,
       "model": "파우스트",
-      "content": "We’re racing against time and the situation isn’t in our favor, so let me explain this once."
+      "content": "ตอนนี้พวกเรากำลังแข่งกับเวลาอยู่ และสถานการณ์ก็ไม่ค่อยเป็นใจเท่าไหร่ เพราะฉะนั้นขออธิบายสถานการณ์ในตอนนี้ให้ฟังค่ะ"
     },
     {
       "id": 74,
-      "content": "After some time passed…"
+      "content": "หลังจากเวลาผ่านไปสักพัก…"
     },
     {
       "id": 75,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<So… If I’m not mistaken here and I do as you’ve said, those total strangers will fight for me?>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<งั้นถ้าฉันไม่เข้าใจผิดเเละให้ฉันทำตามที่เธอบอกก็คือ คนเเปลกพวกนี้จะเป็นกำลังรบให้กับฉันหรอ?>"
     },
     {
       "id": 76,
       "model": "파우스트",
-      "content": "Correct. So long as you give them the right orders."
+      "content": "ถูกต้องค่ะ ตราบใดที่คุณสั่งการพวกเราอย่างถูกต้องค่ะ"
     },
     {
       "id": 77,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<Alright, so we’ll kill these arrogant vandals dead…>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<โอเค งั้นถ้าพวกเราสามารถฆ่าไอพวกอันธพาลอวดดีพวกนี้ได้…>"
     },
     {
       "id": 78,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<Then I’ll go back to where I was…>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<เเละฉันก็กลับไปในที่ฉันมา…>"
     },
     {
       "id": 79,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<Where I was, and…>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<ที่ที่ฉันอยู่เมื่อกี้ เเละก็…>"
     },
     {
       "id": 80,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
       "content": "<……>"
     },
     {
       "id": 81,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<What was I doing? Where was I when I did that?>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<ฉันกำลังทำอะไรอยู่กันเเน่นะ? อยู่ที่ไหนตอนทำสิ่งนั้นกัน?>"
     },
     {
       "id": 82,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<Something extremely important was upon me. Something I shouldn’t forget…>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<กำลังทำสิ่งที่สำคัญมากๆอยู่  สิ่งที่ฉันไม่น่าจะลืมลงได้…>"
     },
     {
       "id": 83,
       "model": "파우스트",
-      "content": "Calm down. It’s only natural to happen with your current head."
+      "content": "ใจเย็นก่อนนะคะ ถือเป็นเรื่องธรรมดาที่เกิดขึ้นกับหัวที่คุณสวมอยู่ตอนนี้ค่ะ"
     },
     {
       "id": 84,
       "model": "파우스트",
-      "content": "You should focus on the struggle at hand, Dante."
+      "content": "คุณควรจะโฟกัสกับปัญหาในตอนนี้มากกว่านะคะ ดันเต้"
     },
     {
       "id": 85,
       "model": "오티스",
-      "content": "Clo… Pardon, I’m not sure how I should address you."
+      "content": "นาฬิ… ขออภัย ฉันไม่เเน่ใจว่าควรจะเรียกท่านว่ายังไงดี"
     },
     {
       "id": 86,
       "model": "오티스",
-      "content": "Would Commander Clock suffice…? In any case, we await your orders!"
+      "content": "ถ้าใช้ชื่อผู้บังคับบัญชานาฬิกาคงได้ใช่ไหม? ถ้าเช่นนั้น พวกเราน้อมรับคำสั่งค่ะ!"
     },
     {
       "id": 87,
       "model": "그레고르",
-      "content": "Eh, do we really need orders? Seems like going one-on-one is the only way."
+      "content": "เออ พวกเราต้องการคำสั่งด้วยหรอ? เห็นชัดเลยว่าสู้กันตัวต่อตัวจะดูเป็นทางออกเดียวนะ"
     },
     {
       "id": 88,
       "model": "이스마엘",
-      "content": "Huh?! H-Hey!"
+      "content": "ห๊ะ?! เดี๋ยวสิ!"
     },
     {
       "id": 89,
       "model": "히스클리프",
-      "content": "Quit running off your mouths! We just need to crush them all!"
+      "content": "หยุดพล่ามมากได้เเล้วเฟ้ย! พวกเราก็เเค่ต้องทุบเเม่งให้หมดเเค่นั้นเเหละ!"
     },
     {
       "id": 90,
       "model": "파우스트",
-      "content": "…Please do your best, Dante."
+      "content": "โปรดทำหน้าที่ให้ดีที่สุดนะคะ ดันเต้"
     },
     {
       "id": 91,
       "model": "프롤로그단테2",
-      "teller": "Dante",
-      "title": "Me",
-      "content": "<…There’s no two ways about it, I suppose.>"
+      "teller": "ดันเต้",
+      "title": "ตัวฉัน",
+      "content": "<…ก็คงไม่มีทางเลือกที่สองเเล้ว สินะ>"
     }
   ]
 }
