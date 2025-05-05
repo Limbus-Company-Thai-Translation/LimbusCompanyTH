@@ -452,7 +452,7 @@
             "id": 1030801,
             "levelList": [{
                     "level": 1,
-                    "name": "ชักดาบออกจากฝัก",
+                    "name": "ชักดาบ",
                     "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
                     "coinlist": [{
                             "coindescs": [{
@@ -468,7 +468,7 @@
                 },
                 {
                     "level": 2,
-                    "name": "ชักดาบออกจากฝัก",
+                    "name": "ชักดาบ",
                     "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
                     "coinlist": [{
                             "coindescs": [{
@@ -484,7 +484,7 @@
                 },
                 {
                     "level": 4,
-                    "name": "ชักดาบออกจากฝัก",
+                    "name": "ชักดาบ",
                     "desc": "เมื่อข้ามี 5+ [Breath], พลังเหรียญ +1\n[WhenUse] ได้รับ +2 [Breath] Count",
                     "coinlist": [{
                             "coindescs": [{
