@@ -2,83 +2,83 @@
   "dataList": [
     {
       "id": 1010101,
-      "name": "Information Relay",
-      "desc": "Apply 1 Damage Up to 2 allies placed after this unit on the Dashboard."
+      "name": "ส่งต่อข้อมูล",
+      "desc": "มอบ 1 Damage Up กับมิตร 2 คนที่อยู้หลังยูนิตนี้บน Dashboard."
     },
     {
       "id": 1010201,
-      "name": "Acute Studies",
-      "desc": "In a clash, the opponent has -2 Clash Power."
+      "name": "ศึกษาเฉียบพลัน",
+      "desc": "ในการปะทะ คู้ต่อสู้จะเสียแรงปะทะ -2 Clash Power."
     },
     {
       "id": 1010301,
-      "name": "Poised",
-      "desc": "On clash win, gain +1 Poise Count."
+      "name": "ตั้งท่า",
+      "desc": "เมื่อปะทะชนะ ได้รับ +1 Poise Count."
     },
     {
       "id": 1020101,
-      "name": "Analytic Eye",
-      "desc": "Deal +10% damage to units with negative status effects."
+      "name": "ดวงตาวิเคราะห์",
+      "desc": "ทำดาเมจ +10% กับยูนิตที่มี negative status effects."
     },
     {
       "id": 1020201,
-      "name": "Self-charging",
-      "desc": "Gain +1 Charge Count after an attack."
+      "name": "ชาร์จในตัว",
+      "desc": "ได้รับ +1 Charge Count หลังการโจมตี"
     },
     {
       "id": 1020301,
-      "name": "Resolution",
-      "desc": "At the start of the turn, if at 4+ Poise Count, gain 2 Haste."
+      "name": "ปณิธาน",
+      "desc": "เมื่อเริ่มเทิร์น ถ้ามี 4+ Poise Count ได้รับ 2 Haste."
     },
     {
       "id": 1030101,
-      "name": "Righteous Retribution",
-      "desc": "Skills deal +10% damage in a won clash."
+      "name": "การชดใช้บาปอย่างเที่ยงธรรม",
+      "desc": "สกิลทำดาเมจ +10% เมื่อปะทะชนะ"
     },
     {
       "id": 1030201,
-      "name": "Quick Recharge",
-      "desc": "At the start of the combat phase, gain Charge Count by (Gloom Reson. / 3)."
+      "name": "ชาร์จเร็ว",
+      "desc": "เมื่อเริ่ม combat phase รับ Charge Count จำนวน (Gloom Reson. / 3)."
     },
     {
       "id": 1030301,
-      "name": "Prepared Mind",
-      "desc": "Gain [Agility] by (Wrath Reson. / 3) next turn."
+      "name": "เตรียมพร้อมจิตใจ",
+      "desc": "Gain [Agility] by (Wrath Reson. / 3) ในเทิร์นต่อไป"
     },
     {
       "id": 1040101,
-      "name": "Indiscriminate Art",
-      "desc": "Deal and take +25% damage."
+      "name": "ศิลปะไม่แยกแยะใคร",
+      "desc": "ทำและรับดาเมจ +25%"
     },
     {
       "id": 1040201,
       "name": "C. I. H.",
-      "desc": "Deal +10% Slash damage this turn."
+      "desc": "ทำดาเมจฟัน +10% ในเทิร์นนี้"
     },
     {
       "id": 1040301,
       "name": "Kokuuntō",
-      "desc": "Deal +10% damage to targets with [Laceration]."
+      "desc": "ทำดาเมจ +10% กับเป้าหมายที่มี[Laceration]."
     },
     {
       "id": 1050101,
-      "name": "Staunchness",
+      "name": "ความแน่วแน่",
       "desc": "At less than 50% HP, gain 1 Protection at the start of the combat phase."
     },
     {
       "id": 1050201,
-      "name": "Great Mountain",
-      "desc": "When attacked, inflict 1 Burn on a random enemy.\n(Up to 4 times)"
+      "name": "ภูผาใหญ่",
+      "desc": "เมื่อถูกโจมตี, ทำ 1 Burn แก้ศัตรูแบบสุ่ม\n(สูงสุด 4 ครั้ง)"
     },
     {
       "id": 1050301,
-      "name": "Enduring Spirit",
-      "desc": "When attacked, gain +1 Charge Count.\n(Up to 6 times)"
+      "name": "จิตวิญญาณคงทน",
+      "desc": "เมื่อถูกโจมตี ได้รับ +1 Charge Count.\n(สูงสุด 6 ครั้ง)"
     },
     {
       "id": 1060101,
-      "name": "Entertainment",
-      "desc": "Heal 6 SP next turn."
+      "name": "ความบันเทิง",
+      "desc": "ฮีล 6 SP ในเทิร์นต่อไป"
     },
     {
       "id": 1060201,
@@ -88,32 +88,32 @@
     {
       "id": 1060301,
       "name": "Gaiety",
-      "desc": "Heal (2x Gluttony Reson.) SP next turn."
+      "desc": "Heal (2x Gluttony Reson.) SP ในเทิร์นต่อไป"
     },
     {
       "id": 1070101,
-      "name": "Ressentiment",
-      "desc": "Deal +10% damage to targets with higher Max HP."
+      "name": "ความขุ่นเคือง",
+      "desc": "ทำ +10% ดาเมจกับเป้าหมายที่มี Max HP สูงกว่า"
     },
     {
       "id": 1070201,
       "name": "Respiration",
-      "desc": "After taking damage from attacks this turn, deal +10% damage."
+      "desc": "After taking damage from attacks this turn, ทำดาเมจ +10% damage."
     },
     {
       "id": 1070301,
-      "name": "Raring to Graze",
-      "desc": "Gain (Wrath Reson.) Charge Count next turn.\nAt 5+ Charge Count, gain 1 Haste and Attack Power Up."
+      "name": "พร้อมเล็มหญ้า",
+      "desc": "Gain (Wrath Reson.) Charge Count ในเทิร์นต่อไป\nAt 5+ Charge Count, gain 1 Haste and Attack Power Up."
     },
     {
       "id": 1080101,
-      "name": "Last-ditch Struggle",
+      "name": "การขัดขืนเฮือกสุดท้าย",
       "desc": "At less than 25% HP, gain +1 clash Power in a clash."
     },
     {
       "id": 1080201,
-      "name": "Brainwave Focus",
-      "desc": "At the start of the combat phase, lose 15 SP.\nGain (Gloom Res / 3) Attack Power Up next turn."
+      "name": "เพ่งรวมคลึ่นสมอง",
+      "desc": "At the start of the combat phase, lose 15 SP.\nGain (Gloom Res / 3) Attack Power Up ในเทิร์นต่อไป"
     },
     {
       "id": 1080301,
@@ -122,12 +122,12 @@
     },
     {
       "id": 1080401,
-      "name": "Eye for Weakness",
+      "name": "ดวงตาหาจุดอ่อน",
       "desc": "Attacks inflict 1 Tremor in a won clash."
     },
     {
       "id": 1090101,
-      "name": "Split Evil",
+      "name": "สะบั้นความชั่ว",
       "desc": "On hit, inflict 1 Bleed at a 50% chance."
     },
     {
@@ -137,13 +137,13 @@
     },
     {
       "id": 1090301,
-      "name": "Breach Defense",
-      "desc": "Deal +10% damage to enemies that used defense skills this turn."
+      "name": "ทะลวงการป้องกัน",
+      "desc": "ทำดาเมจ +10% กับศัตรูที่ใช้ defense skills ในเทิร์นนี้"
     },
     {
       "id": 1100101,
       "name": "Pluckiness",
-      "desc": "When an ally is defeated, gain 1 Attack Power Up next turn."
+      "desc": "When an ally is defeated, gain 1 Attack Power Up ในเทิร์นต่อไป"
     },
     {
       "id": 1100201,
@@ -152,7 +152,7 @@
     },
     {
       "id": 1100301,
-      "name": "Your Shield",
+      "name": "โล่ของท่าน",
       "desc": "At the start of the combat phase, apply 2 Defense Power Up and 1 Protection to allies adjacent to this unit on the Dashboard."
     },
     {
@@ -163,12 +163,12 @@
     {
       "id": 1110101,
       "name": "Executor",
-      "desc": "If target’s SP is below 0, deal +10% damage."
+      "desc": "ถ้า SP ของเป้าหมายต่ำกว่า 0, ทำดาเมจ +10%"
     },
     {
       "id": 1110201,
       "name": "Levelheaded",
-      "desc": "Deal +20% damage to targets below 25% HP."
+      "desc": "ทำดาเมจ +20% กับเป้าหมายที่ HP ต่ำกว่า 25%"
     },
     {
       "id": 1110301,
@@ -177,42 +177,42 @@
     },
     {
       "id": 1120101,
-      "name": "Forced Survival",
+      "name": "ฝืนเอาตัวรอด",
       "desc": "Heal 5 HP at the start of the combat phase."
     },
     {
       "id": 1120201,
-      "name": "Ignition",
+      "name": "จุดเพลิง",
       "desc": "The 3rd and subsequent Coins of a skill inflict 1 Burn on hit."
     },
     {
       "id": 1120301,
-      "name": "Emergency Rations",
+      "name": "เสบียงฉุกเฉิน",
       "desc": "At less than 25% HP, heal by 5% of Max HP after winning a clash."
     },
     {
       "id": 1010121,
-      "name": "Information Neutralization",
+      "name": "การแปลงข่าวกรองให้เป็นกลาง",
       "desc": "At the end of the turn, Heal 10 SP for 1 ally with the least SP if they lost SP."
     },
     {
       "id": 1010221,
-      "name": "Observational Eye",
+      "name": "สายตาสังเกตการณ์",
       "desc": "1 ally with the highest Max HP gains +1 clash Power in a clash."
     },
     {
       "id": 1010321,
-      "name": "Bestow",
+      "name": "ส่งมอบ",
       "desc": "1 ally with the most SP gains +1 Poise Count from skills."
     },
     {
       "id": 1020121,
-      "name": "Keen Observation",
+      "name": "สังเกตการณ์เฉียบแหลม",
       "desc": "1 ally with the highest Max HP inflicts 2 Offense Level Down with attacks at a 25% chance."
     },
     {
       "id": 1020221,
-      "name": "Radio Comms",
+      "name": "สื่อสารวิทยุ",
       "desc": "1 ally with the lowest Max HP gains +1 Charge Count."
     },
     {
@@ -222,17 +222,17 @@
     },
     {
       "id": 1030121,
-      "name": "Support",
+      "name": "ซัพพอร์ท",
       "desc": "1 ally with the most SP deals +10% Pierce damage."
     },
     {
       "id": 1030221,
-      "name": "Broken Spirit",
+      "name": "จิตวิญญาณพังทลาย",
       "desc": "1 ally with the fastest Speed gains +1 final Power for their first skill."
     },
     {
       "id": 1030321,
-      "name": "Divide in Two",
+      "name": "แบ่งเป็นสอง",
       "desc": "1 ally with the fastest Speed deals +10% Slash damage."
     },
     {
@@ -242,7 +242,7 @@
     },
     {
       "id": 1040221,
-      "name": "Ice Breaker",
+      "name": "ทลายน้ำแข็ง",
       "desc": "1 ally with the lowest Max HP inflicts +1 Rupture."
     },
     {
@@ -257,7 +257,7 @@
     },
     {
       "id": 1050221,
-      "name": "Friction Point",
+      "name": "จุดเสียดทาน",
       "desc": "1 ally with the slowest Speed inflicts +1 Burn."
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "id": 1070121,
-      "name": "Spite-driven",
+      "name": "ขับเคลี่อนด้วยแรงประชด",
       "desc": "1 ally with the lowest Max HP deals +10% Blunt damage."
     },
     {
@@ -297,7 +297,7 @@
     },
     {
       "id": 1080121,
-      "name": "Determination to Survive",
+      "name": "ความมุ่งมั่นที่จะเอาตัวรอด",
       "desc": "1 ally with the least HP and less than 50% of Max HP gains +1 Clash Power in a clash."
     },
     {
@@ -312,12 +312,12 @@
     },
     {
       "id": 1080421,
-      "name": "By the Manual",
+      "name": "ตามตำรา",
       "desc": "1 ally with the slowest Speed gains +2 guard skill final Power."
     },
     {
       "id": 1090121,
-      "name": "Gambler",
+      "name": "นักพนัน",
       "desc": "1 ally with the most HP deals +20% damage with Heads Coins."
     },
     {
@@ -327,17 +327,17 @@
     },
     {
       "id": 1090321,
-      "name": "Breaching",
+      "name": "การทะลวง",
       "desc": "1 ally with the most HP deals +20% damage to enemies that used defense skills this turn."
     },
     {
       "id": 1100121,
-      "name": "Grudge",
+      "name": "ความแค้น",
       "desc": "1 ally with the least SP gains 1 Attack Power Up the turn after an ally is defeated."
     },
     {
       "id": 1100221,
-      "name": "Bloodied Hands",
+      "name": "มือเปื้อนเลือด",
       "desc": "1 ally with the slowest Speed gains +1 final Power for their last skill."
     },
     {
@@ -367,7 +367,7 @@
     },
     {
       "id": 1120121,
-      "name": "Gene Code G-0",
+      "name": "รหัสพันธุกรรม G-0",
       "desc": "At the start of the combat phase, the ally with the least HP heals 5 HP."
     },
     {
@@ -377,18 +377,18 @@
     },
     {
       "id": 1120321,
-      "name": "Gene Code G-3",
+      "name": "รหัสพันธุกรรม G-3",
       "desc": "The ally with the least HP heals 5 HP after winning a clash."
     },
     {
       "id": 1000101,
       "name": "Wrath",
-      "desc": "Deal +1 damage with attacks after every successful hit this turn."
+      "desc": "ทำดาเมจ +1 damage with attacks after every successful hit this turn."
     },
     {
       "id": 1000121,
       "name": "Wrath",
-      "desc": "Give a random ally the following effect: Deal +1 damage with attacks after every successful hit this turn."
+      "desc": "Give a random ally the following effect: ทำดาเมจ +1 damage with attacks after every successful hit this turn."
     },
     {
       "id": 1000201,
@@ -458,7 +458,7 @@
     {
       "id": 1090401,
       "name": "Joy of Execution",
-      "desc": "After an enemy is defeated, gain 1 Haste and 1 Damage Up next turn.\nIf this unit defeated an enemy, also gain 1 Fanatic. (Once per turn.)"
+      "desc": "After an enemy is defeated, gain 1 Haste and 1 Damage Up ในเทิร์นต่อไป\nIf this unit defeated an enemy, also gain 1 Fanatic. (Once per turn.)"
     },
     {
       "id": 1050421,
@@ -483,7 +483,7 @@
     {
       "id": 1070401,
       "name": "Bugger…",
-      "desc": "When an ally is defeated, lose 10 SP and gain 1 Blunt Power Up next turn."
+      "desc": "When an ally is defeated, lose 10 SP and gain 1 Blunt Power Up ในเทิร์นต่อไป"
     },
     {
       "id": 1070421,
@@ -497,7 +497,7 @@
     },
     {
       "id": 1110421,
-      "name": "Relay Intelligence",
+      "name": "ส่งต่อข่าวกรอง",
       "desc": "1 ally with the fastest Speed deals +10% damage when attacking a target with a damage type the target is “Weak” or “Fatal” to."
     },
     {
@@ -553,7 +553,7 @@
     {
       "id": 1090501,
       "name": "Here’s to Getting Off Early~",
-      "desc": "On [VibrationExplosion], spend 3 Charge Count to increase the Stagger Threshold raise by +40%.\nAfter triggering [VibrationExplosion], gain 1 Haste and 1 Blunt DMG Up next turn."
+      "desc": "On [VibrationExplosion], spend 3 Charge Count to increase the Stagger Threshold raise by +40%.\nAfter triggering [VibrationExplosion], gain 1 Haste and 1 Blunt DMG Up ในเทิร์นต่อไป"
     },
     {
       "id": 1090521,
@@ -573,12 +573,12 @@
     {
       "id": 1070501,
       "name": "Rain of Tears",
-      "desc": "At the start of the combat phase, spend 1 Sinking Count and lose SP by the current amount of Sinking.\nBefore being hit by an attack, gain Protection equal to this unit's Sinking. (Up to 5 Protection can be gained per turn)\nWhen hit, gain 1 Blunt DMG Up next turn. (3 per turn)"
+      "desc": "At the start of the combat phase, spend 1 Sinking Count and lose SP by the current amount of Sinking.\nBefore being hit by an attack, gain Protection equal to this unit's Sinking. (Up to 5 Protection can be gained per turn)\nWhen hit, gain 1 Blunt DMG Up ในเทิร์นต่อไป (3 per turn)"
     },
     {
       "id": 1070521,
       "name": "Ragged Umbrella",
-      "desc": "1 ally with the least SP loses 10 SP when hit by an attack and gains 1 Blunt DMG Up next turn. (Once per turn)"
+      "desc": "1 ally with the least SP loses 10 SP when hit by an attack and gains 1 Blunt DMG Up ในเทิร์นต่อไป (Once per turn)"
     },
     {
       "id": 1120501,
@@ -603,7 +603,7 @@
     {
       "id": 1080501,
       "name": "Filling Fluid",
-      "desc": "If this unit fails to deal HP damage using attack skills in a turn, gain a Shield equal to 5% of Max HP next turn. (Max 30)"
+      "desc": "If this unit fails to deal HP damage using attack skills in a turn, gain a Shield equal to 5% of Max HP ในเทิร์นต่อไป (Max 30)"
     },
     {
       "id": 1080521,
@@ -643,12 +643,12 @@
     {
       "id": 1050601,
       "name": "Activate rrR-#4 Suit Pressurization",
-      "desc": "At the end of the turn, Max Speed +2 (Capped at 6) per 5 Charge Count next turn."
+      "desc": "At the end of the turn, Max Speed +2 (Capped at 6) per 5 Charge Count ในเทิร์นต่อไป"
     },
     {
       "id": 1050621,
       "name": "Maneuver Training",
-      "desc": "At the end of the turn, 1 ally with the highest Charge Count gains Max Speed +1 (Capped at 3) per 5 Charge Count next turn."
+      "desc": "At the end of the turn, 1 ally with the highest Charge Count gains Max Speed +1 (Capped at 3) per 5 Charge Count ในเทิร์นต่อไป"
     },
     {
       "id": 1090601,
@@ -658,7 +658,7 @@
     {
       "id": 1090621,
       "name": "Designated Protection",
-      "desc": "At the start of the combat phase, 1 ally with the lowest HP percentage gains 1 Shield per 1 Poise Count next turn. (Max 10)"
+      "desc": "At the start of the combat phase, 1 ally with the lowest HP percentage gains 1 Shield per 1 Poise Count ในเทิร์นต่อไป (Max 10)"
     },
     {
       "id": 1030501,
@@ -835,12 +835,12 @@
     {
       "id": 1010601,
       "name": "Emptied Thought",
-      "desc": "- At Turn End, gain 1 Haste per 5 Charge Count on self next turn. (Max 2)\n- If this unit's Skill consumed Charge Count, apply 3 Charge Barrier to 1 ally with the lowest HP percentage"
+      "desc": "- At Turn End, gain 1 Haste per 5 Charge Count on self ในเทิร์นต่อไป (Max 2)\n- If this unit's Skill consumed Charge Count, apply 3 Charge Barrier to 1 ally with the lowest HP percentage"
     },
     {
       "id": 1010611,
       "name": "Emptied Thought",
-      "desc": "- At Turn End, gain 1 Haste per 5 Charge Count on self next turn. (Max 3)\n- If this unit's Skill consumed Charge Count, apply 3 Charge Barrier to 1 ally with the lowest HP percentage"
+      "desc": "- At Turn End, gain 1 Haste per 5 Charge Count on self ในเทิร์นต่อไป (Max 3)\n- If this unit's Skill consumed Charge Count, apply 3 Charge Barrier to 1 ally with the lowest HP percentage"
     },
     {
       "id": 1010621,
@@ -860,7 +860,7 @@
     {
       "id": 1120721,
       "name": "New Breathing Hole",
-      "desc": "If 1 ally with the most <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> defeats an enemy, gain 1 Pierce DMG Up next turn. (Once per turn)"
+      "desc": "If 1 ally with the most <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> defeats an enemy, gain 1 Pierce DMG Up ในเทิร์นต่อไป (Once per turn)"
     },
     {
       "id": 1040601,
@@ -1044,12 +1044,12 @@
     {
       "id": 1010801,
       "name": "Sinking Knowledge",
-      "desc": "When attacked, inflict 1 Sinking to the attacker (4 times max)"
+      "desc": "เมื่อถูกโจมตี, inflict 1 Sinking to the attacker (4 times max)"
     },
     {
       "id": 1010811,
       "name": "Sinking Knowledge",
-      "desc": "When attacked, inflict 1 Sinking on the attacker. When attacked while Shielded, inflict 1 additional Sinking on the attacker. (4 times max)"
+      "desc": "เมื่อถูกโจมตี, inflict 1 Sinking on the attacker. เมื่อถูกโจมตี while Shielded, inflict 1 additional Sinking on the attacker. (4 times max)"
     },
     {
       "id": 1010821,
@@ -1064,7 +1064,7 @@
     {
       "id": 1080801,
       "name": "Captain of the Pequod",
-      "desc": "After Attack: if the enemy is defeated after this unit's attack,\n- gain [HeatedGasHarpoon] next turn.\n- 1 other ally with the least SP heals 7 SP.\n- If the ally is from The Pequod, heal an additional 5 SP."
+      "desc": "After Attack: if the enemy is defeated after this unit's attack,\n- gain [HeatedGasHarpoon] ในเทิร์นต่อไป\n- 1 other ally with the least SP heals 7 SP.\n- If the ally is from The Pequod, heal an additional 5 SP."
     },
     {
       "id": 1080802,
@@ -1074,7 +1074,7 @@
     {
       "id": 1080811,
       "name": "Captain of the Pequod",
-      "desc": "- After Attack: if the enemy is defeated after this unit's attack,\n<style=\"highlight\">- gain 4 Poise, +2 Poise Count. Then, gain [OverHeatedGasHarpoon] next turn.</style>\n<style=\"highlight\">- 2 other allies with the least SP heal 7 SP and gain 4 Poise.</style>\n- If the allies are from The Pequod, heal an additional 5 SP. <style=\"highlight\">Then, once per turn, apply 1 Pierce Power Up next turn.</style>"
+      "desc": "- After Attack: if the enemy is defeated after this unit's attack,\n<style=\"highlight\">- gain 4 Poise, +2 Poise Count. Then, gain [OverHeatedGasHarpoon] ในเทิร์นต่อไป</style>\n<style=\"highlight\">- 2 other allies with the least SP heal 7 SP and gain 4 Poise.</style>\n- If the allies are from The Pequod, heal an additional 5 SP. <style=\"highlight\">Then, once per turn, apply 1 Pierce Power Up ในเทิร์นต่อไป</style>"
     },
     {
       "id": 1080821,
@@ -1579,7 +1579,7 @@
     {
       "id": 1071002,
       "name": "Dullahan",
-      "desc": "- Turn Start: if this unit has [NightPathfinding], mount [NightPathfinding].\n- Lose 5 SP every time this unit mounts [NightPathfinding]\n- If 3+ allies have been defeated in this Encounter, gain [NightPathfinding] next turn. (once per Encounter)\n- If this unit gets Staggered due to damage or raised Stagger Threshold when mounting [NightPathfinding], recover from Stagger. If the Stagger is something that cannot be naturally recovered from, this unit does not mount [NightPathfinding].\n\n- Gain 1 Coffin when killing the target."
+      "desc": "- Turn Start: if this unit has [NightPathfinding], mount [NightPathfinding].\n- Lose 5 SP every time this unit mounts [NightPathfinding]\n- If 3+ allies have been defeated in this Encounter, gain [NightPathfinding] ในเทิร์นต่อไป (once per Encounter)\n- If this unit gets Staggered due to damage or raised Stagger Threshold when mounting [NightPathfinding], recover from Stagger. If the Stagger is something that cannot be naturally recovered from, this unit does not mount [NightPathfinding].\n\n- Gain 1 Coffin when killing the target."
     },
     {
       "id": 1071001,
@@ -1645,7 +1645,7 @@
       "id": 1011011,
       "name": "Fire.IShallFire.",
       "desc": "After Attack: if this unit killed the target with its Skill, [ReloadLament]\nWhen this unit gains [BulletLament], gain 2 [Agility] next turn (once per turn)",
-      "summary": "When this unit gains Ammo, gain Agility next turn. Reload On Kill."
+      "summary": "When this unit gains Ammo, gain Agility ในเทิร์นต่อไป Reload On Kill."
     },
     {
       "id": 1011021,
@@ -1705,14 +1705,14 @@
     {
       "id": 1051101,
       "name": "Duel Livestream",
-      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit with base Attack Skills: inflict [ConcentratedAttackMeursault] next turn. (once per Skill)",
+      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit with base Attack Skills: inflict [ConcentratedAttackMeursault] ในเทิร์นต่อไป (once per Skill)",
       "summary": "Turn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn"
     },
     {
       "id": 1051111,
       "name": "Duel Livestream",
-      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit with base Attack Skills: inflict [ConcentratedAttackMeursault] next turn. (once per Skill)\n<style=\"highlight\">If this unit attacked the Slot with [ConcentratedAttackMeursault] and defeated its owner or broke the Part, heal 7 SP</style>",
-      "summary": "Turn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn. Heals SP On Kill"
+      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit with base Attack Skills: inflict [ConcentratedAttackMeursault] ในเทิร์นต่อไป (once per Skill)\n<style=\"highlight\">If this unit attacked the Slot with [ConcentratedAttackMeursault] and defeated its owner or broke the Part, heal 7 SP</style>",
+      "summary": "Turn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] ในเทิร์นต่อไป Heals SP On Kill"
     },
     {
       "id": 1051121,
@@ -1893,7 +1893,7 @@
     {
       "id": 1071102,
       "name": "Precision Aim",
-      "desc": "Turn End: gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\nTurn End: if this unit is not set to use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] next turn."
+      "desc": "Turn End: gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\nTurn End: if this unit is not set to use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] ในเทิร์นต่อไป"
     },
     {
       "id": 1071103,
