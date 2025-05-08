@@ -758,7 +758,7 @@
                                 "desc": "[OnSucceedAttack] มีโอกาส 20% ที่จะได้โยนเหรียญอีกครั้ง (มีผลครั้งเดียว). มีโอกาสเพิ่มอีก +20% ในโยนเหรียญอีกครั้ง ตามจำนวนของ สถานะผิดปกติ ที่เป้าหมายมี"
                             },
                             {
-                                "desc": "[OnSucceedAttack] ทำสถานะ +1 [Laceration] Count"
+                                "desc": "[OnSucceedAttack] ทำสถานะ [Laceration] +1 Count"
                             },
                             {
                                 "desc": "[OnSucceedAttack] ทำสถานะ +2 Count สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]."
@@ -775,7 +775,7 @@
                                 "desc": "[OnSucceedAttack] มีโอกาส 20% ที่จะได้โยนเหรียญอีกครั้ง (มีผลครั้งเดียว). มีโอกาสเพิ่มอีก +20% ในโยนเหรียญอีกครั้ง ตามจำนวนของ สถานะผิดปกติ ที่เป้าหมายมี"
                             },
                             {
-                                "desc": "[OnSucceedAttack] ทำสถานะ +1 [Laceration] Count"
+                                "desc": "[OnSucceedAttack] ทำสถานะ [Laceration] +1 Count"
                             },
                             {
                                 "desc": "[OnSucceedAttack] ทำสถานะ +3 Count สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]."
@@ -786,13 +786,13 @@
                 {
                     "level": 4,
                     "name": "Sanguine Pointillism",
-                    "desc": "เพิ่มพลังตอนปะทะ +1 สำหรับทุก [Laceration] 3 หน่วย บนตัวเป้าหมาย (มากสุด 2)\nเพิ่มพลังของเหรียญ +1 สำหรับทุก [Laceration] Count 3 หน่วย ของเป้าหมาย (มากที่สุด 2)",
+                    "desc": "เพิ่มพลังตอนปะทะ +1 สำหรับทุก [Laceration] 3 หน่วย บนเป้าหมาย (มากที่สุด 2)\nเพิ่มพลังเหรียญ +1 สำหรับทุก [Laceration] 3 Count บนเป้าหมาย (มากที่สุด 2)",
                     "coinlist": [{
                         "coindescs": [{
                                 "desc": "[OnSucceedAttack] มีโอกาส 40% ที่จะได้โยนเหรียญอีกครั้ง. มีโอกาสเพิ่มอีก +20% ในโยนเหรียญอีกครั้ง ตามจำนวนของ สถานะผิดปกติ ที่เป้าหมายมี (มากสุด 2 ครั้ง ต่อ สกิล)"
                             },
                             {
-                                "desc": "[OnSucceedAttack] ทำสถานะ +1 [Laceration] Count"
+                                "desc": "[OnSucceedAttack] ทำสถานะ [Laceration] +1 Count"
                             },
                             {
                                 "desc": "[OnSucceedAttack] ทำสถานะ +3 Count สุ่มจากสถานะอย่างใดอย่างนึ่งจากตัวเลือกดังนี้: [Combustion], [Laceration], [Vibration], [Burst], หรือ [Sinking]. "
