@@ -3,177 +3,177 @@
     {
       "id": "battle_8099_s4_1-02",
       "desc": "Skill Activation",
-      "dlg": "Enough games."
+      "dlg": "เลิกเล่นกันได้แล้ว"
     },
     {
       "id": "battle_8099_s2_2-01",
       "desc": "Skill Activation",
-      "dlg": "Complete and total..."
+      "dlg": "ล้างโคน..."
     },
     {
       "id": "battle_8099_s2_2-02",
       "desc": "Skill Activation",
-      "dlg": "Extermination!"
+      "dlg": "แม่งให้หมด!"
     },
     {
       "id": "battle_ak_8105_1-02",
       "desc": "Skill Activation",
-      "dlg": "I am the Captain of this Lake... of the City...\nI shall seize this beast's heart and sever the evil from its roots!"
+      "dlg": "ฉันคือกัปตันของทะเลสาบแห่งนี้... ของเมืองนี้...\nฉันจะควักหัวใจของอสูรตัวนี้ แล้วถอนรากถอนโคนความชั่วร้ายมันให้หมด"
     },
     {
       "id": "battle_selection1_8105_1",
       "desc": "Skill Activation",
-      "dlg": "Yes... Break my heart open and impale my skull, Ishmael!"
+      "dlg": "ใช่... กระซากหัวใจฉันออกมา และทะลวงกะโหลกของฉันเลย, อิชมาเอล!"
     },
     {
       "id": "battle_selection2_8105_1",
       "desc": "Skill Activation",
-      "dlg": "Once an Ahab... shall be Ahab evermore...!"
+      "dlg": "เป็นเอแฮบยังไง... ก็เป็นเอแฮบอย่างนั้นแหละ...!"
     },
     {
       "id": "battle_sacrifice_8106_1",
       "desc": "Phase Start",
-      "dlg": "Now, carve yourself in my stead!"
+      "dlg": "เอาละ, ทำหน้าที่แทนฉันซะ!"
     },
     {
       "id": "battle_sacrifice_8106_2",
       "desc": "Phase Start",
-      "dlg": "The time is finally upon us, my dear crew!"
+      "dlg": "เหล่าลูกเรือเอ๋ย!, เวลาของเราได้มาถึงแล้ว"
     },
     {
       "id": "battle_order_attack_8106",
       "desc": "Assist Attack",
-      "dlg": "Cover me!"
+      "dlg": "คุ้มกันฉัน!"
     },
     {
       "id": "battle_order_defence_8106",
       "desc": "Assist Defense",
-      "dlg": "Defend me now!"
+      "dlg": "ปกป้องฉันเดี๋ยวนี้!"
     },
     {
       "id": "battle_entry_10001_1",
       "desc": "Skill Activation",
-      "dlg": "When you lose sight of your path,\nwhen you no longer know which road to take..."
+      "dlg": "ยามใดที่คุณหลงทาง,\nยามใดที่ไม่อาจล่วงรู้หนทางของตัวเองอีกต่อไป..."
     },
     {
       "id": "battle_entry_10001_2",
       "desc": "Skill Activation",
-      "dlg": "The guide shall show you the way,"
+      "dlg": "ผมจะเป็นผู้ชี้นำทางนั้นให้เอง,"
     },
     {
       "id": "battle_entry_10001_3",
       "desc": "Skill Activation",
-      "dlg": "Dante."
+      "dlg": "ดันเต้"
     },
     {
       "id": "battle_8173_phaseclear_2",
       "desc": "",
-      "dlg": "How revolting."
+      "dlg": "น่าสมเพชซะจริง"
     },
     {
       "id": "battle_8173_phaseclear_3",
       "desc": "",
-      "dlg": "No repose shall await us."
+      "dlg": "ไม่มีความสงบสุขรอเราอยู่"
     },
     {
       "id": "battle_8173_kill_1",
       "desc": "",
-      "dlg": "No, you must suffer more!"
+      "dlg": "ไม่, แกต้องทรมารมากกว่านี้"
     },
     {
       "id": "battle_8173_kill_2",
       "desc": "",
-      "dlg": "We do not even deserve to breathe this air."
+      "dlg": "พวกเราไม่สมควรที่จะสูดอากาศแบบนี้ด้วยซ้ำ"
     },
     {
       "id": "battle_8173_kill_3",
       "desc": "",
-      "dlg": "Embrace this wretched death."
+      "dlg": "ยอมรับความตายที่น่าอนาถนี้ซะ"
     },
     {
       "id": "battle_8173_skill_1",
       "desc": "",
-      "dlg": "The moment of ruin is nigh."
+      "dlg": "เวลาแห่งหายนะใกล้เข้ามาแล้ว"
     },
     {
       "id": "battle_8173_skill_2",
       "desc": "",
-      "dlg": "Let all writhe in the deepest chasm of suffering!"
+      "dlg": "ขอให้ทุกคนจมอยู่ในห้วงลึกแห่งความเจ็บปวด!"
     },
     {
       "id": "battle_8173_phase_1_1",
       "desc": "",
-      "dlg": "Where are you...? Come to my embrace, Catherine!"
+      "dlg": "อยู่ไหนกัน..? เข้ามาหาอ้อมกอดของฉันสิ เเคทเธอรีน!"
     },
     {
       "id": "battle_8173_phase_1_2",
       "desc": "",
-      "dlg": "Heathcliff!"
+      "dlg": "ฮีธคลิฟฟ์!"
     },
     {
       "id": "battle_8173_phase_1_3",
       "desc": "",
-      "dlg": "Where... where are... I can hear your voice. Oh, please..."
+      "dlg": "อยู่ที่ไหนกัน... ได้โปรด... ขอให้ฉันได้ยินเสียงของเธออีกครั้งที..."
     },
     {
       "id": "battle_8173_phase_2",
       "desc": "",
-      "dlg": "May you wake in torment, my dear Catherine."
+      "dlg": "ขอให้ตื่นในความทรมานเสียเถิด, เเคทเธอรีนที่รักของฉัน"
     },
     {
       "id": "battle_8173_phase_3",
       "desc": "",
-      "dlg": "Please, Catherine. Appear before me and tear me asunder.\nLet me see your eyes as I expire."
+      "dlg": "ได้โปรด เเคทเธอรีน เเสดงตัวต่อหน้าฉันเเล้วฉีกฉันให้แหลกเป็นชิ้นๆ\nให้ฉันได้มองตาของเธอในขณะที่ฉันขาดใจตายที"
     },
     {
       "id": "7SV-016",
       "desc": "",
-      "dlg": "You can stop galloping onward, now."
+      "dlg": "ตอนนี้, เจ้าจงหยุดทะยานไปได้แล้ว"
     },
     {
       "id": "7SV-017",
       "desc": "",
-      "dlg": "What adventure could you possibly embark on, with such frail souls?"
+      "dlg": "เจ้าจะสามารถออกผจญภัยได้ที่ไหนเสีย กับจิตวิญญาณแสนเปราะบางเช่นนั้น?"
     },
     {
       "id": "S703V-1312",
       "desc": "",
-      "dlg": "My name... is Quixote!"
+      "dlg": "นามของข้า... คือ กิโฮเต้!"
     },
     {
       "id": "S703V-1313",
       "desc": "",
-      "dlg": "I, Don Quixote, declare upon my honor: this lance shall end that hollow, juvenile dream!"
+      "dlg": "ข้า, ดอน กีโฆเต้, จักขอปฏิญาณตนด้วยเกียรติ, หอกเล่มนี้จักดับความฝันแสนกลวปล่าวอันไร้เดียงสาของเจ้าให้สิ้น!"
     },
     {
       "id": "S703V-1314",
       "desc": "",
-      "dlg": "My name is Sancho!"
+      "dlg": "นามของข้าคือ ซานโช!"
     },
     {
       "id": "S703V-1314-1",
       "desc": "",
-      "dlg": "And I, Sancho, declare upon my honor: this lance shall end that festering, slothful dream!"
+      "dlg": "และข้า, ซานโช, จักขอปฏิญาณตนด้วยเกียรติ หอกเล่มนี้จักดับความฝันอันเน่าเฟะและเกียจคร้านของท่านให้สิ้น!"
     },
     {
       "id": "7SV-104-01",
       "desc": "",
-      "dlg": "No matter how impossible it may be..."
+      "dlg": "แม้ว่าจะเพ้อฝันไปมากเพียงใด..."
     },
     {
       "id": "7SV-104-02",
       "desc": "",
-      "dlg": "Until I reach that dream..."
+      "dlg": "จนกว่าขัาจะเอื้อมถึงมัน..."
     },
     {
       "id": "7SV-104-03",
       "desc": "",
-      "dlg": "I'll keep pushing to the—"
+      "dlg": "ข้าจะ มุ่งทะยานต่อไป—"
     },
     {
       "id": "7SV-104-04",
       "desc": "",
-      "dlg": "Nay... I shall gallop ever-onward, unbroken, unrelenting to the end!!"
+      "dlg": "จัก... ควบต่อไปไม่บุปสลาย,ไม่ย่อท้อ, จวบจนอวสาน!!"
     }
   ]
 }

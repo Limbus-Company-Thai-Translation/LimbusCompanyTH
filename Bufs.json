@@ -833,7 +833,7 @@
         },
         {
             "id": "PenetrateTakeDamageUp",
-            "name": "เปราะบางต่อ กับการแทง",
+            "name": "เปราะบางต่อ การแทง",
             "desc": "Take +{0}0% damage from Pierce skills this turn. (Max 100%)",
             "summary": "Pierce damage taken +{0}0%"
         },
@@ -2446,13 +2446,34 @@
             "desc": "- Max Stack: 10\n- Consumed by certain Skills or Passives\n- Take +2% more damage from The Middle enemies for every Stack (max 20%)\n- Turn End: the unit with the highest Stack of this effect gains 1 Sibling Vengeance Mark next turn\n(Counted separately from Vengeance Mark; if more than a single unit has the highest Stack of this effect, this effect targets the one with a higher HP percentage)",
             "summary": "",
             "undefined": "-"
-        },
-        {
-            "id": "RetaliationBookFamily",
-            "name": "Sibling Vengeance Mark",
-            "desc": "- Max Stack: 1\n- Expires at Turn End\n- Every Identity treats this unit as having their Vengeance Mark",
-            "summary": "",
-            "undefined": "-"
-        }
-    ]
+    },
+    {
+      "id": "RetaliationBookFamily",
+      "name": "Sibling Vengeance Mark",
+      "desc": "- Max Stack: 1\n- Expires at Turn End\n- Every Identity treats this unit as having their Vengeance Mark",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BirdCage",
+      "name": "Searing Birdcage",
+      "desc": "Max Stack: 5\nIf this unit has Burn, Wrath Resistance +0.1 for every Stack (cannot exceed 2.0 Wrath Resistance with this effect)\nTurn End: gain Bind equal to Stack next turn\nTurn End: halve Stack (rounded down)\n※ Cannot gain additional Stacks of this effect while it is already active",
+      "summary": "Wrath Resistance +0.1 for every Stack",
+      "undefined": "-"
+    },
+    {
+      "id": "WideAreaRampage",
+      "name": "Unfocused Volley",
+      "desc": "- When this Skill flips Coins, each Coin flips against a random enemy among its targets\n· The first Coin always targets the main target\n· All 'On Hit' effects and all damage dealt by each Coin are inflicted only against the random target the Coin selected",
+      "summary": "Attack indiscriminately among targets",
+      "undefined": "-"
+    },
+    {
+      "id": "ActivatedEgoPassive",
+      "name": "E.G.O Passives",
+      "desc": "Active E.G.O Passives",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
 }
