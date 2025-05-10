@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "acheive",
-      "content": "Acquisition"
+      "content": "เมื่อได้รับตัวตน"
     },
     {
       "id": "dialog01",
-      "content": "Chatter #1"
+      "content": "สนทนา #1"
     },
     {
       "id": "dialog02",
-      "content": "Chatter #2"
+      "content": "สนทนา #2"
     },
     {
       "id": "dialog03",
-      "content": "Chatter #3"
+      "content": "สนทนา #3"
     },
     {
       "id": "sync_dialog01",

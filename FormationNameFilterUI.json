@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "change_formation_name_title",
-      "content": "Edit Team Name"
+      "content": "เปลื่ยนชื่อทีม"
     },
     {
       "id": "formation_name_filter_contents_title",

@@ -38,7 +38,7 @@
         {
             "id": "smalltalk_10310_4",
             "desc": "Post-Uptie Chat 1",
-            "dlg": "At the end of the road paved by your gilded dream of coexistence lies the ruin of an irresponsible Father who's cast his Children from the sanctuary of their home.\nWhere was your concern for our suffering? Why—why was the burden of sacrifice always ours?!"
+            "dlg": "เมื่อถึงสุดสายที่ท่านฉาบไปด้วยฝันแห่งการอยู่ร่วมกันนั้นซากของพ่อผู้ไร้ความรับผิดชอบผู้ทอ้งลูดของตัวเองจากสถานที่ปลอดภัยของบ้านตัวเอง\nความห่วงต่อความทรมานของเราไปไหนg? ทำไม—ทำไมภาระของการเสียสละตกมาที่เราตลอดกัน?!"
         },
         {
             "id": "smalltalk_10310_5",
@@ -53,7 +53,7 @@
         {
             "id": "gacksung_10310_1",
             "desc": "Uptying",
-            "dlg": "Was it sweet, your hollow, juvenile dream? It is about time you awakened from it. Take responsibility for those you had once abandoned in the hands of others.\nResent us, O Father. For we shall resent you in return."
+            "dlg": "หวานหรือเปล่า ความฝันอันเยาว์แสนกลวงของท่านน่ะ? ได้เวลาที่ท่านจะตื่นขึ้นจากมันแล้ว รับผิดชอบต่อสิ่งที่ท่านเคยทิ้งในมือของผู้อื่น\nจงชังเราสิ ท่านบิดา เพราะเราจะชังท่านกลับให้"
         },
         {
             "id": "formation_10310_1",
@@ -88,12 +88,12 @@
         {
             "id": "battle_kill_10310_1",
             "desc": "Enemy Killed",
-            "dlg": "... shall it cascade."
+            "dlg": "... จงไหลริน."
         },
         {
             "id": "battle_dead_10310_1",
             "desc": "Death",
-            "dlg": "Is this... 'the retribution' ที่เจ้าพูดถึงหรือ บาทหลวง...?"
+            "dlg": "นี่หรือ... 'การชดใช้บาป' ที่เจ้าพูดถึง บาทหลวง...?"
         },
         {
             "id": "choice_success_p_10310_2",
@@ -103,22 +103,22 @@
         {
             "id": "choice_fail_n_10310_1",
             "desc": "Check Failed",
-            "dlg": "... Your mistake was putting your faith in an impossibility. It was destined for failure."
+            "dlg": "... ความผิดพลาดของเจ้าคือการศรัทธาในสิ่งที่เป็นไปไม่ได้ มันนั้นมีชะตาให้ล้มเหลว"
         },
         {
             "id": "battle_clear_10310_1",
             "desc": "Victory Cry",
-            "dlg": "I did not commit the sin of filial impiety for this meager outcome. Blood must continue to flow, to sate more of my family..."
+            "dlg": "ข้าไม่ได้ทำบาป filial impiety เพื่อผลแค่นี่หรอกนะ เลือดต้องไหลต่อไป เพื่อเติมเต็มครอบครัวข้าอีก..."
         },
         {
             "id": "battle_clear_ex_10310_1",
             "desc": "Extra Conditions Fulfilled",
-            "dlg": "When the blood wets our throats, we shall be liberated from the deep thirst and the guilt toward our Father. So drink, drink with abandon, for that is the only dream this existence has permitted us."
+            "dlg": "เมื่อเลือดชุ่มคอเรา เราจะถูกปลดปล่อยจากความกระหายเบื้องลึกและความรู้สึกผิดต่อท่านพ่อของเรา ดื่มซะ ดื่มไม่ต้องหยุด เพราะนั่นคือฝันเดียวที่การมีอยู่นี้อนุญาตให้แก่เรา"
         },
         {
             "id": "battle_defeat_10310_1",
             "desc": "Defeat Wail",
-            "dlg": "This was to be expected, for we do not possess the strength that our Father wields.\nThus we retreat for now, but should more blood spill..."
+            "dlg": "นี่นั้นคาดเอาไว้แล้ว เพราะเราไม่มีกำลังที่ท่านพ่อเรามี\nฉะนั้นตอนนี้เราจะถอย แต่ถ้าเลือดไหลมากกว่านี้ล่ะก็..."
         }
     ]
 }
