@@ -750,7 +750,7 @@
             "levelList": [{
                     "level": 3,
                     "name": "ข้าขอสั่งให้เจ้า หยุด!",
-                    "desc": "[WhenUse] ถ้าเป้าหมายมี 6+ [Vibration], พลังตอนปะทะ +1\n[WhenUse] Consume 10 [Vibration] Count on self to ได้รับ พลังเหรียญ +2",
+                    "desc": "[WhenUse] ถ้าเป้าหมายมี 6+ [Vibration],พลังตอนปะทะ +1\n[WhenUse] ใช้ 10 [Vibration] Count บนตัวข้าเพื่อได้รับ พลังเหรียญ +2",
                     "coinlist": [
                         {},
                         {
@@ -761,10 +761,10 @@
                         {},
                         {
                             "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 10+ [Vibration], consume 10 [Vibration] บน เป้าหมาย and ทำสถานะ 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]"
+                                    "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 10+ [Vibration], ใช้ 10 [Vibration] บนตัวเป้าหมาย แล้ว ทำสถานะ 2 [TimeSuspend]\n- หากตัวข้าอยู่ในสถานะ [TimeRentalTwoPersonality],สกิวนี้ไม่จำเป็นต้องใช้ [Vibration] บนตัวเป้าหมาย"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If target's Speed is slower than this unit's, trigger [Switch_Vibration] into [VibrationChainPersonality]"
+                                    "desc": "[OnSucceedAttack] ถ้าความเร็วของเป้าหมายช้ากว่าความเร็วของข้า, กระตุ้น [Switch_Vibration] กลายเป็น [VibrationChainPersonality]"
                                 }
                             ]
                         }
@@ -773,7 +773,7 @@
                 {
                     "level": 4,
                     "name": "ข้าขอสั่งให้เจ้า หยุด!",
-                    "desc": "[WhenUse] พลังตอนปะทะ +1 for every 6 [Vibration] บน เป้าหมาย (มากสุด 2)\n[WhenUse] ถ้าเป้าหมายมี [Binding], ได้รับ พลังตอนปะทะ +1\n[WhenUse] Consume 10 [Vibration] Count on self to ได้รับ พลังเหรียญ +2",
+                    "desc": "[WhenUse] พลังปะทะ +1 สำหรับทุกๆ 6 [Vibration] บนตัวเป้าหมาย (มากที่สุด 2)\n[WhenUse] ถ้าเป้าหมายมี [Binding], ได้รับ พลังปะทะ +1\n[WhenUse] ใช้ 10 [Vibration] Count บนตัวข้าเพื่อได้รับ พลังเหรียญ +2",
                     "coinlist": [
                         {},
                         {
@@ -788,7 +788,7 @@
                         },
                         {
                             "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 10+ [Vibration], consume 10 [Vibration] บน เป้าหมาย and ทำสถานะ 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 10+ [Vibration], ใช้ 10 [Vibration] บนตัวเป้าหมาย แล้ว ทำสถานะ 2 [TimeSuspend]\n- หากตัวข้าอยู่ในสถานะ [TimeRentalTwoPersonality],สกิวนี้ไม่จำเป็นต้องใช้ [Vibration] บนตัวเป้าหมาย"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] กระตุ้น [VibrationExplosion]; แล้วจากนั้น, ลด [Vibration] Count ลง 1"
@@ -807,7 +807,7 @@
             "levelList": [{
                     "level": 1,
                     "name": "ตัวข้าควรเรียกเวลา",
-                    "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, ได้รับ 4 [TimeRentalTwoPersonality] at Turn End (1 ครั้ง ต่อ เทิร์น)\n[WhenUse] For this turn: when hit by an enemy, ทำสถานะ 2 [Vibration] บน เป้าหมาย เทิร์นหน้า (2 ครั้งต่อเทิร์น)",
+                    "desc": "[StartBattle] ถ้าตัวข้าไม่มีสถานะ [TimeRentalTwoPersonality], ได้รับ 4 [TimeRentalTwoPersonality] ตอนจบเทิร์น (1 ครั้งต่อเทิร์น)\n[WhenUse] สำหรับเทิร์น: หากถูกตีโดยศัตรู, ทำสถานะ 2 [Vibration] บน เป้าหมาย เทิร์นหน้า (2 ครั้งต่อเทิร์น)",
                     "coinlist": [
                         {}
                     ]
@@ -815,7 +815,7 @@
                 {
                     "level": 4,
                     "name": "ตัวข้าควรเรียกเวลา",
-                    "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, ได้รับ 4 [TimeRentalTwoPersonality] at Turn End (1 ครั้ง ต่อ เทิร์น)\n[WhenUse] For this turn: when hit by an enemy, ทำสถานะ <style=\"highlight\">3</style> [Vibration] บน เป้าหมาย เทิร์นหน้า (<style=\"highlight\">6 times</style> per turn)",
+                    "desc": "[StartBattle] ถ้าตัวข้าไม่มีสถานะ [TimeRentalTwoPersonality], ได้รับ 4 [TimeRentalTwoPersonality] ตอนจบเทิร์น (1 ครั้งต่อเทิร์น)\n[WhenUse] สำหรับเทิร์น: หากถูกตีโดยศัตรู, ทำสถานะ 3 [Vibration] บน เป้าหมาย เทิร์นหน้า (6 ครั้งต่อเทิร์น)",
                     "coinlist": [
                         {}
                     ]
@@ -827,7 +827,7 @@
             "levelList": [{
                     "level": 1,
                     "name": "พอก็คือพอ",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]",
+                    "desc": "หลังจากตีโดยสกิลนี้: ฟื้นฟู HP 30% ของดาเมจที่ทำไป (มากที่สุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] และได้รับ 1 [BloodArmorPersonalityFirst] สำหรับทุกๆ 5 [BloodDinner] ที่ข้าดื่มไป\n- ถ้าข้าดื่ม [BloodDinner] ไม่ได้, ได้รับ 5 [Laceration]",
                     "coinlist": [
                         {},
                         {
@@ -840,7 +840,7 @@
                 {
                     "level": 2,
                     "name": "พอก็คือพอ",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี 6+ [Laceration], พลังเหรียญ +1</style>",
+                    "desc": "หลังจากตีโดยสกิลนี้: ฟื้นฟู HP 30% ของดาเมจที่ทำไป (มากที่สุด 10))\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] และได้รับ 1 [BloodArmorPersonalityFirst] สำหรับทุกๆ 5 [BloodDinner] ที่ข้าดื่มไป\n- ถ้าข้าดื่ม [BloodDinner] ไม่ได้,ข้าติด 5 [Laceration]\n[WhenUse] ถ้าเป้าหมายมี 6+ [Laceration], พลังเหรียญ +1",
                     "coinlist": [
                         {},
                         {
@@ -853,7 +853,7 @@
                 {
                     "level": 4,
                     "name": "พอก็คือพอ",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n[WhenUse] <style=\"highlight\">พลังเหรียญ +1 for every 6 [Laceration] บน เป้าหมาย (มากสุด 2)</style>",
+                    "desc": "หลังจากตีโดยสกิลนี้: ฟื้นฟู HP 30% ของดาเมจที่ทำไป (มากที่สุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] และได้รับ 1 [BloodArmorPersonalityFirst] สำหรับทุกๆ 5 [BloodDinner] ที่ข้าดื่มไป\n- ถ้าข้าดื่ม [BloodDinner] ไม่ได้,ข้าติด 5 [Laceration]\n[WhenUse] พลังเหรียญ +1 ทุกๆ 6 [Laceration] บนตัวเป้าหมาย (มากที่สุด 2)",
                     "coinlist": [{
                             "coindescs": [{
                                 "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
@@ -873,7 +873,7 @@
             "levelList": [{
                     "level": 1,
                     "name": "จงให้ทั้งหลายบานสะพรั่งอย่างเสรี",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n[BeforeAttack] At 10+ [BloodArmorPersonalityFirst], Atk Weight +1",
+                    "desc": "หลังจากตีโดยสกิลนี้: ฟื้นฟู HP 30% ของดาเมจที่ทำไป (มากที่สุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] และได้รับ 1 [BloodArmorPersonalityFirst] สำหรับทุก 10 [BloodDinner] ข้าที่ดื่ม\n- ถ้าข้าดื่ม [BloodDinner] ไม่ได้, ได้รับ 5 [Laceration]\n[BeforeAttack] เมื่อมี 10+ [BloodArmorPersonalityFirst], Atk Weight +1",
                     "coinlist": [{
                             "coindescs": [{
                                 "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
@@ -881,10 +881,10 @@
                         },
                         {
                             "coindescs": [{
-                                    "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
+                                    "desc": "ทำดาเมจเพิ่ม +2.5% สำหรับทุก [Laceration] บนตัวเป้าหมาย (มากที่สุด 25%)"
                                 },
                                 {
-                                    "desc": "Deal +5% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด 25%)"
+                                    "desc": "ทำดาเมจเพิ่ม 5% สำหรับทุก 100 [BloodDinner_Accumulation] ที่ข้าดื่ม (มากที่สุด 50%)"
                                 }
                             ]
                         }
@@ -893,7 +893,7 @@
                 {
                     "level": 2,
                     "name": "จงให้ทั้งหลายบานสะพรั่งอย่างเสรี",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี 6+ [Laceration], พลังเหรียญ +1</style>\n[BeforeAttack] <style=\"highlight\">Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] on self (มากสุด 2)</style>",
+                    "desc": "หลังจากตีโดยสกิลนี้: ฟื้นฟู HP 30% ของดาเมจที่ทำไป (มากที่สุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] และได้รับ 1 [BloodArmorPersonalityFirst] สำหรับทุก 10 [BloodDinner] ข้าที่ดื่ม\n- ถ้าข้าดื่ม [BloodDinner] ไม่ได้, ได้รับ 5 [Laceration]\n[WhenUse] ถ้าเป้าหมายมี 6+ [Laceration], พลังเหรียญ +1\n[BeforeAttack] Atk Weight +1 สำหรับทุก 10 [BloodArmorPersonalityFirst] บนตัวข้า (มากที่สุด 2)",
                     "coinlist": [{
                             "coindescs": [{
                                 "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
@@ -901,10 +901,10 @@
                         },
                         {
                             "coindescs": [{
-                                    "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
+                                    "desc": "ทำดาเมจเพิ่ม +2.5% สำหรับทุก [Laceration] บนตัวเป้าหมาย (มากที่สุด 25%)"
                                 },
                                 {
-                                    "desc": "Deal +<style=\"highlight\">10</style>% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด <style=\"highlight\">50</style>%)"
+                                    "desc": "ทำดาเมจเพิ่ม 10% สำหรับทุก 100 [BloodDinner_Accumulation] ที่ข้าดื่ม (มากที่สุด 50%)"
                                 }
                             ]
                         }
@@ -913,7 +913,7 @@
                 {
                     "level": 4,
                     "name": "จงให้ทั้งหลายบานสะพรั่งอย่างเสรี",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n[WhenUse] พลังเหรียญ +1 for every 6 [Laceration] บน เป้าหมาย (มากสุด 2)</style>\n[BeforeAttack] Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] on self (มากสุด 2)",
+                    "desc": "หลังจากตีโดยสกิลนี้: ฟื้นฟู HP 30% ของดาเมจที่ทำไป (มากที่สุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] และได้รับ 1 [BloodArmorPersonalityFirst] สำหรับทุก 10 [BloodDinner] ข้าที่ดื่ม\n- ถ้าข้าดื่ม [BloodDinner] ไม่ได้, ได้รับ 5 [Laceration]\n[WhenUse] พลังเหรียญ +1 สำหรับทุก 6 [Laceration] บนตัวเป้าหมาย (มากที่สุด 2)\n[BeforeAttack] Atk Weight +1 สำหรับทุก 10 [BloodArmorPersonalityFirst] บนตัวข้า (มากที่สุด 2)",
                     "coinlist": [{
                             "coindescs": [{
                                 "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
@@ -921,10 +921,10 @@
                         },
                         {
                             "coindescs": [{
-                                    "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
+                                    "desc": "ทำดาเมจเพิ่ม +2.5% สำหรับทุก [Laceration] บนตัวเป้าหมาย (มากที่สุด 25%)"
                                 },
                                 {
-                                    "desc": "Deal +<style=\"highlight\">15</style>% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด <style=\"highlight\">75</style>%)"
+                                    "desc": "ทำดาเมจเพิ่ม 15% สำหรับทุก 100 [BloodDinner_Accumulation] ที่ข้าดื่ม (มากที่สุด 75%)"
                                 }
                             ]
                         }
@@ -937,7 +937,7 @@
             "levelList": [{
                     "level": 3,
                     "name": "ข้าจักต้องแทงทะลวง",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 10)\n[WhenUse] พลังตอนปะทะ +1 for every 10 [BloodArmorPersonalityFirst] (มากสุด 2)\n[WhenUse] ถ้าเป้าหมายมี 10+ [Laceration], พลังเหรียญ +1\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 50%)\n[WhenUse] Deal +10% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด 50%)\n[EndSkill] ถ้าเป้าหมายพ่ายแพ้, increase [BloodDinner] by 30; ได้รับ 10 [BloodArmorPersonalityFirst] (1 ครั้ง ต่อ เทิร์น)",
+                    "desc": "หลังจากตีโดยสกิลนี้: ฟื้นฟู 50% HP ทำดาเมจ (มากที่สุด 10)\n[WhenUse] พลังปะทะ +1 สำหรับทุกๆ 10 [BloodArmorPersonalityFirst] (มากที่สุด 2)\n[WhenUse] ถ้าเป้าหมายมี 10+ [Laceration], พลังเหรียญ +1\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] และได้รับ 1 [BloodArmorPersonalityFirst] สำหรับทุก 10 [BloodDinner] ที่ใช้งาน\n- ถ้าตัวข้าดื่ม [BloodDinner] ไม่ได้, ได้รับ 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 50%)\n[WhenUse] ทำดาเมจเพิ่ม +10% สำหรับทุก 100 [BloodDinner_Accumulation] (มากที่สุด 50%)\n[EndSkill] ถ้าเป้าหมายพ่ายแพ้, เพิ่ม [BloodDinner] อีก 30 หน่วย; ได้รับ 10 [BloodArmorPersonalityFirst] (1 ครั้งต่อเทิร์น)",
                     "coinlist": [
                         {},
                         {},
@@ -951,7 +951,7 @@
                 {
                     "level": 4,
                     "name": "ข้าจักต้องแทงทะลวง",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 10)\n[WhenUse] พลังตอนปะทะ +1 for every 10 [BloodArmorPersonalityFirst] (มากสุด 2)\n[WhenUse] <style=\"highlight\">พลังเหรียญ +1 for every 5 [Laceration] บน เป้าหมาย (มากสุด 2)</style>\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 50%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด <style=\"highlight\">100</style>%)\n[EndSkill] ถ้าเป้าหมายพ่ายแพ้, increase [BloodDinner] by <style=\"highlight\">60</style>; ได้รับ 10 [BloodArmorPersonalityFirst] (1 ครั้ง ต่อ เทิร์น)",
+                    "desc": "หลังจากตีโดยสกิลนี้: ฟื้นฟู 50% HP ทำดาเมจ (มากที่สุด 10)\n[WhenUse] พลังปะทะ +1 สำหรับทุกๆ 10 [BloodArmorPersonalityFirst] (มากที่สุด 2)\n[WhenUse] พลังเหรียญ +1 สำหรับทุก 5 [Laceration] บนตัวเป้าหมาย (มากที่สุด 2)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] และได้รับ 1 [BloodArmorPersonalityFirst] สำหรับทุก 10 [BloodDinner] ที่ใช้งาน \n- ถ้าตัวข้าดื่ม [BloodDinner] ไม่ได้, ได้รับ 10 [Laceration]\n[WhenUse] ทำดาเมจ +5% สำหรับ [Laceration] บนตัวเป้าหมาย (มากที่สุด 50%)\n[WhenUse] ทำดาเมจเพิ่ม +20% สำหรับทุก 100 [BloodDinner_Accumulation] (มากที่สุด 100%)\n[EndSkill] ถ้าเป้าหมายพ่ายแพ้, เพิ่ม [BloodDinner] อีก 60 หน่วย; ได้รับ 10 [BloodArmorPersonalityFirst] (1 ครั้งต่อเทิร์น)",
                     "coinlist": [
                         {},
                         {},
@@ -969,7 +969,7 @@
             "levelList": [{
                     "level": 1,
                     "name": "พวกที่หัวเราะเยาะเย้ยควรมลายหายไป",
-                    "desc": "[DuelCounter]\n[StartBattle] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner]\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration]\n[StartBattle] To 1 ally with the least HP: มอบ 1 [SwirlingBloodPersonality] for every 50 [BloodDinner_Common_Accumulation] (มากสุด 10, 1 ครั้ง ต่อ เทิร์น)",
+                    "desc": "[DuelCounter]\n[StartBattle] ใช้ได้มากสุดถึง 50 [BloodDinner] และได้รับ 1 [BloodArmorPersonalityFirst] สำหรับทุกๆ 10 [BloodDinner]\n- ถ้าตัวข้าดื่ม [BloodDinner] ไม่ได้, ได้รับ 10 [Laceration]\n[StartBattle] ให้สหาย 1 คนที่มี HP น้อยที่สุด : มอบ 1 [SwirlingBloodPersonality] สำหรับทุก 50 [BloodDinner_Common_Accumulation] (มากที่สุด 10, 1 ครั้งต่อเทิร์น)",
                     "coinlist": [
                         {},
                         {
@@ -982,7 +982,7 @@
                 {
                     "level": 4,
                     "name": "พวกที่หัวเราะเยาะเย้ยควรมลายหายไป",
-                    "desc": "[DuelCounter]\n[StartBattle] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner]\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration]\n[StartBattle] To 1 ally with the least HP: มอบ 1 [SwirlingBloodPersonality] for every 50 [BloodDinner_Common_Accumulation] (มากสุด <style=\"highlight\">15</style>, 1 ครั้ง ต่อ เทิร์น)",
+                    "desc": "[DuelCounter]\n[StartBattle] ใช้ได้มากสุดถึง 50 [BloodDinner] และได้รับ 1 [BloodArmorPersonalityFirst] สำหรับทุกๆ 10 [BloodDinner]\n- ถ้าตัวข้าดื่ม [BloodDinner] ไม่ได้, ได้รับ 10 [Laceration]\n[StartBattle] ให้สหาย 1 คนที่มี HP น้อยที่สุด : มอบ 1 [SwirlingBloodPersonality] สำหรับทุก 50 [BloodDinner_Common_Accumulation] (มากที่สุด 15, 1 ครั้งต่อเทิร์น)",
                     "coinlist": [
                         {},
                         {
