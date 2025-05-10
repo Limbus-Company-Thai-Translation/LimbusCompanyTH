@@ -655,7 +655,7 @@
                 {
                     "level": 2,
                     "name": "พวกเรามาเตรียมตัวการเก็บกันเถอะ",
-                    "desc": "[WhenUse] ได้รับ +2 [Vibration] Count\n[WhenUse] ถ้าเป้าหมายมี 6+ [Vibration], พลังตอนปะทะ +1\n[WhenUse] ได้รับ +3 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
+                    "desc": "[WhenUse] ได้รับ +2 [Vibration] Count\n[WhenUse] ถ้าเป้าหมายมี 6+ [Vibration], พลังปะทะ +1\n[WhenUse] ได้รับ +3 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
                     "coinlist": [
                         {},
                         {
@@ -668,10 +668,10 @@
                 {
                     "level": 4,
                     "name": "พวกเรามาเตรียมตัวการเก็บกันเถอะ",
-                    "desc": "[WhenUse] ได้รับ +2 [Vibration] Count\n[WhenUse] ได้รับ พลังตอนปะทะ +1 for every 6 [Vibration] บน เป้าหมาย (มากสุด 2)</style>\n[WhenUse] ได้รับ +3 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
+                    "desc": "[WhenUse] ได้รับ +2 [Vibration] Count\n[WhenUse] ได้รับ พลังปะทะ +1 สำหรับทุกๆ 6 [Vibration] บนตัวเป้าหมาย (สูงที่สุด 2)\n[WhenUse] ได้รับ +3 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
                     "coinlist": [{
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ได้รับ +4 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า"
+                                "desc": "[OnSucceedAttack] ได้รับ +4 [Aggro] แก่ช่องสกิลนี้ในเทิร์นหน้า"
                             }]
                         },
                         {
@@ -691,7 +691,7 @@
                     "desc": "[WhenUse] ได้รับ +3 [Vibration] Count",
                     "coinlist": [{
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ใช้ได้มากสุดถึง 3 [Vibration] บน เป้าหมาย, and ได้รับ the same amount of [Vibration] Count on self"
+                                "desc": "[OnSucceedAttack] ใช้ได้มากสุดถึง 3 [Vibration] บน เป้าหมาย และได้รับ [Vibration] Count ให้แก่ตัวข้า เท่ากับ [Vibration] ที่ใช้ไป"
                             }]
                         },
                         {
@@ -707,7 +707,7 @@
                     "desc": "[WhenUse] ได้รับ +3 [Vibration] Count\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี 6+ [Vibration], พลังตอนปะทะ +1</style>",
                     "coinlist": [{
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ใช้ได้มากสุดถึง 3 [Vibration] บน เป้าหมาย, and ได้รับ the same amount of [Vibration] Count on self"
+                                "desc": "[OnSucceedAttack] ใช้ได้มากสุดถึง 3 [Vibration] บน เป้าหมาย และได้รับ [Vibration] Count ให้แก่ตัวข้า เท่ากับ 2 เท่าของ [Vibration] ที่ใช้ไป"
                             }]
                         },
                         {
@@ -717,7 +717,7 @@
                         },
                         {
                             "coindescs": [{
-                                "desc": "<style=\"highlight\">[OnSucceedAttack] If this Skill's Coin effects consumed [Vibration] บน เป้าหมาย, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
+                                "desc": "[OnSucceedAttack] ถ้าเหรียญของสกิลนี้ได้ใช้ [Vibration] บนตัวเป้าหมาย, กระคุ้น [VibrationExplosion]; และจากนั้น, ลด [Vibration] Count ของเป้าหมายลง 1"
                             }]
                         }
                     ]
@@ -725,20 +725,20 @@
                 {
                     "level": 4,
                     "name": "เครื่องตัดแขนขาแบบเร่งของ T Corp.",
-                    "desc": "[WhenUse] ได้รับ +3 [Vibration] Count\n[WhenUse] <style=\"highlight\">พลังตอนปะทะ +1 for every 6 [Vibration] บน เป้าหมาย (มากสุด 2)</style>",
+                    "desc": "[WhenUse] ได้รับ +3 [Vibration] Count\n[WhenUse] พลังตอนปะทะ +1 for every 6 [Vibration] บน เป้าหมาย (มากที่สุด 2)</style>",
                     "coinlist": [{
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ใช้ได้มากสุดถึง 3 [Vibration] บน เป้าหมาย, and ได้รับ <style=\"highlight\">double the amount consumed</style> as [Vibration] Count on self\n<style=\"highlight\">ทำสถานะ ([Vibration] consumed - 1) [Binding] เทิร์นหน้า</style>"
+                                "desc": "[OnSucceedAttack] ใช้งานได้ถึง 3 [Vibration] บนตัวเป้าหมาย และได้รับ [Vibration] Count ให้แก่ตัวข้า เท่ากับ 2 เท่าของ [Vibration] ที่ใช้ไป \n ทำสถานะ ([Vibration] ที่ใช้ไป - 1) [Binding] เทิร์นหน้า"
                             }]
                         },
                         {
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 3 [Vibration]<style=\"highlight\"></style>"
+                                "desc": "[OnSucceedAttack] ทำสถานะ 3 [Vibration]"
                             }]
                         },
                         {
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] If this Skill's Coin effects consumed [Vibration] บน เป้าหมาย, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                                "desc": "[OnSucceedAttack] ถ้าเหรียญของสกิลนี้ได้ใช้ [Vibration] บนตัวเป้าหมาย, กระคุ้น [VibrationExplosion]; และจากนั้น, ลด [Vibration] Count ของเป้าหมายลง 1"
                             }]
                         }
                     ]
@@ -773,7 +773,7 @@
                 {
                     "level": 4,
                     "name": "ข้าขอสั่งให้เจ้า หยุด!",
-                    "desc": "[WhenUse] <style=\"highlight\">พลังตอนปะทะ +1 for every 6 [Vibration] บน เป้าหมาย (มากสุด 2)</style>\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี [Binding], ได้รับ พลังตอนปะทะ +1</style>\n[WhenUse] Consume 10 [Vibration] Count on self to ได้รับ พลังเหรียญ +2",
+                    "desc": "[WhenUse] พลังตอนปะทะ +1 for every 6 [Vibration] บน เป้าหมาย (มากสุด 2)\n[WhenUse] ถ้าเป้าหมายมี [Binding], ได้รับ พลังตอนปะทะ +1\n[WhenUse] Consume 10 [Vibration] Count on self to ได้รับ พลังเหรียญ +2",
                     "coinlist": [
                         {},
                         {
@@ -783,7 +783,7 @@
                         },
                         {
                             "coindescs": [{
-                                "desc": "<style=\"highlight\">[OnSucceedAttack] ทำสถานะ 3 [Vibration]</style>"
+                                "desc": "[OnSucceedAttack] ทำสถานะ 3 [Vibration]"
                             }]
                         },
                         {
@@ -791,10 +791,10 @@
                                     "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 10+ [Vibration], consume 10 [Vibration] บน เป้าหมาย and ทำสถานะ 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]<style=\"highlight\"></style>"
                                 },
                                 {
-                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
+                                    "desc": "[OnSucceedAttack] กระตุ้น [VibrationExplosion]; แล้วจากนั้น, ลด [Vibration] Count ลง 1"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If target's Speed is slower than this unit's, trigger [Switch_Vibration] into [VibrationChainPersonality]<style=\"highlight\"></style>"
+                                    "desc": "[OnSucceedAttack] ถ้าความเร็วของเป้าหมายช้ากว่าความเร็วของข้า, กระตุ้น [Switch_Vibration] กลายเป็น [VibrationChainPersonality]"
                                 }
                             ]
                         }
