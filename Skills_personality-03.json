@@ -1444,28 +1444,28 @@
                 {
                     "level": 4,
                     "name": "ขอให้ การประลองนี้เปืดหูเปิดตาด้วย",
-                    "desc": "Deal <style=\"highlight\">+15%</style> more damage for every 1 [DianxueDonQuixote] บน เป้าหมาย (มากสุด <style=\"highlight\">45%</style>)\n<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ พลังเหรียญ based on Speed difference (พลังเหรียญ +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] ได้รับ 5 [Breath]\n- ถ้าเป้าหมายมี [DianxueDonQuixote], ได้รับ 3 additional [Breath]",
+                    "desc": "Deal +15% more damage for every 1 [DianxueDonQuixote] บน เป้าหมาย (มากสุด <style=\"highlight\">45%</style>)\n<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ พลังเหรียญ based on Speed difference (พลังเหรียญ +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] ได้รับ 5 [Breath]\n- ถ้าเป้าหมายมี [DianxueDonQuixote], ได้รับ 3 additional [Breath]",
                     "coinlist": [{
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]<style=\"highlight\"></style>"
+                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]"
                             }]
                         },
                         {
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]<style=\"highlight\"></style>"
+                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]"
                             }]
                         },
                         {
                             "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Combustion]<style=\"highlight\"></style>"
+                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Combustion]"
                             }]
                         },
                         {
                             "coindescs": [{
-                                    "desc": "ทำความเสียหายอีก +([Breath] on self + [Combustion] บน เป้าหมาย)% เมื่อติดคริ (มากสุด <style=\"highlight\">50%</style>)"
+                                    "desc": "ทำความเสียหายเพิ่มเติม +([Breath] ที่ข้ามี + [Combustion] บนตัวเป้าหมาย)% เมื่อติดคริ (มากที่สุด 50%)"
                                 },
                                 {
-                                    "desc": "<style=\"highlight\">[OnSucceedAttack] ถ้าเป้าหมายมี [DianxueDonQuixote], ทำสถานะ 3 [DefenseDown]</style>"
+                                    "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี [DianxueDonQuixote], ทำสถานะ 3 [DefenseDown]"
                                 }
                             ]
                         }
@@ -1486,7 +1486,7 @@
                 {
                     "level": 4,
                     "name": "ดูท่าเจ้าจะขาดบทเรียนเรื่องมารยาทบนโต๊ะอาหารอย่างร้ายแรงเลยนะ!",
-                    "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ +1 พลังเหรียญ for every 2 Speed difference (มากสุด 2)</style>",
+                    "desc": "ถ้าตัวข้ามีความเร็วกว่าเป้าหมาย, ได้รับ +1 พลังเหรียญ สำหรับทุกๆความต่างของความเร็ว 2 หน่วย (มากที่สุด 2)",
                     "coinlist": [
                         {}
                     ]
