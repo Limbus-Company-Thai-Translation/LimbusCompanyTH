@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "upgrade_character_exp_up",
-      "content": "Experience\ngained."
+      "content": "ได้รับค่าประสบการณ์\n"
     },
     {
       "id": "upgrade_character_level_up",
-      "content": "Level Up"
+      "content": "เลเวล อัพ"
     },
     {
       "id": "upgrade_character_level_max",
-      "content": "<color=#f8c200>MAX LEVEL</color>\nhas been reached."
+      "content": "เลเวลถึง<color=#f8c200>MAX LEVEL</color>\nแล้ว"
     }
   ]
 }
