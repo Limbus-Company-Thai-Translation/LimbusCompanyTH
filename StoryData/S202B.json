@@ -2,117 +2,117 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Pawn Avenue",
+      "place": "ตรอกโรงรับจำนำ",
       "model": "파우스트",
-      "content": "Allow me to give a rundown of the plan."
+      "content": "ขออนุญาตบอกรายละเอียดเเผนการดังนี้ค่ะ"
     },
     {
       "id": 1,
       "model": "파우스트",
-      "content": "Our primary objective is to infiltrate the casino unsuspected; it will be critical for the successful recovery of the Golden Bough."
+      "content": "เป้าหมายหลักของเราคือการแทรกซึมเข้าไปในคาสิโนโดยไม่มีใครสงสัย\nนั้นจะเป็นจุดสำคัญในการกู้คืนกิ่งทองมาได้สำเร็จลุล่วงค่ะ"
     },
     {
       "id": 2,
       "model": "파우스트",
-      "content": "According to the information we’ve acquired, the casino has three entrances."
+      "content": "ตามข้อมูลที่พวกเราได้รับมานั้น คาสิโนมีทางเข้าทั้งหมดสามทาง"
     },
     {
       "id": 3,
       "model": "파우스트",
-      "content": "One for ordinary visitors, one reserved for VIPs, and lastly, the backdoor used by employees."
+      "content": "ทางเเรกสำหรับบุคคลทั่วไป ทางที่สองสำหรับเหล่า VIP เเละทางสุดท้ายคือประตูหลังที่พนักงานใช้ค่ะ"
     },
     {
       "id": 4,
       "model": "파우스트",
-      "content": "We’ll split into three groups of four Sinners to cover each entrance… Four of us will disguise as croupiers, four will pose as guests, and four will play the role of VIPs."
+      "content": "พวกเราจะเเบ่งกลุ่มเป็น 3 กลุ่ม กลุ่มละ 4 คนเพื่อคอยคุ้มกันทางเข้าเเต่ละจุด\n 4 คนจะปลอมตัวเป็นเจ้ามือ อีก 4 คนจะทำตัวเป็นเเขก เเล้ว 4 คนที่เหลือจะเล่นบทเป็น VIP"
     },
     {
       "id": 5,
       "model": "오티스",
-      "content": "Working in smaller groups will certainly draw less attention."
+      "content": "การทำงานเป็นกลุ่มเล็กจะช่วยลดความสนใจได้อย่างเเน่นอน"
     },
     {
       "id": 6,
       "model": "이상",
-      "content": "It is wiser to divide rather than unite."
+      "content": "การเเบ่งทีมกันย่อมฉลาดกว่าการอยู่กันเป็นกลุ่มก้อน"
     },
     {
       "id": 7,
       "model": "파우스트",
-      "content": "Open the envelopes I gave out to confirm the role you’ve been assigned."
+      "content": "เปิดจดหมายที่ฉันยื่นให้เพื่อยืนยันบทบาทที่พวกคุณได้รับค่ะ"
     },
     {
       "id": 8,
       "model": "파우스트",
-      "content": "Also, the higher-ups expressed concern over our performance."
+      "content": "อีกเรื่องคือ ทางผู้บริหารระดับสูงได้มีความกังวลกับประสิทธิภาพการทำงานของพวกเราค่ะ"
     },
     {
       "id": 9,
       "model": "파우스트",
-      "content": "They stress that the company’s future plans hinge on whether we can retrieve the Golden Bough through this operation."
+      "content": "พวกเขากลัวว่าเเผนการในอนาคตของบริษัทตอนนี้ ขึ้นอยู่กับว่าพวกเราจะสามารถนำกิ่งทองกลับมาได้หรือไม่ในปฎิบัติการครั้งนี้ค่ะ"
     },
     {
       "id": 10,
       "model": "파우스트",
-      "content": "Therefore, we will collaborate on a joint operation."
+      "content": "ดังนั้น ครั้งนี้พวกเราจะเข้าร่วมในปฎิบัติการร่วมค่ะ"
     },
     {
       "id": 11,
       "model": "단테",
-      "content": "<Joint operation?>"
+      "content": "<ปฎิบัติการร่วมหรอ?>"
     },
     {
       "id": 12,
       "model": "파우스트",
-      "content": "Our partner is a special forces unit consisting of professionals and veterans…"
+      "content": "ผู้ร่วมงานของเราเป็นหน่วยรบพิเศษที่ประกอบไปด้วยผู้เชี่ยวชาญเเละทหารผ่านศึก…"
     },
     {
       "id": 13,
       "model": "파우스트",
-      "content": "I believe they are now monikered the ‘LCC’, short for the Limbus Company Clearance Department. Rest assured that they are our betters, at least in espionage operations."
+      "content": "ฉันเชื่อว่าตอนนี้พวกเขาได้รับฉายาว่า ‘LCC’ ย่อมาจาก <ruby=เเผนกเก็บกวาดของ Limbus Company>Limbus Company Clearance Department.</ruby> ไว้วางใจได้เลยว่าพวกเขาเหนือกว่าเราอย่างน้อยในเรื่องของปฎิบัติการการเเทรกซึมค่ะ"
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "I thought twelve people was already a crowd."
+      "content": "เเค่ 12 คนฉันก็ว่าเยอะเเล้วนะ"
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "Guess someone finally realized that more isn’t always merrier."
+      "content": "เริ่มเห็นเเล้วสินะว่ามาเยอะไม่ได้หมายความว่าจะดีเสมอไป"
     },
     {
       "id": 16,
       "model": "홍루",
-      "content": "Wowzer! I haven’t met staff from other teams before. Just where could they be?"
+      "content": "ว้าว! ไม่เคยเห็นบุคลากรจากทีมอื่นมาก่อนเลย พวกเขาจะเป็นไงกันนะ?"
     },
     {
       "id": 17,
-      "content": "Hong Lu looked around, expecting Faust to bring them forward for introductions any second."
+      "content": "หงลู่มองไปรอบๆเหมือนกับจะให้เฟาสท์พาพวกเขามาให้รู้จักในอีกไม่ช้า "
     },
     {
       "id": 18,
-      "content": "…Needless to say, no one showed up like he expected."
+      "content": "…ไม่ต้องพูดก็รู้ว่าไม่มีใครปรากฎตัวออกมา"
     },
     {
       "id": 19,
       "model": "파우스트",
-      "content": "We’ll be heading to the pawnshop."
+      "content": "พวกเราจะมุ่งหน้าไปที่ร้านจำนำค่ะ"
     },
     {
       "id": 20,
       "model": "그레고르",
-      "content": "Is pawning still a thing these days?"
+      "content": "สมัยนี้ยังมีการจำนำอยู่อีกหรอ?"
     },
     {
       "id": 21,
       "model": "파우스트",
-      "content": "We’re in the so-called pawnbroker’s avenue. Most businesses double as pawnshops here."
+      "content": "พวกเราอยู่ในถนนที่เรียกว่าตรอกโรงรับจำนำค่ะ เพราะฉะนั้นธุรกิจในที่นี้ส่วนใหญ่ก็จะเป็นร้านจำนำค่ะ"
     },
     {
       "id": 22,
       "model": "파우스트",
-      "content": "That place is our rendezvous. Let’s head inside."
+      "content": "ตรงนั้นคือที่นัดหมายของพวกเรา เข้าไปข้างในกันค่ะ"
     }
   ]
 }
