@@ -69,6 +69,16 @@
       "id": "battle_erosion_20307_1",
       "desc": "E.G.O Corrosion",
       "dlg": "เจ้าไม่มีวันเข้าในความกระหายของพวกเรา! ข้าจะเอาเลือดของเจ้าหากข้าต้องทำ...\nและ... และจงเบ่งบาน... ด้วยสีแดงเข้มดั่งเลือดที่กินใจข้ามากกว่าเดิม!"
+    },
+    {
+      "id": "battle_awaken_20308_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Heheh! Thou art quite full of wishes... Which of them dost thou desire to see come true?!"
+    },
+    {
+      "id": "battle_erosion_20308_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Hooh... hopes, desires, all of these afflictions shall be broken...! And I shall liberate thee from their yoke!"
     }
   ]
 }

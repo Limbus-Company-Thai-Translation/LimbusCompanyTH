@@ -94,6 +94,16 @@
       "id": "battle_erosion_20808_1",
       "desc": "E.G.O Corrosion",
       "dlg": "ความอยากรู้น่ะมันอันตรายนะ,รู้ไหม... มีมากเกินไป, ความมืดจะกลืนกินแกทั้งตัว"
+    },
+    {
+      "id": "battle_awaken_20809_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Unfathomable Infinity. If your faith. Was emboldened. You should have cast those foolish doubts from your heart!"
+    },
+    {
+      "id": "battle_erosion_20809_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "No doubts. Engrave faith. Pray in the dark... Pray with obsession."
     }
   ]
 }
