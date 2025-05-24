@@ -2,522 +2,522 @@
   "dataList": [
     {
       "id": 0,
-      "place": "A Pawnshop",
+      "place": "โรงรับจำนำ",
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "Now… For this mission, we’ll basically spoon-feed you everything. All you have to do is open wide and chew up your simple tasks."
+      "content": "เอาล่ะ… สำหรับภารกิจนี้พวกเราจะป้อนข้าวให้ทุกอย่างเลยน่า สิ่งที่พวกเธอต้องทำก็คืออ้าปากกว้างๆ เเล้วเคี้ยวงานง่ายๆ ไปเเค่นั้นเอง"
     },
     {
       "id": 1,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "Check the documents in this envelope, and do exactly, preciiiiisely as the papers say."
+      "content": "เช็ตเอกสารในซองจดหมาย เเล้วทำตามที่เขียนไว้ให้เป๊ะทุกอย่างเลยน่าาาาาา"
     },
     {
       "id": 2,
-      "content": "The way Saude dragged out that vowel needled me a bit, but I decided not to argue."
+      "content": "การที่ซอเดย์ลากเสียงยาวเเบบนั้น รู้สึกเหมือนโดนจิกนิดๆ เเต่ฉันก็ไม่เถียงอะไรออกไป"
     },
     {
       "id": 3,
-      "content": "Even if I did, the ticking of a clock would be all she’d hear."
+      "content": "ถ้าเถียงออกไป ก็คงได้ยินเเต่เสียงติ๊กๆ นั้นเเหละ"
     },
     {
       "id": 4,
       "model": "그레고르",
-      "content": "There’s not a lot of joining together at all in this “joint operation”, is there? You’re just telling us to follow from behind."
+      "content": " “ปฎิบัติการร่วม” นี่ดูไม่ค่อยร่วมเท่าไรเลยนะ? ก็เเค่จะบอกให้พวกเราตามมาห่างๆ เเค่นั้นนี่"
     },
     {
       "id": 5,
       "model": "이스마엘",
-      "content": "This is insulting. Are they taking us for lubbers or what?"
+      "content": "น่ารังเกียจสิ้นดี เห็นพวกเราเป็นคนโง่หรือไง?"
     },
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "Look, Manager, we’ve got to put our foot down and…"
+      "content": "นี่ ผู้จัดการ พวกเราเเค่ต้องก้าวเท้าไปเเละ…"
     },
     {
       "id": 7,
       "model": "이스마엘",
-      "content": "And…"
+      "content": "เเละ…"
     },
     {
       "id": 8,
       "model": "이스마엘",
-      "content": "…do as they say, I guess?"
+      "content": "…ทำตามที่พวกนั้นบอก ล่ะมั้ง?"
     },
     {
       "id": 9,
       "model": "단테",
-      "content": "<Huh?>"
+      "content": "<ห๊ะ?>"
     },
     {
       "id": 10,
       "model": "이스마엘",
-      "content": "…The documents they gave us. They’re flawless."
+      "content": "…เอกสารที่ให้พวกเรามา มันไร้ที่ติเลยค่ะ"
     },
     {
       "id": 11,
       "model": "이스마엘",
-      "content": "Look at this. It has routes drawn out and everything. It’s been ages since I saw a plan this clear and meticulous."
+      "content": "ดูนี่สิ มีเเผนการวาดไว้หมดทุกอย่างเลย นานมากเเล้วที่ฉันได้เห็นเเผนที่ชัดเจนเเละละเอียดขนาดนี้"
     },
     {
       "id": 12,
       "model": "오티스",
-      "content": "Mhm, surely. This is certainly indicative of their knowledge in writing up proper plans of operation."
+      "content": "อืม เเน่นอนว่าเเผนที่ละเอียดเเบบนี บ่งบอกถึงความรู้ความสามารถของพวกเขาในการเขียนปฎิบัติการที่เหมาะสมเป็นอย่างมาก"
     },
     {
       "id": 13,
       "model": "오티스",
-      "content": "Ah, this isn’t to say that it holds a candle to the level of forethought you display, Manager."
+      "content": "อ่า เเต่นี่ก็เทียบเคียงระดับความรอบคอบของผู้จัดการพวกเราไม่ได้หรอกค่ะ"
     },
     {
       "id": 14,
-      "content": "Convinced by Ishmael’s commendation, I opened the envelope and carefully read the rundown of the operation."
+      "content": "ฉันเปิดจดหมายเเละเริ่มอ่านรายละเอียดของปฎิบัติการอย่างรอบคอบ เพราะเชื่อจากที่อิชมาเอลได้ชื่นชมไว้"
     },
     {
       "id": 15,
-      "content": "The goal could be summarized as the following:"
+      "content": "เป้าหมายในครั้งนี้ก็ถูกสรุปได้ดังนี้"
     },
     {
       "id": 16,
-      "content": "‘Reach the top floor of the casino.’"
+      "content": "‘ไปให้ถึงชั้นบนสุดของคาสิโน’"
     },
     {
       "id": 17,
-      "content": "The main reason behind organizing this plan was the first-place prize for the table game to be held today."
+      "content": "เป้าหมายหลักในการจัดทำเเผนนี้ คือการชิงรางวัลอันดับหนึ่งในเกมที่จะจัดขึ้นในวันนี้."
     },
     {
       "id": 18,
-      "content": "According to the papers, winning the competition held on the top floor of the casino is the only way to gain access to the area with the Golden Bough."
+      "content": "การชนะการเเข่งขันที่จัดที่ชั้นบนสุดของคาสิโนในครั้งนี้ เป็นวิธ๊เดียวที่จะสามารถเข้าถึงพื้นที่ที่มีกิ่งทองอยู่ได้"
     },
     {
       "id": 19,
-      "content": "Four Syndicates that jointly bid on the casino will be playing in this game of chance…"
+      "content": "มีซินดิเคทจำนวน 4 หน่วยงานเข้ามาร่วมการประมูล ซึ่งจะได้เล่นเกมเเห่งโชคในคาสิโนวันนี้ …"
     },
     {
       "id": 20,
-      "content": "Of the four… We will be using the name of the infamous…"
+      "content": "ซึ่งใน 4 นี้… เราจะสวมรอยเป็นซินดิเคทที่อื้อฉาวอย่าง…"
     },
     {
       "id": 21,
       "model": "단테",
-      "content": "<Tingtang Gang?>"
+      "content": "<เเก๊ง Tingtang หรอ?>"
     },
     {
       "id": 22,
       "model": "파우스트",
-      "content": "A name doesn’t necessarily reflect the nature of an organization. That’s a shallow prejudice."
+      "content": "ชื่อนั้นไม่ได้ตัดสินภาพลักษณ์ขององค์กรเสมอไปค่ะ นั้นเป็นเพียงอคติในระดับตื้นๆ"
     },
     {
       "id": 23,
       "model": "이상",
-      "content": "It is unideal for one to choose to see things through the tinted lens that is bias."
+      "content": "ช่างไร้อุดมคติเสียจริงที่จะมองผ่านเลนส์สีที่เรียกว่าไบเเอสนั่น"
     },
     {
       "id": 24,
       "model": "단테",
-      "content": "<…Right.>"
+      "content": "<อ่า….>"
     },
     {
       "id": 25,
-      "content": "…Back to the plan, we’ll disguise as the boss of the ‘Tingtang Gang’ and win that game of chance."
+      "content": "…กลับไปที่เเผนการ พวกเราจะสวมรอยเป็นหัวหน้าของ ‘เเก๊ง Tingtang’ เเละชนะเกมเเห่งโชคนั่น"
     },
     {
       "id": 26,
-      "content": "Afterwards, we have to go to the underground floors where the Golden Bough lies."
+      "content": "หลังจากนั้น พวกเราก็จะมุ่งหน้าไปยังชั้นใต้ดิน สถานที่ที่มีกิ่งทองอยู่"
     },
     {
       "id": 27,
-      "content": "Leading up to the game, we’ll use the items and clothing we can find in pawnshops to disguise as our given roles, enter the casino, and wait for the team on the top floor to win the game."
+      "content": " ก่อนที่จะไปเข้าร่วมเกมนั้น พวกเราจะใช้สิ่งของเเละเสื้อผ้าที่หาได้จากร้านจำนำต่างๆ เพื่อปลอมตัวเข้าไปในคาสิโน เเล้วเล่นตามบทบาทที่ได้รับ เพื่อรอให้ทีมจากชั้นบนสุดชนะเกมนั้น"
     },
     {
       "id": 28,
-      "content": "That’s about it for the outline of this plan, I think…"
+      "content": " เเผนการคร่าวๆก็คงจะประมาณนี้มั้ง…"
     },
     {
       "id": 29,
-      "content": "Hey, wait a second. Won’t this entire thing fall apart if our player doesn’t win?"
+      "content": "เดี๋ยวก่อน เเผนการนี้มันจะพังทันทีถ้าเราเเพ้เกมบนนั้นไม่ใช่หรอ?"
     },
     {
       "id": 30,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "We’ve prepared fake identification as well. It’s just in case the casino security runs random inspections on visitors."
+      "content": "พวกเราได้เตรียมบัตรประชาชนปลอมไว้ด้วย เพื่อในกรณ๊ที่ระบบรักษาการของคาสิโนจะสุ่มตรวจผู้เข้าใช้บริการ"
     },
     {
       "id": 31,
       "model": "그레고르",
-      "content": "Alright, that’s all fine and dandy… But how do you plan to win once you’re at the top floor?"
+      "content": "เเผนมันก็ฟังดูดีใช้ได้นะ… แต่จะวางแผนชนะยังไงเมื่ออยู่ชั้นบนสุดแล้วน่ะ?"
     },
     {
       "id": 32,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "What do you think our outfits are for?"
+      "content": "คิดว่าชุดของพวกเราใส่มาเพื่ออะไรล่ะ?"
     },
     {
       "id": 33,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "We practiced for months to pass off as bona fide croupiers."
+      "content": "พวกเราฝึกมาเป็นเดือนๆ เพื่อที่จะเนียนเป็นเจ้ามือที่เเสนซื่อสัตย์นี่ยังไงล่ะ"
     },
     {
       "id": 34,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "We’ll give you good luck. The game is in your bag, all you need is a pair of functioning eyes."
+      "content": "พวกเราจะมอบโชคให้กับพวกนาย เเค่นี้ชัยชนะก็อยู่ในกำมือเเล้ว ที่นี้ที่ต้องทำก็มีเพียงใช้ตาสองคู่ของพวกนาย"
     },
     {
       "id": 35,
-      "content": "Effie mumbled the last part to himself again while casting a sidelong scowl at our group."
+      "content": "เอฟฟี่พึมพำส่วนสุดท้ายกับตัวเองในขนาดที่จ้องมองพวกเราด้วยสายตาอันขุ่นเคือง"
     },
     {
       "id": 36,
-      "content": "He’s making it painfully obvious he has no faith in us."
+      "content": "เห็นได้ชัดเลยว่าเขาไม่มีศรัทธาในพวกเราซักนิด"
     },
     {
       "id": 37,
       "model": "그레고르",
-      "content": "And how are we gonna take the place of the Tingtang Gang’s boss?"
+      "content": "เเล้วพวกเราจะไปสวมรอยเเทนที่หัวหน้าของเเก๊ง Tingtang ยังไงล่ะ?"
     },
     {
       "id": 38,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "We’ll put sedatives in the food served at the casino. We’ve already finished negotiating the details with the head chef."
+      "content": "พวกเราจะใส่ยานอนหลับลงบนอาหารที่จะเสิร์ฟในคาสิโนค่ะ พวกเราได้ทำการเจรจารายละเอียดกับหัวหน้าเชฟเป็นที่เรียบร้อยเเล้วค่ะ"
     },
     {
       "id": 39,
       "model": "이상",
-      "content": "Sedatives…"
+      "content": "ยานอนหลับหรอ…"
     },
     {
       "id": 40,
-      "content": "Saude and Effie winked at each other."
+      "content": "ซอเดย์กับเอฟฟี่ขยิบตาใส่กัน"
     },
     {
       "id": 41,
-      "content": "It was a gesture demonstrating that the two were ideal partners, able to tell each other’s thoughts just from exchanging glances."
+      "content": "ป็นท่าทางที่เเสดงให้เห็นว่าทั้งสองเป็นคู่ที่เหมาะสมกัน สามารถเเลกเปลี่ยนความคิดกันได้เพียงเเค่การสบตากัน"
     },
     {
       "id": 42,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "Hey, Dear Pawnbroker~ We’ll be taking a look at the goods on showcase from here to there~"
+      "content": "นี่ คุณเจ้าของร้านค่า~ พวกเราขอดูสินค้าที่โชว์จากตรงนี้ถึงตรงนั้นหน่อยค่ะ~"
     },
     {
       "id": 43,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Hyes? Oh! No yeah, sure, of course. Please take your time, ma’am."
+     "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ไฮ๊? อ-โอ้! อ-โอเคครับ ตามสบายเลยครับ นายหญิง"
     },
     {
       "id": 44,
-      "content": "The pawnbroker’s attitude took a sharp turn from disdainful to kowtowing."
+      "content": "ทัศนคติของเจ้าของโรงรับจำนำเปลี่ยนจากเหยียดหยามไปเป็นก้มหัวในทันที"
     },
     {
       "id": 45,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "Now then, let’s take what we need from the display."
+      "content": "เอาล่ะ มาเอาสิ่งที่เราต้องการจากร้านนี้กัน"
     },
     {
       "id": 46,
       "model": "홍루",
-      "content": "Oh my! This is a Guppcha Designer Brooch, isn’t it?"
+      "content": "โอ้! นี่คือเข็มกลัดดีไซเนอร์ของ Guppcha ใช่มั้ยครับ?"
     },
     {
       "id": 47,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Hyah~ What discerning eyes you have there, sir. This beaut is the mainstay of our shop’s catalogue. Only 10 of those were ever made, so its worth is positively un­—"
+     "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ไฮย๊า~ ตาของท่านนี่มันช่างเฉียบเเหลมจริงๆนะครับ ของอันเเสนสวยงามชิ้นนี้คือสินค้าหลักของทางร้านเราเลยนะครับ\n มีเเค่ 10 ชิ้นเท่านั้นที่ถูกผลิตออกมา, เพราะฉะนั้นมันค่อนข้างที่จะ—"
     },
     {
       "id": 48,
       "model": "홍루",
-      "content": "My dog used to have one of these on its collar whenever we took it out for walkies. It’s so nice to see something that brings back pleasant memories!"
+      "content": "หมาของผมเคยมีของเเบบนี้ห้อยอยู่เวลาเราพามันออกไปเดินข้างนอกนะ\n ช่างดีจริงที่ได้เห็นอะไรที่ทำให้หวนนึกถึงความทรงจำดีๆ ได้เนี่ยครับ!"
     },
     {
       "id": 49,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
+     "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
       "content": "……"
     },
     {
       "id": 50,
       "model": "로쟈",
-      "content": "I’m down for these cowhide gloves. Whoever had ‘em must’ve been a fashionista~"
+      "content": "ฉันอยากได้ถุงมือหนังวัวนี้อ่ะ ใครที่ใส่มันคงดูเเฟชั่นน่าดูเลยน่า~"
     },
     {
       "id": 51,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "Please take items that suit what’s written in the envelopes. You have roles to play."
+      "content": "โปรดเอาของที่จำเป็นต่อสิ่งที่เขียนในจดหมายด้วยค่ะ คุณมีบทบาทที่ต้องสวมนะคะ"
     },
     {
       "id": 52,
       "model": "돈키호테",
-      "content": "Pardon, but the envelope I have received says “janitor”, this must be an error of some sort!"
+      "content": "ขออภัยเถิด แต่ซองจดหมายที่ข้าได้รับนั้นเขียนว่า “ภารโรง” ซองจดหมายนี่ต้องมีสิ่งใดผิดพลาดเป็นแน่แท้ค่ะ!"
     },
     {
       "id": 53,
       "model": "그레고르",
-      "content": "Okay, it’s good and all, but… Do you have the money to pay for all this?"
+      "content": "โอเค มันก็ดูดีอ่ะนะ เเต่ก็… พวกนายมีเงินพอที่จะจ่ายทั้งหมดนี่หรอ?"
     },
     {
       "id": 54,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "Worrying about spendings? Who do you think we are, some low-rank hirelings? There’s nothing I can’t afford using this ‘Black Card’."
+      "content": "เป็นห่วงเรื่องค่าใช้จ่ายหรอ? คิดว่าพวกเราเป้นใครกัน เเรงงานชั้นต่ำหรอ? ไม่มีอะไรที่ ‘บัตรดำ’ไม่สามารถซื้อได้หรอกนะ"
     },
     {
       "id": 55,
       "model": "로쟈",
-      "content": "Dante! What’s this about?! You told me we can’t have prime beef ‘cause we don’t have the budget!"
+      "content": "ดันเต้! เรื่องไรเนี่ย?! ไหนบอกว่ากินเนื้อตัวท็อปไม่ได้เพราะงบเราไม่พอไง!"
     },
     {
       "id": 56,
       "model": "파우스트",
-      "content": "So the rumors were true that teams with notable performance are given a company card with no spending limit."
+      "content": "เป็นเรื่องจริงสินะคะ ที่ทีมที่มีผลงานโดดเด่นจะได้รับบัตรที่ไม่มีลิมิทในการใช้จ่ายจากบริษัท"
     },
     {
       "id": 57,
-      "content": "While everyone was shocked by the proven existence of the fabled Black Card…"
+      "content": "ในขณะที่ทุกคนตกตะลึงกับการมีอยู่ของบัตรดำอันเลืองลือนั้น…"
     },
     {
       "id": 58,
-      "content": "A loud voice came from outside."
+      "content": "ก็มีเสียงดังมาจากข้างนอก" 
     },
     {
       "id": 59,
       "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Oi, dotard! Didn’t I say ya payment was due today?"
+      "teller": "Tingtanger ที่มีกลิ่นอายชนบท",
+      "title": "เเก๊ง Tingtang",
+      "content": "เฮ้ย ไอเเก่! บอกเเล้วไม่ใช่หรอว่าวันนี้ต้องจ่ายค่าที่น่ะ?"
     },
     {
       "id": 60,
-      "content": "Someone who clearly belongs to a vicious Syndicate entered the pawnshop."
+      "content": "ใครสักคนที่น่าจะอยู่ในซินดิเคทอันเลื่องชื่อได้เข้ามาในโรงรับจำนำ"
     },
     {
       "id": 61,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "P-Please… give me one more chance. I swear I’ll have the money ready."
+     "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ข-ขอร้อง… ให้โอกาสผมอีกหน่อยเถอะ เดี๋ยวผมจะเตรียมเงินมาให้ดิบดีเลย"
     },
     {
       "id": 62,
       "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "One more? Can’t ya do basic math? Ya said the same thing last time! Boss won’t like me wasting precious time reteaching you kindergarten, ya hear?"
+      "teller": "Tingtanger ที่มีกลิ่นอายชนบท",
+      "title": "เเก๊ง Tingtang",
+      "content": "อีกหน่อยหรอ? มึงตกเลขหรือไง? รอบที่เเล้วมึงก็พูดเเบบนี้! หัวหน้าคงไม่ให้กูเสียเวลามาสอนมึงเหมือนเด็กเบบี๋หรอกว่ามั้ย?"
     },
     {
       "id": 63,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "I-I’m just a frail old man standing on doddery feet, there’s really nothing you’ll get out of shaking me down…!"
+     "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ฉ-ฉันเป็นเพียงชายชราผอมเเห้งที่ยืนด้วยเท้าที่ทรุดโทรม ไม่มีอะไรจะทำให้ฉันร่วงลงได้หรอก…!"
     },
     {
       "id": 64,
-      "content": "Pleading with an overtly loud voice, the pawnbroker looked at us."
+      "content": "เจ้าของโรงรับจำนำมองมาที่พวกเรา หลังจากขอร้องด้วยน้ำเสียงที่ดังฟังชัด"
     },
     {
       "id": 65,
       "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Eh? Ya talking back now? Yeah, go on then, get mad! I won’t feel so guilty that way!"
+      "teller": "Tingtanger ที่มีกลิ่นอายชนบท",
+      "title": "เเก๊ง Tingtang",
+      "content": "เห๊? มึงกล้าโต้กูเเล้วหรอ? เออ เอาดิ โกรธเลยสิ! กูไม่รู้สึกผิดอะไรทั้งนั้นหรอก!"
     },
     {
       "id": 66,
-      "content": "In a way, he looked like he was covertly begging us to help him, based on his expression."
+      "content": "ในทางหนึ่ง จากสีหน้าของเขา มองมาที่พวกเราเหมือนจะให้ช่วยเขาอย่างลับๆ"
     },
     {
       "id": 67,
-      "content": "The Sinners’ attention was naturally drawn to the ongoing row."
+      "content": "เเต่กลับกัน สายตาของเหล่า Sinner มองไปที่เรื่องงทะเลาะวิวาทกันอย่างเป็นธรรมชาติ"
     },
     {
       "id": 68,
       "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "What’re ya lookin’ at? Ya think I’m playing?!"
+      "teller": "Tingtanger ที่มีกลิ่นอายชนบท",
+      "title": "เเก๊ง Tingtang",
+      "content": "มองหน้าทำไม? มึงคิดว่ากูหยอกเล่นหรอ?!"
     },
     {
       "id": 69,
       "model": "이스마엘",
-      "content": "Gee… That was so stereotypical, I didn’t even get an urge to reply. Can’t people be more creative about throwing taunts?"
+      "content": "โธ่… มันโคตรซ้ำซากจำเจจนฉันไม่มีเเรงจะตอบเลย ทำไมคนเราไม่มีวิธีการขมขู่ที่สร้างสรรค์กว่านี้เนี่ย?"
     },
     {
       "id": 70,
       "model": "싱클레어",
-      "content": "Shouldn’t we… help out, maybe?"
+      "content": "พวกเราควรจะ… เข้าไปช่วยดีไหมครับ?"
     },
     {
       "id": 71,
-      "content": "Unlike Ishmael, who scoffed at the goon, Sinclair anxiously glanced over."
+      "content": "ซินเเคลร์มองดูด้วยความกังวล ต่างกับอิชมาเอลที่พูดเยาะเย้ยลูกกะจ๊อก"
     },
     {
       "id": 72,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "We have no choice, the Backstreets have their own rules and order. We aren’t the ones to disturb that complex web of their society."
+      "content": "พวกเราไม่มีทางเลือกค่ะ เเบ็คสตรีทนั้นมีกฎเเละระเบียบในเเต่ละที่ พวกเราไม่ควรจะไปยุ่งเกี่ยวกับเครือข่ายอันซับซ้อนของสังคมพวกเขาค่ะ"
     },
     {
       "id": 73,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "Outsiders like us will only cause a bigger scene if we try to step in."
+      "content": "คนนอกอย่างเราจะสร้างปัญหามากกว่าเดิมถ้าพวกเรายุ่งเกี่ยวค่ะ"
     },
     {
       "id": 74,
-      "content": "Pleased by the Sinners choosing to stay away, the goon continued with the extortion."
+      "content": "พึงพอใจต่อจุดยืนของพวกเรา พวกลูกกะจ๊อกก็เดินหน้ากรรโชกต่อไป"
     },
     {
       "id": 75,
       "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Rustic-sounding Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Hmph, if y’ain’t got money, why don’t ya pay your dues in that instead? We keep telling you."
+      "teller": "Tingtanger ที่มีกลิ่นอายชนบท",
+      "title": "เเก๊ง Tingtang",
+      "content": "หึ ถ้าไม่มีตังจ่าย ทำไมไม่จ่ายค่าธรรมเนียมมาเเทนล่ะ? ก็อุตส่าห์บอกอยู่ "
     },
     {
       "id": 76,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "A-Anything but that… Please…"
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ด-ได้โปรด… อะไรก็ได้ที่ไม่ใช่สิ่งนั้นที…"
     },
     {
       "id": 77,
       "model": "단테",
-      "content": "<…Is it really okay to leave them be?>"
+      "content": "<…ปล่อยเขาไปจะไม่เป็นไรจริงๆหรอ?>"
     },
     {
       "id": 78,
       "model": "오티스",
-      "content": "Shall I settle the dispute for them so it does not bother you, Manager?"
+      "content": "จะให้ฉันยุติเรื่องนี้เพื่อที่จะไม่ให้รบกวนใจไหมคะ? ท่านผู้จัดการ"
     },
     {
       "id": 79,
       "model": "그레고르",
-      "content": "What does that toughster mean by “that”, anyway?"
+      "content": "ที่บอกว่า “สิ่งนั้น” นี้เขาหมายถึงอะไรกัน?"
     },
     {
       "id": 80,
       "model": "파우스트",
-      "content": "…A currency more valuable than money exists in this District."
+      "content": "…เป็นค่าเงินที่มีมูลค่ามากกว่าเงินตราปกติในเขตนี้ค่ะ"
     },
     {
       "id": 81,
       "model": "파우스트",
-      "content": "It’s well known that J Corp’s Singularity is a powerful security technology capable of locking anything."
+      "content": "เป็นที่รู้กันดีว่า <ruby=เอกเทศ>Singularity</ruby> ของ J Corp นั้นคือเทคโนโลยีรักษาความปลอดภัยอันทรงพลังที่สามารถจะล็อคสิ่งใดก็ได้ค่ะ"
     },
     {
       "id": 82,
       "model": "파우스트",
-      "content": "What is less known, however, is the extensive cultural and historical background of the Backstreets of Nest J that lead to the Singularity’s creation."
+      "content": "สิ่งที่คนไม่ค่อยรู้คือภูมิหลังทางวัฒนธรรมและประวัติศาสตร์อันกว้างขวางของเเบ็คสตรีทใน Nest J ซึ่งปัจจัยเหล่านี้นำไปสู่การสร้าง <ruby=เอกเทศ>Singularity</ruby> ค่ะ"
     },
     {
       "id": 83,
       "model": "히스클리프",
-      "content": "H, history…? Are you seriously about to lecture us here and now…? I was never told about any mandatory education when I joined this company!"
+      "content": "ป-ประวัติศาสตร์หรอ…? นี่เธอจะมาสั่งสอนเรื่องเเบบนี้ตอนนี้เนี่ยนะ…? ไม่มีใครบอกตอนเข้าบริษัทนี้มาเลยว่าจะต้องได้รับการเรียนการสอนที่บีบบังคับเเบบนี้เนี่ย!"
     },
     {
       "id": 84,
-      "content": "In spite of the opposition, Faust went on with her explanation."
+      "content": "เฟาสท์เลือกที่จะอธิบายต่อไป เเทนการตอบโต้กลับ"
     },
     {
       "id": 85,
       "model": "파우스트",
-      "content": "Here, a technology exists to extract ‘wishpower’ from people."
+      "content": "ในที่เเห่งนี้ มีเทคโนโลยีที่สามารถจะสกัด ‘เเรงปรารถนา’ จากผู้คนได้ค่ะ"
     },
     {
       "id": 86,
       "model": "파우스트",
-      "content": "Though it’s not widely known outside this District since it didn’t quite have the generality to be recognized as a Singularity."
+      "content": "เนื่องจากไม่มีลักษณะอันเป็นทั่วไปพอที่จะถูกยอมรับว่าเป็น <ruby=เอกเทศ>Singularity</ruby> จึงทำให้เทคโนโลยีนี้ไม่เป็นที่รู้จักนอกเหนือจากเขตนี้ค่ะ "
     },
     {
       "id": 87,
       "model": "파우스트",
-      "content": "In essence, it’s processing ‘luck’ into a commodity that can be traded. Like a form of money."
+      "content": "โดยพื้นฐาน มันคือการนำ ‘โชค’ มาเเปรรูปเป็นสิ่งที่สามารถเเลกเปลี่ยนได้ เสมือนค่าเงินประเภทหนึ่งค่ะ"
     },
     {
       "id": 88,
       "model": "파우스트",
-      "content": "It brought forth the need for a way to stop others from forcibly extracting this wishpower, leading to the creation of a security technology that ultimately developed into the Singularity we know today."
+      "content": "ซึ่งมันทำให้เกิดความต้องการที่จะหยุดยั้งผู้อื่นจากการขโมยเเรงปรารถนาเหล่านี้ จึงนำไปสู่การสร้างเทคโนโลยีความปลอดภัยขึ้นมา จนที่ในที่สุดก็กลายเป็น <ruby=เอกเทศ>Singularity</ruby> ที่เรารู้จักกันในปัจจุบันค่ะ"
     },
     {
       "id": 89,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "Gee-wee, Faust~ Must be tiring having to teach these dunces in ways they can get it."
+      "content": "เเหมๆ คุณเฟาสท์~ สอนไอพวกสมองเบาปัญญาให้เข้าใจเรื่องพวกนี้คงจะเหนื่อยน่าดูเลยนะครับ"
     },
     {
       "id": 90,
       "model": "파우스트",
-      "content": "It’s fine, this was within my anticipated scenario."
+      "content": "ไม่เป็นไรค่ะ นี้อยู่ในสถานการณ์ที่ฉันคาดการณ์ไว้ค่ะ"
     },
     {
       "id": 91,
       "model": "히스클리프",
-      "content": "I don’t like the way you say that…"
+      "content": "ไม่ชอบวิธีที่เธอพูดเเบบนั้นเลยว่ะ…"
     },
     {
       "id": 92,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "Come on now, gather the items to help with your disguises so we can leave."
+      "content": " เอาเถอะ รวบรวมของที่ต้องการสำหรับการสวมรอยให้เรียบร้อย เราจะได้ออกจากที่นี้กันค่ะ"
     },
     {
       "id": 93,
-      "content": "Saude flapped the document full of scheduled plans to emphasize that we’d be busy."
+      "content": "ซอเดย์พลิกเอกสารที่เต็มไปด้วยเเผนการมากมายเพื่อเน้นย้ำว่าเราได้ยุ่งเเน่ๆ"
     },
     {
       "id": 94,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "We’re salaried workers, not “heroes” fighting for justice."
+      "content": "พวกเราเป็นพนักงานกินเงินเดือนนะคะ ไม่ใช่ “ฮีโร่” ผู้ผุดงความยุติธรรมค่ะ"
     },
     {
       "id": 95,
       "model": "단테",
-      "content": "<Wait… Not that word…!>"
+      "content": "<เดี๋ยว… ไม่ใช่คำเเบบนั้น…!>"
     },
     {
       "id": 96,
-      "content": "A bad feeling rushing through my head prompted me to count the Sinners I could see."
+      "content": "ฉันเริ่มกวาดสายตานับเหล่า Sinner ทุกคนเท่าที่ทำได้ทันที หลังคำนั้นทำให้ความรู้สึกเเย่ๆ ไหลเข้ามาในหัวฉัน"
     },
     {
       "id": 97,
       "model": "단테",
-      "content": "<That… does not align with a certain someone’s… beliefs…>"
+      "content": "<นั้น… ไม่สอดคล้องกับความเชื่อของ… ใครคนหนึ่ง…>"
     },
     {
       "id": 98,
-      "content": "And it’s one that would severely provoke her principles…!"
+      "content": "เเละเป็นคนที่พอได้ยินเเล้วจะโดนจี้จุดอย่างเเรง…!"
     },
     {
       "id": 99,
@@ -526,353 +526,353 @@
     },
     {
       "id": 100,
-      "content": "Ishmael seems to have noticed what I meant, and hurriedly looked around."
+      "content": "อิชมาเอลเข้าใจในสิ่งที่ฉันจะสื่อ เเล้วจึงรีบหันไปมองรอบๆทันที"
     },
     {
       "id": 101,
       "model": "돈키호테",
-      "content": "Thou darest try to pilfer the valuables of others? This behavior can only be seen as wholehearted villainy!"
+      "content": "กล้าดีอย่างไรที่บังอาจลักทรัพย์ของผู้อื่นเเบบนี้? เห็นทีก็เห็นว่าเป็นความชั่วช้าอย่างสิ้นดี!"
     },
     {
       "id": 102,
       "model": "단테",
-      "content": "<Oh no…! Don Quixote…!>"
+      "content": "<ไม่นะ…! ดอนกีโฮเต้…!>"
     },
     {
       "id": 103,
-      "content": "But it was a moment too late."
+      "content": "เเต่พูดไปก็สายเกินเเก้แล้ว"
     },
     {
       "id": 104,
-      "content": "Don Quixote had already sprinted forward and was swinging her lance at the Tingtanger who gripped the pawnbroker by the collar."
+      "content": "ดอนกีโฮเต้ได้มุ่งหน้าไปพร้อมกับกวัดเเกว่งหอกของเธอไปที่ Tingtanger ที่กำลังกำปกเสื้อของนายหน้ารับจำนำอยู่"
     },
     {
       "id": 105,
-      "content": "WHACK!"
+      "content": "เพล้ง!"
     },
     {
       "id": 106,
-      "content": "Caught completely unaware, the goon was hit right on the head with the blunt side of her lance."
+      "content": "ลูกกระจ๊อกถูกตีด้วยด้านทื้อของหอกเธออย่างจังเข้าที่หัวโดยไม่ทันตั้งตัว"
     },
     {
       "id": 107,
-      "content": "Knocked out on the floor in a frisky swing, the fainted goon became the center of attention for all of us inside the pawnshop for a solid minute."
+      "content": "เเล้วร่างของเขาก็เเกว่งไปมาก่อนที่จะล้มลงกับพื้น ลูกกะจ๊อกที่อยู่ตรงนั้นก็กลายเป็นศูนย์กลางความสนใจของพวกเราทุกคนในร้านไปชั่วครู่เลย"
     },
     {
       "id": 108,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
       "content": "……"
     },
     {
       "id": 109,
       "model": "파우스트",
-      "content": "Ah, for your information, keeping the Sinners in check is not part of my job description. That would be the job of this person here."
+      "content": "อา ถ้าจะให้เพิ่มเติม การดูเเลเหล่า Sinner นั้นไม่ใช่หน้าที่ของดิฉัน เเต่เป็นหน้าที่ของคนตรงนี้ตั้งหาก"
     },
     {
       "id": 110,
       "model": "단테",
-      "content": "<Don’t give me that look. There’s nothing in my abilities to keep her under control…>"
+      "content": "<อย่ามองเเบบนั้นสิ ไม่มีอะไรที่ฉันสามารถจะควบคุมเธอให้อยู่หมัดได้หรอกนะ…>"
     },
     {
       "id": 111,
-      "content": "I couldn’t stop myself from defending my position even when I was aware that my voice wouldn’t reach anyone besides the Sinners."
+      "content": " ฉันไม่สามารถที่จะปกป้องจุดยืนตัวเองได้ เเม้ว่าเสียงของฉันจะไม่สามารถสื่อไปถึงใครนอกจากเหล่า Sinner ก็ตาม"
     },
     {
       "id": 112,
-      "content": "Oh well. It’s not like my defense would’ve made them look any less baffled towards me if they could hear it."
+      "content": " ก็นะ ใช่ว่าคำเเก้ตัวของฉันจะทำให้พวกเขาสับสนน้อยลงหรอก"
     },
     {
       "id": 113,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Oooh…!"
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "โอ้…!"
     },
     {
       "id": 114,
-      "content": "The pawnbroker was the only one chuffed by this turn of events."
+      "content": "มีเพียงนายหน้ารับจำนำคนเดียวที่พอใจกับสถานการณ์ที่เกิดขึ้นนี้"
     },
     {
       "id": 115,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Great work, ma’am. Serves that hooligan right! But I’ll say, you could’ve whopped ‘em a tad harder, maybe."
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ยอดเยี่ยมครับ นายหญิง สมควรเเล้วไอเวรนั้น! เเต่ผมว่า จะตีหัวมันให้เเรงกว่านี้ก็ได้นะครับ"
     },
     {
       "id": 116,
       "model": "돈키호테",
-      "content": "Vergilius advised me that while I am free to deliver justice unto villains, I must do so without unduly involving irrevelants in our mission! Thus, I showed moderation!"
+      "content": "เวอร์จิลิอุสบอกข้าไว้ว่า ถึงเเม้ข้าจะมีสิทธิ์ในการลงทัณฑ์คนชั่วได้ตามวิสัยก็ตาม เเต่ข้าก็มิควรให้ผู้มิเกี่ยวข้องมาพัวพันในภารกิจของพวกเรา! ฉะนั้น ข้าจึงเลือกที่จะสั่งสอนมันค่ะ!"
     },
     {
       "id": 117,
-      "content": "Her proud expression never looked so provoking."
+      "content": "สีหน้าอันภาคภูมิใจของเธอดูไม่น่าเกรงขามเเม้เเต่น้อย"
     },
     {
       "id": 118,
       "model": "단테",
-      "content": "<Uh-huh. So you remembered his words and still leapt forward?>"
+      "content": "<อ่าหะ ถึงจะจำคำพูดของเขาได้ เเต่ก็เลือกที่จะมุ่งหน้าเข้าไปอีกหรอ?>"
     },
     {
       "id": 119,
       "model": "돈키호테",
-      "content": "‘Twas a necessary action to stay true to my creed. Please understand my virtuous violence!"
+      "content": "‘ นั้นคือการกระทำที่จำเป็นต่อการยึดมั่นในสัตย์ปฏิญาณของข้า ได้โปรดเข้าใจความรุนเเรงอันยุติธรรมนี้ด้วยเถิด!"
     },
     {
       "id": 120,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Not to kill the mood, but… That ruffian isn’t actually dead, right?"
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ไม่อยากขัดจังหวะนะ เเต่ว่า… ไอพาลนั้นมันยังไม่ตาย ใช่ไหม?"
     },
     {
       "id": 121,
       "model": "그레고르",
-      "content": "I thought you wanted her to get straight to wallops, old sport?"
+      "content": "ไหนบอกจะให้เธอฟาดให้นวมเลยไง ตาเเก่?"
     },
     {
       "id": 122,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "I did, I did… But things would get fairly complicated if the Yurodiviye showed up, you know."
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ใช่… เเต่คงจะยุ่งยากน่าดูถ้าไอพวก Yurodiviye โผล่มาน่ะ"
     },
     {
       "id": 123,
       "model": "로쟈",
-      "content": "The Yurodiviye? What are they doing here… No, forget that, why are you worrying about them?"
+      "content": "หรอ? ไอพวกนั้นมาทำไรที่… ช-ช่างมันเถอะ ทำไมกังวลว่าพวกนั้นจะมาล่ะ?"
     },
     {
       "id": 124,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Not up to date with the news, are you, ma’am? They’ve been causing trouble here for months now."
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ไม่ได้ตามข่าวเลยสินะครับ นายหญิง เจ้าพวกนั้นก่อเรื่องที่นี้มาเป็นเดือนเเล้วครับ"
     },
     {
       "id": 125,
       "model": "돈키호테",
-      "content": "Are they villains as well?!"
+      "content": "พวกนั้นเองก็เป็นเหล่าร้ายเช่นกันหรือ?!"
     },
     {
       "id": 126,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Oh, they’re villains to us humble merchants for sure. They were going on about, what was it, roughing up greedy peddlers keeping money to themselves, and giving it to those who need it. Distributing something, they said…"
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ใช่ครับ พวกเขานั้นเสมือนกับผู้ร้ายสำหรับพ่อค้าอย่างพวกเราครับ เอาเเต่พูดเรื่อง…การทำร้ายพ่อค้าเถื่อนที่กุมเงินทองจำนวนมาก เเล้วนำเงินไปเเจกจ่ายให้กับคนที่ต้องการเงินจริงๆ เเละก็กระจายอะไรซักอย่างน่ะ…"
     },
     {
       "id": 127,
       "model": "뫼르소",
-      "content": "The redistribution of wealth."
+      "content": "การกระจายความมั่งคั่งครับ"
     },
     {
       "id": 128,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Aah~ That’s it, yes. Those scoundrels are robbing us poor saps of what little wealth we have. And they don’t even do the dirty work themselves, it’s always the local brutes they send. Can you believe it?"
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "อ้า~ ใช่เลย ไม่อยากจะเชื่อเลยใช่ไหมล่ะ? อันธพาลพวกนี้มันมาขโมยเงินก้อนเล็กก้อนน้อยที่เราขายได้ในเเต่ละวัน เเถมไอพวกนี้ก็ไม่ชอบลงมือเองซะด้วย เอาเเต่ส่งคนในท้องที่มาไถ่ตังอยู่เสมอเลย"
     },
     {
       "id": 129,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Anyhoo, life has been hard for us because of those self-righteous bunches. Looked like they were here to find something at first, but all they do now is squeeze money outta us…"
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ยังไงก็ตาม ตอนเเรกพวกมันก็ดูเหมือนตามหาอะไรซักอย่าง สักพักกลับไถ่ตังพวกเราเฉยเลย ชีวิตมันเลยอยู่ยากขึ้นเพราะไอ้พวกเห็นดีเเก่ตัวพวกนี้เนี่ย…"
     },
     {
       "id": 130,
       "model": "로쟈",
-      "content": "…Ah! I-I just realized, shouldn’t we take our leave now? More toughies from the Tingtang Gang might be coming this way."
+      "content": "…อ-อ้า! พ-พึ่งจะนึกออก เราควรรีบเผ่นดีไหม? เดี๋ยวไอพวกเเก๊ง Tingtang จะยกโขยงกันมาอีกน่ะ"
     },
     {
       "id": 131,
-      "content": "It seemed like Rodya deliberately cut off the pawnbroker in a hurry, but I had little time to think about the implications."
+      "content": "ดูเหมือนว่าร๊อดย่าจะตัดคำของนายหน้าอย่างเร่งรีบ เเต่ฉันก็ไม่เหลือเวลาที่จะคิดถึงความเป็นไปได้ทันเวลา"
     },
     {
       "id": 132,
-      "content": "The gang member Don Quixote had knocked out began to flinch as though to get back up soon."
+      "content": "ลูกน้องที่โดนดอนกีโฮเต้ตีหัวไปก็เริ่มขยับเตรียมที่จะเรียกกำลังเสริมมา"
     },
     {
       "id": 133,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "Sigh, what a hassle… You’re making the problem bigger than it had to be."
+      "content": "เฮ้อ ยุ่งยากจริง… เเกทำให้เรื่องมันบานปลายเกินกว่าที่มันจะเป็น"
     },
     {
       "id": 134,
       "model": "그레고르",
-      "content": "Hey, Muffin and Sablé, was it? Don’t be so tart now. There are plenty of pawnshops around here, right? We can always find a different—"
+      "content": "เฮ้ อย่าใจร้อนไปสิ มัฟฟิน กับ ซาเบล่ใช่ม๊ะ? เเถวนี้โรงรับจำนำก็เยอะนี่ เราก็หาร้านอื่นได้ —"
     },
     {
       "id": 135,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "It’s Effie and Saude. Please don’t mistake our names for confections."
+      "content": "เอฟฟี่กับซอเดย์ค่ะ โปรดอย่าเรียกชื่อเราสับสนกับชื่อขนมหวานด้วยค่ะ"
     },
     {
       "id": 136,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "And your statement that there are plenty of pawnshops in the vicinity won’t mean much…"
+      "content": "เเละที่บอกว่ามีโรงรับจำนำอีกเยอะนั้นก็จะไม่มีความหมาย…"
     },
     {
       "id": 137,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "…When said pawnshops notice the trouble happening here and close…"
+      "content": "…ถ้าโรงรับจำนำปิดร้านกันหมดเพราะเหตุที่พวกเธอเป็นคนก่อค่ะ…"
     },
     {
       "id": 138,
       "model": "단테",
-      "content": "<Don Quixote…!>"
+      "content": "<ดอน กีโฮเต้…!>"
     },
     {
       "id": 139,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "I’m getting tired of lecturing these idiots on every little thing. We should just leave."
+      "content": " เหนื่อยจะสั่งสอนไอพวกโง่นี้ในทุกเรื่องเเล้ว พวกเรารีบหนีกันดีกว่า"
     },
     {
       "id": 140,
-      "content": "Right as I tried to leave, someone wearing similar thuggish clothes to the one we’d just knocked out—with a face that looked just as rough—stormed into the shop."
+      "content": "มีคนหนึ่งสวมชุดคล้ายอันธพาลเหมือนกับที่พวกเราพึ่งจะฟาดให้สลบไป สภาพหน้าตาดูหยาบไม่เเพ้กัน สวนเราเข้ามาในร้านในขณะที่เรากำลังจะออกจากร้าน"
     },
     {
       "id": 141,
       "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Ayo, codger, have you seen our li’l—"
+      "teller": "Tingtanger ที่หายใจเหือกเเรง",
+      "title": "เเก๊ง Tingtang",
+      "content": "ว่าไง ไอเเก่ เห็นไอ้น้องที่เรา—"
     },
     {
       "id": 142,
       "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Wee slimmy! Just what’s going on here?!"
+      "teller": "Tingtanger ที่หายใจเหือกเเรง",
+      "title": "เเก๊ง Tingtang",
+      "content": "เกิดไรขึ้นที่นี้เนี่ย?!"
     },
     {
       "id": 143,
-      "content": "We did our best to pretend to be innocent customers who just happened to be in the pawnshop at the wrong time."
+      "content": "พวกเราพยายามทำตัวให้เหมือนลูกค้าไร้เดียงสาที่มาโรงรับจำนำผิดเวลาให้ได้มากที่สุด"
     },
     {
       "id": 144,
-      "content": "However, in an unfortunate concurrence of events, the goon came back to senses…"
+      "content": "เเต่โชคไม่เข้าข้างนัก เพราะลูกกระจ๊อกที่นอนอยู่เริ่มได้สติคืนมา…"
     },
     {
       "id": 145,
       "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Who did this?! Tell me now! That bean is gonna regret the day they grew stems!"
+      "teller": "Tingtanger ที่หายใจเหือกเเรง",
+      "title": "เเก๊ง Tingtang",
+      "content": "ใครทำว่ะ?! บอกมา! ไอกร๊วกนั้นมันจะต้องเสียใจที่มันได้เกิดมา!"
     },
     {
       "id": 146,
       "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Gnh… O… Over there…"
+      "teller": "Tingtanger ที่หายใจเหือกเเรง",
+      "title": "เเก๊ง Tingtang",
+      "content": " ฮ-เฮือก… ต… ตรงนั้น…"
     },
     {
       "id": 147,
       "model": "촌스러운말투의콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "That red… timepuss…"
+      "teller": "Tingtanger ที่หายใจเหือกเเรง",
+      "title": "เเก๊ง Tingtang",
+      "content": "ไอหัว… นาฬิกาสีเเดงนั่น…"
     },
     {
       "id": 148,
-      "content": "The direction that finger was pointing was simply too unambiguous for me to pretend otherwise."
+      "content": "ทิศทางที่นิ้วชี้มามันคงจะบ้าเกินไปที่จะให้ฉันทำเป็นไม่รู้เรื่อง"
     },
     {
       "id": 149,
-      "content": "Plus, there’s no point in denying that I was meant by “red timepuss”, as I’m sure there would be literally no one else matching that description in this entire District."
+      "content": "อีกอย่าง ไม่มีทางที่ใครจะสับสนกับคำว่า “ไอหัวนาฬิกาสีเเดง” นั่นหรอก เพราะฉันมั่นใจเลยว่าหาในเขตนี้ให้ตายยังไงก็ไม่มีใครจะเหมือนกับที่ว่ามาได้นอกจากฉันหรอก"
     },
     {
       "id": 150,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Just so you don’t get the wrong idea, I have nothing to do with these people or what happened here. I was just about to bring a towel to cool this poor fellow’s head."
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "อย่าเข้าใจผิดไปนะครับ ผมเเค่เอาผ้ามาชุบหัวเพื่อนคุณเอง ไม่ได้มีส่วนเกี่ยวข้องอะไรกับพวกนี้เเละเหตุการณ์ที่เกิดขึ้นเลย"
     },
     {
       "id": 151,
       "model": "히스클리프",
-      "content": "That smarmy gaffer…"
+      "content": "ไอเเก่เจ้าเล่ห์นี้…"
     },
     {
       "id": 152,
       "model": "이스마엘",
-      "content": "I had no expectations for him in the first place, but that man really has a shaky reed for his backbone."
+      "content": " ฉันไม่ได้คาดหวังในตัวเขาเเต่เเรกอยู่เเล้ว เเต่ไอหมอนั่นขู่จนกระดูกสันหลังฉันลุกไปหมดเเล้วเนี่ย"
     },
     {
       "id": 153,
-      "content": "Although the pawnbroker switching sides in a heartbeat and the finger-pointing clock slander—over something I wasn’t responsible for, too—hurt me a little, I was determined to stand firm."
+      "content": "ถึงเเม้นายหน้าโรงรับจำนำจะโทษฉันเเล้วเปลี่ยนฝั่งในพริบตากับสิ่งที่ฉันไม่ได้ทำนั้น จะรู้สึกเจ็บเล็กน้อยก็ตาม เเต่ฉันก็ยืนกรานเหมือนเดิม"
     },
     {
       "id": 154,
       "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Jah… Frijolitos over there… Stop. Freeze in your tracks."
+      "teller": "Tingtanger ที่หายใจเหือกเเรง",
+      "title": "เเก๊ง Tingtang",
+      "content": "เอาล่ะ… พวกเเกตรงนั้น… หยุดอยู่เเค่นั้นเเหละ"
     },
     {
       "id": 155,
-      "content": "Mostly because it was clear that we had to run right now."
+      "content": "บางทีอาจจะเพราะพวกเราพร้อมที่จะวิ่งกันสุดเเรงเกิดอยู่เเล้วก็ได้"
     },
     {
       "id": 156,
-      "content": "If I kept letting small things bother me, I would be reduced to a pulp sooner rather than later."
+      "content": "ถ้ามัวเเต่ให้เรื่องเล็กๆพวกนี้มากวนใจ คงได้เละเป็นปุ๋ยเเน่"
     },
     {
       "id": 157,
       "model": "료슈",
-      "content": "Bah. No need to run. Let’s just kill them all and be done with it."
+      "content": " โธ่ ไม่ต้องวิ่งหรอก ก็เเค่ฆ่าพวกมันให้หมดเเค่นั้นเอง"
     },
     {
       "id": 158,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "What’s next? You’re going to wipe out the whole Syndicate?"
+      "content": "เเล้วไง? ต่อไปจะฆ่าให้หมดทั้งซินดิเคทเลยหรือไง?"
     },
     {
       "id": 159,
       "model": "료슈",
-      "content": "Heh. That doesn’t sound too bad."
+      "content": "หึ ก็ฟังดูไม่เลวเลยนะ"
     },
     {
       "id": 160,
       "model": "돈키호테",
-      "content": "The forces of evil must be uprooted with haste in order to raise the banner of justice high!"
+      "content": "เราต้องถอนรากถอนโคนความชั่วให้สิ้นเพื่อที่จะโบกธงเเห่งความยุติธรรมให้สูงเด่น!"
     },
     {
       "id": 161,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "Uh, so, is there seriously no one on your team who’s in their right mind?"
+      "content": "เออ บอกกูทีว่ามีใครในที่นี้มันมีสติดีกันบ้างไหม?"
     },
     {
       "id": 162,
-      "content": "Ishmael looked insulted by this remark and seemed to be thinking of a counterargument, but the Tingtang goons arming themselves were a more pressing matter."
+      "content": "อิชมาเอลดูโกรธจากคำด่าเมื่อครู่ เตรียมที่จะพูดโต้ตอบกลับไป เเต่ปัญหาที่ใหญ่กว่าตอนนี้ดูจะเป็นลูกสมุนของ Tingtang มากกว่า"
     },
     {
       "id": 163,
       "model": "단테",
-      "content": "<Let’s just…>"
+      "content": "<ยังไงก็…>"
     },
     {
       "id": 164,
       "model": "단테",
-      "content": "<Let’s get outta here first!>"
+      "content": "<รีบเผ่นออกจากที่นี้ก่อนดีกว่า!!>"
     }
   ]
 }
