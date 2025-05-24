@@ -2,8 +2,8 @@
   "dataList": [
     {
       "id": 2047,
-      "name": "A Broken Dream",
-      "desc": "Upon obtaining this E.G.O Gift, gain the following effects:\n• Don Quixote's level rises to 50\n• Don Quixote's Uptie and Threadspin Tiers rise to Tier 4\n(If the Level, Uptie Tier, or Threadspin Tier are higher than the above values, then maintain those values.)",
+      "name": "ฝันที่แตกสลาย",
+      "desc": "เมื่อได้รับ E.G.O Gift นี้ ได้รับเอฟเฟคต่อไปนี้:\n• เลเวลของดอน กิโฆเต้ ขึ้นเป็นเลเวล 50\n• ระดับ Uptie และ Threadspin ของดอน กิโฆเต้ขึ้นเป็นระดับ 4\n(ถ้าเลเวล ระดับ Uptie หรือระดับ Threadspin สูงกว่าค่าข้างต้น คงรักษาค่านั้นไว้)",
       "simpleDesc": [
         {
           "abilityID": 2047,
@@ -17,7 +17,7 @@
     },
     {
       "id": 2048,
-      "name": "La Manchaland All-day Pass",
+      "name": "บัตรผ่านตลอดวัน La Manchaland",
       "desc": "On Hit against targets with 10+ (sum of [Laceration], 'Unique Bleed', and [Burst]): gain 1 [Breath] Potency and Count (3 times per Skill)",
       "simpleDesc": [
         {
@@ -28,7 +28,7 @@
     },
     {
       "id": 2049,
-      "name": "La Manchaland Standard Pass",
+      "name": "บัตรผ่านปกติ La Manchaland",
       "desc": "First Turn Start of an Encounter: all units gain 4 [Laceration] Potency and Count.",
       "simpleDesc": [
         {
@@ -39,7 +39,7 @@
     },
     {
       "id": 2050,
-      "name": "Token of Victory",
+      "name": "เหรียญตราแห่งชัยชนะ",
       "desc": "On Kill with a Skill damage: 1 ally with the least SP heals 8 SP.\nAfter Attack: if an enemy with 10+ (sum of [Laceration], 'Unique Bleed', and [Burst]) is defeated, the unit who killed that enemy gains 2 [AttackUp] next turn. (3 times per turn)",
       "simpleDesc": [
         {
@@ -54,7 +54,7 @@
     },
     {
       "id": 2051,
-      "name": "Self-flagellation Whip",
+      "name": "แส้เฆี่ยนตน",
       "desc": "When 1 ally with currently the highest HP percentage uses an Attack Skill, gain 10 [Laceration], 3 [AttackUp], and 3 [DefenseUp]. (once per turn)",
       "simpleDesc": [
         {
@@ -65,7 +65,7 @@
     },
     {
       "id": 2052,
-      "name": "Mask of the Parade",
+      "name": "หน้ากากงานพาเหรด",
       "desc": "Chain Battles: when a new enemy enters the battle, inflict 5 [Laceration] and +3 [Laceration] Count against that enemy at Combat Start.",
       "simpleDesc": [
         {
@@ -76,7 +76,7 @@
     },
     {
       "id": 2053,
-      "name": "Devouring Cube",
+      "name": "ลูกบาคก์กลืนกิน",
       "desc": "When an ally dies, gain 1 E.G.O resource for each of that ally's Skills 1, 2, and 3 and 1 random E.G.O resource\nAfter Attack: if the enemy is killed, gain 1 random E.G.O resource (once per Skill)",
       "simpleDesc": [
         {
@@ -91,7 +91,7 @@
     },
     {
       "id": 2054,
-      "name": "Endless Hunger",
+      "name": "ความหิวไม่รู้สิ้น",
       "desc": "First Turn Start of an Encounter: every Identity on the field loses 5 SP and gains 1 [Enhancement] for 3 turns.\nIf the said Identity is a Bloodfiend, lose 10 SP, gain 2 [Enhancement] for 3 turns, and inflict +1 more [Laceration] Potency and Count with its Skill & Coin effects",
       "simpleDesc": [
         {
@@ -106,7 +106,7 @@
     },
     {
       "id": 2055,
-      "name": "A Little Dream",
+      "name": "ฝันอันเล็ก",
       "desc": "On Clash Win with a Pride Skill: heal 5 SP.\nOn Hit after Clash Win with the said Skill: inflict +1 [Laceration] Count and +1 [Burst] Count (4 times per Skill)",
       "simpleDesc": [
         {
@@ -117,7 +117,7 @@
     },
     {
       "id": 2056,
-      "name": "A Hollow Dream",
+      "name": "ฝันอันกลวง",
       "desc": "On Hit against targets with [Laceration] or 'Unique Bleed': heal 2~5 HP.\nSkills that consume [BloodDinner]: Coin Power +1",
       "simpleDesc": [
         {
@@ -132,7 +132,7 @@
     },
     {
       "id": 2057,
-      "name": "The Dream Begins Anew",
+      "name": "ความฝันเริ่มใหม่อีกครั้ง",
       "desc": "All of Don Quixote's Skills gain Final Power +2\nWhen an ally dies, the remaining allies heal 15 SP, and at Turn End, gain 1 [Enhancement] next turn (max [Enhancement]: 3)",
       "simpleDesc": [
         {
@@ -177,7 +177,7 @@
     },
     {
       "id": 2060,
-      "name": "Carmilla",
+      "name": "คาร์มิลล่า",
       "desc": "At the start of a non-Focused Encounter, all enemies take fixed damage equal to 20% of their Max HP.",
       "simpleDesc": [
         {

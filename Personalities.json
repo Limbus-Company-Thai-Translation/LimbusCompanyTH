@@ -2,238 +2,238 @@
   "dataList": [
     {
       "id": 10101,
-      "title": "LCB\nSinner",
+      "title": "LCB\nคนบาป",
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang’s 1st Identity"
     },
     {
       "id": 10201,
-      "title": "LCB\nSinner",
+      "title": "LCB\nคนบาป",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust’s 1st Identity"
     },
     {
       "id": 10301,
-      "title": "LCB\nSinner",
+      "title": "LCB\nคนบาป",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote’s 1st Identity"
     },
     {
       "id": 10401,
-      "title": "LCB\nSinner",
+      "title": "LCB\nคนบาป",
       "name": "Ryōshū",
       "nameWithTitle": "Ryōshū",
       "desc": "Ryōshū’s 1st Identity"
     },
     {
       "id": 10501,
-      "title": "LCB\nSinner",
+      "title": "LCB\nคนบาป",
       "name": "Meursault",
       "nameWithTitle": "Meursault",
       "desc": "Meursault’s 1st Identity"
     },
     {
       "id": 10601,
-      "title": "LCB\nSinner",
+      "title": "LCB\nคนบาป",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu’s 1st Identity"
     },
     {
       "id": 10701,
-      "title": "LCB\nSinner",
+      "title": "LCB\nคนบาป",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff’s 1st Identity"
     },
     {
       "id": 10801,
-      "title": "LCB\nSinner",
+      "title": "LCB\nคนบาป",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael’s 1st Identity"
     },
     {
       "id": 10901,
-      "title": "LCB\nSinner",
+      "title": "LCB\nคนบาป",
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion’s 1st Identity"
     },
     {
       "id": 11001,
-      "title": "LCB\nSinner",
+      "title": "LCB\nคนบาป",
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair’s 1st Identity"
     },
     {
       "id": 11101,
-      "title": "LCB\nSinner",
+      "title": "LCB\nคนบาป",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis’s 1st Identity"
     },
     {
       "id": 11201,
-      "title": "LCB\nSinner",
+      "title": "LCB\nคนบาป",
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor’s 1st Identity"
     },
     {
       "id": 10102,
-      "title": "Seven Assoc.\nSouth Section 6",
+      "title": "สมาพันธ์เซเว่น\nหน่วยทางใต้ที่ 6",
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang’s 2nd Identity"
     },
     {
       "id": 10202,
-      "title": "W Corp. L2\nCleanup Agent",
+      "title": "W Corp. L2\nเจ้าหน้าที่เก็บกวาด",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust’s 2nd Identity"
     },
     {
       "id": 10302,
-      "title": "W Corp. L3\nCleanup Agent",
+      "title": "W Corp. L3\nเจ้าหน้าที่เก็บกวาด",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote’s 2nd Identity"
     },
     {
       "id": 10402,
-      "title": "Seven Assoc.\nSouth Section 6",
+      "title": "สมาพันธ์เซเว่น\nหน่วยทางใต้ที่ 6",
       "name": "Ryōshū",
       "nameWithTitle": "Ryōshū",
       "desc": "Ryōshū’s 2nd Identity"
     },
     {
       "id": 10502,
-      "title": "Liu Assoc.\nSouth Section 6",
+      "title": "สมาพันธ์ลิ่ว\nหน่วยทางใต้ที่ 6",
       "name": "Meursault",
       "nameWithTitle": "Meursault",
       "desc": "Meursault’s 2nd Identity"
     },
     {
       "id": 10602,
-      "title": "Kurokumo Clan\nWakashu",
+      "title": "ตระกูลคุโรคุโมะ\nวากาชู",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu’s 2nd Identity"
     },
     {
       "id": 10702,
-      "title": "Shi Assoc.\nSouth Section 5",
+      "title": "สมาพันธ์ชิ\nหน่วยทางใต้ที่ 5",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff’s 2nd Identity"
     },
     {
       "id": 10802,
-      "title": "R Corp. 4th Pack\nReindeer",
+      "title": "R Corp. ฝูงที่ 4\nเรนเดียร์",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael’s 2nd Identity"
     },
     {
       "id": 10902,
-      "title": "Kurokumo Clan\nWakashu",
+      "title": "ตระกูลคุโรคุโมะ\nวากาชู",
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion’s 2nd Identity"
     },
     {
       "id": 11002,
-      "title": "Blade Lineage\nSalsu",
+      "title": "ตระกูลวงค์ดาบ\nซัลซุ",
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair’s 2nd Identity"
     },
     {
       "id": 11102,
-      "title": "Blade Lineage\nSalsu",
+      "title": "ตระกูลวงค์ดาบ\nซัลซุ",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis’s 2nd Identity"
     },
     {
       "id": 11202,
-      "title": "Liu Assoc.\nSouth Section 6",
+      "title": "สมาพันธ์ลิ่ว\nหน่วยทางใต้ที่ 6",
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor’s 2nd Identity"
     },
     {
       "id": 10103,
-      "title": "Blade Lineage\nSalsu",
+      "title": "ตระกูลวงค์ดาบ\nซัลซุ",
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang’s 3rd Identity"
     },
     {
       "id": 10203,
-      "title": "Lobotomy Corp. Remnant",
+      "title": "ผู้เหลือรอด Lobotomy Corp.",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust’s 3rd Identity"
     },
     {
       "id": 10403,
-      "title": "Kurokumo Clan\nWakashu",
+      "title": "ตระกูลคุโรคุโมะ\nวากาชู",
       "name": "Ryōshū",
       "nameWithTitle": "Ryōshū",
       "desc": "Ryōshū’s 3rd Identity"
     },
     {
       "id": 10503,
-      "title": "W Corp. L2\nCleanup Agent",
+      "title": "W Corp. L2\nเจ้าหน้าที่เก็บกวาด",
       "name": "Meursault",
       "nameWithTitle": "Meursault",
       "desc": "Meursault’s 3rd Identity"
     },
     {
       "id": 10603,
-      "title": "Tingtang Gang\nGangleader",
+      "title": "แก๊งติงแตง\nหัวหน้าแก๊ง",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu’s 3rd Identity"
     },
     {
       "id": 10703,
-      "title": "R Corp. 4th Pack\nRabbit",
+      "title": "R Corp. ฝูงที่ 4\nRabbit",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff’s 3rd Identity"
     },
     {
       "id": 10803,
-      "title": "Shi Assoc.\nSouth Section 5",
+      "title": "สมาพันธ์ชิ\nหน่วยทางใต้ที่ 5",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael’s 3rd Identity"
     },
     {
       "id": 10903,
-      "title": "LCCB\nAssistant Manager",
+      "title": "LCCB\nผู้ช่วยผู้จัดการ",
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion’s 3rd Identity"
     },
     {
       "id": 11003,
-      "title": "Zwei Assoc.\nSouth Section 6",
+      "title": "สมาพันธ์ไซวล์\nหน่วยทางใต้ที่ 6",
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair’s 3rd Identity"
     },
     {
       "id": 11103,
-      "title": "G Corp.\nHead Manager",
+      "title": "G Corp.\nหัวหน้าผู้จัดการ",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis’s 3rd Identity"
@@ -247,35 +247,35 @@
     },
     {
       "id": 10804,
-      "title": "LCCB\nAssistant Manager",
+      "title": "LCCB\nผู้ช่วยผู้จัดการ",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael’s 4th Identity"
     },
     {
       "id": 11004,
-      "title": "Los Mariachis\nJefe",
+      "title": "ลอส มาริอาชิส์\nเยเฟ่",
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair’s 4th Identity"
     },
     {
       "id": 10303,
-      "title": "Shi Assoc.\nSouth Section 5 Director",
+      "title": "สมาพันธ์ชิ\nผู้กำกับหน่วยทางใต้ที่ 5",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote’s 3rd Identity"
     },
     {
       "id": 10504,
-      "title": "N Corp.\nGroßhammer",
+      "title": "N Corp.\nกรอสแฮมเมอร์",
       "name": "Meursault",
       "nameWithTitle": "Meursault",
       "desc": "Meursault’s 4th Identity"
     },
     {
       "id": 10904,
-      "title": "N Corp.\nMittelhammer",
+      "title": "N Corp.\nมิทเทลแฮมเมอร์",
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion’s 4th Identity"
@@ -289,42 +289,42 @@
     },
     {
       "id": 10704,
-      "title": "N Corp.\nKleinhammer",
+      "title": "N Corp.\nไคลน์แฮมเมอร์",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff’s 4th Identity"
     },
     {
       "id": 11104,
-      "title": "Seven Assoc.\nSouth Section 6 Director",
+      "title": "สมาพันธ์เซเว่น\nผู้กำกับหน่วยทางใต้ที่ 6",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis’s 4th Identity"
     },
     {
       "id": 10604,
-      "title": "Liu Assoc.\nSouth Section 5",
+      "title": "สมาพันธ์ลิ่ว\nหน่วยทางใต้ที่ 5",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu’s 4th Identity"
     },
     {
       "id": 10404,
-      "title": "R.B.\nChef de Cuisine",
+      "title": "ร.ภ.\nหัวหน้าพ่อครัว",
       "name": "Ryōshū",
       "nameWithTitle": "Ryōshū",
       "desc": "Ryōshū’s 4th Identity"
     },
     {
       "id": 11204,
-      "title": "R.B.\nSous-chef",
+      "title": "ร.ภ.\nผู้ช่วยเชฟ",
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor’s 4th Identity"
     },
     {
       "id": 10304,
-      "title": "N Corp.\nMittelhammer",
+      "title": "N Corp.\nมิทเทลแฮมเมอร์",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote’s 4th Identity"
@@ -338,350 +338,350 @@
     },
     {
       "id": 10905,
-      "title": "Rosespanner Workshop\nRep",
+      "title": "โรสสแปนเนอร์เวิร์คช็อป\nตัวแทน",
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion’s 5th Identity"
     },
     {
       "id": 10505,
-      "title": "Rosespanner Workshop Fixer",
+      "title": "ฟิกเซอร์โรสสแปนเนอร์เวิร์คช็อป",
       "name": "Meursault",
       "nameWithTitle": "Meursault",
       "desc": "Meursault’s 5th Identity"
     },
     {
       "id": 10705,
-      "title": "Lobotomy E.G.O::Sunshower",
+      "title": "E.G.O โลโบโตมี::Sunshower",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff’s 5th Identity"
     },
     {
       "id": 11205,
-      "title": "Rosespanner Workshop\nFixer",
+      "title": "โรสสแปนเนอร์เวิร์คช็อป\nฟิกเซอร์",
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor’s 5th Identity"
     },
     {
       "id": 10104,
-      "title": "Effloresced E.G.O::Spicebush",
+      "title": "E.G.O บานสะพรั่ง::Spicebush",
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang’s 4th Identity"
     },
     {
       "id": 10805,
-      "title": "Lobotomy E.G.O::Sloshing",
+      "title": "โลโบโตมี E.G.O.::Sloshing",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael’s 5th Identity"
     },
     {
       "id": 10605,
-      "title": "K Corp. Class 3\nExcision Staff",
+      "title": "K Corp. ระดับ 3\nเจ้าหน้าทีตัดแบ่ง",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu’s 5th Identity"
     },
     {
       "id": 11006,
-      "title": "Lobotomy E.G.O::Red Sheet",
+      "title": "โลโบโตมี E.G.O.::Red Sheet",
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair’s 6th Identity"
     },
     {
       "id": 10806,
-      "title": "Liu Assoc.\nSouth Section 4",
+      "title": "สมาพันธ์ลิ่ว\nหน่วยทางใต้ที่ 4",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael’s 6th Identity"
     },
     {
       "id": 10506,
-      "title": "R Corp. 4th Pack\nRhino",
+      "title": "R Corp. ฝูงที่ 4\nไรโน",
       "name": "Meursault",
       "nameWithTitle": "Meursault",
       "desc": "Meursault’s 6th Identity"
     },
     {
       "id": 10906,
-      "title": "Zwei Assoc.\nSouth Section 5",
+      "title": "สมาพันธ์ไซวล์\nหน่วยทางใต้ที่ 5",
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion’s 6th Identity"
     },
     {
       "id": 10305,
-      "title": "Cinq Assoc.\nSouth Section 5 Director",
+      "title": "Cinq Assoc.\nผู้กำกับหน่วยทางใต้ที่ 5",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote’s 5th Identity"
     },
     {
       "id": 10807,
-      "title": "Molar Boatworks\nFixer",
+      "title": "โมลาร์ โบทเวิร์คส์\nฟิกเซอร์",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael’s 7th Identity"
     },
     {
       "id": 11007,
-      "title": "Molar Boatworks\nFixer",
+      "title": "โมลาร์ โบทเวิร์คส์\nฟิกเซอร์",
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair’s 7th Identity"
     },
     {
       "id": 11206,
-      "title": "Zwei Assoc.\nSouth Section 4",
+      "title": "สมาพันธ์ไซวล์\nหน่วยทางใต้ที่ 4",
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor’s 6th Identity"
     },
     {
       "id": 10205,
-      "title": "Zwei Assoc.\nSouth Section 4",
+      "title": "สมาพันธ์ไซวล์\nหน่วยทางใต้ที่ 4",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust’s 5th Identity"
     },
     {
       "id": 10405,
-      "title": "W Corp. L3\nCleanup Agent",
+      "title": "W Corp. L3\nเจ้าหน้าที่เก็บกวาด",
       "name": "Ryōshū",
       "nameWithTitle": "Ryōshū",
       "desc": "Ryōshū’s 5th Identity"
     },
     {
       "id": 10606,
-      "title": "W Corp. L2\nCleanup Agent",
+      "title": "W Corp. L2\nเจ้าหน้าที่เก็บกวาด",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu’s 6th Identity"
     },
     {
       "id": 10206,
-      "title": "Seven Assoc.\nSouth Section 4",
+      "title": "สมาพันธ์เซเว่น\nหน่วยทางใต้ที่ 4",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust’s 6th Identity"
     },
     {
       "id": 10706,
-      "title": "Seven Assoc.\nSouth Section 4",
+      "title": "สมาพันธ์เซเว่น\nหน่วยทางใต้ที่ 4",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff’s 6th Identity"
     },
     {
       "id": 10105,
-      "title": "Molar Office\nFixer",
+      "title": "โมลาร์ ออฟฟิศ\nฟิกเซอร์",
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang's 5th Identity"
     },
     {
       "id": 11105,
-      "title": "Molar Office\nFixer",
+      "title": "โมลาร์ ออฟฟิศ\nฟิกเซอร์",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis's 5th Identity"
     },
     {
       "id": 10907,
-      "title": "Dieci Assoc.\nSouth Section 4",
+      "title": "Dieci Assoc.\nหน่วยทางใต้ที่ 4",
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion's 7th Identity"
     },
     {
       "id": 10207,
-      "title": "Lobotomy E.G.O::Regret",
+      "title": "โลโบโตมี E.G.O.::Regret",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust’s 7th Identity"
     },
     {
       "id": 10607,
-      "title": "Hook Office\nFixer",
+      "title": "ฮุค ออฟฟิศ\nฟิกเซอร์",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu's 7th Identity"
     },
     {
       "id": 10106,
-      "title": "W Corp. L3\nCleanup Agent",
+      "title": "W Corp. L3\nเจ้าหน้าที่เก็บกวาด",
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang's 6th Identity"
     },
     {
       "id": 11207,
-      "title": "Twinhook Pirates\nFirst Mate",
+      "title": "โจรสลัดทวินฮุค\nFirst Mate",
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor's 7th Identity"
     },
     {
       "id": 10406,
-      "title": "LCCB\nAssistant Manager",
+      "title": "LCCB\nผู้ช่วยผู้จัดการ",
       "name": "Ryōshū",
       "nameWithTitle": "Ryōshū",
       "desc": "Ryōshū’s 6th Identity"
     },
     {
       "id": 10306,
-      "title": "The Middle\nLittle Sister",
+      "title": "The Middle\nน้องสาว",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote’s 6th Identity"
     },
     {
       "id": 10507,
-      "title": "The Middle\nLittle Brother",
+      "title": "The Middle\nน้องชาย",
       "name": "Meursault",
       "nameWithTitle": "Meursault",
       "desc": "Meursault’s 7th Identity"
     },
     {
       "id": 10707,
-      "title": "The Pequod\nHarpooneer",
+      "title": "เรือพีควอด\nมือฉมวก",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff's 7th Identity"
     },
     {
       "id": 10107,
-      "title": "The Pequod\nFirst Mate",
+      "title": "เรือพีควอด\nFirst Mate",
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang's 7th Identity"
     },
     {
       "id": 11008,
-      "title": "Cinq Assoc.\nSouth Section 4 Director",
+      "title": "Cinq Assoc.\nผู้กำกับหน่วยทางใต้ที่ 4",
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair’s 8th Identity"
     },
     {
       "id": 11106,
-      "title": "Cinq Assoc.\nSouth Section 4",
+      "title": "Cinq Assoc.\nหน่วยทางใต้ที่ 4",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis's 6th Identity"
     },
     {
       "id": 11107,
-      "title": "Lobotomy E.G.O::Magic Bullet",
+      "title": "โลโบโตมี E.G.O.::Magic Bullet",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis's 7th Identity"
     },
     {
       "id": 10307,
-      "title": "Lobotomy E.G.O::Lantern",
+      "title": "โลโบโตมี E.G.O.::Lantern",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote’s 7th Identity"
     },
     {
       "id": 10608,
-      "title": "Dieci Assoc.\nSouth Section 4",
+      "title": "Dieci Assoc.\nหน่วยทางใต้ที่ 4",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu's 8th Identity"
     },
     {
       "id": 10108,
-      "title": "Dieci Assoc.\nSouth Section 4",
+      "title": "Dieci Assoc.\nหน่วยทางใต้ที่ 4",
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang's 8th Identity"
     },
     {
       "id": 10808,
-      "title": "The Pequod\nCaptain",
+      "title": "เรือพีควอด\nกัปตัน",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael’s 8th Identity"
     },
     {
       "id": 10508,
-      "title": "Blade Lineage\nMentor",
+      "title": "ตระกูลวงค์ดาบ\nอาจารย์",
       "name": "Meursault",
       "nameWithTitle": "Meursault",
       "desc": "Meursault’s 8th Identity"
     },
     {
       "id": 10208,
-      "title": "Blade Lineage\nSalsu",
+      "title": "ตระกูลวงค์ดาบ\nซัลซุ",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust’s 8th Identity"
     },
     {
       "id": 10308,
-      "title": "Blade Lineage\nSalsu",
+      "title": "ตระกูลวงค์ดาบ\nซัลซุ",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote’s 8th Identity"
     },
     {
       "id": 11208,
-      "title": "Kurokumo Clan\nCaptain",
+      "title": "ตระกูลคุโรคุโมะ\nกัปตัน",
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor's 8th Identity"
     },
     {
       "id": 10908,
-      "title": "Liu Assoc.\nSouth Section 4 Director",
+      "title": "สมาพันธ์ลิ่ว\nผู้กำกับหน่วยทางใต้ที่ 4",
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion's 8th Identity"
     },
     {
       "id": 10407,
-      "title": "Liu Assoc.\nSouth Section 4",
+      "title": "สมาพันธ์ลิ่ว\nหน่วยทางใต้ที่ 4",
       "name": "Ryōshū",
       "nameWithTitle": "Ryōshū",
       "desc": "Ryōshū's 7th Identity"
     },
     {
       "id": 10708,
-      "title": "Öufi Assoc.\nSouth Section 3",
+      "title": "Öufi Assoc.\nหน่วยทางใต้ที่ 3",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff's 8th Identity"
     },
     {
       "id": 11108,
-      "title": "Wuthering Heights\nChief Butler",
+      "title": "วูเทอริง ไฮท์ส\nหัวหน้าพ่อบ้าน",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis's 8th Identity"
     },
     {
       "id": 10509,
-      "title": "Dead Rabbits\nBoss",
+      "title": "เดด แรบบิทส์\nบอส",
       "name": "Meursault",
       "nameWithTitle": "Meursault",
       "desc": "Meursault’s 9th Identity"
     },
     {
       "id": 11209,
-      "title": "Edgar Family\nHeir",
+      "title": "ตระกูลเอ็ดการ์\nผู้สืบทอด",
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor's 9th Identity"
     },
     {
       "id": 10209,
-      "title": "Wuthering Heights\nButler",
+      "title": "วูเทอริง ไฮท์ส\nพ่อบ้าน",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust's 9th Identity"
@@ -695,196 +695,196 @@
     },
     {
       "id": 10408,
-      "title": "Edgar Family\nChief Butler",
+      "title": "ตระกูลเอ็ดการ์\nหัวหน้าพ่อบ้าน",
       "name": "Ryōshū",
       "nameWithTitle": "Ryōshū",
       "desc": "Ryōshū's 8th Identity"
     },
     {
       "id": 10809,
-      "title": "Edgar Family\nButler",
+      "title": "ตระกูลเอ็ดการ์\nพ่อบ้าน",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael’s 9th Identity"
     },
     {
       "id": 11009,
-      "title": "Dawn Office\nFixer",
+      "title": "Dawn Office\nฟิกเซอร์",
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair's 9th Identity"
     },
     {
       "id": 10109,
-      "title": "The Ring Pointillist\nStudent",
+      "title": "The Ring Pointillist\nนักศึกษา",
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang's 9th Identity"
     },
     {
       "id": 11109,
-      "title": "The Ring Pointillist\nStudent",
+      "title": "The Ring Pointillist\nนักศึกษา",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis's 9th Identity"
     },
     {
       "id": 10609,
-      "title": "District 20\nYurodivy",
+      "title": "เขตที่ 20\nYurodivy",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu's 9th Identity"
     },
     {
       "id": 10409,
-      "title": "District 20\nYurodivy",
+      "title": "เขตที่ 20\nYurodivy",
       "name": "Ryōshū",
       "nameWithTitle": "Ryōshū",
       "desc": "Ryōshū's 9th Identity"
     },
     {
       "id": 10309,
-      "title": "T Corp. Class 3\nCollection Staff",
+      "title": "T Corp. ระดับ 3\nพนักงานเก็บภาษี",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote’s 9th Identity"
     },
     {
       "id": 10909,
-      "title": "T Corp. Class 2\nCollection Staff",
+      "title": "T Corp. ระดับ 2\nพนักงานเก็บภาษี",
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion's 9th Identity"
     },
     {
       "id": 10510,
-      "title": "Dieci Assoc.\nSouth Section 4 Director",
+      "title": "Dieci Assoc.\nผู้กำกับหน่วยทางใต้ที่ 4",
       "name": "Meursault",
       "nameWithTitle": "Meursault",
       "desc": "Meursault’s 10th Identity"
     },
     {
       "id": 11110,
-      "title": "W Corp. L3\nCleanup Captain",
+      "title": "W Corp. L3\nหัวหน้าทีมเก็บกวาด",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis’s 10th Identity"
     },
     {
       "id": 10210,
-      "title": "MultiCrack Office\nRep",
+      "title": "มัลทิแครก ออฟฟิศ\nตัวแทน",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust's 10th Identity"
     },
     {
       "id": 10709,
-      "title": "MultiCrack Office\nFixer",
+      "title": "มัลทิแคร็ก ออฟฟิศ\nฟิกเซอร์",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff's 9th Identity"
     },
     {
       "id": 10710,
-      "title": "Wild Hunt",
+      "title": "ไวล์ ฮันท์",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff’s 10th Identity"
     },
     {
       "id": 10110,
-      "title": "Lobotomy E.G.O::\nSolemn Lament",
+      "title": "โลโบโตมี E.G.O.::\nSolemn Lament",
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang's 10th Identity"
     },
     {
       "id": 10410,
-      "title": "Lobotomy E.G.O::\nRed Eyes &\nPenitence",
+      "title": "โลโบโตมี E.G.O.::\nRed Eyes &\nPenitence",
       "name": "Ryōshū",
       "nameWithTitle": "Ryōshū",
       "desc": "Ryōshū's 10th Identity"
     },
     {
       "id": 10910,
-      "title": "Devyat' Assoc.\nNorth Section 3",
+      "title": "Devyat' Assoc.\nหน่วยทางเหนือที่ 3",
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion's 10th Identity"
     },
     {
       "id": 10810,
-      "title": "Zwei Assoc.\nWest Section 3",
+      "title": "สมาพันธ์ไซวล์\nหน่วยทางตะวันตกที่ 3",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael's 10th Identity"
     },
     {
       "id": 10511,
-      "title": "Cinq Assoc.\nWest Section 3",
+      "title": "Cinq Assoc.\nหน่วยทางตะวันตกที่ 3",
       "name": "Meursault",
       "nameWithTitle": "Meursault",
       "desc": "Meursault’s 11th Identity"
     },
     {
       "id": 11010,
-      "title": "Zwei Assoc.\nWest Section 3",
+      "title": "สมาพันธ์ไซวล์\nหน่วยทางตะวันตกที่ 3",
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair’s 10th Identity"
     },
     {
       "id": 11111,
-      "title": "The Barber\nof La Manchaland",
+      "title": "ช่างตัดผม\nแห่งลามันชาแลนด์",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis’s 11th Identity"
     },
     {
       "id": 10610,
-      "title": "Fanghunt Office\nFixer",
+      "title": "แฟงฮันท์ ออฟฟิศ\nฟิกเซอร์",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu’s 10th Identity"
     },
     {
       "id": 11210,
-      "title": "The Priest\nof La Manchaland",
+      "title": "บาทหลวง\nแห่งลามันชาแลนด์",
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor’s 10th Identity"
     },
     {
       "id": 10911,
-      "title": "The Princess\nof La Manchaland",
+      "title": "เจ้าหญิง\nแห่งลามันชาแลนด์",
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion's 11th Identity"
     },
     {
       "id": 11011,
-      "title": "Devyat' Assoc.\nNorth Section 3",
+      "title": "Devyat' Assoc.\nหน่วยทางเหนือที่ 3",
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair’s 11th Identity"
     },
     {
       "id": 10310,
-      "title": "The Manager\nof La Manchaland",
+      "title": "ผู้จัดการ\nแห่งลามันชาแลนด์",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote’s 10th Identity"
     },
     {
       "id": 10611,
-      "title": "Full-Stop Office\nRep",
+      "title": "ตัวแทน\nฟูลสต็อปออฟฟิศ",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu’s 11th Identity"
     },
     {
       "id": 10711,
-      "title": "Full-Stop Office\nFixer",
+      "title": "ฟิกเซอร์\nฟูลสต็อปออฟฟิศ",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff’s 11th Identity"
@@ -905,35 +905,35 @@
     },
     {
       "id": 10811,
-      "title": "Kurokumo Clan\nCaptain",
+      "title": "ตระกูลคุโรคุโมะ\nกัปตัน",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael's 11th Identity"
     },
     {
       "id": 10712,
-      "title": "Kurokumo Clan\nWakashu",
+      "title": "ตระกูลคุโรคุโมะ\nวากาชู",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff’s 12th Identity"
     },
     {
       "id": 10112,
-      "title": "Liu Assoc.\nSouth Section 3",
+      "title": "สมาพันธ์ลิ่ว\nหน่วยทางใต้ที่ 3",
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang's 12th Identity"
     },
     {
       "id": 10311,
-      "title": "Cinq Assoc.\nEast Section 3",
+      "title": "Cinq Assoc.\nหน่วยทางตะวันออกที่ 3",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote's 11th Identity"
     },
     {
       "id": 11211,
-      "title": "Firefist Office\nSurvivor",
+      "title": "ผู้รอดชีวิต\nไฟร์ฟิสต์ออฟฟิศ",
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor’s 11th Identity"
@@ -954,14 +954,14 @@
     },
     {
       "id": 11012,
-      "title": "The Middle\nLittle Brother",
+      "title": "The Middle\nน้องชาย",
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair’s 12th Identity"
     },
     {
       "id": 10612,
-      "title": "R Corp. 4th Pack\nReindeer",
+      "title": "R Corp. ฝูงที่ 4\nเรนเดียร์",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu’s 12th Identity"

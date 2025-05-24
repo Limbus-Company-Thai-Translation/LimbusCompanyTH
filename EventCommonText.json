@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "event_bonus_description",
-      "content": "During the event, having the listed Identities and E.G.O on your team\n<color=#f8c200>increases the amount of [{0}] earned</color>."
+      "content": "ระหว่างอีเว้นท์ การมีตัวตนและ E.G.O ในรายชื่อในทีมคุณ\n<color=#f8c200>จะเพิ่มจำนวนของ[{0}]ที่จะได้รับ</color>."
     },
     {
       "id": "event_bonus_preview",
-      "content": "Event Bonus Units"
+      "content": "ยูนิตอีเว้นท์โบนัส"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "LCE",
-      "content": "The LCE"
+      "content": "แผนก LCE"
     },
     {
       "id": "NestX",
@@ -14,11 +14,11 @@
     },
     {
       "id": "PeccatulaLv3",
-      "content": "Stage 3 Peccatula"
+      "content": "กิ่งก้านบาประดับ 3"
     },
     {
       "id": "Bloodfiend",
-      "content": "Bloodfiends"
+      "content": "อสูรโลหิต"
     }
   ]
 }
