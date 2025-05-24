@@ -3624,7 +3624,6 @@
         {
             "id": 1090205,
             "levelList": [{
-                    "level": 3,
                     "name": "Sky-clearing Cut",
                     "desc": "ถ้าเป้าหมายมี 6+ [Laceration], double the crit chance",
                     "coinlist": [{
@@ -9222,4 +9221,5 @@
             }]
         }
     ]
+          "level": 2,
 }

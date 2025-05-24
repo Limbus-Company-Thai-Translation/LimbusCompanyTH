@@ -2103,6 +2103,42 @@
       "id": 1061231,
       "name": "Charged Pulverization Support",
       "desc": "1 ally with the most [Charge]: when using a Base Attack Skill that gains [Charge] Count, deal <style=\"highlight\">+15%</style> damage with the final Coin"
+    },
+    {
+      "id": 1121201,
+      "name": "Heishou Mutation [Si]",
+      "desc": "If the target has [BurstPoison], deal +5% damage for every [SnakeStance] on self (max 15%)\nIf this unit reduced the target's [BurstPoison] down to 0 Stack, gain 1 [PenetrateDamageUp] next turn (max 2)"
+    },
+    {
+      "id": 1121221,
+      "name": "Like a Serpent: Flexible, Elastic, and Unpredictable",
+      "desc": "If this unit is killed in this Encounter: every turn, at Combat Start, apply 2 [Breath] to the Substituting Identity of the earliest Deployment order"
+    },
+    {
+      "id": 1091201,
+      "name": "Heishou Mutation [Si]",
+      "desc": "If this unit has [SnakeStance], deal +5% damage\nIf target has [BurstPoison], deal +5% damage"
+    },
+    {
+      "id": 1091221,
+      "name": "Intravascular Venom",
+      "desc": "When 1 ally with the fastest Speed inflicts [Burst] damage to an enemy, inflict 1 [AttackDown] and 1 [DefenseDown] next turn (once per turn)"
+    },
+    {
+      "id": 1021201,
+      "name": "Heishou Mutation [Mao] / Mao Branch Adept",
+      "desc": "If this unit's Speed is faster than the target's, deal +2% more damage for every 1 Speed difference (max 10%)\n\nGain 1 [EnhanceZilu] every time an ally triggers a Deathrite effect (5 times per turn)\n- If this unit triggered a Deathrite effect, gain 1 additional [EnhanceZilu]\nWhen activating the [SupportProtect] effect, gain 5 [EnhanceZilu]",
+      "summary": "Deal more damage based on Speed difference\nWhen activating Deathrite or [SupportProtect] effects, gain [EnhanceZilu]"
+    },
+    {
+      "id": 1021221,
+      "name": "Blinkblade",
+      "desc": "When 1 ally with the fastest Speed inflicts [Burst] damage, gain 1 [AttackUp] next turn (3 times per turn)"
+    },
+    {
+      "id": 1021203,
+      "name": "Tianjiu Star",
+      "desc": "When [BurstZilu] Stack drops to 0 and expires, gain [BurstVulnerableZilu]"
     }
   ]
 }
