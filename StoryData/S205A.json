@@ -2,174 +2,174 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Backstreets of District 10",
+      "place": "เเบ็คสตรีทเขต 10",
       "model": "히스클리프",
-      "content": "Dammit, they just won’t stop coming!"
+      "content": "โธ่เว้ย! เเม่งตามมาไม่หยุดเลย!"
     },
     {
       "id": 1,
       "model": "히스클리프",
-      "content": "We’ll all wear our lives out before we can even take a step inside the casino."
+      "content": "กว่าจะถึงคาสิโนพวกเราคงเหนื่อยตายกันพอดีเเน่!"
     },
     {
       "id": 2,
       "model": "홍루",
-      "content": "Don’t fret, Heathcliff. As long as the manager is with us, we won’t die from fatigue or other things—"
+      "content": "ไม่ต้องกลัวไปหรอกครับ ฮีธคลิฟฟ์ ตราบใดที่ผู้จัดการยังอยู่กับพวกเรา พวกเราจะไม่ตายจากอาการเหนื่อยล้าหรืออะไร—"
     },
     {
       "id": 3,
       "model": "히스클리프",
-      "content": "That’s NOT the point at ALL! #@$@#$!!!"
+      "content": "นั้นไม่เกี่ยวกันเฟ้ย! #@$@#$!!!"
     },
     {
       "id": 4,
       "model": "뫼르소",
-      "content": "The solution is simple: Any organization can be brought down by deposing its leader; with the head gone, the meat supporting it will break apart."
+      "content": "การเเก้ปัญหานั้นง่ายมากครับ ทุกๆองค์กรนั้นต่างมีผู้นำ ถ้าเราโค่นหัวหน้าลงได้ พวกลูกน้องที่ค่อยสนับสนุนก็จะเเตกพ่ายไป"
     },
     {
       "id": 5,
       "model": "히스클리프",
-      "content": "You. You’re the only one speaking my tongue here."
+      "content": "นายนี่พูดถูกใจกูมากเลยว่ะ"
     },
     {
       "id": 6,
       "model": "히스클리프",
-      "content": "I’m proper miffed, so let’s go break some bones, head, whatever."
+      "content": "ดีที่กูกำลังโกรธได้ที่เลย งั้นไปทุบกระดูกหรือหัวใครกัน"
     },
     {
       "id": 7,
       "model": "돈키호테",
-      "content": "Hence, onward we travail!"
+      "content": "งั้น เราเดินหน้าต่อกันเถิด!"
     },
     {
       "id": 8,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "Wait! Come back here!"
+      "content": "เดี๋ยว! กลับมานี่เลย!"
     },
     {
       "id": 9,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "…This is the crowd you’re supposed to accompany, Faust?"
+      "content": "…นี่คือกลุ่มคนที่เธอไปร่วมด้วยจริงดิ เฟาสท์?"
     },
     {
       "id": 10,
       "model": "파우스트",
-      "content": "Life is full of mysteries."
+      "content": "ชีวิตนั้นช่างเต็มไปด้วยปริศนาด้วยค่ะ"
     },
     {
       "id": 11,
       "model": "이상",
-      "content": "That, perhaps, is what makes it an ideal reflection, no?"
+      "content": "นั้น บางทีก็เป็นดังภาพสะท้อนในอุดมคติใช่ไหมล่ะ?"
     },
     {
       "id": 12,
       "model": "히스클리프",
-      "content": "Tell me where your gaffer is! I wanna see ‘im, now!"
+      "content": "บอกมาว่าหัวหน้ามึงอยู่ไหน! อยากเจอเต็มทีเเล้วโว้ย!"
     },
     {
       "id": 13,
-      "content": "Heathcliff grabbed a mook by the collar and shook it about violently. To me, it looked as if anything still conscious had left already."
+      "content": "ฮีธคลิฟฟ์คว้าคอเสื้อของกีกี้คนหนึ่งเเล้วเขย่าไปมาอย่างรุนเเรง สำหรับฉัน สติสตังของมันน่าจะไม่เหลือเเล้ว"
     },
     {
       "id": 14,
-      "content": "…And maybe even more than that."
+      "content": "…เเละคงจะมากกว่านั้นอีก"
     },
     {
       "id": 15,
       "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "The sea heart… is gonna be at the car pagoda…"
+     "teller": "Tingtanger ที่หายใจเหือกเเรง",
+      "title": "เเก๊ง Tingtang",
+      "content": "หัวใจของทะเล… อยู่ที่ยอดเจดีย์รถยนต์…"
     },
     {
       "id": 16,
       "model": "히스클리프",
-      "content": "The what? Where the hell is that?! Make sense!"
+      "content": "ห๊า? พูดเหี้ยไรของมึงว่ะ?! พูดให้รู้เรื่องดิ!"
     },
     {
       "id": 17,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "It’s probably the scrapyard nearby."
+      "content": "น่าจะหมายถึงเเถวซากรถใกล้ๆ สินะ"
     },
     {
       "id": 18,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "Really though, are you actually planning to take down the gang’s boss?"
+      "content": "พวกเเกจะไปโค่นหัวหน้าเเก๊งหรอ เอาจริงดิ?"
     },
     {
       "id": 19,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "That won’t be reflected in your employee performance review or anything, you know?"
+      "content": "นั้นไม่ได้ช่วยสะท้อนให้เห็นถึงประสิทธิภาพของพนักงานหรืออะไรเลย รู้เปล่า?"
     },
     {
       "id": 20,
       "model": "이스마엘",
-      "content": "He’s not sharp enough to calculate such things into his actions."
+      "content": "เขาเเค่ไม่ฉลาดพอที่จะคิดคำนึงถึงการกระทำของเขานะ"
     },
     {
       "id": 21,
       "model": "오티스",
-      "content": "He’s waste, bearing little relation to schemes or plots. On the other hand, he flirts closely with nonsense."
+      "content": "เป็นขยะชั้นดี ที่ไม่สนเเผนการหรืออะไรทั้งนั้น เเต่ในอีกเเง่ เรื่องไร้สาระนี้ของถนัดเขาเลย"
     },
     {
       "id": 22,
       "model": "소드",
-      "teller": "Saude",
+     "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "No… I do think that makes sense."
+      "content": "ไม่… ฉันคิดว่าเเบบนั้นก็น่าจะเวิร์คนะ."
     },
     {
       "id": 23,
       "model": "소드",
-      "teller": "Saude",
+     "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "Nothing to worry about, Effie. We always keep a Plan B, don’t we?"
+      "content": "ไม่ต้องเป็นห่วงไป เอฟฟี่ พวกเรามักจะมีเเผนสองเสมอใช่ไหมล่ะ?"
     },
     {
       "id": 24,
-      "content": "Saude spoke with a serene face."
+      "content": "ซอเดย์กล่าวออกมาด้วยหน้าที่สงบนิ่ง"
     },
     {
       "id": 25,
-      "content": "However, I could see her consciously trying to maintain calm from time to time, giving me reason to suspect that she’s putting on a veil of kindness."
+      "content": "อย่างไรก็ตาม ฉันก็เห็นเธอพยายามจะคงสติอยู่ตลอดเวลา ทำให้ฉันรู้เลยว่าเธอกำลังแสร้งทำเป็นใจดีอยู่"
     },
     {
       "id": 26,
       "model": "소드",
-      "teller": "Saude",
+     "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "If disguising as your given roles is out of the question…"
+      "content": "ถ้าการปลอมตัวไม่เวิร์คเเล้วล่ะก็…"
     },
     {
       "id": 27,
       "model": "소드",
-      "teller": "Saude",
+     "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "You can all get up as members of the Tingtang Gang instead."
+      "content": "งั้นก็ไปในนามของสมาชิกของเเก๊ง Tingtang ซะเลยสิ"
     },
     {
       "id": 28,
       "model": "소드",
-      "teller": "Saude",
+     "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "That way, you won’t arouse much suspicion moving in a large group, and you’ll be able to reach the top floor without much trouble."
+      "content": "เพราะนั้น จะทำให้พวกเราไม่ตกเป็นที่สงสัยเวลาอยู่เป็นกลุ่มเเละสามารถขึ้นไปชั้นบนสุดได้อย่างง่ายด้วย"
     },
     {
       "id": 29,
       "model": "소드",
-      "teller": "Saude",
+     "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "And we could siphon some wishpower from the Tingtang Gang while we’re at it."
+      "content": "เเละไหนๆ ก็ไปเเล้ว เราก็ไปเเย่งชิง ‘เเรงปรารถนา’ จากพวกนั้นด้วยเลยเเล้วก็กัน"
     }
   ]
 }
