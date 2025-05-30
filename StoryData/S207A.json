@@ -40,7 +40,7 @@
     {
       "id": 6,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
       "content": "Oh, and for reference, Effie and I work in a different department. Please don’t associate us with them."
     },
@@ -81,7 +81,7 @@
     {
       "id": 14,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "This looks… pretty dandy, actually? I guess their business was more successful than I thought."
     },
@@ -93,7 +93,7 @@
     {
       "id": 16,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "I-I can’t, it’s been tailor-made."
     },
@@ -109,7 +109,7 @@
     {
       "id": 19,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "Grr… W-We wouldn’t be doing any of this if you hadn’t caused that ruckus in the pawnshop."
     },
@@ -131,7 +131,7 @@
     {
       "id": 23,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
       "content": "Sorry, but can someone please keep her mouth shut?"
     },
@@ -155,14 +155,14 @@
     {
       "id": 28,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "…This is a wish canister we seized from the Tingtang Gang’s boss."
     },
     {
       "id": 29,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "Manager, here’s a simple role you can play."
     },
@@ -174,35 +174,35 @@
     {
       "id": 31,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
       "content": "I guess we owe you an explanation, judging from your clueless motions."
     },
     {
       "id": 32,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "The long and short of it is that this thing contains J Corp’s other Singularity. This is a tool that sucks up ‘wishes’ from people and stores them in some form of energy."
     },
     {
       "id": 33,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
       "content": "When the time is right, squeeze that wishpower onto a sheet of paper, and voilà! You get a one-use stick-on tattoo that boosts your luck to high heavens."
     },
     {
       "id": 34,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "Seems the plan was to try to win the game on the top floor by scraping up others’ luck… Imagine, the boss of some lowly gang was carrying one of these."
     },
     {
       "id": 35,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "Manager… Dante, right? I want you to hold on to this when we enter the casino."
     },
@@ -214,21 +214,21 @@
     {
       "id": 37,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "You don’t look like you’re oozing confidence. We do have reasons for assigning you to this task."
     },
     {
       "id": 38,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "First off, a poker face is going to be vital when you’re gambling."
     },
     {
       "id": 39,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "No matter how good they are at reading expressions, they won’t be able to tell what emotions to read from a clock."
     },
@@ -240,14 +240,14 @@
     {
       "id": 41,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "Second, I trust that they’ve appointed you as manager for a reason."
     },
     {
       "id": 42,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "Call it a hunch, but something tells me you’ll be more useful than those Sinners you’re leading."
     },
@@ -274,14 +274,14 @@
     {
       "id": 48,
       "model": "에피",
-      "teller": "Effie",
+      "teller": "เอฟฟี่",
       "title": "LCCB",
       "content": "Alright. Put this on your arm. You’ll become the luckiest person in the City for a short while."
     },
     {
       "id": 49,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
       "content": "Now then, you’ll act as Tingtangers, and we’ll be croupiers. Break a leg, everyone."
     },
