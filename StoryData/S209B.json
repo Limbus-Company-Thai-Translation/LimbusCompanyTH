@@ -2,104 +2,104 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 1F",
+     "place": "คาสิโน ชั้น 1",
       "model": "료슈",
-      "content": "I can’t stand watching this charade."
+      "content": "เริ่มเบื่อคณะตลกพวกนี้เเล้วว่ะ"
     },
     {
       "id": 1,
       "model": "료슈",
-      "content": "How much time are you going to waste fighting those small fries?"
+      "content": "จะเสียเวลาสู้กับไอ้พวกอ่อนปวกเปียกนั้นอีกนานไหม?"
     },
     {
       "id": 2,
       "model": "이스마엘",
-      "content": "It’s often the case that grumbling people don’t have a clear solution to contribute."
+      "content": "บ่อยครั้ง ที่ส่วนใหญ่คนที่บ่นนั้นจะหาวิธีการเเก้ปัญหาไม่ได้นะคะ"
     },
     {
       "id": 3,
-      "content": "Listening to Ishmael’s disapproval, Ryōshū shook her head and assumed a confident look."
+      "content": "เมื่อได้ฟังความไม่เห็นด้วยของอิชมาเอลนั้น เรียวชูจึงส่ายหัวเเล้วทำหน้ามั่นใจ"
     },
     {
       "id": 4,
       "model": "료슈",
-      "content": "…This is art."
+      "content": "…นี้คือศิลปะ"
     },
     {
       "id": 5,
       "model": "료슈",
-      "content": "Poetaster, gimme the knife."
+      "content": "เจ้ากลอนโป เอามีดนั้นมา"
     },
     {
       "id": 6,
       "model": "이상",
-      "content": "You may forever take it from my hands."
+      "content": "รับมันไปจากมือข้าเสีย.. "
     },
     {
       "id": 7,
       "model": "이상",
-      "content": "The blade will be better off parting ways to wander about the air for however long."
+      "content": "คมดาบนี้สมควรโบกโบยไปกลางเวหานานชั่วกัลป์ เสียดีกว่าอยู่ในฝักนี่"
     },
     {
       "id": 8,
       "model": "료슈",
-      "content": "Thank."
+      "content": "ขอบใจ"
     },
     {
       "id": 9,
-      "content": "Ryōshū held his dagger and threw it straight into the air."
+      "content": "เรียวชูถือมีดนั้นเเล้วเควี้ยงขึ้นไปบนฟ้า"
     },
     {
       "id": 10,
-      "content": "It struck an anchorage on the ceiling that kept the chandelier still, causing it to sway precariously."
+      "content": "ซึ่งมีดโดนตะคอบนเพดานที่ยึดโคมเเขวนไว้ ทำให้มันเเกว่งไปมาอย่างไม่มั่นคง"
     },
     {
       "id": 11,
-      "content": "Indeed… Ryōshū may be weakened from what she once was because she became a Sinner, but nevertheless…"
+      "content": "ก็จริงอยู่… ที่เรียวชูจะอ่อนเเอลงจากที่เธอเคยเป็นเพราะเธอกลายเป็น Sinner เเต่ถึงกระนั้น…"
     },
     {
       "id": 12,
-      "content": "She was still the best swordswoman we had, able to cut through steel like a proverbial hot knife."
+      "content": "เธอก็เป็นนักดาบหญิงที่เก่งที่สุดที่พวกเรามี สามารถตัดผ่านเหล็กได้อย่างง่ายดาย"
     },
     {
       "id": 13,
-      "content": "Sure, she treats my words with less respect than she would a wad of gum, but that wasn’t a problem."
+      "content": "เเน่นอน ว่าเธอปฎิบัติกับฉันด้วยความเคารพดังหมากฝรั่งที่เคี้ยวเเล้วก็เถอะ เเต่นั้นก็ไม่ใช่ปัญหาอะไร"
     },
     {
       "id": 14,
-      "content": "Everyone’s eyes turned to the swinging chandelier…"
+      "content": "ทุกสายตาจับจ้องไปที่โคมเเขวนที่เเกว่งไปมา…"
     },
     {
       "id": 15,
-      "content": "And eventually, flustered by all the gazes falling upon it…"
+      "content": "เเละในที่สุด ก็ตกตะลึงกับสิ่งที่เกิดขึ้น…"
     },
     {
       "id": 16,
       "model": "이상",
-      "content": "Thus, in a haze, it succumbs."
+      "content": "เเละ ในพริบตา จึงร่วงหล่น"
     },
     {
       "id": 17,
       "model": "각잡힌카지노경호원",
-      "teller": "Rigid Security",
-      "title": "J Corp. Casino",
-      "content": "Huh?"
+     "teller": "รปภ. ที่เข้มงวด",
+      "title": "คาสิโน J Corp",
+      "content": "ห๊ะ?"
     },
     {
       "id": 18,
       "model": "카지노경호원대장",
-      "teller": "Security Chief",
-      "title": "J Corp. Casino",
-      "content": "W-Watch out!"
+     "teller": "หัวหน้ารปภ.",
+      "title": "คาสิโน J Corp",
+      "content": "ร-ระวัง!"
     },
     {
       "id": 19,
-      "content": "WHAAAM!"
+      "content": "โครมมม!!"
     },
     {
       "id": 20,
-      "place": "Topsy-turvy Casino 1F",
-      "content": "The chandelier crashed to the floor in full force, making a tremendous noise."
+      "place": "คาสิโน ชั้น 1 ที่เละเทะ",
+      "content": "โคมเเขวนตกลงไปที่พื้นอย่างสุดเเรง ก่อให้เกิดเสียงดังกระหน่ำ"
     },
     {
       "id": 21,
@@ -107,40 +107,40 @@
     },
     {
       "id": 22,
-      "content": "And… that’s just all it did."
+      "content": "เเละนั้น… ก็คือสิ่งที่เกิดขึ้น"
     },
     {
       "id": 23,
-      "content": "Nothing else happened."
+      "content": "ไม่มีสิ่งใดเกิดขึ้นต่อมา"
     },
     {
       "id": 24,
-      "content": "Both parties were left staring at the fallen light fixture in the middle of the floor."
+      "content": "ทั้งสองฝั่งมองไปที่โคมเเขวนที่ตกลงมาอยู่กลางพื้น"
     },
     {
       "id": 25,
       "model": "단테",
-      "content": "<So, uh, what was that for? Ryōshū?>"
+      "content": "<เออ ทำเเบบไหนไปทำไมน่ะ? เรียวชู?>"
     },
     {
       "id": 26,
       "model": "료슈",
-      "content": "…A performance."
+      "content": "…การเเสดงยังไงล่ะ"
     },
     {
       "id": 27,
       "model": "그레고르",
-      "content": "You just made that up, didn’t you?"
+      "content": "เพิ่งคิดขึ้นมาสดๆ เลยใช่ไหมเนี่ย?"
     },
     {
       "id": 28,
       "model": "싱클레어",
-      "content": "Still, I’m glad none of us were hurt!"
+      "content": "อย่างน้อย ก็ไม่มีใครได้รับบาดเจ็บนะครับ!"
     },
     {
       "id": 29,
       "model": "이스마엘",
-      "content": "…We’ll have to see about that."
+      "content": "…เรื่องนั้นรอดูกันต่อไป"
     }
   ]
 }
