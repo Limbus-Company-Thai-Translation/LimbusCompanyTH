@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "ButlerAssoc",
-      "content": "Butlers"
+      "content": "พ่อบ้าน"
     },
     {
       "id": "CityDirection",
-      "content": "Districts"
+      "content": "เขตต่างๆ"
     },
     {
       "id": "Line4",
-      "content": "Refraction Railway Line 4"
+      "content": "สายรถไฟหักเหสายที่ 4"
     },
     {
       "id": "PDA",
-      "content": "PDA Device"
+      "content": "อุปกรณ์ PDA"
     }
   ]
 }

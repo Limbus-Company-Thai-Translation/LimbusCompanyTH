@@ -2,43 +2,43 @@
   "dataList": [
     {
       "id": "Association",
-      "content": "The Associations"
+      "content": "เหล่าสมาพันธ์"
     },
     {
       "id": "ShiAsso",
-      "content": "Shi Association"
+      "content": "สมาพันธ์ชิ"
     },
     {
       "id": "LiuAsso",
-      "content": "Liu Association"
+      "content": "สมาพันธ์ลิ่ว"
     },
     {
       "id": "Office",
-      "content": "Offices"
+      "content": "ออฟฟิศ"
     },
     {
       "id": "LobotomyCorp",
-      "content": "Lobotomy Corporation"
+      "content": "โลโบโตมี คอร์ปเปอเรชั่น"
     },
     {
       "id": "Enkephalin",
-      "content": "Enkephalin"
+      "content": "เอ็นเคฟาลีน"
     },
     {
       "id": "Abnormality",
       "content": "Abnormalities"
     },
     {
-      "id": "Cinq",
-      "content": "Cinq Association"
+      "id": "Shank",
+      "content": "สมาพันธ์แชงค์"
     },
     {
       "id": "String",
-      "content": "Thread"
+      "content": "เส้นด้าย"
     },
     {
       "id": "Singularity",
-      "content": "Singularities"
+      "content": "ซิงกุลาลิตี้"
     }
   ]
 }

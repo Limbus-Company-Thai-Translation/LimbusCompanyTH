@@ -2,87 +2,87 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
-      "content": "We went down a floor."
+      "place": "เขต 4 - ภายในศูนย์ L Corp",
+      "content": "เราลงไปยังชั้นถัดไป"
     },
     {
       "id": 1,
       "model": "유리",
-      "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "I didn’t think I’d come back here."
+      "teller": "ยูริ",
+      "title": "ฟิกเซอร์เกรด 8",
+      "content": "ไม่คิดเลยว่าฉันจะต้องกลับมาที่นี่อีก…"
     },
     {
       "id": 2,
       "model": "파우스트",
-      "content": "Most of Lobotomy Corporation’s facilities consist of multiple floors."
+      "content": "ศูนย์ปฏิบัติการของ Lobotomy Corporation ส่วนใหญ่นั้นมักจะมีหลายชั้นค่ะ"
     },
     {
       "id": 3,
       "model": "파우스트",
-      "content": "And each floor is expected to be occupied by an Abnormality marking its domain."
+      "content": "และแต่ละชั้น ก็มักจะมี <ruby=ความผิดปกติ>Abnormality</ruby> ประจำการครองพื้นที่ของมันอยู่ค่ะ"
     },
     {
       "id": 4,
       "model": "로쟈",
-      "content": "Seriously?! There’s more of ‘em?"
+      "content": "เอาจริงหรอ!? ยังมีพวกมันอีกงั้นเหรอ!?"
     },
     {
       "id": 5,
       "model": "그레고르",
-      "content": "So… Where’d you figure all that info about what we’ll face and stuff?"
+      "content": "แล้ว… เธอไปเอาข้อมูลมาจากไหนถึงรู้ว่าชั้นนี้เราจะเจอกับอะไรล่ะ?"
     },
     {
       "id": 6,
       "model": "파우스트",
-      "content": "Faust knows it all."
+      "content": "เฟาสท์รู้ทุกอย่างค่ะ"
     },
     {
       "id": 7,
       "model": "유리",
-      "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "The guide said a Before Team does reconnaissance in advance."
+      "teller": "ยูริ",
+      "title": "ฟิกเซอร์เกรด 8",
+      "content": "ไกด์เคยบอกว่าจะมีหน่วย 'Before Team' ที่จะทำหน้าที่ในการสำรวจสถานที่ล่วงหน้าไว้ให้พวกเราค่ะ"
     },
     {
       "id": 8,
       "model": "그레고르",
-      "content": "…So you only know that because you have ties to the staff."
+      "content": "…สรุปว่าเธอรู้เพราะมีเส้นสายกับพวกพนักงานสินะ"
     },
     {
       "id": 9,
       "model": "파우스트",
-      "content": "I never claimed otherwise."
+      "content": "เฟาสท์ไม่เคยบอกเป็นอย่างอื่นไปนี่คะ"
     },
     {
       "id": 10,
       "model": "오티스",
-      "content": "Anyway, this means we should expect a great threat on every floor."
+      "content": "เอาเป็นว่า ในแต่ละชั้นอาจจะมีภัยคุกคามร้ายแรงรอเราอยู่สินะคะ "
     },
     {
       "id": 11,
       "model": "오티스",
-      "content": "It’d be idiotic to advance into the unknown without making sure that we’re clear of danger in at least one direction, leaving us with no choice but to take them down as we go…"
+      "content": "การเดินหน้าโดยไม่แน่ใจว่าสิ่งที่รออยู่ข้างหน้าคืออะไร คงเป็นเรื่องโง่เขลาสิ้นดี แต่ว่าเราไม่มีทางเลือก… เราคงต้องทนสู้กับพวกมันไปทีละชั้นทีละชั้น"
     },
     {
       "id": 12,
       "model": "파우스트",
-      "content": "You took the words right out of Faust’s mouth."
+      "content": "คุณขโมยคำที่เฟาสท์กำลังจะพูดค่ะ"
     },
     {
       "id": 13,
       "model": "이상",
-      "content": "Is it not a splendid thing to be able to convey your intentions before they have been verbalized?"
+      "content": "การที่สามารถสื่อสารถึงความตั้งใจของผู้คนได้ก่อนจะเอ่ยปาก นับเป็นพรสวรรค์ที่ยอดเยี่ยมมิใช่หรือ?"
     },
     {
       "id": 14,
       "model": "파우스트",
-      "content": "…Dante, it’s time to see the star."
+      "content": "…เอาล่ะดันเต้ ถึงเวลามองหา 'ดวงดาว' แล้วค่ะ"
     },
     {
       "id": 15,
       "model": "단테",
-      "content": "<I’m your manager, not a scapegoat, you know…>"
+      "content": "<ฉันเป็นผู้จัดการนะ ไม่ใช่แพะรับบาปของพวกเธอ รู้ไหม…>"
     }
   ]
 }

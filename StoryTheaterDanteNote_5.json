@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "MemoryDelete",
-      "content": "Memory Wipe Procedure"
+      "content": "กระบวนการลบความทรงจำ"
     },
     {
       "id": "NestT",
@@ -14,19 +14,19 @@
     },
     {
       "id": "Library",
-      "content": "The Library"
+      "content": "หอสมุด"
     },
     {
       "id": "SevenAsso",
-      "content": "Seven Association"
+      "content": "สมาพันธ์เซเว่น"
     },
     {
       "id": "DebatyAsso",
-      "content": "Devyat' Association"
+      "content": "สมาพันธ์เดเวียท"
     },
     {
       "id": "Armory",
-      "content": "Workshops"
+      "content": "เวิร์คช็อป"
     },
     {
       "id": "Outside",
@@ -34,19 +34,19 @@
     },
     {
       "id": "GreatPond",
-      "content": "The Great Lake"
+      "content": "ทะเลสาบเกรตเลกส์"
     },
     {
       "id": "Creature",
-      "content": "Monsters"
+      "content": "มอนสเตอร์"
     },
     {
       "id": "Misc",
-      "content": "Uncategorized"
+      "content": "หัวข้ออื่นๆ"
     },
     {
       "id": "Walpurgis",
-      "content": "Walpurgis Night"
+      "content": "คืนวัลเพอกิส"
     }
   ]
 }

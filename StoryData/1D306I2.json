@@ -2,48 +2,48 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
-      "content": "The mass of maggots falls apart in a hail of silent screams."
+      "place": "เขต 4 - ภายในศูนย์ L Corp",
+      "content": "กลุ่มก้อนของหนอนแมลงสลายตัวลงในโถงที่ไร้เสียงกรีดร้อง"
     },
     {
       "id": 1,
-      "content": "Beyond that, I see a wave of radiant golden light."
+      "content": "เบื้องหน้านั่น ฉันเห็นประกายแสงสีทองเปล่งประกายอยู่"
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "<Is that… the Golden Bough?>"
+      "content": "<นั่นมัน… 'กิ่งทอง' ใช่ไหม?>"
     },
     {
       "id": 3,
-      "content": "Just as I begin to approach it, the apple begins to tremble."
+      "content": "ฉันเริ่มก้าวเข้าไปใกล้มัน แต่ทันใดนั้น… ไอเจ้าแอปเปิ้ลขนาดยักษ์ก็เริ่มสั่นไปมา"
     },
     {
       "id": 4,
       "model": "유리",
-      "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Excuse me… Are you the people from… Limbus Company?"
+      "teller": "ยูริ",
+      "title": "ฟิกเซอร์เกรด 8",
+      "content": "ขอโทษนะคะ… พวกคุณคือ คนจาก Limbus Company ใช่ไหมคะ?"
     },
     {
       "id": 5,
       "model": "단테",
-      "content": "<Yuri? You’re okay?>"
+      "content": "<ยูริ? เธอ… ปลอดภัยดีเหรอ?>"
     },
     {
       "id": 6,
-      "content": "Even though I had clearly seen it devour her, I couldn’t stop myself from asking."
+      "content": "ทั้งที่ฉันเพิ่งเห็นกับตาว่าเธอถูกกลืนเข้าไป แต่ฉันก็อดถามออกไปไม่ได้…"
     },
     {
       "id": 7,
       "model": "유리",
-      "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…When we go back to the bus, can I—Charon how to…?"
+      "teller": "ยูริ",
+      "title": "ฟิกเซอร์เกรด 8",
+      "content": "…พอเรากลับไปที่รถบัส ฉันขอสอน—คารอน…ให้…?"
     },
     {
       "id": 8,
-      "content": "Then I saw a glimpse of the pink locks of hair that Rodya took a liking to."
+      "content": "จากนั้น ฉันก็ได้เห็นเส้นผมสีชมพูที่โรเดียนเคยบอกว่าชอบนั้นกลับมาอีกครั้ง"
     }
   ]
 }

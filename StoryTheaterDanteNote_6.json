@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "AbnormalityLevel",
-      "content": "Risk Levels"
+      "content": "ระดับความอันตราย"
     },
     {
       "id": "LCA",
-      "content": "The LCA"
+      "content": "แผนก LCA"
     },
     {
       "id": "Distortion",
-      "content": "Distortions"
+      "content": "สิ่งบิดเบือน"
     },
     {
       "id": "Peccatula",
-      "content": "Peccatula"
+      "content": "กิ่งก้านบาป"
     },
     {
       "id": "NestS",
@@ -22,7 +22,7 @@
     },
     {
       "id": "LCD",
-      "content": "The LCD"
+      "content": "แผนก LCD"
     },
     {
       "id": "Monolith",
@@ -30,15 +30,15 @@
     },
     {
       "id": "PeccatulaLv2",
-      "content": "Stage 2 Peccatula"
+      "content": "กิ่งก้านบาประดับ 2"
     },
     {
       "id": "Line3",
-      "content": "Refraction Railway Line 3"
+      "content": "สายรถไฟหักเหสายที่ 3"
     },
     {
       "id": "BattlePower",
-      "content": "Combat Capability"
+      "content": "ความสามารถการต่อสู้"
     }
   ]
 }

@@ -2,100 +2,100 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
-      "content": "Another veteran appeared in the dark, carrying a depressed aura."
+      "place": "เขต 4 - ภายในศูนย์ L Corp",
+      "content": "เงาหนึ่งก้าวออกจากความมืด… ชายที่สภาพดูเหมือนแบกความเศร้าหม่นทั้งปวงเอาไว้"
     },
     {
       "id": 1,
-      "content": "His sparkling old badge seemed to signify a high rank once held."
+      "content": "ตราเก่าที่แวววาวบนหน้าอกของเขาดูเหมือนจะบ่งบอกว่า ครั้งหนึ่งเขานั้นคือบุคคลตำแหน่งระดับสูงมาก่อน"
     },
     {
       "id": 2,
       "model": "G사부장",
       "teller": "???",
       "title": "???",
-      "content": "…Manager Gregor?"
+      "content": "…หัวหน้าเกรกอร์?"
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "I think I remember that face of yours. But why?"
+      "content": "ฉันว่าฉันจำหน้านั่นได้นะ… แต่ว่าทำไมกัน?"
     },
     {
       "id": 4,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "…I was the head manager of your team."
+      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
+      "title": "เศษซาก G Corp.",
+      "content": "…ฉันเคยเป็นหัวหน้าทึมของนายมาก่อน"
     },
     {
       "id": 5,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Not only did you desert us, you now have the audacity to take the lives of your old comrades—my subordinates."
+      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
+      "title": "เศษซาก G Corp.",
+      "content": "นอกจากทรยศพวกเราเเล้ว… ตอนนี้นายยังมีหน้ามาพรากชีวิตเพื่อนร่วมรบของนาย—ลูกน้องของฉันอีกหรอ"
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "Look, the war ended a decade ago. But, I guess some folks still haven’t let go of their obsolete ranks, huh?"
+      "content": "ฟังนะ สงครามมันจบไปตั้งสิบปีแล้ว แต่ดูเหมือนบางคนจะยังยึดติดกับตำแหน่งเก่าๆสิท่า? "
     },
     {
       "id": 7,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Ended? Nothing has ended."
+      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
+      "title": "เศษซาก G Corp.",
+      "content": "จบหรอ? ไม่มีอะไรจบทั้งนั้นหรอก…"
     },
     {
       "id": 8,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Nothing… has ended… dammit…"
+      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
+      "title": "เศษซาก G Corp.",
+      "content": "ไม่มี…อะไรจบ…ทั้งนั้นแหละแม่งเอ้ย…"
     },
     {
       "id": 9,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "The war may have been over for you when you deserted G Corp…"
+      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
+      "title": "เศษซาก G Corp.",
+      "content": "สำหรับนาย สงครามอาจจะจบลงในวันที่นายหนีออกจาก G Corp…"
     },
     {
       "id": 10,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "But we’re fighting for our lives on the battlefield to this day."
+      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
+      "title": "เศษซาก G Corp.",
+      "content": "แต่สำหรับพวกเรา… พวกเรายังคงต้องต่อสู้เพื่อเอาชีวิตรอดมาจนถึงวันนี้"
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "As much as I didn’t want to relate to you this way…"
+      "content": "…ไม่อยากเชื่อเลยว่าฉันดันเข้าใจความรู้สึกของแกในตอนนี้"
     },
     {
       "id": 12,
       "model": "그레고르",
-      "content": "I’m not really that different here."
+      "content": "แต่เอาเข้าจริง… ฉันเองก็ไม่ได้ต่างจากแกเท่าไหร่หรอก"
     },
     {
       "id": 13,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Then you ought to understand, Gregor."
+      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
+      "title": "เศษซาก G Corp.",
+      "content": "งั้นนายก็น่าจะเข้าใจดีนี่ เกรกอร์"
     },
     {
       "id": 14,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "There is only one verdict that awaits deserters."
+      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
+      "title": "เศษซาก G Corp.",
+      "content": "มีสิ่งเดียวเท่านั้นที่อยู่ตรงปลายทางของพวกทหารหนีทัพ"
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "You say that like it means something… But it’s against company policy to carry out summary execution for personal revenge, my Head Manager."
+      "content": "ทำเป็นพูด เหมือนมันมีความหมายอะไร… รู้ไหมว่ามันขัดต่อนโยบายบริษัท\nที่จะทำการประหารชีวิตเพียงเพื่อแก้แค้นส่วนตัวนะ คุณหัวหน้าผู้จัดการ"
     }
   ]
 }

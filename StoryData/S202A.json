@@ -2,330 +2,330 @@
   "dataList": [
     {
       "d": 0,
-      "place": "A Pawnshop",
+      "place": "โรงรับจำนำ",
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Ain’t ya too many visitors at once? The shop’s cramped as is…"
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ลูกค้าจะเยอะไปไหนเนี่ย? ร้านก็เเคบจะตายอยู่เเล้ว…"
     },
     {
       "d": 1,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Y’all prefer your luck of the draw from trumps or mahjong?"
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "มากันเยอะขนาดนี้ อยากเล่นไพ่เสี่ยงดวงหรือไพ่นกกระจอกหรือไง?"
     },
     {
       "d": 2,
-      "content": "As we entered the shop, we were met with the gruff greeting of an old pawnbroker."
+      "content": "ในตอนที่พวกเราเข้ามาในร้าน พวกเราก็ได้รับการทักทายที่หยาบคายจากพ่อค้ารับจำนำชรารายหนึ่ง"
     },
     {
       "d": 3,
       "model": "히스클리프",
-      "content": "What’s that blighter on about?"
+      "content": "ไอ้เเก่นี่พูดอะไรของมันว่ะ?"
     },
     {
       "d": 4,
       "model": "이스마엘",
-      "content": "…Am I the only one here who read up on Nest J? Vergilius gave us a pamphlet to peruse before we left."
+      "content": "…นี่ฉันเป็นคนเดียวที่อ่านเรื่อง Nest J มาก่อนเนี่ย? เวอร์จิลิอุสก็ให้เเผ่นพับมาอ่านก่อนพวกเราจะลงจากรถนะ."
     },
     {
       "d": 5,
       "model": "그레고르",
-      "content": "Well, I think I remember glancing at the cover…"
+      "content": "ก็ ฉันได้เเค่มองหน้าปกผ่านๆเอง…"
     },
     {
       "d": 6,
       "model": "이스마엘",
-      "content": "Here, you’ll get loaned different amounts depending on your fortune for the day."
+      "content": "ที่นี้น่ะ เราจะได้รับเงินกู้เเตกต่างกันออกไปตามดวงของเราในเเต่ละวัน"
     },
     {
       "d": 7,
       "model": "이스마엘",
-      "content": "If you draw a great boon, you get extra cash, while misfortune means far less than what the pawn is worth."
+      "content": "ถ้าวันนี้ดวงดี ก็จะได้เงินเพิ่มไป เเต่ถ้าดวงไม่ดีก็จะได้มูลค่าที่ต่ำกว่าที่มันควรจะเป็น"
     },
     {
       "d": 8,
       "model": "홍루",
-      "content": "Ah~ That reminds me, our family had hired dedicated fortunetellers."
+      "content": "อ่า~ ผมนึกถึง ตอนที่ครอบครัวพวกเราจ้างหมอดูมาเพื่อเรื่องนี้โดยเฉพาะเลยล่ะ"
     },
     {
       "d": 9,
       "model": "홍루",
-      "content": "They drew a greater boon for me in the divination they performed before I left. That must’ve been a sign that I would join all of you wonderful people on our journey."
+      "content": "พวกเขาทำนายดวงให้ผมก่อนที่ผมจะออกเดินทาง เเละผลออกมาว่าดวงดี ซึ่งน่าจะเป็นสาเหตุที่ผมได้ร่วมเดินทางกับทุกท่านผู้เเสนอศัจรรย์ใจนี้"
     },
     {
       "d": 10,
       "model": "이스마엘",
-      "content": "Wow, really, so indulging in lofty leisure on your grand estate was your fated life. Maybe I should pray that I’m born that rich if there’s a next time."
+      "content": "ว้าว จริงๆเลย การได้ใช้ชีวิตอย่างสุขสบายในคฤหาสน์หลังใหญ่ขนาดนั้นคงจะถูกลิขิตมาเเล้วสิท่า บางทีครั้งหน้าฉันควรภาวนาให้ชาติหน้าเกิดมารวยบ้างจัง"
     },
     {
       "d": 11,
       "model": "히스클리프",
-      "content": "I’m good. It’s well-off folks like him that tend to play dirty."
+      "content": "ไม่เอาหรอก ไอพวกคนเเต่งตัวดีชอบล่นสกปรกกันทั้งนั้น"
     },
     {
       "d": 12,
       "model": "홍루",
-      "content": "You might be right. I didn’t like to get along with my younger sibling in childhood. Always trying to cheat and grouch if things didn’t go as desired."
+      "content": "ก็พูดถูกนะ ผมก็ไม่ค่อยถูกกับน้องในตอนเด็กซักเท่าไหร่ เพราะเอาเเต่หาวิธีโกงหรือบ่นไปเรื่อยถ้าไม่ได้สิ่งที่ต้องการน่ะ"
     },
     {
       "d": 13,
       "model": "히스클리프",
-      "content": "No, that’s NOT what I was getting at!"
+      "content": "กูไม่ได้หมายความว่ายังงั้นซักหน่อย!"
     },
     {
       "d": 14,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "So you wanna get your fortune or not?"
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "เเล้วพวกเเกอยากได้เงินทองหรือเปล่าห๊ะ?"
     },
     {
       "d": 15,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Forget about that… Do you people even have anything to pawn? I’m not seeing any wealth on ya…"
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ลืมไปเถอะ… ฉันไม่เห็นของมีค่าอะไรเลย… อย่างพวกเเกมีอะไรมาให้จำนำไหมเนี่ย?"
     },
     {
       "d": 16,
-      "content": "The pawnbroker glanced over each Sinner with a dubious look until his eyes landed on me."
+      "content": "พ่อค้าจ้องมองไปที่ Sinner เเต่ละคนด้วยความสงสัย จนสายตาเขามาหยุดที่ฉัน"
     },
     {
       "d": 17,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Oho… That clockhead might be worth a good sum."
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "โห… ไอหัวนาฬิกานั้นราคาดีน่าดู"
     },
     {
       "d": 18,
       "model": "로쟈",
-      "content": "How much do you think they sell for, old pal?"
+      "content": "คิดว่าไอหัวนั่นราคาเท่าไหร่ล่ะ ตาลุง?"
     },
     {
       "d": 19,
       "model": "단테",
-      "content": "<Rodya… I’m not for sale…>"
+      "content": "<ร๊อดย่า… หัวฉันไม่ได้เป็นของขายนะ…>"
     },
     {
       "d": 20,
       "model": "파우스트",
-      "content": "As you were likely contacted in advance, we are from Limbus Company, and…"
+      "content": "ตามที่พวกเราได้ติดต่อไว้ล่วงหน้าเเล้ว พวกเรามาจาก Limbus Company เเละ…"
     },
     {
       "d": 21,
-      "content": "Unfortunately, neither the Sinners nor the pawnbroker were paying any attention to Faust’s words."
+      "content": "น่าเสียดาย เหล่า Sinner กับ พ่อค้ารับจำนำไม่สนใจคำพูดของ Faust เเม้เเต่นิด"
     },
     {
       "d": 22,
       "model": "홍루",
-      "content": "Oh, I did bring this handkerchief with me when I left home…"
+      "content": "อ่ะ ผมเอาผ้าเช็ดหน้านี้ติดตัวมาด้วยตอนผมออกจากบ้าน…"
     },
     {
       "d": 23,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Oho… A dragon embroidered on silk. That’s some meticulous needlework, which might net… let’s see, seven million… Ahn?"
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "โอ้โห … มีลายมังกรสลักอยู่บนเนื้อผ้าด้วย น่าจะเป็นงานที่ประณีตน่าดู ราคาน่าจะประมาณ…7 ล้าน Ahn…?"
     },
     {
       "d": 24,
       "model": "히스클리프",
-      "content": "A crummy piece of cloth is worth that much?! Have your eyes rotted out, old geezer?!"
+      "content": "ไอผ้าเเค่นี้ราคาขนาดนั้นเชียวหรอ?! ตาเเกบอดหรือไง ไอ้เเก่?!"
     },
     {
       "d": 25,
       "model": "전당포주인",
-      "teller": "Pawnbroker",
-      "title": "J Corp. Pawnshop",
-      "content": "Wha? You don’t recognize the value of this quality—­­ Beh, now I see. You’re wearing a shabby ring like it’s true treasure… Tsk-tsk."
+      "teller": "นายหน้ารับจำนำ",
+      "title": "โรงรับจำนำ J Corp",
+      "content": "ห๊า? เเกไม่เห็นค่าของอะไรเเบบนี้หรือไง—­­ อ่า เข้าใจเเหละ เเกใส่เเหวนเก่าๆนั้นอย่างกะสมบัติล้ำค่าเลยนะ… แหมๆๆ"
     },
     {
       "d": 26,
       "model": "히스클리프",
-      "content": "…What did you just say."
+      "content": "…มึงพูดว่าอะไรนะ? เห้ย อย่ามาขวางสิว่ะ! เห้ย!!"
     },
     {
       "d": 27,
       "model": "로쟈",
-      "content": "Geez, cut it out! Dante~ Please shut them up~"
+      "content": "โธ่ พอได้เเล้วน่า! ดันเต้~ หุบปากเขาทีสิ~"
     },
     {
       "d": 28,
       "model": "???",
-      "content": "You had us worried, Faust."
+      "content": "เป็นห่วงเเทบเเย่เลยนะ เฟาสท์"
     },
     {
       "d": 29,
-      "content": "Amidst the chaos, a most gentle voice softly landed on my ears."
+      "content": "ท่ามกลางความวุ่นวาย มีเสียงที่นุ่มนวลเปร่งเข้ามาที่หูของฉัน"
     },
     {
       "d": 30,
       "model": "소드",
       "teller": "???",
       "title": "???",
-      "content": "We were meant to meet each other at 4, but fifteen minutes had passed already. Surely you couldn’t have forgotten how to read a clock, right?"
+      "content": "พวกเรานัดเจอกันตอน 4 โมง เเต่ผ่านไป 15 นาทีเเล้วนะ เธอลืมวิธีดูเวลาไปเเล้วใช่ไหมเนี่ย?"
     },
     {
       "d": 31,
       "model": "파우스트",
-      "content": "Certainly not. There was little I could do to alter the driver of the bus."
+      "content": "เปล่าค่ะ ฉันไม่สามารถเร่งให้คนขับรถบัสขับเร็วขึ้นได้ค่ะ"
     },
     {
       "d": 32,
       "model": "에피",
       "teller": "???",
       "title": "???",
-      "content": "Aha, so you’re taking a clock-person with you to help with the time? I suppose they didn’t come with an alarm."
+      "content": "อ่าฮ่า งั้นเธอก็นำไอนาฬิกานั้นมาช่วยดูเวลาหรอ? ผมคิดว่าหัวนั้นไม่น่าจะมีนาฬิกาปลุกสิท่า"
     },
     {
       "d": 33,
-      "content": "The gentle voice was soon followed by one that didn’t even attempt to hide their disdain."
+      "content": "จากเสียงอันนุ่มนวลนั้น ตามมาด้วยเสียงที่ไม่เเม้เเต่จะซ่อนการดูถูกเลย"
     },
     {
       "d": 34,
       "model": "단테",
-      "content": "<Come on, that’s a little harsh. Let’s try to leave better first impressions…>"
+      "content": "<เอาน่า พูดเเรงไปหน่อยน่ะ พยายามสร้างความประทับใจเเรกให้มันดีๆ ดีกว่าน่า…>"
     },
     {
       "d": 35,
-      "content": "I know my voice won’t be heard by anyone other than the Sinners, but I still can’t help but get upset at rude remarks."
+      "content": "ฉันรู้ว่าเสียงของฉันมีเเค่เหล่า Sinner ที่ได้ยิน เเต่ก็อดโกรธไม่ได้ที่จะด่ามาเเรงขนาดนี้"
     },
     {
       "d": 36,
       "model": "에피",
       "teller": "???",
       "title": "???",
-      "content": "Oh, so it was you? You guys are the team that botched the Golden Bough retrieval last time?"
+      "content": "อ๋อ พวกเเกเองสินะ? ทีมที่ล้มเหลวในภารกิจการกู้กิ่งทองในครั้งที่เเล้วน่ะ"
     },
     {
       "d": 37,
       "model": "에피",
       "teller": "???",
       "title": "???",
-      "content": "Folks had high expectations for your team, what with some of the smartest people in the City being on it."
+      "content": "พวกเขาตั้งความหวังกับทีมไว้สูงเลยนะ เพราะในทีมมีหัวกะทิที่ฉลาดที่สุดใน <ruby=มหานคร>The City</ruby> อยู่ด้วย"
     },
     {
       "d": 38,
       "model": "소드",
       "teller": "???",
       "title": "???",
-      "content": "No wonder… Ms. Faust wasn’t looking very pleased."
+      "content": "ไม่เเปลก… ที่คุณเฟาสท์จะดูไม่ค่อยพึงพอใจค่ะ"
     },
     {
       "d": 39,
       "model": "파우스트",
-      "content": "My face has remained constant."
+      "content": "หน้าตาของดิฉันก็ยังคงเป็นตามเดิมค่ะ"
     },
     {
       "d": 40,
       "model": "히스클리프",
-      "content": "Ey, what’re you standing around for? Go on now. This fellow here is also the brainy sort. Don’t brush him off."
+      "content": " เห้ย ยืนมองทำห่าอะไรเล่า? อย่าไปยอมดิ เล่นเเม่งเลย ไอพวกนี้ดูอวดดีชะมัด"
     },
     {
       "d": 41,
-      "content": "Heathcliff gave Yi Sang a sideways glance, but what he got in response was lukewarm."
+      "content": "ฮีธคลิฟฟ์เหลือบมองอีซังอย่างเอียงอาย เเต่คำตอบที่ได้กลับมาช่างดูเฉยเมยนัก"
     },
     {
       "d": 42,
       "model": "이상",
-      "content": "I shall not, as that would be a hollow vaunt."
+      "content": "ผมจะไม่ทำเช่นนั้น เพราะนั่นไม่ต่างกับการโอ้อวดไปเปล่าๆ"
     },
     {
       "d": 43,
       "model": "히스클리프",
-      "content": "But you were a lot more talkative down in that basement? Who are you and what did you do with Yi Sang?"
+      "content": "เเต่ตอนอยู่ข้างล่างนั้นเเกก็พูดเยอะใช่ย่อยนี่? เเกเป็นใคร ทำอะไรกับอีซังเนี่ย?"
     },
     {
       "d": 44,
       "model": "이상",
-      "content": "I am and have always been whom I match in the mirror."
+      "content": "ผมก็เป็นตัวตนเดียวกันกับในกระจกนั้น มิได้เเปรเปลี่ยน"
     },
     {
       "d": 45,
       "model": "히스클리프",
-      "content": "You― Haah, forget it."
+      "content": "เเก― เฮ้อ.. ลืมๆไปเถอะ"
     },
     {
       "d": 46,
       "model": "파우스트",
-      "content": "Our first mission was devised with failure in mind."
+      "content": "ภารกิจแรกของพวกเราถูกวางแผนไว้ให้ล้มเหลวตั้งแต่ต้นค่ะ"
     },
     {
       "d": 47,
       "model": "파우스트",
-      "content": "We needed an opportunity to see what potential our Sinners held."
+      "content": "พวกเราต้องการโอกาสที่จะได้เเสดงว่าเหล่า Sinner มีศักยภาพเเค่ไหนค่ะ"
     },
     {
       "d": 48,
       "model": "그레고르",
-      "content": "…Wait, it was?"
+      "content": "…เดี๋ยวนะ มีด้วยหรอ?"
     },
     {
       "d": 49,
       "model": "오티스",
-      "content": "A plan whose purpose is to fail? That could hardly qualify as a proposal."
+      "content": "เเผนที่มีปลายทางคือความล้มเหลว? นั่นแทบจะไม่นับเป็นเเผนด้วยซ้ำ"
     },
     {
       "d": 50,
       "model": "소드",
       "teller": "???",
       "title": "???",
-      "content": "By the way, where is Vergilius? I agreed to assist with the operation mainly for a chance to get to see him."
+      "content": "จะว่าไป เวอร์จิลิอุสอยู่ที่ไหนหรอคะ? ฉันยินดีร่วมปฎิบัติการนี้เพียงเพราะต้องการจะได้เจอเขาตัวเป็นๆเลยนะ"
     },
     {
       "d": 51,
       "model": "에피",
       "teller": "???",
       "title": "???",
-      "content": "He must’ve been embarrassed. Imagine accompanying people like these."
+      "content": "เขาคงจะอับอายน่าดู ที่จะต้องเดินทางมากับพวกคนเเบบนี้"
     },
     {
       "d": 52,
       "model": "히스클리프",
-      "content": "Tch… Is that why he dropped us so far away from the place? Because he was ashamed of us?!"
+      "content": "ชิ… ที่เเม่งมาส่งเราไกลขนาดนี้? เพราะเเม่งรู้สึกอับอายพวกเราหรอว่ะ?!"
     },
     {
       "d": 53,
       "model": "이스마엘",
-      "content": "…Doesn’t anyone have a thing to say about us being belittled?"
+      "content": "…นี่จะไม่มีใครพูดถึงเรื่องที่เรากำลังถูกดูถูกหรือไงเนี่ย?"
     },
     {
       "d": 54,
       "model": "이스마엘",
-      "content": "And won’t all the boasting and bluffing not do much if we don’t introduce ourselves first?"
+      "content": "เเละพูดโอ้อวดหลอกหลวงเเบบนั้นไม่มีค่าหรอกถ้าพวกเราไม่เเนะนำตัวก่อน"
     },
     {
       "d": 55,
       "model": "파우스트",
-      "content": "These two will be our cooperators for this mission. They’re from the Limbus Company Clearance department, also known as the LCC."
+      "content": "ทั้งสองคนนี้เป็นผู้ร่วมประสานงานกับพวกเราในภารกิจนี้ค่ะ พวกเขามาจาก <ruby=เเผนกเก็บกวาดของ Limbus Company>Limbus Company Clearance Department</ruby> หรือรู้จักกันในนาม LCC ค่ะ"
     },
     {
       "d": 56,
       "model": "소드",
-      "teller": "Saude",
+      "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "The Before Team of Clearance, please. Ah, I’m Saude, and this here is Effie."
+      "content": "เป็นหน่วยเก็บกวาด Before Team ค่ะ ฉันชื่อ ซอเดย์ ส่วนนี้ เอฟฟี่ ค่ะ"
     },
     {
       "d": 57,
       "model": "히스클리프",
-      "content": "What, are we supposed to clap or…"
+      "content": "ห๊า? จะต้องตบมือต้อนรับหรือ…"
     },
     {
       "d": 58,
       "model": "홍루",
-      "content": "Wonderful! It’s a pleasure!"
+      "content": "ว้าว! เป็นเกียรติมากเลยครับ!"
     },
     {
       "d": 59,
-      "content": "Hong Lu was the only person on the team welcoming them with total sincerity. (He almost even gave a standing ovation.)"
+      "content": "ฮงลู่เป็นเพียงคนเดียวในทีมที่ต้อนรับพวกเขาอย่างความจริงใจ (เกือบจะยืนตบมือเเล้วด้วยซ้ำ)"
     },
     {
       "d": 60,
-      "content": "A good half of the rest stared at the two with cold eyes, and the others wary, until introductions were finished."
+      "content": "ครึ่งหนึ่งจ้องมองทั้งสองคนด้วยสายตาอันเย็นชา ส่วนคนอื่นๆ ก็ด้วยความระมัดระวัง จนกระทั่งแนะนำตัวเสร็จสิ้น"
     }
   ]
 }
