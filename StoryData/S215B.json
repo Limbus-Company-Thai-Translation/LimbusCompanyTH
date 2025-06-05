@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 3F",
+      "place": "คาสิโนชั้น 3",
       "model": "몸푸는철공회조직원",
-      "teller": "Flexing Crewman",
-      "title": "Tieqiu Crew",
-      "content": "You’d better keep your noggin safe and sound, ‘cause for kick the can we might need somethin’ around."
+     "teller": "ลูกน้องที่ยืดหยุ่น",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "เก็บสมองของพวกมึงไว้ดีๆนะ เวลามีเรื่องเเย่ๆจะได้มาลงที่หัวพวกมึงได้"
     },
     {
       "id": 1,
       "model": "에피",
       "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "I almost forgot… These are the ones known for their coarse language…"
+      "content": "เกือบลืมไป… เเก๊งนี้ค่อนข้างมีชื่อเสียงในเรื่องคำพูดคำจาที่หยาบคาย…"
     },
     {
       "id": 2,
       "model": "에피",
       "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "Rumor has it they took down dozens of rival Syndicate members with just the psychological damage inflicted via their tongues…"
+      "content": "มีข่าวลือว่าเเก๊งนี้สามารถจัดการสมาชิกซินดิเคทที่เป็นคู่อริได้เพียงการบั่นทอนจิตใจด้วยคำพูดเท่านั้น…"
     },
     {
       "id": 3,
       "model": "히스클리프",
-      "content": "Oi! You watch your mouths while I’m—"
+      "content": "เฮ้ย! ระวังฝีปากพวกมึงไว้ตอนที่กู—"
     },
     {
       "id": 4,
       "model": "몸푸는철공회조직원",
-      "teller": "Flexing Crewman",
-      "title": "Tieqiu Crew",
-      "content": "Who’re you gazing nitwits? Keep us out of sight, won’tcha? Them big bulgin’ doggy eyeballs are unnerving…"
+     "teller": "ลูกน้องที่ยืดหยุ่น",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "มองหน้าหาเรื่องหรอพวกโง่? ไปให้พ้นขี้หน้ากูจะได้ไหม? ตาก้อนบะเริ่มเท่าลูกหมาของมึงมันน่ากลัวเว้ย…"
     },
     {
       "id": 5,
       "model": "위협적인철공회조직원",
-      "teller": "Threatening Crewman",
-      "title": "Tieqiu Crew",
-      "content": "Easy, bud. I took a shoutin’ crack at one o’ them’s eggs earlier, and my voice echoed like the whole noggin was cave-empty."
+     "teller": "ลูกน้องที่ดุดัน",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "ใจเย็นดิพวก กูพึ่งตะโกนใส่ไอ้พวกอ่อนมา เสียงกูเเม่งก้องอย่างกะป่าช้าอ่ะ"
     },
     {
       "id": 6,
       "model": "몸푸는철공회조직원",
-      "teller": "Flexing Crewman",
-      "title": "Tieqiu Crew",
-      "content": "Well brush me sideways, they don’t even got a string o’ egg noodle for brains? What’s the round thing on their shoulders, then? A bag o’ gas?"
+     "teller": "ลูกน้องที่ยืดหยุ่น",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "หึมก็นะ พวกเเม่งไม่มีเซลล์สมองในสมองอ่อนๆนั้นด้วยป่ะ? ไอของกลมๆที่อยู่บนไหล่พวกมันคือไรว่ะ? ถุงเเก๊สหรอ?"
     },
     {
       "id": 7,
@@ -56,27 +56,27 @@
     {
       "id": 8,
       "model": "그레고르",
-      "content": "Hm, think they all take lessons in assholery from the same class?"
+      "content": "หึม เเม่งเรียนวิชาความโง่มาในคลาสเดียวกันหรือเปล่าเนี่ย?"
     },
     {
       "id": 9,
       "model": "로쟈",
-      "content": "…Pft."
+      "content": "…หึ"
     },
     {
       "id": 10,
       "model": "로쟈",
-      "content": "I—I mean, it was kinda funny. N-not sure what you’re looking at me for~"
+      "content": "โ—โทษที ก็มันตลกอ่ะ ม-มองหน้าฉันทำไมอ่า~"
     },
     {
       "id": 11,
       "model": "히스클리프",
-      "content": "…Dead."
+      "content": "…ตาย."
     },
     {
       "id": 12,
       "model": "히스클리프",
-      "content": "…You’re all bloody dead!!"
+      "content": "…พวกมึงทุกตัวตายเเน่!!"
     }
   ]
 }
