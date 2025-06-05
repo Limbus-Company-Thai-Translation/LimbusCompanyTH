@@ -2,53 +2,53 @@
   "dataList": [
     {
       "id": 0,
-      "place": "หน้าทางเข้าคาสิโน",
+      "place": "Casino Entrance",
       "model": "돈키호테",
-      "content": "โอ้…? มานี้เล้วช่วยดูหน่อย สหายข้า!"
+      "content": "Ohh…? Come hither, fellows, and lend me your gazes!"
     },
     {
       "id": 1,
       "model": "싱클레어",
-      "content": "…พวกนี้มันอะไรกัน?"
+      "content": "…What is all this?"
     },
     {
       "id": 2,
       "model": "이상",
-      "content": "รถยนต์ซ้อนทับกันเป็นกองดังหอคอย"
+      "content": "Cars are heaped upon each other as if to form a tower."
     },
     {
       "id": 3,
       "model": "뫼르소",
-      "content": "มืดมน"
+      "content": "Sombre."
     },
     {
       "id": 4,
-      "content": "อาคารก่อสร้างที่ดูเหมือนหอคอยในระยะไกลนั้น เเท้จริงคือรถยนต์ที่ซ้อนทับกัน"
+      "content": "The structures that seemed towerlike at a distance were actually cars stacked upon each other."
     },
     {
       "id": 5,
       "model": "싱클레어",
-      "content": "ทำไมรถถึงกองเยอะขนาดนี้ล่ะครับ…?"
+      "content": "Why are so many piled up like this…?"
     },
     {
       "id": 6,
       "model": "돈키호테",
-      "content": "โอโห้! บางอันมีอัขระสลักอยู่บนกระจกหน้าด้วย! ดูท่าว่าคงเป็นลายมือจากครอบครัวของพวกเขาเป็นแน่แท้"
+      "content": "Oho, some have scripts upon their wind-shields! It must have been their families’ writing!"
     },
     {
       "id": 7,
       "model": "싱클레어",
-      "content": "อันนี้เขียนว่า… “คิดถึงคุณ.” เจ้าของรถพวกนี้… จะกลับมาหาพวกเขาเร็วๆนี้ใช่ไหมครับ…?"
+      "content": "This one says… “I miss you.” The owners… are coming back soon for them, right…?"
     },
     {
       "id": 8,
       "model": "로쟈",
-      "content": "ไม่มีทางหรอก"
+      "content": "Not a chance."
     },
     {
       "id": 9,
       "model": "로쟈",
-      "content": "ถึงเเม้พวกเขาจะออกมาจากคาสิโนได้ก็จริง เเต่คงไม่สติดีที่จะกลับมาหาครอบครัวพวกเขาได้อย่างเเฮปปี้หรอก~"
+      "content": "Even if they did return from the casino, they wouldn’t be in the right state to happily reunite with their loving families~"
     },
     {
       "id": 10,
@@ -58,97 +58,97 @@
     {
       "id": 11,
       "model": "소드",
-      "teller": "ซอเดย์",
+      "teller": "Saude",
       "title": "LCCB",
-      "content": "อืม… ถ้าต้องเป็นไกด์ทัวร์ให้ล่ะก็ พื้นที่ตรงนี้คือแลนด์มาร์คที่ซ่อนอยู่ในเขตนี้ค่ะ"
+      "content": "Well… To play the auxiliary role of your tour guide, this here is the hidden landmark of the street."
     },
     {
       "id": 12,
       "model": "에피",
-      "teller": "เอฟฟี่",
+      "teller": "Effie",
       "title": "LCCB",
-      "content": "จุดจบอันขมขื่นของเหล่านักพนัน"
+      "content": "The bitter end of gamblers."
     },
-   {
+    {
       "id": 13,
       "model": "소드",
-      "teller": "ซอเดย์",
+      "teller": "Saude",
       "title": "LCCB",
-      "content": "เเละนี้ก็ถือเป็นก้าวสำคัญสำหรับเเก๊ง Tingtang ในการสะสมอำนาจเเละความมั่งคั่งด้วยการซื้อขายรถมือสอง"
+      "content": "And this served as a stepping stone for the Tingtang Gang to amass wealth and power by dealing used cars."
     },
     {
       "id": 14,
       "model": "그레고르",
-      "content": "นี่ร๊อดย่า เธอไปที่เเบบนี้มาบ่อยใช่ไหมล่ะ? มีอะไรจะเพิ่มเติมไหม? พนันเลยว่าเธอจะบอกเกร็ดเล็กเกร็ดน้อยที่น่าสนใจได้น่ะ"
+      "content": "So Rodya, you’ve been to places like this pretty often, right? Got anything to add? Bet you could tell us some pretty interesting trivia."
     },
     {
       "id": 15,
       "model": "로쟈",
-      "content": "ห๊า~ ม่ายอ่ะ ไม่รู้ จำไรไม่ได้เลย ฉันทิ้งอดีตเเล้วโฟกัสอยู่กับสิ่งตรงหน้าเเล้วน่ะ"
+      "content": "Gah~ Dunno, dunno. Don’t ‘member a thing. I decided to forget all about the past and focus on what’s in front."
     },
     {
       "id": 16,
       "model": "로쟈",
-      "content": "…เเละคงจะรักษาสัญญานั้นได้ ถ้าไม่มีไอพวกหน้ารำคาญอย่างพวกนั้นน่ะ หึ"
+      "content": "…And I would be able to keep to that self-promise if not for irritants like them. Heh."
     },
     {
       "id": 17,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Tingtanger ผู้เกลียดถั่ว",
-      "title": "เเก๊ง Tingtang",
-      "content": "เห้ย ไอ้หนู! กล้าดีอย่างไรมาเดินเล่นเเถวก๊วนเราว่ะ?"
+      "teller": "Bean-hating Tingtanger",
+      "title": "Tingtang Gang",
+      "content": "Oi, bohnen! Who do ya think you are to goof around our turf?"
     },
     {
       "id": 18,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Tingtanger ผู้เกลียดถั่ว",
-      "title": "เเก๊ง Tingtang",
-      "content": "หรือว่า มึงมาที่นี้เพื่อขายรถหรือไง?"
+      "teller": "Bean-hating Tingtanger",
+      "title": "Tingtang Gang",
+      "content": "Or what, ya here to sell ya car?"
     },
     {
       "id": 19,
       "model": "돈키호테",
-      "content": "ไม่ใช่! พวกเราขึ้นรถบัสต่างหาก!"
+      "content": "Nay! We mount an omnibus!"
     },
     {
       "id": 20,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Tingtanger ผู้เกลียดถั่ว",
-      "title": "เเก๊ง Tingtang",
-      "content": "เราไม่จ่ายเป็นชิ้นส่วนอวัยวะหรอก เเต่ กูคิดว่าตาสองคู่ที่มีม่านตาสีตรงของเเกน่าจะขายได้ล่ะนะ…"
+      "teller": "Bean-hating Tingtanger",
+      "title": "Tingtang Gang",
+      "content": "We don’t deal in organs, though? Hmm, well, I guess a pair of eyes with pupils as specially-colored as yours might sell…"
     },
     {
       "id": 21,
       "model": "돈키호테",
-      "content": "ฉะนั้นก็มิผิดที่แล้ว! พวกเรามาตามหาผู้นำของท่าน!"
+      "content": "So we have come to the right place! We are here for your leader!"
     },
     {
       "id": 22,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Tingtanger ผู้เกลียดถั่ว",
-      "title": "เเก๊ง Tingtang",
-      "content": "ใจกล้าจริงที่กล้ามาหาเรื่องเเก๊งเนี่ย ทำงานให้ใครกัน?"
+      "teller": "Bean-hating Tingtanger",
+      "title": "Tingtang Gang",
+      "content": "Ya pretty bold in facing a gang. Who do ya work for?"
     },
     {
       "id": 23,
       "model": "돈키호테",
-      "content": "พวกข้าทำงานให้กับล—!"
+      "content": "We serve under Limb—!"
     },
     {
       "id": 24,
       "model": "돈키호테",
-      "content": "อะเเฮ่ม…"
+      "content": "Kehm…"
     },
     {
       "id": 25,
-      "content": "ความเงียบอันเเปลกประหลาดได้ผ่านไปชั่วครู่"
+      "content": "An awkward silence passed."
     },
     {
       "id": 26,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Tingtanger ผู้เกลียดถั่ว",
-      "title": "เเก๊ง Tingtang",
-      "content": "กูถามว่ามึงทำงานให้ใคร! อย่าหยุดพูดกลางครันสิว่ะ!"
+      "teller": "Bean-hating Tingtanger",
+      "title": "Tingtang Gang",
+      "content": "I asked you a question! Don’t stop midway!"
     }
   ]
 }

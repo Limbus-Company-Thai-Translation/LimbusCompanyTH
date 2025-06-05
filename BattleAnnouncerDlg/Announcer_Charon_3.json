@@ -2,119 +2,119 @@
   "dataList": [
     {
       "id": "announcer_cheer_3_1",
-      "dlg": "ชารอนเป็นพวกรอนานๆไม่เก่ง เร็วเข้า พวกนายทุกคนมีเวลา100วิ"
+      "dlg": "Charon’s not good at waiting. You get 100 seconds."
     },
     {
       "id": "announcer_cheer_3_2",
-      "dlg": "จะออกไปกับเมฟี้ก่อนล่ะ ถ้าพวกนายมาช้าเกินไป"
+      "dlg": "Leaving with Mephi if you’re late."
     },
     {
       "id": "announcer_specialcheer_3_1",
-      "dlg": "มีผู้โดยสารบาดเจ็บ อย่าร้องไห้ไปเลยนะ"
+      "dlg": "Passengers are hurt. Don’t cry."
     },
     {
       "id": "announcer_specialcheer_3_2",
-      "dlg": "ทำไมพวกเขากลายเป็นขนมของเมฟี้ไปแล้วล่ะ ชารอนเสียใจ"
+      "dlg": "Why did they turn into Mephi treats? Charon’s sad now."
     },
     {
       "id": "announcer_enemy_break_3_1",
-      "dlg": "พวกศัตรูตัวสั่นดิ๊กๆ เลย แบบนี้ลุยได้แล้วสิ?"
+      "dlg": "Foes are all shimmy-shaky. A chance, isn’t it?"
     },
     {
       "id": "announcer_ally_break_3_1",
-      "dlg": "ชารอนบอกแล้วนะว่าให้รัดเข็มขัดด้วย"
+      "dlg": "Charon did tell you to fasten your seatbelts."
     },
     {
       "id": "announcer_killenemy_3_1",
-      "dlg": "เมฟี้หิวแล้ว ทำได้ดีมาก, ใช่มะ?"
+      "dlg": "Mephi had been peckish. Well done, right?"
     },
     {
       "id": "announcer_ally_dead_3_1",
-      "dlg": "ผู้โดยสารหลับปุ๋ยแล้ว อย่าลืมหมุนเข็มติ๊กต๊อกนะ"
+      "dlg": "A passenger went all hush. Don’t forget to tick your tock later."
     },
     {
       "id": "announcer_enemy_adv_3_1",
-      "dlg": "ถ้าเจ้าคนไม่ดีจะชนะหรอ ชารอนจะไปแลัวนะ"
+      "dlg": "The bad guys are winning. Charon might just up and leave."
     },
     {
       "id": "announcer_ally_adv_3_1",
-      "dlg": "วูฮู้ ฝั่งนี้ข้างผู้ชนะล่ะ"
+      "dlg": "Woohoo. This side—the winners’ side."
     },
     {
       "id": "announcer_danger_3_1",
-      "dlg": "...อันตรายถึงตาย? เพิ่งมีคนสอนไปหมาดๆ เลย"
+      "dlg": "…Mortal peril? Been taught this phrase."
     },
     {
       "id": "announcer_enemy_specialskill_3_1",
-      "dlg": "พื้นกำลังสั่น ชารอนโยกไปโยกมาเหมือนจะเต้นเลย"
+      "dlg": "The ground is shaking. Charon’s rumbly-tumbly too."
     },
     {
       "id": "announcer_enemy_specialgimmick_3_1",
-      "dlg": "Aปริศนาน่ะ จะไม่แอบบอกหรอกนะว่าจะมาเมื่อไหร่"
+      "dlg": "A mystery. No telling what will pop up."
     },
     {
       "id": "announcer_advatk_physical_3_1",
-      "dlg": "คุณผู้โดยสารโหม่งมันเลย"
+      "dlg": "A passenger gave them a boink."
     },
     {
       "id": "announcer_disadvatk_physical_3_1",
-      "dlg": "อันนั้นมันช่วยได้ที่ไหนเล่า เจ้าทึ่ม"
+      "dlg": "That one did nothing. Dummy."
     },
     {
       "id": "announcer_advatk_attr_3_1",
-      "dlg": "พวกเขาบอกว่า เรียนรู้จากความผิดพลาดคือก้าวแรกที่ดี"
+      "dlg": "They said knowing what you did wrong is the first step."
     },
     {
       "id": "announcer_disadvatk_attr_3_1",
-      "dlg": "รู้ตัวบ้างมั้ยว่าทำอะไรผิด? ...ดูมาจากละครน่ะ"
+      "dlg": "Do you even have any idea what you did wrong? …Learnt that from a drama."
     },
     {
       "id": "announcer_enemy_specialbuff_3_1",
-      "dlg": "ทำไมเจ้าพวกนั้นถึงดูอารมณ์ดีกันจังล่ะ ชารอนรู้สึกแย่อะ"
+      "dlg": "Those foes look like they’re in a good mood. It upsets Charon."
     },
     {
       "id": "announcer_enemy_specialdebuff_3_1",
-      "dlg": "ดูพวกนั้นสิ หน้าเหมือนอยากจะพ่นคุกกี้ออกมาเลย"
+      "dlg": "Look at them. They wanna toss cookies."
     },
     {
       "id": "announcer_ally_specialbuff_3_1",
-      "dlg": "มีเรื่องอะไรดีๆเกิดขึ้นกับเหล่าผู้โดยสารรึเปล่า?"
+      "dlg": "Did something good happen to the passengers?"
     },
     {
       "id": "announcer_ally_specialdebuff_3_1",
-      "dlg": "...มีถุงไว้ใต้ที่นั่งแล้วนะ อย่าเผลออ้วกใส่เมฟฟี่ล่ะ"
+      "dlg": "…There’s a doggy bag below your seats. No throwing up on Mephi."
     },
     {
       "id": "announcer_enemy_destroy_3_1",
-      "dlg": "เป้งกะเน่ง จุดหนึ่งพังแล้ว เดินหน้าต่อเลย"
+      "dlg": "Kachlank. A spot broke. Keep forward."
     },
     {
       "id": "announcer_enemy_destroy_3_2",
-      "dlg": "ผู้โดยสารทำมันหลุดแล้ว แต่ก็ไม่มีใครบอกว่าต้องชดใช้ค่าเสียหาย, เพราะงั้นลุยต่อเลย"
+      "dlg": "Passengers just broke that. No one will tell us to pay for the damage, so go on."
     },
     {
       "id": "announcer_round_takebigdmg_3_1",
-      "dlg": "ชารอนหัวหมุนติ้วๆเลย"
+      "dlg": "Charon’s all spinny."
     },
     {
       "id": "announcer_round_takebigdmg_3_2",
-      "dlg": "แอะ, อันนั้นดูเจ็บจังเลยอะ"
+      "dlg": "Eep, that looked hurty."
     },
     {
       "id": "announcer_round_givebigdmg_3_1",
-      "dlg": "ความสำเร็จครั้งยิ่งใหญ่ ชารอนตื่นเต้น ขออนุญาตร้องเพลงได้ไหม?"
+      "dlg": "A huge success. Charon’s excited. Permission to sing?"
     },
     {
       "id": "announcer_round_givebigdmg_3_2",
-      "dlg": "หวา! ชารอนก็ดุ้งโหยงเหมือนกัน"
+      "dlg": "Whoa! Charon’s shocked too."
     },
     {
       "id": "announcer_multikillenemy_3_1",
-      "dlg": "“ยิงหนังสติ๊กนัดเดียวได้หนูสองตัว”, ใช่มั้ย? ชารอนจะลูบหัวให้เป็นรางวัลนะ"
+      "dlg": "“Two rats with one stone”, right? Charon will reward you with pats."
     },
     {
       "id": "announcer_equip_3_1",
-      "dlg": "ชารอนปรากฎตัวแล้ว ทุกคนดีใจเร็ว"
+      "dlg": "Charon appears. All rejoice."
     }
   ]
 }

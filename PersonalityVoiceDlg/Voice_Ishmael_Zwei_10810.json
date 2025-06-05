@@ -3,122 +3,122 @@
         {
             "id": "get_10810_1",
             "desc": "Identity Acquisition",
-            "dlg": "เงียบแล้วจัดแถวให้เรียบร้อยซะ ฉันไม่อยากให้พวกเราไม่ต้องมานั่งฟังใครมาบ่นในที่ประชุมตอนเช้า"
+            "dlg": "Zip it and get in line. I'd prefer it if we didn't have to sit through a scolding in the morning assembly."
         },
         {
             "id": "lobby_morning_10810_1",
             "desc": "Morning Greeting",
-            "dlg": "... เฮ้อ... ทำไมต้องบังคับให้วิ่งตอนเช้าด้วยนะ?\nฉันไม่ได้รังเกียจการวิ่งนะ, แต่... ฉันไม่ชอบวิ่งเป็นกลุ่มน่ะ โดยเฉพาะตอนวิ่งไปตามถนนแบบนี้..."
+            "dlg": "... Why aren't morning jogs optional?\nI don't mind the running, but... I don't like running in a group. Especially through the streets..."
         },
         {
             "id": "lobby_noon_10810_1",
             "desc": "Afternoon Greeting",
-            "dlg": "บางทีเราน่าจะใช้ดาบใหญ่พวกนี้เป็นโต๊ะหรือเก้าอี้ช่วงพักกลางวันได้นะ ฟังดูเข้าท่าดีมั้ย?"
+            "dlg": "Maybe we can use these greatswords as tables or chairs during lunch break. How's that for an idea?"
         },
         {
             "id": "lobby_night_10810_1",
             "desc": "Evening Greeting",
-            "dlg": "แน่นอน, ว่าพวกเรายังคงลาดตระเวนในพื้นที่ที่รับผิดชอบ แม้กระทั่งในเวลากลางคืน... แต่คุณก็ยังต้องระมัดระวังตัวไว้ด้วย\nแม้แต่เงาของโล่ก็ยังพร่ามัวได้เมื่ออยู่ใต้แสงจันทร์"
+            "dlg": "Of course, we're always keeping up our patrols in each of our designated zones even during nighttime... but you should still be careful.\nEven the shield's shadow grows dim under the moonlight."
         },
         {
             "id": "smalltalk_10810_1",
             "desc": "Chatter #1",
-            "dlg": "เหลือเชื่อเลยแฮะ... ยังมีคนที่คิดว่าดาบใหญ่กับชุดเกราะพวกนี้มันทั้งหนัก เทอะทะ และใช้งานยาก ,น่ะหรอ? รู้ใช่มั้ยว่าความเชื่อพวกนั้นมันล้าหลังไปแล้ว\nของพวกนี้น่ะเบากว่าที่คิด ผลิตจากเวิร์กช็อปโดยตรง, คงดูออกไม่ยากหรอกนะ"
+            "dlg": "Wow... Do you seriously think this greatsword and a full suit of armor are heavy, unwieldy, and clunky? You know that misconception was debunked forever ago, right?\nThese things are lighter than they look. They're workshop-made, so it should be obvious."
         },
         {
             "id": "smalltalk_10810_2",
             "desc": "Chatter #2",
-            "dlg": "อุดมคติของอัศวินงั้นเหรอ...? เก็บไว้ไปพูดกับพวกอัศวินพเนจรที่ชอบสร้างเรื่องพวกนั้นเถอะ,\nพวกเราก็แค่โล่ของสมาพันธ์ Zwei Association, ไม่ใช่อัศวินผู้สูงศักดิ์แบบในนิทานของคุณหรอก."
+            "dlg": "Chivalry, really...? Take that to one of those Knight-errant troublemakers.\nWe're just shields working for the Zwei Association, not noble knights from your fairy tales."
         },
         {
             "id": "smalltalk_10810_3",
             "desc": "Chatter #3",
-            "dlg": "มันให้ความรู้สึกเติมเต็มมากกว่าตอนล่าวาฬบ้าๆ นั่นและก็ตื่นเต้นกว่าตอนที่ทำงานให้กับพวก Wing แต่... ฉันก็ไม่คิดว่าจะอยู่ที่นี่ตลอดไปหรอก\nฉันทนไม่ได้กับความย้อนแย้งของการต้องหาเลี้ยงชีพด้วยการปกป้องผู้คน... ทั้งที่เหตุผลเดียวที่ฉันยังมีชีวิตอยู่ ก็คือเพื่อจะแก้แค้นไอ้สารเลวนั่น."
+            "dlg": "This is more fulfilling than that insanity that was Whaling, and more exciting than working for a Wing, but... I don't think I'll be here forever.\nI can't stand the irony of making my living by protecting people... when I live to get my revenge on that bastard."
         },
         {
             "id": "smalltalk_10810_4",
             "desc": "Post-Uptie Chat 1",
-            "dlg": "ภารกิจคุ้มกันแบบแนบเนียน, ทำเหมือนไม่มีตัวตน... แบบนั้นน่ะคือสไตล์การทำงานของสาขาทางใต้ แต่พวกเราไม่ใช่แบบนั้น หน้าที่ของเราคือยืนเคียงข้างลูกค้าอย่างน่าเกรงขามพร้อมกับดาบใหญ่ในมือเล่มนี้ และข่มพวกศัตรูที่คิดจะจู่โจมให้ไม่กล้าแม้แต่จะลงมือ"
+            "dlg": "Low-key protection job, pretending like they're not even there... now that's how the southern branch does it. Our job is to stand imposingly next to our clients with these huge swords and intimidate any assailants before they even dare to attack."
         },
         {
             "id": "smalltalk_10810_5",
             "desc": "Post-Uptie Chat 2",
-            "dlg": "อย่าไปฝากความหวังไว้กับ ‘อัศวินแห่งแดนตะวันตก’ พวกนั้นมากนัก ยกเว้นว่าพวกเขาจะเป็นส่วนหนึ่งของ Wing อย่างกลุ่ม 'Order of the Lunar Visage' ของ M Corp.ล่ะก็ไม่ได้ต่างจากสำนักงานฟิกเซอร์ทั่วไปเท่าไหร่หรอก เพราะงั้นอย่าคาดหวังมาก\nถ้าอยากได้งานคุ้มกันแบบมืออาชีพล่ะก็ เลือกจ้างผู้เชี่ยวชาญอย่าง Zwei ดีกว่า และอยู่ห่างจากพวกมือสมัครเล่นนั้นไว้"
+            "dlg": "Don't put too much faith in those 'Knight Orders' of the west unless they're part of a Wing like M Corp.'s Order of the Lunar Visage. Otherwise, they're no different from your usual Fixer Offices, so don't get your hopes up.\nIf you want a proper protection job, always hire experts like the Zwei and stay away from those amateurs."
         },
         {
             "id": "gacksung_10810_1",
             "desc": "Uptying",
-            "dlg": "ไม่ต้องห่วงหรอก แม้แต่ลูกธนูดอกเดียวก็จะไม่สามารถทะลุผ่านไปได้ ตราบใดที่ฉันยืนอยู่ระหว่างคุณและศัตรูของคุณ"
+            "dlg": "Don't worry. Not even a single arrow will get through as long as I stand between you and your enemies."
         },
         {
             "id": "neglect_10810_1",
             "desc": "Idle",
-            "dlg": "เฮ้, คุณจะแอบหนีไปไหนกันน่ะ? ไม่ได้คิดจะหนีการประชุมตอนเช้าหรอก, ใช่มั้ย?"
+            "dlg": "Hey, where are you slinking off to? Not thinking of skipping the morning assembly, are you?"
         },
         {
             "id": "formation_10810_1",
             "desc": "Deployment",
-            "dlg": "ตรวจพบความผิดปกติในเขตการป้องกันพื้นที่ ยืนยันแล้ว"
+            "dlg": "Disruption in the territory protection zone confirmed."
         },
         {
             "id": "battleentry_10810_1",
             "desc": "Stage Entry",
-            "dlg": "กำลังเคลื่อนที่ไปยังตำแหน่งเป้าหมาย"
+            "dlg": "Advancing to the target location."
         },
         {
             "id": "battle_select_10810_1",
             "desc": "Viewed in Battle",
-            "dlg": "กำลังปะทะอยู่ พูดเข้าประเด็นเลย"
+            "dlg": "We're mid-battle. Keep it short."
         },
         {
             "id": "battle_endcommand_10810_1",
             "desc": "Commencing Attack",
-            "dlg": "ตรวจพบบุคคลที่อาจเป็นอันตรายแล้ว กำลังเข้าทำการระงับ"
+            "dlg": "Potentially dangerous individual identified. Moving in to suppress."
         },
         {
             "id": "battle_enemy_break_10810_1",
             "desc": "Enemy Stagger",
-            "dlg": "น่าจะจ้างพวก Zwei มาแต่แรก..."
+            "dlg": "Should've contracted the Zwei..."
         },
         {
             "id": "battle_break_10810_1",
             "desc": "Staggered",
-            "dlg": "โอ๊ะ— หือ...?"
+            "dlg": "Wh— huh...?"
         },
         {
             "id": "battle_kill_10810_1",
             "desc": "Enemy Killed",
-            "dlg": "... ไม่งั้นหัวของแกคงโดนดาบใหญ่ของฉันตัดไปแล้วล่ะ"
+            "dlg": "... or your head wouldn't have been crushed by my greatsword."
         },
         {
             "id": "battle_dead_10810_1",
             "desc": "Death",
-            "dlg": "บ้าเอ้ย, โดนพวกมันเล่นงานจนได้... ต้องเรียกกำลังเสริมเดี๋ยวนี้..."
+            "dlg": "Dammit, they got us... We need to call for reinforcements..."
         },
         {
             "id": "choice_success_p_10810_2",
             "desc": "Check Passed",
-            "dlg": "อะ ฮึ่ม, ดูจากผลงานของเราครั้งนี้ก็น่าจะเพียงพอที่จะได้รับโบนัสตอบแทนสำหรับความพยายามที่เกินความคาดหวังแบบนี้"
+            "dlg": "Ahem, ahem. I'd say our performance might just warrant a bonus for going above and beyond."
         },
         {
             "id": "choice_fail_n_10810_1",
             "desc": "Check Failed",
-            "dlg": "ไม่ใช่ลูกค้าของฉันอยู่แล้ว"
+            "dlg": "Not my client anyway."
         },
         {
             "id": "battle_clear_10810_1",
             "desc": "Victory Cry",
-            "dlg": "เราได้รับความเสียหายเล็กน้อย... คาดว่าน่าจะถูกหักคะแนนประเมินผลงานล่ะนะ เฮ้, อย่างน้อยเราก็สามารถปกป้องลูกค้าให้ปลอดภัยได้"
+            "dlg": "We had some collateral damage... I guess it'll get deducted from the performance review. Hey, at least we managed to protect our client."
         },
         {
             "id": "battle_clear_ex_10810_1",
             "desc": "Extra Conditions Fulfilled",
-            "dlg": "ไม่มีผู้เสียชีวิต, ความเสียหายก็แค่เล็กน้อย... ถือว่าสมบูรณ์แบบเลยล่ะ เฮ้, ถ้าเรื่องนี้หลุดไปถึงคนในเมือง ใครจะรู้ล่ะ? บางทีพวกคนสำคัญอาจจะสนใจจ้างพวกเราไปทำงานปกป้องเขตพื้นที่ของพวกนั้นก็ได้"
+            "dlg": "No casualties, minimum collateral damage... that was perfect. Hey, if this story gets out, who knows? Maybe some important folks of the City might be hiring us for those dominion protection jobs."
         },
         {
             "id": "battle_defeat_10810_1",
             "desc": "Defeat Wail",
-            "dlg": "ภารกิจปกป้องเขตพื้นที่ล้มเหลว... ฮ่า... ดูเหมือนว่าฉันจะทำให้เกียรติของ Zwei เสียหายแล้ว"
+            "dlg": "Territory protection failed... Haah... looks like I'll be leaving a mark on the honor of the Zwei."
         }
     ]
 }

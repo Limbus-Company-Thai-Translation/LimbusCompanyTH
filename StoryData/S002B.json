@@ -2,300 +2,298 @@
   "dataList": [
     {
       "id": 0,
-      "content": "ฉันได้ยินเสียงหอนของสัตว์ร้ายจากซักที่หนึ่ง"
+      "content": "I hear the howl of a beast somewhere."
     },
     {
       "id": 1,
-      "content": "ร้องไม่หยุดหย่อนเลย มันกำลังคร่ำครวญเพราะหิวโหย? หรือว่า…"
+      "content": "It cries ceaselessly. Is it wailing out of hunger? Or…"
     },
     {
       "id": 2,
-      "place": "บน เมฟิสโตเฟเลส",
+      "place": "Aboard Mephistopheles",
       "teller": "???",
       "title": "???",
-      "content": "พวกนั้นทำตัวหยุกหยิกจุกจิกอยู่ได้ น่าจะตื่นเเล้วมั้งคะ?"
+      "content": "They’re being itchy-twitchy. Did they get up?"
     },
     {
       "id": 3,
       "teller": "???",
       "title": "???",
-      "content": "ตื่นสักที ฉันคงผิดหวังไม่น้อยถ้านายยังมัวเเต่นอนกรนโครกครากอยู่"
+      "content": "Awake at last. I would’ve been a tad bit disappointed if you croaked on us."
     },
     {
       "id": 4,
       "model": "카론",
-      "content": "อรุณสวัสดิ์ตอนเช้าที่สดใสค่ะ หนูคือคารอนคนขับรถบัสค่ะ"
+      "content": "Fresh morning. This is Charon the Bus Driver."
     },
     {
       "id": 5,
       "model": "눈이붉은자",
-      "teller": "ชายที่มีเนตรสีเเดง",
+      "teller": "Man with Red Eyes",
       "title": "???",
-      "content": "ถึงจะไม่ใช่ตอนเช้าก็เถอะ เเต่คิดว่าก็น่าจะสดชื่นดีนะ รู้สึกยังไงบ้างล่ะ ดันเต้?"
+      "content": "It’s not morning, but I could guess it’s refreshing. How do you feel, Dante?"
     },
     {
       "id": 6,
       "model": "프롤로그단테2",
-      "teller": "ดันเต้",
-      "title": "ตัวฉัน",
-      "content": "<อืม ฉันก็…>"
+      "teller": "Dante",
+      "title": "Me",
+      "content": "<Well I…>"
     },
     {
       "id": 7,
       "model": "눈이붉은자",
-      "teller": "ชายที่มีเนตรสีเเดง",
+      "teller": "Man with Red Eyes",
       "title": "???",
-      "content": "ตื๊ก ต๊อกเป็นเสียงนาฬิกา… เฮ้อ คงจะเป็นปัญหาที่กำเเพงภาษาสินะ"
+      "content": "Tick-tocking like a clock… Sigh, some language barrier this is."
     },
     {
       "id": 8,
       "model": "베르길리우스",
-      "content": "นายสามารถเรียกชื่อฉันได้ว่า เวอร์จิลิอุส ถ้านายเข้าใจสิ่งที่ฉันพูดอยู่ตอนนี้ล่ะก็ ช่วยเเสดงท่าทีตอบสนองหน่อยสิ ดันเต้"
+      "content": "You may call me Vergilius… If you can understand what I’m saying, give me some kind of reaction, Dante."
     },
     {
       "id": 9,
-      "content": "ฉันพยักหน้าให้เขาไปเพราะเขาดูเหมือนจะไม่ได้มีพิษภัยอะไร"
+      "content": "I gave him a quick nod since he didn’t seem hostile."
     },
     {
       "id": 10,
       "model": "베르길리우스",
-      "content": "ดี อย่างน้อยนายก็ยังฟังได้ปกติดี งั้นเตรียมออกรถได้เลย คารอน"
+      "content": "Good. At least your hearing is functional. Let’s ride, Charon."
     },
     {
       "id": 11,
       "model": "카론",
-      "content": "เตรียมออกรถค่ะ บรื้น-บรื้น"
+      "content": "Now departing. Vroom-vroom."
     },
     {
       "id": 12,
-      "content": "จากนั้นก็ได้ยินเสียงคำรามดังกึกก้องพร้อมกับเเรงสั่นสะเทือน ราวกับเสียงนั้นดังก้องมาจากก้นของโคลนลึก"
+      "content": "There was a heavy roar and vibrations, as though they echoed from the bottom of a deep mire."
     },
     {
       "id": 13,
-      "content": "เเละตอนนั้นเองฉันก็เริ่มรู้ตัว… ว่าตอนนี้นั่งอยู่บนรถบัส"
+      "content": "It was then that I realized I was aboard a bus."
     },
     {
       "id": 14,
-      "content": "รสบัสงั้นหรอ… ฉันจำไม่ได้เลยว่าเคยนั่งยานพาหนะเเบบนี้มาก่อนหรือเปล่า"
+      "content": "A bus… I can’t be sure if I’ve ever ridden such a vehicle in the past."
     },
     {
       "id": 15,
       "model": "베르길리우스",
-      "content": "พอจะจำได้ไหมว่านายเป็นใครกัน?"
+      "content": "Do you remember who you were?"
     },
     {
       "id": 16,
-      "content": "ฉันส่ายหน้าไปเพื่อตอบว่าไม่ เหมือนเตือนตัวเองว่าหัวของฉันเป็นเพียงเเค่กลไกที่ดังคลิกๆไปมา"
+      "content": "I shook my head to say no. I had been reminded that my head was now a clinking mechanism."
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "ผมคิดว่านายก็ต้องการความทรงจำกลับคืนมาใช่ไหม?"
+      "content": "I suppose you want your memory back. Am I right?"
     },
     {
       "id": 18,
-      "content": "ฉันพยักหน้าออกไป ตอนนี้รู้สึกเหมือนคนบ้ายังไงก็ไม่รู้"
+      "content": "I nodded. I sure feel like an idiot."
     },
     {
       "id": 19,
       "model": "베르길리우스",
-      "content": "ลื่นไหลจังเลยนะ อะไรจะหยุดให้พวกนายประยุกต์ใช้ระบบการสื่อสารเเบบออกท่าทางกันล่ะ?"
+      "content": "Smooth as it gets. What’s to stop the rest of you from adopting this gesture-based communication?"
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "มีอะไรจะพูดไหมล่ะ คุณเฟาสท์?"
+      "content": "Any words of yours, Ms. Faust?"
     },
     {
       "id": 21,
       "model": "파우스트",
-      "content": "เฟาสท์ขอปฏิเสธข้อเสนอนั้นอย่างจริงใจค่ะ"
+      "content": "Faust will kindly turn down the offer."
     },
     {
       "id": 22,
       "model": "파우스트",
-      "content": "เพราะดิฉันคิดว่าส่วนใหญ่พวกเรานั้นก็มีอิสระพอที่่จะสื่อสารมากกว่าใช้ท่าทางค่ะ"
+      "content": "I doubt we’ll have that much freedom over our own bodies most of the time."
     },
     {
       "id": 23,
-      "content": "เธอเป็นคนที่พูดกับฉันตอนที่อยู่ในป่านั้น"
+      "content": "She’s the one who spoke to me back in the forest."
     },
     {
       "id": 24,
-      "content": "ผมสีเงินของเธอที่เงางามในที่ไร้แสงแดดเช่นนี้ ก็ให้ความรู้สึกที่ลึกลับไม่น้อย"
+      "content": "Her silver hair that glistens even without sunlight gives off a rather mysterious air."
     },
     {
       "id": 25,
       "model": "파우스트",
-      "content": "ดันเต้"
+      "content": "Dante."
     },
     {
       "id": 26,
       "model": "프롤로그단테2",
-      "teller": "ดันเต้",
-      "title": "ตัวฉัน",
-      "content": "<ดันเต้หรอ?>"
+      "teller": "Dante",
+      "title": "Me",
+      "content": "<Dante?>"
     },
     {
       "id": 27,
-      "content": "พอลองคิดดูดีๆ ไอชายที่มีเนตรสีเเดงก็เรียกฉันเเบบนั้นด้วยเหมือนกัน"
+      "content": "Come to think of it, the red-eyed man has been calling me that, too."
     },
     {
       "id": 28,
       "model": "파우스트",
-      "content": "ดันเต้คือชื่อของคุณค่ะ สงสัยคุณจะความจำเสื่อมค่อนข้างรุนเเรงเลยค่ะ"
+      "content": "Dante is your name. The amnesia must be affecting you rather severely."
     },
     {
       "id": 29,
       "model": "프롤로그단테2",
-      "teller": "ดันเต้",
-      "title": "ตัวฉัน",
-      "content": "<คงเป็นเเบบนั้นเเหละ… คำนั้นฟังไม่ขึ้นหูเลยเเหะ>"
+      "teller": "Dante",
+      "title": "Me",
+      "content": "<Sure looks like it… That doesn’t sound like a familiar word.>"
     },
     {
       "id": 30,
       "model": "파우스트",
-      "content": "เดี๋ยวอีกหน่อยก็ชินเองค่ะ"
+      "content": "You’ll get used to it in time."
     },
     {
       "id": 31,
       "model": "프롤로그단테2",
-      "teller": "ดันเต้",
-      "title": "ตัวฉัน",
-      "content": "<เดี๋ยว… เธอฟังฉันรู้เรื่องด้วยหรอ?>"
+      "teller": "Dante",
+      "title": "Me",
+      "content": "<Wait… You can understand me?>"
     },
     {
       "id": 32,
       "model": "프롤로그단테2",
-      "teller": "ดันเต้",
-      "title": "ตัวฉัน",
-      "content": "<ไอกลุ่มที่โจมตีฉันเมื่อกี้—เเละก็คนที่ชื่อเวอร์จี้หรืออะไรนั้นเเหละ—ก็ได้ยินเเค่เสียงติ๊กจากฉันนะ>"
+      "teller": "Dante",
+      "title": "Me",
+      "content": "<The group that attacked me earlier—and that Vergie or whatever he was called—seemed to hear nothing but ticking from me.>"
     },
     {
       "id": 33,
       "model": "파우스트",
-      "content": "เฟาสท์ได้ยินสิ่งที่คุณพยายามจะพูดค่ะ"
+      "content": "Faust can hear what you intend to speak."
     },
     {
       "id": 34,
       "model": "프롤로그단테2",
-      "teller": "ดันเต้",
-      "title": "ตัวฉัน",
-      "content": "<ฟังออกหรอ…? ได้ไงกัน? ฉันไม่มีเเม้เเต่ปากด้วยซ้ำ>"
+      "teller": "Dante",
+      "title": "Me",
+      "content": "<You really can…? But how? I don’t even have a real mouth.>"
     },
     {
       "id": 35,
       "model": "파우스트",
-      "content": "ความคิดหัวโบราณของคุณน่าจะเป็นหนึ่งในผลข้างเคียงที่มากับการเปลี่ยนหัวของคุณค่ะ"
+      "content": "Outdated ideas must be one of the side effects that came with your head replacement."
     },
     {
       "id": 36,
       "model": "파우스트",
-      "content": "คงเป็นเรื่องที่ล้าสมัยไปเเล้วล่ะค่ะ ที่คิดว่าการใช้เส้นเสียงอย่าง สายเสียงหรือลิ้น ยังจำเป็นในการเข้าร่วมการสนทนาค่ะ"
+      "content": "It’s anachronistic to think that vocal organs such as the cords or tongue are necessary to participate in conversation."
     },
     {
       "id": 37,
       "model": "프롤로그단테2",
-      "teller": "ดันเต้",
-      "title": "ตัวฉัน",
-      "content": "<เออ… คงล้าสมัยล่ะสิท่า ฉันไม่เคยคิดอะไรเเบบนั้นมาก่อนเลย>"
+      "teller": "Dante",
+      "title": "Me",
+      "content": "<Anachronistic… Right. Never considered that.>"
     },
     {
       "id": 38,
       "model": "파우스트",
-      "content": "…คุณสามารถที่จะจำกัดคำพูดของคุณไว้ที่คนเพียงคนเดียว หรือจะพูดคุยพร้อมกับทุกคนในคราวเดียวกันก็ได้ค่ะ"
+      "content": "…You can limit the recipient of your words to one person, or choose to speak to everyone at once."
     },
     {
       "id": 39,
       "model": "파우스트",
-      "content": "อา ถ้าจะให้เเก้นิดนึงล่ะก็ ในคำว่า “ทุกคน” นั้น ฉันหมายถึงเหล่า Sinner เท่านั้นค่ะ"
+      "content": "Ah, a little clarification: When I say “everyone”, I’m only referring to the Sinners."
     },
     {
       "id": 40,
       "model": "프롤로그단테2",
-      "teller": "ดันเต้",
-      "title": "ตัวฉัน",
-      "content": "<เหล่า Sinner หรอ?>"
+      "teller": "Dante",
+      "title": "Me",
+      "content": "<Sinners?>"
     },
     {
       "id": 41,
       "model": "파우스트",
-      "content": "เหล่าคนที่นั่งอยู่หลังของคุณ…"
+      "content": "The people who have taken seats behind you…"
     },
     {
       "id": 42,
       "model": "파우스트",
-      "content": "เเละเหล่าคนที่สู้เพื่อคุณในช่วงก่อนหน้านี้ค่ะ"
+      "content": "And the ones who fought in your stead until moments ago."
     },
     {
       "id": 43,
       "teller": "???",
       "title": "???",
-      "content": "หูววววววว!!! ท่านเองสินะ ชิ้นส่วนสุดท้ายที่ทำให้คณะเดินทางของเราครบสมบูรณ์! ในที่สุดเวลาที่ข้าโหยหามาตลอดก็มาถึงเสียที!!"
+      "content": "What hooo!!! So thou art the final piece that completes our journey’s cast! How I have yearned for this moment!"
     },
     {
       "id": 44,
       "teller": "???",
       "title": "???",
-      "content": "ว่าเเต่ พวก กะโหลกเก่าของนายเอาไปขายที่ไหนเเล้วล่ะ?"
+      "content": "Say, pal, where’d you sell your old cranium off?"
     },
     {
       "id": 45,
       "teller": "???",
       "title": "???",
-      "content": "เธอเองสินะ ขอบคุณที่ทำให้กระดูกสันหลังฉันกลับมาเป็นเหมือนเดิมนะ เธอเป็นศัลยเเพทย์หรือเป็นคนที่เกี่ยวข้องกับ Nest มาก่อนหรือเปล่าเนี่ย?"
+      "content": "So it was you. Thanks for putting my spine back into one piece. Were you a surgeon or something in the Nest?"
     },
     {
       "id": 46,
       "model": "베르길리우스",
-      "content": "ทุกคน สงบเสียงลงหน่อย ไม่มีอะไรน่ารำคาญไปกว่าเสียงเจี้ยวจ้าวอย่างกับร้องประสานเสียงของพวกเธอเนี่ย"
+      "content": "Everyone, quiet. Nothing is more displeasing than to hear a choir of noises."
     },
     {
       "id": 47,
       "model": "베르길리우스",
-      "content": "ผมคิดว่าทุกคนควรจะเเนะนำตัวให้นายฟังเเบบสั้นๆ"
+      "content": "I suppose you all owe them a brief introduction."
     },
     {
       "id": 48,
       "model": "베르길리우스",
-      "content": "ผมจะให้เวลาพวกคุณเเนะนำตัวเองให้ทุกคนรู้จัก เริ่มจากคนใกล้สุด เชิญ"
+      "content": "I’ll give you time to make yourselves known, starting with the closest one. Go on."
     },
     {
       "id": 49,
       "model": "그레고르",
-      "content": "ทำไมคนที่อยู่หน้าสุดต้องไปก่อนเสมอเลยน่า… ฉันล่ะเบื่อกับการเป็นคนนำหน้าเเล้วเนี่ย"
+      "content": "Why is it always the ones in front that go first… I’m sick of taking any sort of lead now."
     },
     {
       "id": 50,
       "model": "그레고르",
-      "content": "ได้ข่าวว่านายจะเป็นนายใหม่ของพวกเรา หรือ เออ… ผู้จัดการคนใหม่ของพวกเรา"
+      "content": "I heard you were gonna be our boss, or… yeah, our manager."
     },
     {
       "id": 51,
       "model": "단테",
-      "teller": "ดันเต้",
-      "title": "ตัวฉัน",
-      "content": "<ผู้จัดการ?>"
+      "content": "<Manager?>"
     },
     {
       "id": 52,
       "model": "그레고르",
-      "content": "ใช่ นั้นเป็นเหตุผลว่าทำไมฉันถึงอยากเจอกับนาย เเละ…"
+      "content": "Yep, which is why I was real curious to meet you, and…"
     },
     {
       "id": 53,
       "model": "그레고르",
-      "content": "เอิ่ม… อืม… ชิ จะพูดให้มันถูกโครงสร้างภาษานี่มันยากชะมัด"
+      "content": "Uhrm… Hmm, tsk. Forming the right sentences is tough work."
     },
     {
       "id": 54,
       "model": "그레고르",
-      "content": "ไม่รู้นะว่าหัวเก่าของนายหายไปไหนเเล้ว เเต่ทุกคนก็ต่างมีเรื่องราวของตัวเองล่ะนะ"
+      "content": "Dunno what you did with your old head, but I guess everyone has their story."
     },
     {
       "id": 55,
       "model": "그레고르",
-      "content": "ฉันชื่อเกรกอร์ เราลงเรือลำเดียวกันเเล้วนะ ผู้จัดการเพื่อนยาก"
+      "content": "I’m Gregor. We’re in this together, Manager Bud."
     },
     {
       "id": 56
@@ -303,22 +301,22 @@
     {
       "id": 57,
       "model": "로쟈",
-      "content": "เกรก! ผู้จัดการเราไม่ใช่ “ตา” หรือ “พวก” ของนายน่า~ นายกำลังคุยกับคนที่กำลังจะทำให้เรารวยล้นฟ้านะ!"
+      "content": "Greg! They aren’t just your “bud” or “pal”~ You’re talking to the person who’ll make us filthy rich!"
     },
     {
       "id": 58,
       "model": "그레고르",
-      "content": "เกรก…?"
+      "content": "Greg…?"
     },
     {
       "id": 59,
       "model": "단테",
-      "content": "<รวยล้นฟ้า? หมายความว่าไง?>"
+      "content": "<Rich? What’s that about?>"
     },
     {
       "id": 60,
       "model": "로쟈",
-      "content": "เอาล่ะ ชื่อไหนดีนะ… ดันเต้! ขอโทษทีที่เรื่ยกชื่อนั้น เรียกฉันสั้นๆ ว่าร๊อดย่านะ~ "
+      "content": "Let’s see, what’s better… Dante! Don’t mind me if I call you by name. You can call me Rodya~"
     },
     {
       "id": 61
@@ -326,63 +324,63 @@
     {
       "id": 62,
       "model": "로쟈",
-      "content": "ฉันคิดว่าน่าจะมีสาเหตุที่ดีนะ… ที่นายมาเป็นผู้จัดการของพวกเรา"
+      "content": "I think there’s a… well, good reason you became our manager."
     },
     {
       "id": 63,
       "model": "로쟈",
-      "content": "มั่นใจเลยล่ะ ว่านายต้องเป็นเเบบคนใหญ่คนโตมากๆ ใน Nest ใช่ไหมล่ะ? ถ้านายได้ความจำคืนเมื่อไรล่ะก็ เราได้ร่ำรวยเงินทองเเน่… หุหุ…"
+      "content": "I’m sure. You used to be a big deal back in the Nest, right? When your old habits start coming back, we’ll be that much closer to rolling in the dough… Fuhu…"
     },
     {
       "id": 64,
-      "content": "…เธอเข้าสังคมเก่งชะมัด เรื่องนั้นฉันยอมรับเลย"
+      "content": "…She does have sociability, I’ll give her that."
     },
     {
       "id": 65,
       "model": "로쟈",
-      "content": "โอ้ตายเเหละ พูดเลยเถิดเกินไปเเหละ เฮ้ย ไอหนู! ตาเธอเเล้วนะ!"
+      "content": "Oh gosh, look at me keeping on. Hey, kid! It’s your turn next!"
     },
     {
       "id": 66,
       "model": "싱클레어",
-      "content": "สวัสดีครับ…"
+      "content": "Good day…"
     },
     {
       "id": 67,
       "model": "로쟈",
-      "content": "โธ่ น่าเบื่อจัง~ เเค่นี้เองหรอ?"
+      "content": "Aw, boring~ That’s it?"
     },
     {
       "id": 68,
       "model": "싱클레어",
-      "content": "อ-โอ้! ผ-ผมชื่อซินเเคลร์ครับ…"
+      "content": "Oh! I am Sinclair…"
     },
     {
       "id": 69
     },
     {
       "id": 70,
-      "content": "เด็กคนนี้ดูขวัญเสียชะมัด นี้เขามาเข้าร่วมบริษัทนี้ด้วยตัวเองหรือเปล่าเนี่ย?"
+      "content": "This boy looks awfully unnerved; did he even join this company of his own accord?"
     },
     {
       "id": 71,
       "model": "싱클레어",
-      "content": "…ม-มีเรื่องอะไรที่ผมต้องพูดอีกไหมครับ? ผมไม่เคยทำงานให้่กับบริษัทนี้มาก่อนเลย…"
+      "content": "…I—Is there anything else I need to say? I’ve never worked for a company before…"
     },
     {
       "id": 72,
       "model": "로쟈",
-      "content": "ก็นะ อยู่ไปเรื่อยๆ เดี๋ยวนายก็อยู่เป็นเอง"
+      "content": "Well, you’ll learn the ropes in the coming days."
     },
     {
       "id": 73,
       "model": "로쟈",
-      "content": "เค เเล้วนายล่ะ ไอหนุ่มเนิร์ด!"
+      "content": "‘Kay then, how about you next, nerdy pal!"
     },
     {
       "id": 74,
       "model": "이상",
-      "content": "นามนั้นคืออีซัง"
+      "content": "I am Yi Sang."
     },
     {
       "id": 75
@@ -390,30 +388,30 @@
     {
       "id": 76,
       "model": "단테",
-      "content": "<…ค-เเค่นั้นหรอ?>"
+      "content": "<…That’s it?>"
     },
     {
       "id": 77,
       "model": "이상",
-      "content": "หึม ไม่มีเเม้เเต่ควันหรือกระจกหรอ"
+      "content": "Mhm. No smoke or mirrors."
     },
     {
       "id": 78,
-      "content": "ฉันนั่งรออย่างกะว่าเขาจะหยอกเล่นหรืออะไรเนี่ยเเหละ…"
+      "content": "I waited for him to reveal that he was pulling a prank or something…"
     },
     {
       "id": 79,
-      "content": "เเต่เขากลับจ้องมองไปที่กระจกอันว่างเปล่า ไร้ซึ่งความสนใจ"
+      "content": "But he just stared vacantly into the window, disinterested."
     },
     {
       "id": 80,
       "model": "이스마엘",
-      "content": "ฮา… ไม่อยากจะเชื่อพวกเธอเลย การเเนะนำตัวอย่างเหมาะสมเป็นก้าวเเรกของการเข้าสู่สังคมไม่ใช่หรือไง?"
+      "content": "Haaa… I can’t believe you people. Aren’t proper introductions the first step to being a member of society?"
     },
     {
       "id": 81,
       "model": "이스마엘",
-      "content": "โปรดเรียกฉันว่าอิชมาเอลค่ะ"
+      "content": "Call me Ishmael, if you please."
     },
     {
       "id": 82
@@ -421,25 +419,25 @@
     {
       "id": 83,
       "model": "이스마엘",
-      "content": "ได้ข่าวว่านายเป็นคนดึงร่างพวกเรากลับมาติดครบสามสองนี่ ยินดีที่จะได้ร่วมงานด้วยค่ะ"
+      "content": "I heard you glued our bodies back together from pieces. I look forward to working with you."
     },
     {
       "id": 84,
-      "content": "เธอโค้งคำนับอย่างสุภาพก่อนจะกลับไปนั่งที่เดิม"
+      "content": "She gave a polite bow before returning to her seat."
     },
     {
       "id": 85,
-      "content": "ถึงเธอจะพูดเน้นย้ำเรื่องการเข้าสังคม เเต่ก็ไม่รู้สึกเหมือนเป็นมิตรเลยเเหะ"
+      "content": "Although she emphasized sociality, she didn’t feel like the most amicable sort."
     },
     {
       "id": 86,
       "model": "히스클리프",
-      "content": "ขอโทษที่พูดให้ผิดหวังนะ เเต่ฉันไม่ค่อยสนเรื่องเข้าสังคมเท่าไหร่หรอก"
+      "content": "Sorry to disappoint, ‘cause I don’t care too much for fitting in."
     },
     {
       "id": 87,
       "model": "히스클리프",
-      "content": "ชื่อฮีธคลิฟฟ์ เคยเป็นอันธพาลมือดีมาก่อน—ทั้งเรื่องทุบของเเละทุบหัวคน"
+      "content": "Name’s Heathcliff. Used to be a professional wrecker—for property and people alike."
     },
     {
       "id": 88
@@ -447,26 +445,26 @@
     {
       "id": 89,
       "model": "히스클리프",
-      "content": "เตือนไว้ก่อน ฉันไม่รับฟังคำพูดใครทั้งนั้น ฉันจะทุบเเค่ไอพวกที่ทำให้ฉันหงุดหงิดเเค่นั้นเเหละ"
+      "content": "Not under anyone’s orders, mind you. I only did it to buggers that got on my nerves."
     },
     {
       "id": 90,
       "model": "히스클리프",
-      "content": "เพราะงั้นระวังตัวไว้ด้วย"
+      "content": "So you’d better watch it."
     },
     {
       "id": 91,
       "model": "히스클리프",
-      "content": "ฉันเกลียดไอพวกอวดดีที่คิดว่าตัวเองจะสั่งฉันให้ทำได้ทุกอย่างที่สุด"
+      "content": "I’m deathly allergic to cocky gaffers who think they can boss me around."
     },
     {
       "id": 92,
-      "content": "ฉันคิดว่าฉันยังไม่ได้ทำอะไรเเบบนั้นให้เห็นนะ"
+      "content": "I don’t think I’ve done anything to give that impression yet."
     },
     {
       "id": 93,
       "model": "돈키호테",
-      "content": "บัดนี้! ถึงตราที่ข้าจะได้เอ๋ยวาจาเเล้ว! นามของข้าคือ ดอนกีโฮเต้!"
+      "content": "‘Tis my turn to speak! I am Don Quixote!"
     },
     {
       "id": 94
@@ -474,42 +472,42 @@
     {
       "id": 95,
       "model": "돈키호테",
-      "content": "ข้าคือฟิกเซอร์ผู้จักวิ่งเคียงข้างท่านเพื่อทยานสู่เเดนเเห่งความฝัน เป็นเกียรติยิ่งนักที่ได้ร่วมทางกับท่าน"
+      "content": "I am a Fixer who shall sprint for the dream side by side. A pleasure to have thee."
     },
     {
       "id": 96,
       "model": "단테",
-      "content": "<ฟิกเซอร์ หรอ…? นั้นเหมือนกับคำที่ฉันเคยได้ยินมาก่อนเลยเเหะ…>"
+      "content": "<A Fixer…? That definitely feels like a term I used to know…>"
     },
     {
       "id": 97,
       "model": "돈키호테",
-      "content": "เจ้าปรารถนาอยากจะล่วงรู้เรื่องนี้หรือ? ข้ายินดีที่จะตอบเจ้า! เหล่าฟิกเซอร์นั้นเปรียบเสมือนผู้ปรปักษ์รักษานครเเห่งนี้!"
+      "content": "Dost thou wish to know what it is? I can answer thy question! Fixers are protectors of the City!"
     },
     {
       "id": 98,
       "model": "돈키호테",
-      "content": "อา! บางทีเจ้าจักจำ <ruby=มหานคร>The City</ruby> ไม่ค่อยได้! <ruby=มหานคร>The City</ruby> คือ—"
+      "content": "Ah! Perchance thou mayst struggle to remember the City! ‘Tis—"
     },
     {
       "id": 99,
       "model": "베르길리우스",
-      "content": "ฉันคิดว่าฉันบอกไปเเล้วนะว่าให้เเนะนำตัวสั้นๆนะ"
+      "content": "I believe I said this was for brief introductions."
     },
     {
       "id": 100,
       "model": "돈키호테",
-      "content": "อึก…"
+      "content": "Ngh…"
     },
     {
       "id": 101,
       "model": "베르길리우스",
-      "content": "อย่าให้ต้องเตือนเป็นครั้งที่สอง คนต่อไป"
+      "content": "Don’t make me say it twice. Next."
     },
     {
       "id": 102,
       "model": "홍루",
-      "content": "ผมชื่อหงลู่ หวังว่าเราจะเข้ากันได้ดีนะครับ"
+      "content": "My name’s Hong Lu. I hope we can get along well."
     },
     {
       "id": 103
@@ -517,35 +515,35 @@
     {
       "id": 104,
       "model": "홍루",
-      "content": "ว้าวดูนายสิ! หัวนั้นมันสุดยอดไปเลยไม่ใช่หรอ? สมัยนี้คงจะฮิตน่าดูเลยล่ะ ใช่มะ?"
+      "content": "Wow, and look at you! Isn’t that a fascinating head there? A popular model these days, I suppose?"
     },
     {
       "id": 105,
       "model": "단테",
-      "content": "<ไม่ มันไม่ใช่หัวเเบบนั้นซัก…>"
+      "content": "<No, this isn’t that kind of…>"
     },
     {
       "id": 106,
       "model": "홍루",
-      "content": "ก็ไม่ใช่เรื่องของฉันนี่เนาะ"
+      "content": "It’s not of my interest, though."
     },
     {
       "id": 107,
       "model": "히스클리프",
-      "content": "…ทัศนคติบ้าอะไรของเเกว่ะ?"
+      "content": "…The hell’s wrong with your attitude?"
     },
     {
       "id": 108,
-      "content": "ฮีธคลิฟฟ์มองอย่างกับพร้อมที่จะเขวี้ยงไม้เบสบอลในอีกไม่ช้า"
+      "content": "Heathcliff looked to be just moments away from swinging his bat…"
     },
     {
       "id": 109,
-      "content": "เเต่เมื่อเขาเห็นเนตรสีเเดงจ้องมองมาที่เขา เขาก็ได้เเต่ฮึดฮัดเเล้วกลับลงไปนั่งที่เดิม"
+      "content": "But when he realized the red gaze laid on him, he grunted and sat back down."
     },
     {
       "id": 110,
       "model": "료슈",
-      "content": "เรียวชู"
+      "content": "It’s Ryōshū."
     },
     {
       "id": 111
@@ -553,21 +551,21 @@
     {
       "id": 112,
       "model": "료슈",
-      "content": "โย 'เรียวชู' คุ ยินดีที่ได้รู้จัก"
+      "content": "Shūre’s nice to meet ya."
     },
     {
       "id": 113,
       "model": "료슈",
-      "content": "…หึ"
+      "content": "…Pfht."
     },
     {
       "id": 114,
-      "content": "ฉันต้องขำตอนไหนเนี่ย?"
+      "content": "At what point was I supposed to laugh?"
     },
     {
       "id": 115,
       "model": "뫼르소",
-      "content": "เมอร์โซ โปรดเรียกผมตามนั้นครับ"
+      "content": "Meursault. Please refer to me as such."
     },
     {
       "id": 116
@@ -575,26 +573,26 @@
     {
       "id": 117,
       "model": "단테",
-      "content": "<สุภาพมากเลยนะเนี่ย>"
+      "content": "<You’re pretty polite.>"
     },
     {
       "id": 118,
       "model": "뫼르소",
-      "content": "นี้ไม่ได้สุภาพอะไรเป็นพิเศษหรอกครับ ผมเเค่ทำตัวตามปกติครับ"
+      "content": "This isn’t anything special. I’m simply behaving normally."
     },
     {
       "id": 119,
       "model": "단테",
-      "content": "<ใจฉันเเทบซึ้ง ขอบใจ>"
+      "content": "<I’m almost touched. Merci.>"
     },
     {
       "id": 120,
       "model": "뫼르소",
-      "content": "ครับ"
+      "content": "Yes."
     },
     {
       "id": 121,
-      "content": "รู้สึกเหมือนมีบางอย่างผิดปกติมากๆเลยกับเขา เเต่ฉันก็ระบุอะไรชัดเจนไม่ได้เลย"
+      "content": "It felt as if something were gravely amiss with him, but I can’t seem to pin it down exactly."
     },
     {
       "id": 122,
@@ -603,26 +601,26 @@
     },
     {
       "id": 123,
-      "content": "สายตาที่เธอสเเกนฉันขึ้นลงทำเอาฉันหวั่นเล็กน้อย"
+      "content": "The way she scanned me up and down was a little daunting."
     },
     {
       "id": 124,
       "model": "오티스",
-      "content": "ฉัน…"
+      "content": "I…"
     },
     {
       "id": 125,
-      "content": "ฉันรู้สึกอยากจะก้มคำนับให้เธอเเล้วด้วยซ้ำ เเต่เธอยกมือมาห้ามฉันก่อน"
+      "content": "I felt almost compelled to bow to her, but she stopped me with a motion of her hand."
     },
     {
       "id": 126,
       "model": "오티스",
-      "content": "ขอร้องเถอะ ฉันจะไม่ให้ผู้จัดการของฉันก้มหัวให้ฉันเด็ดขาด"
+      "content": "Please, I would never make my manager grovel before me."
     },
     {
       "id": 127,
       "model": "오티스",
-      "content": "ขออภัยที่เสียมารยาทเมื่อกี้ ฉันมีชื่อว่าอูทิส"
+      "content": "My name is Outis. I would like to apologize for my rudeness earlier."
     },
     {
       "id": 128
@@ -630,65 +628,65 @@
     {
       "id": 129,
       "model": "단테",
-      "content": "<ส-เสียมารยาทหรอ…?>"
+      "content": "<Rudeness…?>"
     },
     {
       "id": 130,
       "model": "오티스",
-      "content": "ฮะๆ ได้โปรด ความเอื้ออารีของท่านช่างน่าเคารพนบนอบยิ่งนัก"
+      "content": "Haha, oh, please. Your generosity is a humbling sight."
     },
     {
       "id": 131,
       "model": "오티스",
-      "content": "เห็นเเวบเเรกฉันก็มองออกเเล้วว่าท่านสามารถชี้นำพวกเราได้อย่างเเน่นนอน"
+      "content": "I knew at first glance that you have what it takes to lead us."
     },
     {
       "id": 132,
       "model": "단테",
-      "content": "<…หะ? ว่าไงนะ?>"
+      "content": "<…Huh? Sorry?>"
     },
     {
       "id": 133,
       "model": "오티스",
-      "content": "ในขณะที่มนุษย์ส่วนใหญ่มักจะสร้างเสียงเเละเเรงเสียดทานที่มาจากการเผชิญหน้าซึ่งกันเเละกัน…"
+      "content": "While most humans cause noise and friction as a result of confrontation…"
     },
     {
       "id": 134,
       "model": "오티스",
-      "content": "บ้างก็สามารถที่จะเก็บเกี่ยวผลประโยชน์ร่วมกันจากตรงนี้ได้"
+      "content": "Some are able to reap mutual benefit from coming head-to-head."
     },
     {
       "id": 135,
       "model": "오티스",
-      "content": "ความสัมพันธ์เเบบนั้นมันเเทบไม่ต่างอะไรจากใบมีดเเละหินรับมีดเเม้เเต่น้อย"
+      "content": "It could be compared to the relationship between a blade and a whetstone."
     },
     {
       "id": 136,
       "model": "오티스",
-      "content": "ฉันขอสาบานว่าจะรับใช้ท่านด้วยความจงรักภักดีที่หาที่เปรียบมิได้ ท่านผู้จัดการ ฉันพร้อมเป็นดาบในมือของท่าน"
+      "content": "I vow to serve you with unrivaled devotion, Executive Manager. My blade is yours to wield."
     },
     {
       "id": 137,
       "model": "단테",
-      "content": "<นั้นฟังดูสบายใจดี… ขอบใจ>"
+      "content": "<Th-That’s reassuring… Thanks.>"
     },
     {
       "id": 138,
-      "content": "ฉันพยักหน้าเห็นด้วยออกไป ถึงเเม้จะยังไม่เข้าใจว่าสิ่งที่เธอทำมัน “เสียมารยาท” ยังไงก็เถอะ"
+      "content": "I gave her an approving nod, even though I still don’t get what she meant by her “rudeness”."
     },
     {
       "id": 139,
       "model": "이스마엘",
-      "content": "ฉันเเปลกใจนะที่เธอยังสามารถพูดยกยอได้หน้าด้านขนาดนี้หลังจากเรียกเขาว่า “ไอขี้ขลาดที่ดิ้นทุรนทุราย” เนี่ย"
+      "content": "I’m amazed at how you can sing such bold-faced high praise not too long after calling them a “miserably writhing wretch”."
     },
     {
       "id": 140,
-      "content": "…ฉันคงพอจะเข้าใจเเล้วล่ะ"
+      "content": "…I think I see now."
     },
     {
       "id": 141,
       "model": "파우스트",
-      "content": "ดูเหมือนฉันจะเป็นคนสุดท้ายค่ะ ฉันมีชื่อว่าเฟาสท์ค่ะ"
+      "content": "It seems I am the last. Faust is the name."
     },
     {
       "id": 142
@@ -696,263 +694,263 @@
     {
       "id": 143,
       "model": "파우스트",
-      "content": "เป็นอัจฉริยะที่คุณโชคดีที่ได้ผ่านทางมาเจอเพียงครั้งเดียวในชีวิตค่ะ"
+      "content": "A genius with whom you’re lucky to cross paths even once in your life."
     },
     {
       "id": 144,
       "model": "단테",
-      "content": "<อืม…>"
+      "content": "<Mmh…>"
     },
     {
       "id": 145,
       "model": "파우스트",
-      "content": "ดูเหมือนจะไม่เชื่่อสินะคะ ดันเต้"
+      "content": "Sounds like you aren’t convinced, Dante."
     },
     {
       "id": 146,
       "model": "파우스트",
-      "content": "ช่างเถอะค่ะ เดี๋ยวคุณก็จะได้รู้เอง เมื่อถึงเวลาค่ะ"
+      "content": "Well, it’s fine. You’ll come to learn, all in due time."
     },
     {
       "id": 147,
       "model": "단테",
-      "content": "<รู้เรื่องอะไร…?>"
+      "content": "<Learn what…?>"
     },
     {
       "id": 148,
       "model": "파우스트",
-      "content": "ว่าเฟาสท์นั้นคือผู้ที่เป็นอัจฉริยะอย่างเเท้จริงค่ะ"
+      "content": "That Faust is indeed a brilliant mind."
     },
     {
       "id": 149,
       "model": "파우스트",
-      "content": "เมื่อไม้ภาษิตล้มลง เสียงที่เกิดขึ้นมิอาจเป็นจริงได้ หากไร้ผู้สังเกตการณ์ภายนอกที่รับรู้ค่ะ"
+      "content": "When a proverbial tree falls, the fact of its sound cannot become truth when the outside observer fails to recognize it."
     },
     {
       "id": 150,
       "model": "단테",
-      "content": "<โอเค…>"
+      "content": "<Okay…>"
     },
     {
       "id": 151,
       "model": "베르길리우스",
-      "content": "เเนะนำตัวกันพอหอมปากหอมคอเเล้ว"
+      "content": "That’s enough greetings."
     },
     {
       "id": 152,
       "model": "베르길리우스",
-      "content": "ดันเต้ จากนี้ผมจะอธิบายอาชีพใหม่ของนาย"
+      "content": "Dante, let me explain your new occupation."
     },
     {
       "id": 153,
       "model": "단테",
-      "content": "<หมายถึง… ในฐานะผู้จัดการหรอ?>"
+      "content": "<You mean… as the manager?>"
     },
     {
       "id": 154,
       "model": "파우스트",
-      "content": "เขากำลังถามว่างานที่คุณกำลังจะอธิบายหมายถึงงานของผู้จัดการหรือเปล่าคะ"
+      "content": "They’re asking if the job you’re about to explain is that of a manager."
     },
     {
       "id": 155,
-      "content": "พอคิดดูดีๆเเล้ว ไอชายตาเเดงนั้นไม่ได้ยินฉันนี่น่า ไม่เหมือนกับพวก Sinners"
+      "content": "Come to think of it, that red-eyed man couldn’t hear me, unlike the Sinners."
     },
     {
       "id": 156,
       "model": "베르길리우스",
-      "content": "ถูกต้องเเล้ว ผู้จัดการระดับสูงดันเต้ นายจะออกเดินทางสู่นรกโลกันต์ไปพร้อมกับ Sinners ทั้ง 12 ที่พึ่งได้เเนะนำตัวมาเมื่อกี้"
+      "content": "That’s correct, Executive Manager Dante. You will embark on a trip to the Inferno with the twelve Sinners who’ve just introduced themselves."
     },
     {
       "id": 157,
       "model": "단테",
-      "content": "<นรกโลกันต์…? ทำไมฉันต้องไปตกนรกด้วยล่ะ?>"
+      "content": "<The Inferno…? Why should I go to hell?>"
     },
     {
       "id": 158,
       "model": "파우스트",
-      "content": "เขากำลังถามว่าทำไมเขาต้องเดินทางไปที่นรกด้วยค่ะ"
+      "content": "They’re asking why they need to travel to the Inferno."
     },
     {
       "id": 159,
       "model": "베르길리우스",
-      "content": "หึมม… เอาอย่างนี้: มีสมบัติรอเจ้าอยู่ที่ปลายทาง… เเค่นั้นเพียงพอหรือไม่?"
+      "content": "Hmm… How about this: Treasure awaits at the end of the road… Would that suffice?"
     },
     {
       "id": 160,
       "model": "단테",
-      "content": "<ฉันไม่ได้… นายกำลังบอกว่าฉันเคยเป็นคนล่าสมบัติมาก่อนหรอ?>"
+      "content": "<I don’t… You mean I used to be a treasure hunter or something?>"
     },
     {
       "id": 161,
       "model": "파우스트",
-      "content": "เขาดูจะไม่เข้าใจเเม้เเต่น้อยเลยค่ะ"
+      "content": "They can’t seem to get you at all."
     },
     {
       "id": 162,
       "model": "베르길리우스",
-      "content": "ผมไม่ได้ต้องการถามเพื่อให้นายเข้าใจดันเต้ หรือถามเพื่อถามความสมัครใจของนายด้วยซ้ำ"
+      "content": "I did not ask for your understanding, Dante. Nor was this a question of your willingness."
     },
     {
       "id": 163,
       "model": "베르길리우스",
-      "content": "นายจะต้องฟังฉันถ้านายยังอยากได้ความทรงจำเเละหัวจริงๆของนายคืนมา"
+      "content": "You’ll have to listen to me if you want to reclaim your memories and original head."
     },
     {
       "id": 164,
       "model": "단테",
-      "content": "<ก็จริง… ฉันก็อยากได้ทั้งสองอย่างกลับมา เเต่ก็…>"
+      "content": "<I mean… I do want them back, but…>"
     },
     {
       "id": 165,
       "model": "파우스트",
-      "content": "เขาเเสดงท่าทางที่ลังเลค่ะ"
+      "content": "They’re hesitant."
     },
     {
       "id": 166,
       "model": "베르길리우스",
-      "content": "คุณเฟาสท์ เราจะทำยังไงดีถ้าดันเต้ยังคงไม่สนใจที่จะให้ความร่วมมือพวกเราดีล่ะ? นี้ไม่ใช่สถานการณ์ที่ฉันคาดฝันว่าจะเจอเลยเเม้เเต่น้อย"
+      "content": "Ms. Faust, what will we do if Dante keeps on refusing to cooperate? This was not a scenario we anticipated."
     },
     {
       "id": 167,
       "model": "파우스트",
-      "content": "ไร้สาระค่ะ เฟาสท์ได้คาดการณ์ความเป็นไปได้ทั้งหมดเเล้วค่ะ"
+      "content": "Preposterous. Faust anticipates every possibility."
     },
     {
       "id": 168,
       "model": "파우스트",
-      "content": "ดันเต้ค่ะ หลังจากที่คุณทำภารกิจทุกอย่างเสร็จสิ้นลุล่วงเเล้ว…"
+      "content": "Dante, once you’ve completed all your missions…"
     },
     {
       "id": 169,
       "model": "파우스트",
-      "content": "คุณสามารถที่จะสลักรูปลักษณ์นั้นลงไปได้ค่ะ"
+      "content": "You’ll be able to engrave the Aspect."
     },
     {
       "id": 170,
       "model": "파우스트",
-      "content": "ฉันขอสัญญาค่ะ"
+      "content": "I can promise you that."
     },
     {
       "id": 171,
-      "content": "รูปลักษณ์ เป็นคำที่พลันผุดขึ้นมาในหัวอย่างรุนเเรง แม้ว่าความทรงจำของฉันจะหายไป แต่สัญชาตญาณภายในกลับตอบสนองต่อคำนั้นอย่างรุนแรงราวกับจำมันได้"
+      "content": "Aspect. A word that strikes my mind intensely. Even though my memories are gone, my underlying instincts are responding strongly to it."
     },
     {
       "id": 172,
-      "content": "ด้วยสัญชาตญาณนั้น ฉันจึงตัดสินใจ…"
+      "content": "Led by intuition, I make my choice…"
     },
     {
       "id": 173,
       "model": "파우스트",
-      "content": "เห็นไหมคะ? เขาพยักหน้าเเล้วค่ะ"
+      "content": "See there? They’re nodding."
     },
     {
       "id": 174,
       "model": "베르길리우스",
-      "content": "ดี งั้นเราก็ไปต่อกันได้"
+      "content": "Good. Then we can continue."
     },
     {
       "id": 175,
       "model": "베르길리우스",
-      "content": "จะว่าไป คารอน ทำไมรถบัสถึงไม่ขยับไปไหนเลยล่ะ? เเอบงีบหลับหรอ?"
+      "content": "By the way, Charon, why isn’t the bus moving? Were you dozing off?"
     },
     {
       "id": 176,
       "model": "카론",
-      "content": "คนขับรถบัสเขางีบหลับกันที่จุดพักรถค่ะ เวิร์ก"
+      "content": "A bus driver only snoozes at rest spots, Verg."
     },
     {
       "id": 177,
       "model": "카론",
-      "content": "มีพวกคนเเปลกหน้ามาป้วนเปี้ยนอยู่หน้าเมฟิค่ะ"
+      "content": "Weirdos were hanging around in front of Mephi."
     },
     {
       "id": 178,
       "model": "베르길리우스",
-      "content": "บอกเเล้วไง คารอน ถ้ามีอะไรเกิดขึ้นกับรถบัส ก็ให้บอกฉันมาได้เลย"
+      "content": "I told you, Charon. If anything happens with the bus, you’ve got to let me know right away."
     },
     {
       "id": 179,
       "model": "단테",
-      "content": "<เมฟิ? นั้นใครกัน?>"
+      "content": "<Mephi? Who’s that?>"
     },
     {
       "id": 180,
       "model": "파우스트",
-      "content": "เมฟิสโตเฟเลสค่ะ เป็นชื่อของรถบัสเเละเครื่องยนต์ที่ทำงานให้รถค่ะ"
+      "content": "Mephistopheles. The name of this bus and the engine that runs it."
     },
     {
       "id": 181,
       "model": "파우스트",
-      "content": "…เเละเป็นผลงานชิ้นโบเเดงของเฟาสท์ค่ะ"
+      "content": "…And Faust’s magnum opus cordis."
     },
     {
       "id": 182,
       "model": "베르길리우스",
-      "content": "เป็นเรือที่จะนำพาเราตะลอนสู่ทั่วนรกภูมิ"
+      "content": "An ideal ferryboat to bear us across the Inferno."
     },
     {
       "id": 183,
       "model": "베르길리우스",
-      "content": "เห็นด้วยไหมล่ะ ดันเต้?"
+      "content": "Wouldn’t you agree, Dante?"
     },
     {
       "id": 184,
-      "content": "ไม่เข้าใจหรอกนะว่าเขาพูดถึงเรื่องอะไร ฉันก็เลยหันหัวไปมองที่กระจกเเทนที่จะตอบเขาไปตรงๆ"
+      "content": "I wasn’t sure what he was getting at, so I turned away to look through the window instead of giving him a reply."
     },
     {
       "id": 185,
       "model": "베르길리우스",
-      "content": "ดูเหมือนจะเป็นเเค่พวกหนูโสโครกที่อาศัยอยู่ในเเบ็คสตรีท"
+      "content": "Looks like they’re just another pack of dirty Rats living in the Backstreets."
     },
     {
       "id": 186,
       "model": "베르길리우스",
-      "content": "เป็นเวลาที่ดีเลยล่ะ ดันเต้ จะให้พวกนี้เป็นเป้าในการสอนให้นายฝึกออกคำสั่งดูเเล้วกัน"
+      "content": "This is just the right time, Dante. They should make perfect targets for practicing your command."
     },
     {
       "id": 187,
       "model": "파우스트",
-      "content": "ดันเต้ ฉันค่อนข้างข้ามรายละเอียดไปเยอะในช่วงการต่อสู้เเรกของพวกเรา"
+      "content": "Dante, I skipped over many details during our first battle."
     },
     {
       "id": 188,
       "model": "파우스트",
-      "content": "เพราะในตอนนั้นเรามีเวลาไม่มากค่ะ"
+      "content": "We were short on time, after all."
     },
     {
       "id": 189,
       "model": "파우스트",
-      "content": "เเต่ยังไงก็ตาม พวกเราจะโดนสังหารบ่อยขึ้นเรื่อยๆ ถ้าหากคุณไม่พัฒนากลวิธีของคุณนะคะ"
+      "content": "However, we’ll be slaughtered frequently if no improvements are made to your strategy."
     },
     {
       "id": 190,
       "model": "파우스트",
-      "content": "เเละกลับกัน คุณก็จะต้องเเบกรับความเจ็บปวดที่ท่วมท้นซ้ำเเล้วซ้ำเล่าเพื่อที่จะชุบชีวิตพวกเรากลับคืนมาค่ะ"
+      "content": "And in turn, you’ll have to endure senseless pain over and over again to revive us."
     },
     {
       "id": 191,
       "model": "단테",
-      "content": "<เจ็บปวด… ชุบชีวิต? อย่าบอกนะ ที่เกิดขึ้นตอนนั้นคือ…>"
+      "content": "<Pain… Revive? You mean, what happened earlier was…>"
     },
     {
       "id": 192,
       "model": "파우스트",
-      "content": "ใช่ค่ะ พวกเราถูกชุบชีวิตกลับมาได้เพราะคุณได้ทำการ “หมุนนาฬิกากลับไป” ค่ะ"
+      "content": "Yes, we were brought back to life because you “turned back the clock”."
     },
     {
       "id": 193,
       "model": "베르길리우스",
-      "content": "ผมคิดว่าเรื่องนั้นไม่จำเป็นต้องพูดตอนนี้ก็ได้ คุณเฟาสท์"
+      "content": "I don’t believe that much is necessary, Ms. Faust."
     },
     {
       "id": 194,
       "model": "베르길리우스",
-      "content": "เก็บเรื่องไว้คุยทีหลัง เหล่า Sinner ลงจากรถบัสเดี๋ยวนี้"
+      "content": "Save the chatter for later. Sinners, off the bus."
     },
     {
       "id": 195,
       "model": "파우스트",
-      "content": "…ขอให้ฉันช่วยขยายความเกี่ยวกับการต่อสู้เพิ่มเติมค่ะ"
+      "content": "…Allow me to elaborate on combat."
     }
   ]
 }

@@ -2,79 +2,79 @@
   "dataList": [
     {
       "id": "dungeon_1_1_0101",
-      "content": "ห้องกักเก็บของหน่วยควบคุม"
+      "content": "Control Team Containment"
     },
     {
       "id": "dungeon_1_1_0102",
-      "content": "ล็อบบี้ของหน่วยควบคุม"
+      "content": "Control Team Lobby"
     },
     {
       "id": "dungeon_1_1_0103",
-      "content": "โถงกักเก็บที่ 1"
+      "content": "Containment Hall 1"
     },
     {
       "id": "dungeon_1_1_0104",
-      "content": "โถงกักเก็บที่ 2"
+      "content": "Containment Hall 2"
     },
     {
       "id": "dungeon_1_1_0105",
-      "content": "โถงกักเก็บที่ 3"
+      "content": "Containment Hall 3"
     },
     {
       "id": "dungeon_1_1_0106",
-      "content": "ห้องรับรองพนักงาน"
+      "content": "Employee Lounge"
     },
     {
       "id": "dungeon_1_1_0107",
-      "content": "โถงทางเดินของหน่วยข้อมูล"
+      "content": "Info. Team Passage"
     },
     {
       "id": "dungeon_1_1_0201",
-      "content": "ล็อบบี้ของหน่วยข้อมูล"
+      "content": "Info. Team Lobby"
     },
     {
       "id": "dungeon_1_1_0202",
-      "content": "ห้องพักคอยพนักงาน"
+      "content": "Employee Waiting Room"
     },
     {
       "id": "dungeon_1_1_0203",
-      "content": "โถงกักเก็บที่ 4"
+      "content": "Containment Hall 4"
     },
     {
       "id": "dungeon_1_1_0204",
-      "content": "โถงกักเก็บที่ 5"
+      "content": "Containment Hall 5"
     },
     {
       "id": "dungeon_1_1_0205",
-      "content": "โรงอาหาร"
+      "content": "Canteen"
     },
     {
       "id": "dungeon_1_1_0206",
-      "content": "ช่องทางเดินสำรอง"
+      "content": "Reserve Passageway"
     },
     {
       "id": "dungeon_1_1_0207",
-      "content": "บล็อคกักเก็บความผิดปกติระดับวิกฤต"
+      "content": "Critical Abnormality Block"
     },
     {
       "id": "dungeon_1_1_0301",
-      "content": "เเนวหน้ากลางสงครามควัน"
+      "content": "Smoke War Central Front"
     },
     {
       "id": "dungeon_1_1_0302",
-      "content": "เเนวป้องกันที่ 23-7 - 1100 นาฬิกา"
+      "content": "Defense Line 23-7 - 1100 Hours"
     },
     {
       "id": "dungeon_1_1_0303",
-      "content": "สถานที่ตั้งหลัก"
+      "content": "Key Foothold"
     },
     {
       "id": "dungeon_1_1_0304",
-      "content": "เเนวป้องกันที่ 23-7 - 1300 นาฬิกา"
+      "content": "Defense Line 23-7 - 1300 Hours"
     },
     {
       "id": "dungeon_1_1_0305",
-      "content": "เเนวป้องกันที่ 23-7 - 1536 นาฬิกา"
+      "content": "Defense Line 23-7 - 1536 Hours"
     }
   ]
 }

@@ -2,105 +2,105 @@
   "dataList": [
     {
       "id": 0,
-      "content": "บางที… อาจเป็นเพราะเวลาเนิ่นนานเเล้วที่ทหารคนนี้ห่างจากสนามรบ ความสามารถของเขาจึงขึ้นสนิมไปแล้ว"
+      "content": "Perhaps the time this ex-soldier spent off the battlefield was long enough to rust his prowess."
     },
     {
       "id": 1,
-      "content": "หัวหน้าผู้จัดการของ G Corp. ผู้เคยโค่นศัตรูนับไม่ถ้วนในวันวาน กำลังย่างเข้าสู่จุดจบของตนเองเสียเเล้ว"
+      "content": "The head manager who must have defeated countless enemies in his glory days was now nearing his own end."
     },
     {
       "id": 2,
-      "place": "เขต 4 - ภายในศูนย์ L Corp",
+      "place": "District 4 - LC Branch Interior",
       "model": "G사부장",
-      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
-      "title": "เศษซาก G Corp.",
-      "content": "ครั้งหนึ่งนายเคยได้รับความยกย่องสรรเสริญ เกรกอร์…"
+      "teller": "Decrepit G Corp. Head Manager",
+      "title": "G Corp. Remnant",
+      "content": "You were once well-respected, Gregor…"
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "…ฉันไม่เคยขอให้ใครมายกย่องฉันสักหน่อย"
+      "content": "…I never really asked for respect."
     },
     {
       "id": 4,
       "model": "G사부장",
-      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
-      "title": "เศษซาก G Corp.",
-      "content": "อย่าเดินหน้าต่อไปอีกเลย… ข้างหน้ามีแต่นรกที่รอพวกนายอยู่"
+      "teller": "Decrepit G Corp. Head Manager",
+      "title": "G Corp. Remnant",
+      "content": "Don’t proceed any further… Only hell awaits you."
     },
     {
       "id": 5,
       "model": "그레고르",
-      "content": "ขอโทษทีนะ แต่ฉันคงทำตามที่นายว่าไม่ได้… ฉันต้องเป็นคนขยันทำงานนะ ถ้าฉันยังไม่อยากโดนไล่ออก"
+      "content": "Sorry, but I don’t think I can follow your advice. I ought to be a go-getter if I don’t wanna be fired."
     },
     {
       "id": 6,
       "model": "G사부장",
-      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
-      "title": "เศษซาก G Corp.",
-      "content": "นาย… ทิ้งเกียรติของตัวเองไป เพื่อเศษเงินแค่นี้เนี่ยนะ?"
+      "teller": "Decrepit G Corp. Head Manager",
+      "title": "G Corp. Remnant",
+      "content": "Have you abandoned your honor… for some pittance?"
     },
     {
       "id": 7,
       "model": "그레고르",
-      "content": "ฉันขายมันทิ้งไปพร้อมกับเหรียญตราของฉันไปนานเเล้วล่ะ… พอดีเจ้าของห้องเช่าฉันเขารอฉันจ่ายค่าเช่าไม่ไหวแล้วนี่นา"
+      "content": "I sold that away long ago, right with my medal. Landlord couldn’t wait for rent any longer."
     },
     {
       "id": 8,
-      "content": "รอยยิ้มเจื่อนๆ ได้ปรากฏขึ้นบนใบหน้าของอดีตหัวหน้าผู้จัดการ"
+      "content": "A bitter smile appeared on the head manager’s face."
     },
     {
       "id": 9,
       "model": "G사부장",
-      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
-      "title": "เศษซาก G Corp.",
-      "content": "นายก็… ไม่ต่างจากพวกเรานักหรอก…"
+      "teller": "Decrepit G Corp. Head Manager",
+      "title": "G Corp. Remnant",
+      "content": "You’re… no different from us…"
     },
     {
       "id": 10,
       "model": "G사부장",
-      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
-      "title": "เศษซาก G Corp.",
-      "content": "สุดท้ายแล้ว… เราทุกคนก็เป็นแค่…"
+      "teller": "Decrepit G Corp. Head Manager",
+      "title": "G Corp. Remnant",
+      "content": "In the end, we’re…"
     },
     {
       "id": 11,
       "model": "G사부장",
-      "teller": "อดีตหัวหน้าผู้จัดการ G Corp.",
-      "title": "เศษซาก G Corp.",
-      "content": "เป็นแค่แมลงน่าขยะแขยงเท่านั้นเเหละ…"
+      "teller": "Decrepit G Corp. Head Manager",
+      "title": "G Corp. Remnant",
+      "content": "Nothing… but disgusting pests…"
     },
     {
       "id": 12,
-      "content": "เขาหายใจเบาๆ อีกไม่กี่ครั้ง… ก่อนที่ร่างนั้นแน่นิ่งลง"
+      "content": "He took a few more shallow breaths, then ceased to move."
     },
     {
       "id": 13,
       "model": "그레고르",
-      "content": "……เฮ้ ขอบุหรี่ให้ฉันสักมวนได้ไหม?"
+      "content": "…Hey, mind if I borrow a cig?"
     },
     {
       "id": 14,
       "model": "료슈",
-      "content": "…ครั้งนี้ครั้งเดียว"
+      "content": "…Just this once."
     },
     {
       "id": 15,
-      "content": "เกรกอร์คาบบุหรี่ที่ยืมมา ไว้ข้างๆมวนที่เขายังสูบอยู่ จากนั้นก็จุดมันขึ้น แล้วโยนมันลงบนหน้าอกของร่างไร้วิญญาณของผู้บัญชาการ"
+      "content": "Gregor put the borrowed cigarette next to the one he already held in his mouth, then lit it and tossed it on the chest of the deceased commander."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "ขอโทษที พอดีไม่อยากใช้บุหรี่ของฉันนะ"
+      "content": "Sorry, didn’t wanna share mine with that thing."
     },
     {
       "id": 17,
       "model": "료슈",
-      "content": "…เหอะ"
+      "content": "…Hmph."
     },
     {
       "id": 18,
-      "content": "เรียวชูแค่นเสียงเบาๆ ควันจากบุหรี่ของเกรกอร์ลอยคลุ้งไปในอากาศท่ามกลางความเงียบที่ปกคลุมทุกอย่างไว้"
+      "content": "Ryōshū gave a snort. The smoke from Gregor’s cigarette lingered with the prevailing silence in the air for a short while."
     }
   ]
 }

@@ -2,119 +2,119 @@
   "dataList": [
     {
       "id": "announcer_cheer_9_1",
-      "dlg": "เอ มันบันทึกอยู่รึเปล่านะ พูดผ่านตรงนี้หรอ...? โอ้, ก็โชคดีนะ!"
+      "dlg": "Is the recorder on? Do I speak through here...? Oh, good luck!"
     },
     {
       "id": "announcer_cheer_9_2",
-      "dlg": "ฉันก็ไม่รู้ว่าตัวฉันจะช่วยได้มากแค่ไหน... แต่ฉันจะพยายามให้ดีที่สุดนะ"
+      "dlg": "I don't know how much help I will be... but I'll try my best."
     },
     {
       "id": "announcer_specialcheer_9_1",
-      "dlg": "พวกนายโอเคมั้ย...? การโจมตีเมื่อกี้ดูรุนแรงเอาเรื่องเลยนะ..."
+      "dlg": "Are you guys okay...? That attack seemed painful..."
     },
     {
       "id": "announcer_specialcheer_9_2",
-      "dlg": "โอ้ไม่นะ... พวกนายดูเจ็บหนักมากเลย..."
+      "dlg": "Oh no... You guys look pretty hurt..."
     },
     {
       "id": "announcer_enemy_break_9_1",
-      "dlg": "ศัตรูตัวนั้นแหละ, จัดการก่อนเลย"
+      "dlg": "That entity over there, let's take that one out first."
     },
     {
       "id": "announcer_ally_break_9_1",
-      "dlg": "ต้องระวังไว้ให้ดี... ต่อให้เป็นเพื่อนกัน แต่ถ้าใจหรือกายพังไปแล้ว, ก็ไม่รู้ว่าจะทำอะไรลงไปบ้าง..."
+      "dlg": "Be careful... People with damaged minds or bodies, even if they're your friends, are unpredictable..."
     },
     {
       "id": "announcer_killenemy_9_1",
-      "dlg": "ทำได้แล้ว อย่ายอมแพ้นะ...!"
+      "dlg": "You're doing it. Don't give up...!"
     },
     {
       "id": "announcer_ally_dead_9_1",
-      "dlg": "ด-ดันเต้, คุณเอาพวกเขากลับมาได้...ใช่ไหม?"
+      "dlg": "D-Dante, you can bring them back... right?"
     },
     {
       "id": "announcer_enemy_adv_9_1",
-      "dlg": "วุ่นวายชะมัด... เสียงไซเรนนั่น... อย่างกับมันจะดังขึ้นอีกครั้งเลย..."
+      "dlg": "This is a mess... It's like I can... almost hear the sirens again..."
     },
     {
       "id": "announcer_ally_advex_9_1",
-      "dlg": "สถานการณ์ตอนนี้ไม่ค่อยดีเท่าไหร่... แต่ฉันเชื่อว่าทุกคนน่ะทำได้แน่นอน!"
+      "dlg": "The situation isn't ideal... But I know you guys can do it!"
     },
     {
       "id": "announcer_danger_9_1",
-      "dlg": "ตั้งสมาธิให้ดีนะ ประจันหน้า,จนกว่ามันจะจบล่ะ"
+      "dlg": "You have to focus now. Face it, to the end."
     },
     {
       "id": "announcer_enemy_specialskill_9_1",
-      "dlg": "การโจมตีหนักกำลังจะมา...! แต่พวกเธอยังเอาอยู่ใช่ไหม?"
+      "dlg": "A powerful attack incoming...! You guys got this, right?"
     },
     {
       "id": "announcer_enemy_specialgimmick_9_1",
-      "dlg": "สถานการณ์ตอนนี้ไม่ค่อยดีเท่าไหร่... แต่ฉันเชื่อว่าทุกคนทำได้แน่นอน...?!"
+      "dlg": "A bitter taste in my mouth... It always happens right before imminent danger...?!"
     },
     {
       "id": "announcer_advatk_physical_9_1",
-      "dlg": "คมมีดนั่นไม่เบาเลยนะ... เดาว่านั่นคงเป็นจุดอ่อนของพวกมันล่ะ, สินะ?"
+      "dlg": "That's a sharp blade. I'm guessing that's their weakness, huh?"
     },
     {
       "id": "announcer_disadvatk_physical_9_1",
-      "dlg": "โอ้... แบบนี้ไม่เวิร์คแฮะ ต้องจดลงในบันทึกการจัดการไว้ก่อนละนะ..."
+      "dlg": "Oh... That didn't work so well. I'll have to write it down in the management logs..."
     },
     {
       "id": "announcer_advatk_attr_9_1",
-      "dlg": "เป็นการจัดการที่ดีมาก ค่อยสบายใจหน่อย"
+      "dlg": "Good management work. What a relief."
     },
     {
       "id": "announcer_disadvatk_attr_9_1",
-      "dlg": "บางทีวิธีการอื่นอาจจะดีกว่านี่นะ สำหรับจัดการเจ้าตัวนั้นน่ะ..."
+      "dlg": "Maybe a different method would've worked better against that entity..."
     },
     {
       "id": "announcer_enemy_specialbuff_9_1",
-      "dlg": "ศัตรูกำลังจะเอาจริงแล้ว เข้าประชิดให้รอบคอบไว้ล่ะ"
+      "dlg": "The hostile entity is getting revved up. Let's try to approach this carefully."
     },
     {
       "id": "announcer_enemy_specialdebuff_9_1",
-      "dlg": "เอ๊ะ?! พวกมันอ่อนแรงลงแล้วหรอ...! นี่แหละโอกาสแล้วรึเปล่านะ?"
+      "dlg": "Huh?! Looks like they're weakened...! Is this our chance?"
     },
     {
       "id": "announcer_ally_specialbuff_9_1",
-      "dlg": "เฮ้, สปิริตดีนี่พวกนาย"
+      "dlg": "Hey, you guys are in high spirits."
     },
     {
       "id": "announcer_ally_specialdebuff_9_1",
-      "dlg": "ดันเต้... พวกเราควรให้พวกคนบาปเขาพักผ่อนซักนิดนึงดีไหมคะ...?"
+      "dlg": "Dante... How about a quick break for the Sinners...?"
     },
     {
       "id": "announcer_enemy_destroy_9_1",
-      "dlg": "พวกเธอจัดการทำลายชิ้นส่วนได้แล้ว! น่าจะพอหายใจหายคอกันได้บ้างล่ะนะ"
+      "dlg": "You guys broke off a part! Hopefully things will ease up a little now."
     },
     {
       "id": "announcer_enemy_destroy_9_2",
-      "dlg": "ฉันน่าจะต้องจดไว้หน่อยนะ วิธีจัดการกับสิ่งมีชีวิตที่เสียชิ้นส่วนไป..."
+      "dlg": "I should record how to manage entities with missing parts..."
     },
     {
       "id": "announcer_round_takebigdmg_9_1",
-      "dlg": "แย่แล้ว...! ทุกคนโอเคมั้ย?"
+      "dlg": "Oh no...! Are you okay, everyone?"
     },
     {
       "id": "announcer_round_takebigdmg_9_2",
-      "dlg": "เป็นการโจมตีที่รุนแรงมากจริงๆ... ฉันหวังว่าทุกๆคนจะโอเคนะ..."
+      "dlg": "That was a really powerful attack... I hope everyone's okay..."
     },
     {
       "id": "announcer_round_givebigdmg_9_1",
-      "dlg": "โอ้! เธอทำแบบนั้นได้ยังไงน่ะ? เล่นเอาฉันตกใจหมดเลย...!"
+      "dlg": "Woah! How did you do that? That totally caught me off guard...!"
     },
     {
       "id": "announcer_round_givebigdmg_9_2",
-      "dlg": "ฉันคิดว่าการโจมตีของเธอเมื่อกี้ที่ให้งานเราง่ายขึ้นสุดๆเลย... ดีล่ะ!"
+      "dlg": "I think your earlier attack made things a bit easier... Nice!"
     },
     {
       "id": "announcer_multikillenemy_9_1",
-      "dlg": "หลายตัวภายในครั้งเดียวอย่างกับ... เดอเฟรย์สซุตเลย..."
+      "dlg": "So many at once... Just like Der Freischütz..."
     },
     {
       "id": "announcer_equip_9_1",
-      "dlg": "ยูริ...ค่ะ ฉันไม่คิดว่าพวกเขาจะขอให้ฉันทำอะไรแบบนี้เลยน่ะ..."
+      "dlg": "Yuri... here. I didn't think they'd be asking me to do something like this..."
     }
   ]
 }

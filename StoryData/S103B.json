@@ -2,16 +2,16 @@
   "dataList": [
     {
       "id": 0,
-      "place": "ซักเเห่งในเเบ็คสตรีทเขต 4",
-      "content": "ด้วยเสียงกึกกักนั้น ด้านข้างของรถบัสก็เอียงเเละเปิดออกมา"
+      "place": "Some Backstreets of District 4",
+      "content": "With a guttural noise, the side of the bus lurches and splits open."
     },
     {
       "id": 1,
-      "content": "เศษมนุษย์จำนวนหนึ่งกระจัดกระจายอยู่ตรงหน้ามัน บ้างก็ยังมีสติ บ้างก็ไม่ได้ครบสามสิบสองซะทีเดียว"
+      "content": "A number of human shapes littered the ground before its maw. Some were still conscious, while others weren’t exactly in one piece."
     },
     {
       "id": 2,
-      "content": "จากนั้น รถบัสก็เริ่มที่จะกลืนกินศพนั้นลงไปอย่างกับเสิร์ฟให้ดังจานอาหารอย่างตะกละเเละมูมมาม"
+      "content": "Then, the bus began devouring those served to it in the most literal sense. Gluttonously, voraciously."
     },
     {
       "id": 3,
@@ -20,56 +20,56 @@
     },
     {
       "id": 4,
-      "content": "เรียวชูมองไปด้วยสีหน้าที่พึงพอใจ เหมือนกับเพลิดเพลินกับทุกชั่วเวลาที่รถบัสชำเเหละเศษพวกนั้นเป็นชิ้นๆ…"
+      "content": "Ryōshū watched it with a satisfied expression, seemingly determined to savor every moment…"
     },
     {
       "id": 5,
-      "content": "ในขณะที่เหลือบมองจากมุมตาฉัน ซินเเคลร์ดูเหมือนจะวิตกกังวลอย่างเห็นได้ชัด"
+      "content": "While in the corner of my eye, Sinclair was clearly distressed."
     },
     {
       "id": 6,
       "model": "싱클레어",
-      "content": "พวกเขา… ดูเหมือนจะเสียสติกันหมดเลย คิดเหมือนกันไหมครับ?"
+      "content": "They… all look like they’re out of their minds. Don’t you think so too?"
     },
     {
       "id": 7,
-      "content": "ปฎิกิริยาของเขาทำให้ฉันอยากจะรู้ถึงเรื่องราวของพวกเขาเลย"
+      "content": "His reaction got me curious to know their stories."
     },
     {
       "id": 8,
       "model": "단테",
-      "content": "<ขอพูดให้เเน่ใจ ไม่มีหนึ่งในพวกนายที่ถูกบังคับมาเลย ใช่ไหม?>"
+      "content": "<Just to make sure… None of you were forced to join, right?>"
     },
     {
       "id": 9,
-      "content": "ถึงเเม้ว่าสิ่งที่ฉันจะไปพัวพันในช่วงก่อนที่หัวฉันจะเปลี่ยนยังเป็นปริศนาก็เถอะ ฉันเองก็เหมือนถูกบังคับให้เข้าร่วมบริษัทนี้ เท่าที่ฉันเข้าใจในตอนนี้"
+      "content": "Though what I was involved in before my head’s change is a mystery, I myself was practically forced to join the company judging from what I know at the moment."
     },
     {
       "id": 10,
-      "content": "บางทีพวกนั้นอาจจะไม่ได้ต่างฉันก็ได้ หรือฉันอาจจะคิดอย่างนั้นเมื่อ…"
+      "content": "And maybe they aren’t so different from me, or so I thought, when…"
     },
     {
       "id": 11,
       "model": "싱클레어",
-      "content": "อา…"
+      "content": "Ah…"
     },
     {
       "id": 12,
-      "content": "หัวของซินเเคลร์ก้มลงตอบราวกับฉันยิงคำถามตรงจุด"
+      "content": "Sinclair’s head drooped in response, like I struck a nerve."
     },
     {
       "id": 13,
       "model": "싱클레어",
-      "content": "ใช่เเล้วครับ ผมเป็นคนเลือกเอง บางทีผมอาจจะต้องขินกับเรื่องเเบบนี้ ใช่ไหมครับ?"
+      "content": "That’s right. It was by my choice. I’ll get used to all this… Right?"
     },
     {
       "id": 14,
-      "content": "เขาพึมพำเหมือนกับคุยกับคนอื่นนอกจากฉัน"
+      "content": "He muttered as if he were talking to someone other than me."
     },
     {
       "id": 15,
       "model": "돈키호테",
-      "content": "ข้าก็จักกระทำเช่นนี้ เเม้มิได้ว่าบริษัทจะจ้างข้าก็ตาม! ดูนั้นเถิด เหล่าอันธพาลยกโขยงกันมาเเล้ว!"
+      "content": "‘Tis what I would have done even if the company recruited me not! Look, yon horde of evil approaches!"
     }
   ]
 }

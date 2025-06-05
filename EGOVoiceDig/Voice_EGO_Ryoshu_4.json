@@ -3,82 +3,82 @@
     {
       "id": "battle_awaken_20401_1",
       "desc": "E.G.O Activation",
-      "dlg": "OSHARE.\n(พันธะที่ถูกสร้างให้ลุกไหม้ เหนือโลกอันแข็งแกร่งใบนี้)"
+      "dlg": "OSHARE.\n(Obligate style hearkens aflame this robust earth.)"
     },
     {
       "id": "battle_awaken_20402_1",
       "desc": "E.G.O Activation",
-      "dlg": "เปลวเพลิงนี้, ก็เป็นความสุขทางศิลปะเหมือนกัน."
+      "dlg": "This flame, too, is artful ecstasy."
     },
     {
       "id": "battle_erosion_20402_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "เปลวเพลิงที่กลืนกินทุกสิ่ง..."
+      "dlg": "The all-consuming fire…"
     },
     {
       "id": "battle_awaken_20403_1",
       "desc": "E.G.O Activation",
-      "dlg": "เอาล่ะ..มาลองชิมกันเถอะ"
+      "dlg": "Now, let's have a taste."
     },
     {
       "id": "battle_erosion_20403_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ถึงเวลาที่เเกจะมาเป็นอาหารให้ฉันเเล้วล่ะ... ฮึๆ"
+      "dlg": "Time to serve as nutrition... Heh."
     },
     {
       "id": "battle_awaken_20404_1",
       "desc": "E.G.O Activation",
-      "dlg": "ฉันคอย...จับตามองแกเสมอ"
+      "dlg": "I've... always had my eye on you."
     },
     {
       "id": "battle_erosion_20404_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ดูเหมือนว่าจะไม่มีใครมาช่วยแกเลยนะ... ฮึฮ่าฮ่าฮ่า"
+      "dlg": "Turns out no one's come to save you... Kehehe."
     },
     {
       "id": "battle_awaken_20405_1",
       "desc": "E.G.O Activation",
-      "dlg": "เอาเลย, อ้ากว้างๆ. ผ่อนคลายแล้วอัดเครื่องดื่มนี้ลงคอแกไปซะ, ฮึๆ."
+      "dlg": "Go on, open wide. Relax and cram this drink down your throats, heheh."
     },
     {
       "id": "battle_awaken_20405_2",
       "desc": "E.G.O Activation",
-      "dlg": "งั้นก็อ้าปากกว้างๆนะ, พวกแกน่ะ"
+      "dlg": "Right, then. Open wide, all of you."
     },
     {
       "id": "battle_erosion_20405_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "เริ่มง่วงนอนแล้ว... ใช่ไหมล่ะ?"
+      "dlg": "Starting to feel drowsy... aren't you?"
     },
     {
       "id": "battle_awaken_20406_1",
       "desc": "E.G.O Activation",
-      "dlg": "ฉันเท่านั้นที่เคลื่อนไหวท่ามกลางคลื่นเหล่านี้... แตกสลายไปซะ."
+      "dlg": "I am the only one who moves in these waves. ... Shatter."
     },
     {
       "id": "battle_erosion_20406_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "นั่งอยู่นิ่งๆ... ฉันจะแทงแกด้วยหลอดฟลูออเรสเซนต์นี่ซะ!"
+      "dlg": "Sit tight... I'll skewer you with the fluorescent light!"
     },
     {
       "id": "battle_awaken_20407_1",
       "desc": "E.G.O Activation",
-      "dlg": "แหลกสลาย ทุกสายตาจะจับจ้องไปยังความน่ารังเกียจนี้"
+      "dlg": "Scatter. Every gaze shall be drawn to this squalidity."
     },
     {
       "id": "battle_erosion_20407_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "การดูถูก...ชีพจรนี้... จะระเบิดไปกับความเกลียดชังที่แผดเผาและแหลมคมนี้!"
+      "dlg": "Contempt...! Pulse, burst with this burning, piercing scorn!"
     },
     {
       "id": "battle_awaken_20408_1",
       "desc": "E.G.O Activation",
-      "dlg": "ความโกรธแค้น การชดใช้... ทั้งหมดนั้นช่างไร้ประโยชน์\nฉันเพียงแค่... เอื้อมมือออกไปหวังจะคว้าบางสิ่ง อะไรก็ได้"
+      "dlg": "Resentment, penance... all of it, to no avail.\nI was only reaching out to grasp onto something, anything."
     },
     {
       "id": "battle_erosion_20408_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ฉันค่อยๆ หายใจเข้า... หายใจออก... แต่ความเจ็บปวดนั้นไม่หายไป..."
+      "dlg": "I breathe in... and out... but it won't stop hurting..."
     }
   ]
 }

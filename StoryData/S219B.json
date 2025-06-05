@@ -21,14 +21,14 @@
     {
       "id": 4,
       "model": "소드",
-      "teller": "ซอเดย์",
+      "teller": "Saude",
       "title": "LCCB",
       "content": "…How did you manage to win without even using any wishpower?"
     },
     {
       "id": 5,
       "model": "소드",
-      "teller": "ซอเดย์",
+      "teller": "Saude",
       "title": "LCCB",
       "content": "No, before any of that, what made you so sure that you’ll win regardless?"
     },
@@ -64,7 +64,7 @@
     {
       "id": 12,
       "model": "에피",
-      "teller": "เอฟฟี่",
+      "teller": "Effie",
       "title": "LCCB",
       "content": "So… You deliberately made it look like you were using a sticker so that he’d call you out on it?"
     },
@@ -81,7 +81,7 @@
     {
       "id": 15,
       "model": "소드",
-      "teller": "ซอเดย์",
+      "teller": "Saude",
       "title": "LCCB",
       "content": "……"
     },
@@ -103,14 +103,14 @@
     {
       "id": 19,
       "model": "소드",
-      "teller": "",
+      "teller": "Saude",
       "title": "LCCB",
       "content": "That can’t be true… J Corp’s wishpower-related tech is an officially approved semi-Singularity with widely proven efficacy."
     },
     {
       "id": 20,
       "model": "소드",
-      "teller": "ซอเดย์",
+      "teller": "Saude",
       "title": "LCCB",
       "content": "Thousands of people rely on wishpower for every aspect of their lives…"
     },
@@ -200,7 +200,7 @@
     {
       "id": 38,
       "model": "소드",
-      "teller": "ซอเดย์",
+      "teller": "Saude",
       "title": "LCCB",
       "content": "Although we’ve earned ownership… we have nothing proper to show as proof that we won, and we’re more or less intruders to them."
     },

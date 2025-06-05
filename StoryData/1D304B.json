@@ -2,33 +2,33 @@
   "dataList": [
     {
       "id": 0,
-      "place": "จุดกึ่งกลางของสงครามควัน",
+      "place": "Central Front in the Smoke War",
       "model": "그레고르",
-      "content": "คุณยูริ ทำไมถึงได้ชักช้าแบบนั้นล่ะ?"
+      "content": "What’s the delay, Yuri?"
     },
     {
       "id": 1,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "ข-ขอเวลาแป๊บนึงค่ะ… หน้ากากกันแก๊สหล่นจากกระเป๋าฉันน่ะ"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "G-Give me a second, please. The gas mask fell off my bag…"
     },
     {
       "id": 2,
       "model": "오티스",
-      "content": "ตอนนี้เอาไปก็ไม่มีประโยชน์อะไรแล้ว มีแต่เป็นภาระเพิ่มเติม"
+      "content": "I don’t see it serving any practical purpose now. You’re only weighing yourself down."
     },
     {
       "id": 3,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "แต่ว่า… มันเป็นของที่ระลึกจากคุณอาย่า"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "I mean, it’s… Aya’s memento."
     },
     {
       "id": 4,
       "model": "오티스",
-      "content": "เธอกำลังทำเรื่องไร้สาระที่สุดในโลกอยู่นะ คิดว่าตัวเองเป็นพวก N Corp. รึไง"
+      "content": "You indulge in the most pointless activity in the world, and you aren’t even from N Corp."
     },
     {
       "id": 5,
@@ -38,79 +38,79 @@
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "มัดให้มันแน่นกว่านี้หน่อย"
+      "content": "Tie it the other way."
     },
     {
       "id": 7,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "ประทานโทษนะคะ?"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "Sorry?"
     },
     {
       "id": 8,
       "model": "이스마엘",
-      "content": "เงื่อนที่เธอมัดมันหลวมไป ถ้ามัดแบบนี้เดี๋ยวมันก็หลุดอีก"
+      "content": "The knot. It’ll come loose again if you tie it that way."
     },
     {
       "id": 9,
       "model": "이스마엘",
-      "content": "ฉันรู้จักเงื่อนแบบนักเดินเรือที่ใช้บนเรือ เดี๋ยวจะสอนให้ตอนกลับไปที่รถบัสนะ"
+      "content": "There’s a sailor’s knot I learned on the boat. I’ll teach you how to do it back on the bus."
     },
     {
       "id": 10,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "โอ้… ขอบคุณนะคะ"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "Oh… Thank you."
     },
     {
       "id": 11,
       "model": "히스클리프",
-      "content": "เฮ้ยเดี๋ยว… นี่เธอเป็นมิตรกับคนอื่นได้ตั้งแต่เมื่อไหร่กัน?"
+      "content": "What now. Since when were you so friendly?"
     },
     {
       "id": 12,
       "model": "로쟈",
-      "content": "ยูริ~ รู้ไหม? ทำไมเธอไม่เข้าร่วมบริษัทของพวกเราซะเลยล่ะ?"
+      "content": "Yuri~ Y’know what? Why don’t you join our company while you’re at it?"
     },
     {
       "id": 13,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "ฉ-ฉันเหรอคะ?"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "M-Me?"
     },
     {
       "id": 14,
       "model": "파우스트",
-      "content": "นั่นมัน…"
+      "content": "That’s…"
     },
     {
       "id": 15,
       "model": "로쟈",
-      "content": "ฉันรู้น่า ฉันรู้~ ต้องขออนุญาตจากเวอร์จิลิอุสหรือพวกเบื้องบนก่อนใช่ไหมล่ะ? แต่แค่เสนอไอเดียหน่อยก็คงไม่เสียหายอะไรหรอก"
+      "content": "I know, I know. We need to get the okay from Vergilius or his superiors and all that. But a little suggestion doesn’t hurt."
     },
     {
       "id": 16,
       "model": "파우스트",
-      "content": "อืมม ไว้จะเก็บไปคิดค่ะ"
+      "content": "Hm… I wonder."
     },
     {
       "id": 17,
       "model": "로쟈",
-      "content": "แถม ผมสีชมพูของเธอเหมาะจะเป็นมาสคอตของพวกเราสุดๆเลยนะ!\nเอาเถอะน่า ลองคิดดูหน่อยไม่ได้เหรอ? นะ?"
+      "content": "Plus, pink hair makes a perfect mascot to represent us. C’mon, won’t you give it some thought? Please?"
     },
     {
       "id": 18,
       "model": "유리",
-      "teller": "ยูริ",
-      "title": "ฟิกเซอร์เกรด 8",
-      "content": "ม-มาสคอตเหรอคะ…? ฮะฮะ…"
+      "teller": "Yuri",
+      "title": "Grade 8 Fixer",
+      "content": "A—A mascot…? Huhu."
     },
     {
       "id": 19,
-      "content": "เป็นครั้งแรกที่ยูริ ยิ้มออกมา ถึงแม้จะเป็นรอยยิ้มที่เบาบางก็ตาม"
+      "content": "Yuri made a smile for the first time, albeit faintly."
     }
   ]
 }

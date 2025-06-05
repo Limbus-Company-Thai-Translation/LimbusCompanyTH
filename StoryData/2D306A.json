@@ -1,151 +1,151 @@
 {
-  "dataList": [{},
+  "dataList": [
     {
       "id": 0,
-      "place": "ปราสาทน้ำแข็งที่เพื่อนบ้านพักผ่อน",
+      "place": "Ice Castle Where Neighbors Lie",
       "model": "이스마엘",
-      "content": "ฉันเห็นทางออกอยู่ตรงนั้นค่ะ!"
+      "content": "I see the exit over there!"
     },
     {
       "id": 1,
       "model": "히스클리프",
-      "content": "บ้าชิบ มันยังตามมาอีก!"
+      "content": "Gah, persistent rotters."
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "< เราต้องหาทางถ่วงเวลาพวกมันก่อนถึงจะหนีไปได้… >"
+      "content": "<We’ll have to distract them somehow before we can get away…>"
     },
     {
       "id": 3,
       "model": "료슈",
-      "content": "ทำไมไม่โยนใครสักคนใส่มันไปล่ะ? เดี๋ยวค่อยไปเก็บคืนทีหลังก็ได้"
+      "content": "Why don’t you throw one of us at ‘em? You can bring them back later anyway."
     },
     {
       "id": 4,
       "model": "싱클레어",
-      "content": "ทำไมพูดแบบนั้นแล้วจ้องมาที่ผมด้วยล่ะครับ?!"
+      "content": "Why are you looking at me while you say that?!"
     },
     {
       "id": 5,
       "model": "단테",
-      "content": "< …เดี๋ยวก่อน ดูนั่น… >"
+      "content": "<…Hold on, look there…>"
     },
     {
       "id": 6,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "ปล่อยให้ฉันจัดการเอง"
+      "content": "Leave this to me."
     },
     {
       "id": 7,
       "model": "로쟈",
-      "content": "โซเนี่ย?! นี่นายจะเล่นอะไรน่ะ!?"
+      "content": "Sonya?! What are you playing at?"
     },
     {
       "id": 8,
       "model": "단테",
-      "content": "< โรเดีย! ทำไมเธอดูไม่ไว้ใจเขาเลย? เราต้องรับความช่วยเหลือเท่าที่จะหาได้สิ! >"
+      "content": "<Rodya! What’s with your attitude? We have to take all the help we can get!>"
     },
     {
       "id": 9,
       "model": "로쟈",
-      "content": "ฉันเคยเห็นคนที่เสนอตัวช่วยแบบไม่หวังผล สุดท้ายพวกเขาก็มีแผนอะไรเบื้องหลังตลอดนั่นแหละ"
+      "content": "I’ve seen people who’d offer to help without asking for anything, and they’d usually have some ulterior motive."
     },
     {
       "id": 10,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
       "content": "……"
     },
     {
       "id": 11,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "มันก็เหมือนที่เธออดใจไม่ไหวจนต้องใช้ขวานในวันนั้นไง"
+      "content": "It’s just like how you simply couldn’t hold yourself back from using your axe that day."
     },
     {
       "id": 12,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "ฉันเองก็เพิ่งค้นพบว่าบางทีตัวฉันเองก็อาจมีแรงจูงใจแปลก ๆ ที่อธิบายไม่ได้เหมือนเธอ"
+      "content": "I’m discovering that I might have a similarly… inexplicable drive pushing me."
     },
     {
       "id": 13,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "ดันเต้ ดูเหมือนว่าองค์กรของนายก็คงทำเพื่อสร้างโลกที่ดีกว่าเหมือนกันใช่ไหม?"
+      "content": "Dante, I take it that your organization is working to make a better world in its own right, yes?"
     },
     {
       "id": 14,
       "model": "단테",
-      "content": "< ฉัน... เอ่ออ เอิ่ม >"
+      "content": "<I… Uh-huh?>"
     },
     {
       "id": 15,
-      "content": "โลกที่ดีกว่า? เขาหมายถึงอะไรกันแน่?"
+      "content": "What does a better world entail?"
     },
     {
       "id": 16,
-      "content": "นี่เป็นครั้งแรกที่ฉันเริ่มตั้งคำถามกับเป้าหมายของบริษัทของเรา Limbus Company"
+      "content": "For the first time, I was reminded that I had never questioned the motivations of Limbus Company."
     },
     {
       "id": 17,
-      "content": "แต่โชคดีที่ความลังเลของฉันไม่ได้ส่งไปถึงโซเนีย เขาแค่ถือว่าความเงียบของฉันนั้นคือคำตอบ"
+      "content": "Thankfully, none of my contemplative fudging reached Sonya, and he took my lack of a response as a sign of agreement."
     },
     {
       "id": 18,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "บางครั้ง ความเงียบก็พูดแทนทุกอย่าง ฉันจะถือว่านั่นคือคำตอบที่ดีล่ะกัน"
+      "content": "Silence sometimes speaks volumes. I’ll take that as a positive."
     },
     {
       "id": 19,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "แล้วก็… เด็กคนนั้นจะมาหานายในไม่ช้านี้เหมือนกัน"
+      "content": "And one more thing… That child will soon visit you, too."
     },
     {
       "id": 20,
       "model": "단테",
-      "content": "< เด็ก? >"
+      "content": "<Child?>"
     },
     {
       "id": 21,
       "model": "싱클레어",
-      "content": "หืม?"
+      "content": "Huh?"
     },
     {
       "id": 22,
       "model": "싱클레어",
-      "content": "อะ… ขอโทษที ผมคงตาฝาดไปเอง แต่เมื่อกี้ผมว่าผมเห็นอะไรบางอย่างบนหน้าผากของเขานะ…"
+      "content": "Ah… Sorry. My eyes must have fooled me. I thought I saw something on his forehead for a second…"
     },
     {
       "id": 23,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "ใช่ หมายถึงเด็กคนนั้นที่ฝากรอยความทรงจำลึกไว้ในตัวพวกนาย การพบกันครั้งหน้าของพวกนายน่าจะเป็นอะไรที่น่าประทับใจทีเดียว ฉันว่านะ"
+      "content": "Indeed, I mean that boy who left quite the impression on you. It’ll be a touching reunion, I imagine."
     },
     {
       "id": 24,
-      "content": "โซเนียพยักพเยิดไปทางด้านหลังของเขา"
+      "content": "Sonya nudges his chin at something behind him."
     },
     {
       "id": 25,
-      "content": "แสงสว่างส่องออกมาจากเศษซากน้ำแข็งที่ถล่มลงมา เปล่งประกายเป็นเอกลักษณ์…"
+      "content": "A faint light was shining between the fallen blocks of ice, giving a distinctive glow…"
     },
     {
       "id": 26,
       "model": "단테",
-      "content": "< กิ่งทอง... >"
+      "content": "<The Golden Bough…>"
     },
     {
       "id": 27
@@ -153,372 +153,372 @@
     {
       "id": 28,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "อย่าหวังว่าครั้งหน้าที่พวกเราเจอกัน ฉันจะใจดีเหมือนครั้งนี้ซะล่ะ"
+      "content": "Don’t expect me to act on the same impulse of kindness next we meet, though."
     },
     {
       "id": 29,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "ถ้าฉันเห็นเส้นทางที่ชัดเจนในการนำความรุ่งเรืองมาสู่ผู้คนล่ะก็ ฉันไม่มีทางลังเลที่จะเลือกมันอย่างแน่นอน"
+      "content": "If a clear path towards prosperity of the many shows itself before my eyes, I’ll take it without hesitation."
     },
     {
       "id": 30,
-      "content": "หลังจากทิ้งปริศนาไว้ให้พวกเรา โซเนียก็เดินจากไป และเหล่ากลุ่ม Yurodiviye ก็ทยอยปรากฏตัวทีละคน"
+      "content": "After Sonya left us with a mysterious message, the Yurodiviye began to show up one after the other."
     },
     {
       "id": 31,
-      "content": "…บางทีช่วงเวลานี้อาจเหมาะกับการกล่าวคำอำลาแบบซึ้ง ๆ แบบ “ฉันจะไม่ลืมนายนะ!”"
+      "content": "Well… This may have been as good a time as any for touching farewells like “I won’t forget you!”"
     },
     {
       "id": 32,
-      "content": "…แต่พอฉันมองเห็น… โรเดียนที่เป็นคนแรกที่วิ่งไปทางออกอย่างไม่คิดหันหลังกลับ"
+      "content": "…Then I saw that Rodya was the first to sprint for the exit."
     },
     {
       "id": 33,
       "model": "이상",
-      "content": "โรเดียน เธอไม่รู้สึกอะไรเลยเหรอ?"
+      "content": "Rodion. Are you not concerned?"
     },
     {
       "id": 34,
       "model": "로쟈",
-      "content": "อะไรเหรอ?"
+      "content": "What’s up?"
     },
     {
       "id": 35,
       "model": "이상",
-      "content": "แม้ว่าจะมีซึ่งอุดมคติที่ต่างกัน แต่เขานั้นก็ยังเคยเป็นเพื่อนของเธอ"
+      "content": "Irrespective of consequential differences, he was nevertheless a friend of yours."
     },
     {
       "id": 36,
       "model": "로쟈",
-      "content": "อ๋อ เรื่องนั้น~ หืม เขาเป็นพวกคนฉลาด ฉันมั่นใจว่าเดี๋ยวเขาก็หาทางเอาตัวรอดได้เองแหละนะ"
+      "content": "Ah, that~ Eh, he’s a clever sort, so I’m sure he’ll figure out a way to live and all that jazz."
     },
     {
       "id": 37,
       "model": "이상",
-      "content": "…ช่างเป็นมิตรภาพที่สมบูรณ์แบบจริง ๆ"
+      "content": "…Truly, an ideal form of friendship."
     },
     {
       "id": 38,
-      "content": "ไม่นานหลังจากนั้น…"
+      "content": "Sometime later…"
     },
     {
       "id": 39,
-      "content": "แม้ว่าฉันจะเหนื่อยแทบตาย แต่ เวอร์จิลิอุส ก็ยังจับจ้องฉันด้วยสายตาดุดันจนกว่าฉันจะสรุปรายงานให้เขาฟัง"
+      "content": "Though I was dead tired, Vergilius wouldn’t spare me from his fierce gaze until I gave him a brief verbal report of what we went through today."
     },
     {
       "id": 40,
-      "place": "ภายในของเมฟิสโตเฟเลส",
+      "place": "Aboard Mephistopheles",
       "model": "베르길리우스",
-      "content": "…เข้าใจล่ะ นั่นคือสิ่งที่เกิดขึ้นสินะ แต่มีเรื่องหนึ่งที่กวนใจฉันอยู่"
+      "content": "…I see, so that’s your story. There’s just one thing that bothers me, though."
     },
     {
       "id": 41,
       "model": "베르길리우스",
-      "content": "ชายคนนั้น… ที่ชื่อโซเนีย? การกระทำของเขาในช่วงท้าย ดูไม่ตรงกับอุดมการณ์ที่เขาพูดออกมาเลย"
+      "content": "This man… Sonya, was it? His actions during those final moments don’t quite seem to match the beliefs he told you."
     },
     {
       "id": 42,
       "model": "베르길리우스",
-      "content": "นั่นคือจุดที่ฉันอยากให้พวกนายจับตามองเขาเอาไว้ด้วย"
+      "content": "Which is why we should scrutinize his true intentions…"
     },
     {
       "id": 43,
       "model": "로쟈",
-      "content": "เฮ้ ขอเวลานอก ขอเวลานอก!!!"
+      "content": "Hey, time out, tiiime out!!!"
     },
     {
       "id": 44,
       "model": "로쟈",
-      "content": "เมื่อกี้อีซังก็ถามไปแล้ว ทีนี้นายก็ด้วยเหรอ?! ทำไมทุกคนเอาแต่สนใจโซเนียมากกว่าฉันล่ะ?! ประเด็นคือพวกเราเอากิ่งทองมาได้เลยนะ"
+      "content": "First Yi Sang, and now you too? Why does everyone care more about Sonya than me? The bottom line is that we got the Golden Bough."
     },
     {
       "id": 45,
       "model": "로쟈",
-      "content": "แล้วก็ มาดูนี่เร็ว ทุกคน~"
+      "content": "As a plus… Check this out, everyone~"
     },
     {
       "id": 46,
-      "content": "โรเดียนล้วงมือเข้าไปในกระเป๋าแล้วดึงชิพพนันสีสันสดใสออกมากำมือหนึ่ง"
+      "content": "From her pockets, Rodya pulled out a colorful bunch of gaming chips in her hands."
     },
     {
       "id": 47,
       "model": "로쟈",
-      "content": "เราสามารถแลกมันเป็นเงินสดได้ที่คาสิโนไหนก็ได้ ว่าไง จะแวะซักที่ดีไหม~"
+      "content": "We can exchange these cuties for cash at any casino, so we should drop by one."
     },
     {
       "id": 48,
       "model": "로쟈",
-      "content": "ฉันแอบจิ๊กมันมาจากพื้นตอนที่คุณผู้จัดการของเราดันทำแจ๊คพอตแตกล่ะ"
+      "content": "I nabbed ‘em while our manager dazzled the floor with their jackpot."
     },
     {
       "id": 49,
       "model": "단테",
-      "content": "< ฉันต้องขอยอมรับเลยนะว่าเธอคิดจะขโมยของท่ามกลางสถานการณ์วุ่นวายแบบนั้นไปได้ยังไง… >"
+      "content": "<I’m impressed that you thought to snatch that stuff amidst all the chaos.>"
     },
     {
       "id": 50,
       "model": "로쟈",
-      "content": "ว่าไงล่ะ เวอร์จี้ ว่าไงล่ะ? มาฉลองความสำเร็จของพวกเราวันนี้ด้วยสเต็กเซอร์ลอยน์สุดฉ่ำกันหน่อยเป็นไง?"
+      "content": "Well, Verg? What do you say to a juicy serving of prime sirloin steak to celebrate our abounding success today?"
     },
     {
       "id": 51,
       "model": "베르길리우스",
-      "content": "…เธอคิดว่ายังไง แครอน?"
+      "content": "…What do you think, Charon?"
     },
     {
       "id": 52,
       "model": "카론",
-      "content": "…อืมมม"
+      "content": "…Mmm."
     },
     {
       "id": 53,
       "model": "카론",
-      "content": "ดูเหมือนเมฟีเองก็อยากได้เนื้อสดฉ่ำนุ่มละมุนลิ้นเหมือนกัน"
+      "content": "Seems Mephi wants it too. Fresh, succulent, juicy meat."
     },
     {
       "id": 54,
       "model": "그레고르",
-      "content": "อึก… ในบรรดาทุกอย่างที่เธอจะพูดได้ ทำไมเป็นนั่นล่ะ…?"
+      "content": "Gah, of all the things you could mention…"
     },
     {
       "id": 55,
       "model": "베르길리우스",
-      "content": "เอาเถอะ งั้นฉันจะปล่อยให้โรเดียนเป็นคนได้เลือกร้านอาหารที่เราจะไปกินในเขต 10"
+      "content": "Alright, then. I’ll leave Rodion to pick a restaurant in District 10 for us."
     },
     {
       "id": 56,
       "model": "카론",
-      "content": "โอเค บรื้นบรื้น~"
+      "content": "Okay. Vroom-vroom."
     },
     {
       "id": 57,
       "model": "로쟈",
-      "content": "นั่นแหละที่อยากฟัง! เวอร์จี้!"
+      "content": "Now we’re talking, Verg."
     },
     {
       "id": 58,
       "model": "로쟈",
-      "content": "หลังจากทุกอย่างที่จบลง…"
+      "content": "After all’s said and done…"
     },
     {
       "id": 59,
-      "content": "ภายใต้รอยยิ้มของเธอ ฉันได้แอบสังเกตเห็นแววตาของเธอที่สั่นไหวไปด้วยความสับสน แต่เพียงชั่วพริบตาเธอก็กลับไปเป็นโรเดียนที่ร่าเริงคนเดิมเหมือนไม่มีอะไรเกิดขึ้น"
+      "content": "Beneath her grin, Rodya’s eyes were shaking with distress, but she soon covers it up with a guise of joviality as if nothing ever happened."
     },
     {
       "id": 60,
       "model": "로쟈",
-      "content": "ฉันนี่มันสุดยอดจริง ๆ ใช่มะใช่ม่ะ?"
+      "content": "I’m pretty rad, aren’t I?"
     },
     {
       "id": 61
     },
     {
       "id": 62,
-      "place": "สักที่ใน The Backstreets",
+      "place": "Somewhere in the Backstreets",
       "model": "헤르만",
-      "teller": "แฮร์มันน์",
+      "teller": "Hermann",
       "title": "N Corp.",
-      "content": "น่าประทับใจ Yurodivy."
+      "content": "Impressive, Yurodivy."
     },
     {
       "id": 63,
       "model": "헤르만",
-      "teller": "แฮร์มันน์",
+      "teller": "Hermann",
       "title": "N Corp.",
-      "content": "ไม่เพียงแต่นายจะจัดการพวกที่ขวางทางทั้งหมดได้"
+      "content": "Not only did you manage to clear out the legion of foes…"
     },
     {
       "id": 64,
       "model": "헤르만",
-      "teller": "แฮร์มันน์",
+      "teller": "Hermann",
       "title": "N Corp.",
-      "content": "แต่นายยังเผาเงินทั้งหมดนั้นทิ้งด้วย"
+      "content": "You also burned all that cash."
     },
     {
       "id": 65,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "คุณก็น่าจะรู้ดีอยู่แล้วนะครับ แฮร์มันน์ ผมน่ะไม่ได้เป็นมิตรกับเรื่องเงิน ๆ ทอง ๆ แต่ไหนแต่ไรแล้ว"
+      "content": "You should know, Hermann, that I’ve never been friends with money."
     },
     {
       "id": 66,
       "model": "헤르만",
-      "teller": "แฮร์มันน์",
+      "teller": "Hermann",
       "title": "N Corp.",
-      "content": "ต้องยอมรับว่านายไม่เหมือนพวกนักอุดมคติทั่วไปที่เอาแต่พูดแต่กลับไม่ลงมือทำ"
+      "content": "I will admit, you are not like most idealists who are all theory and no action."
     },
     {
       "id": 67,
       "model": "헤르만",
-      "teller": "แฮร์มันน์",
+      "teller": "Hermann",
       "title": "N Corp.",
-      "content": "นายคงจะได้รับคำชมจากฉันไปแล้ว ถ้าหลังจากทุกอย่างนั่น นายสามารถเก็บกู้กิ่งทองกลับมาได้ด้วย"
+      "content": "You would’ve earned my praise had you secured the Golden Bough on top of everything."
     },
     {
       "id": 68,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "…ผมน่ะ ได้ให้โรเดียนเห็นโลกใบนั้นไปแล้ว"
+      "content": "…I showed Rodya that world."
     },
     {
       "id": 69,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "โลกในอุดมคติที่ตัวผมหลงใหล"
+      "content": "The ideal reality that fascinated me."
     },
     {
       "id": 70,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "แต่สุดท้าย…"
+      "content": "Alas…"
     },
     {
       "id": 71,
       "model": "헤르만",
-      "teller": "แฮร์มันน์",
+      "teller": "Hermann",
       "title": "N Corp.",
-      "content": "ดูเหมือนว่านายจะยังเอาชนะใจเธอไม่ได้สินะ"
+      "content": "I suppose it didn’t win her over."
     },
     {
       "id": 72,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "ดูเหมือนว่าวิธีที่คุณแนะนำมามันผิดไปหมดเลยล่ะครับ แฮร์มันน์"
+      "content": "It seems the method you suggested was wrong after all, Hermann."
     },
     {
       "id": 73,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "นางไม่ใช่คนที่จะเปลี่ยนใจเพียงเพราะคำพูดไม่กี่คำตั้งแต่แรกแล้ว"
+      "content": "She wasn’t the kind of person to let a few words change her mind."
     },
     {
       "id": 74,
       "model": "헤르만",
-      "teller": "แฮร์มันน์",
+      "teller": "Hermann",
       "title": "N Corp.",
-      "content": "แล้วรู้สึกยังไงบ้าง เสียใจกับมันไหม?"
+      "content": "So, do you find this… regrettable?"
     },
     {
       "id": 75,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "ก็…"
+      "content": "Well…"
     },
     {
       "id": 76,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "ส่วนหนึ่งลึก ๆ ข้างในใจฉัน… อาจเคยหวังให้เธอเดินตามฉันเหมือนแต่ก่อน"
+      "content": "Part of me might’ve wished that she’d follow me like in the past."
     },
     {
       "id": 77,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "แต่ไม่เลย ตอนนี้ฉันกลับรู้สึกโล่งใจอย่างบอกไม่ถูก ที่ได้พบว่าเธอยังคงเป็นเหมือนเดิม"
+      "content": "But no, I think I’m actually relieved to find that she’s the same as before."
     },
     {
       "id": 78,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "โรเดียน่ะ ไม่ได้ต้องการโลกที่สมบูรณ์แบบไร้ที่ติ"
+      "content": "Rodya wasn’t wishing for a perfect world with no flaws whatsoever."
     },
     {
       "id": 79,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "กลับกัน เธอนั้นอาจจะรู้สึกว่า...."
+      "content": "Rather, she might have felt…"
     },
     {
       "id": 80,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "ถ้าโลกมันสมบูรณ์แบบเกินไป นั่นคงเป็นชีวิตที่น่าเบื่อเกินไปสำหรับเธอ เพราะเธอจะไม่มีทางพิสูจน์ได้ว่าตัวเองเป็นคนพิเศษ"
+      "content": "That it would be boring to live in such a world, since there’d be no way to affirm that she’s special."
     },
     {
       "id": 81,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "นั่นเป็นความรู้สึกที่ผมได้รับมาล่ะ"
+      "content": "That’s the impression I got."
     },
     {
       "id": 82,
       "model": "헤르만",
-      "teller": "แฮร์มันน์",
+      "teller": "Hermann",
       "title": "N Corp.",
-      "content": "ฉันเคยนึกว่าเธอนั้นเป็นหญิงที่ยึดมั่นในหลักการไม่เคยสั่นคลอนซะอีก"
+      "content": "I thought her to be a woman of virtue, principles unshakable…"
     },
     {
       "id": 83,
       "model": "헤르만",
-      "teller": "แฮร์มันน์",
+      "teller": "Hermann",
       "title": "N Corp.",
-      "content": "แต่จากที่นายพูดมา เธอก็เป็นแค่คนที่ชอบฝันกลางวันเหมือนกับนาย ไม่ใช่งั้นเหรอ?"
+      "content": "But hearing this, she was a dreamer just like you, wasn’t she?"
     },
     {
       "id": 84,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "เธอยังมีหนทางอีกยาวไกลที่ต้องไปต่อ ผมมั่นใจ"
+      "content": "She still has a long way to go, I’m sure."
     },
     {
       "id": 85,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "…ถึงแม้ว่าเธอจะไม่มีวันยอมรับมันก็ตาม"
+      "content": "…She won’t want to admit it, though."
     },
     {
       "id": 86,
       "model": "헤르만",
-      "teller": "แฮร์มันน์",
+      "teller": "Hermann",
       "title": "N Corp.",
-      "content": "เข้าใจล่ะ ฉันจะเก็บเรื่องนี้ไว้ใช้พิจารณาสำหรับแผนการรับมือของเราในอนาคตละกัน"
+      "content": "I got your point. I’ll keep it in mind for future considerations on our course of action."
     },
     {
       "id": 87,
       "model": "소냐",
-      "teller": "โซเนีย",
+      "teller": "Sonya",
       "title": "Yurodivy",
-      "content": "นี่เธอจะไม่ตำหนิฉันเรื่องนี้เหรอ? ที่ฉันทำงานที่เธอมอบหมายให้ไม่สำเร็จ"
+      "content": "You won’t scold me for this? I was unable to complete the job you gave me."
     },
     {
       "id": 88,
       "model": "헤르만",
-      "teller": "แฮร์มันน์",
+      "teller": "Hermann",
       "title": "N Corp.",
-      "content": "การตำหนิไม่ทำให้กิ่งนั่น ปรากฏขึ้นตรงหน้าเราหรอก จริงไหม?"
+      "content": "Reprimands won’t make the Bough appear at our feet, will they?"
     },
     {
       "id": 89,
       "model": "헤르만",
-      "teller": "แฮร์มันน์",
+      "teller": "Hermann",
       "title": "N Corp.",
-      "content": "มันไม่เป็นไรหรอก เพราะต่อให้กิ่งนั่นมันจะอยู่ไหนก็ตามในตอนนี้..."
+      "content": "It’s fine. Wherever the Boughs may be right now…"
     },
     {
       "id": 90,
       "model": "헤르만",
-      "teller": "แฮร์มันน์",
+      "teller": "Hermann",
       "title": "N Corp.",
-      "content": "แต่สิ่งที่สำคัญกว่าคือ ใครจะได้เป็นผู้ครอบครองมันในตอนจบต่างหากล่ะ"
+      "content": "What matters more is who claims the bundle at the end."
     }
   ]
 }

@@ -3,77 +3,77 @@
     {
       "id": "battle_awaken_21201_1",
       "desc": "E.G.O Activation",
-      "dlg": "แขนฉัน... มันเปลี่ยนไป"
+      "dlg": "My arm… had changed."
     },
     {
       "id": "battle_awaken_21202_1",
       "desc": "E.G.O Activation",
-      "dlg": "ฟังนะ, นายแน่ใจนะว่าจะยืนไหวหลังจากเจอเจ้านี้?"
+      "dlg": "Listen, you sure you can stand after this?"
     },
     {
       "id": "battle_erosion_21202_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "พวกเรา... จะเน่าเปื่อยไปด้วยกัน"
+      "dlg": "Together… we are in rot."
     },
     {
       "id": "battle_awaken_21203_1",
       "desc": "E.G.O Activation",
-      "dlg": "อยากจะให้ฉันเล่านิทานสักเรื่องไหม?"
+      "dlg": "How’s about I read you a tale?"
     },
     {
       "id": "battle_erosion_21203_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "มันสายไปแล้ว... พวกเขาทุกคนถูกครอบงำไปแล้ว"
+      "dlg": "Too late… They’ve all been captivated."
     },
     {
       "id": "battle_awaken_21204_1",
       "desc": "E.G.O Activation",
-      "dlg": "เอาล่ะ มาลองอดทนกับมันหน่อย... เดี๋ยวมันจะย่างแกให้ตายพอดีเอง."
+      "dlg": "Alright, try enduring this... It'll fry you just enough to kill."
     },
     {
       "id": "battle_erosion_21204_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ฮ่ะๆฮ่าๆๆๆ... แกคือหนูทดลองตัวใหม่งั้นสินะ?"
+      "dlg": "Muheheheheh... Are you the new test subject?"
     },
     {
       "id": "battle_awaken_21205_1",
       "desc": "E.G.O Activation",
-      "dlg": "ฉันไม่แน่ใจหรอกน่ะว่าจะเรียกว่าของขวัญได้มั้ย... ฮ่ะ! เอานี่ไปแทนก็แล้วกัน!"
+      "dlg": "Can't say I've brought you a gift... Aha! Take this instead!"
     },
     {
       "id": "battle_erosion_21205_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "อย่าแตะนะ! ...อย่าพยายามคลี่คลายพุ่มหนามพวกนี้, ปล่อยมันไว้แบบนี้แหละดีแล้ว"
+      "dlg": "Hands off! ... Don't try to untangle these brambles. It's... better this way."
     },
     {
       "id": "battle_awaken_21206_1",
       "desc": "E.G.O Activation",
-      "dlg": "ให้ผมได้... พาคุณไปรู้จักกับคฤหาสน์แห่งนี้..."
+      "dlg": "Allow me... to introduce you to this manor..."
     },
     {
       "id": "battle_erosion_21206_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "บัตเลอร์... ผู้ดูแลคฤหาสน์อยู่ที่ไหน? แกรู้อยู่แล้วใช่ไหม... พาฉันไปหาพวกเขา, เดี๋ยวนี้!"
+      "dlg": "Butlers... Where are the stewards of this house? You must know... Lead me to them, now!"
     },
     {
       "id": "battle_awaken_21207_1",
       "desc": "E.G.O Activation",
-      "dlg": "เด็กพวกนั้นช่างโชคร้ายและน่าสงสารจริงๆ... \nฉันทำได้แค่ไว้อาลัยให้พวกเขาเท่านั้น"
+      "dlg": "What unfortunate, tragic children... \nI can do nothing but mourn for them."
     },
     {
       "id": "battle_erosion_21207_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ความเชื่อนั้นมันก็แค่ความปรารถนาที่ว่างเปล่า, ใช่ไหม...?\nปล่อยมันไปและจมดิ่งสู่ห้วงราตรีอันเงียบสงบ"
+      "dlg": "That faith is just a hollow wish, isn't it...?\nLet it go, and sink gentle into the deep, restful night."
     },
     {
       "id": "battle_awaken_21208_1",
       "desc": "E.G.O Activation",
-      "dlg": "เห็นสัตว์ประหลาด, งั้นเหรอ...? แล้วหน้าตาของมัน <i>แบบนี้</i>, รีเปล่า?!"
+      "dlg": "You saw a monster, huh...? Did it look anything like <i>this</i>, by any chance?!"
     },
     {
       "id": "battle_erosion_21208_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ความกลัว, สยองขวัญ, และความวิตกกังวล ในเงามืดใต้เตียงของแก...มีสัตว์ประหลาด!!"
+      "dlg": "Fear, horror, and anxiety. In the shadow beneath your bed lies... a monster!!"
     }
   ]
 }

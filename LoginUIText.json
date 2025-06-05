@@ -2,179 +2,179 @@
   "dataList": [
     {
       "id": "loginui_sign_in_with_google",
-      "content": "ลงชื่อเข้าใช้งานด้วย Google"
+      "content": "Sign in with Google"
     },
     {
       "id": "loginui_sign_in_with_apple",
-      "content": "ลงชื่อเข้าใช้งานด้วย Apple"
+      "content": "Sign in with Apple"
     },
     {
       "id": "loginui_sign_in_with_steam",
-      "content": "ลงชื่อเข้าใช้งานด้วย Steam"
+      "content": "Sign in with Steam"
     },
     {
       "id": "loginui_sign_in_with_guest",
-      "content": "ลงชื่อเข้าใช้ในฐานะ Guest"
+      "content": "Sign in as a guest"
     },
     {
       "id": "loginui_sign_out_current_account",
-      "content": "ออกจากระบบ"
+      "content": "Sign Out"
     },
     {
       "id": "loginui_sign_out_current_account_desc",
-      "content": "ทำการออกจากระบบจากบัญชีปัจจุบันหรือไม่?\nถ้าคุณกำลังเล่นด้วยบัญชี Guest ข้อมูลของคุณอาจสูญหายได้"
+      "content": "Sign out from the current account?\nIf you’re playing as a guest, your data may be lost."
     },
     {
       "id": "loginui_sign_out_switch_account_desc",
-      "content": "ทำการออกจากระบบจากบัญชีปัจจุบัน\nเเละเปลี่ยนไปใช้บัญชีที่เลือกเเทนใช่ไหม?\nถ้าคุณกำลังเล่นด้วยบัญชี Guest ข้อมูลของคุณอาจสูญหายได้"
+      "content": "Sign out from the current account\nand switch to the selected one?\nIf you’re playing as a guest, your data may be lost."
     },
     {
       "id": "switch_account",
-      "content": "เปลี่ยนบัญชี"
+      "content": "Change Account"
     },
     {
       "id": "user_agreements",
-      "content": "ข้อกำหนดในการให้บริการ"
+      "content": "Terms of Service"
     },
     {
       "id": "title_game_data_download",
-      "content": "ดาวน์โหลดข้อมูลเกม"
+      "content": "Download Game Data"
     },
     {
       "id": "content_game_data_download",
-      "content": "กำลังดาวน์โหลด {0} ของข้อมูลเกม"
+      "content": "Downloading {0} of data."
     },
     {
       "id": "content_game_data_download_description",
-      "content": "คุณจะถูกนำกลับไปที่หน้าจอหลักหากอุปกรณ์ของคุณมีพื้นที่เก็บข้อมูลไม่เพียงพอ"
+      "content": "You will be returned to the title screen if your device has insufficient storage space."
     },
     {
       "id": "content_game_data_download_recommend",
-      "content": "ขอเเนะนำให้ใช้การเชื่อมต่ออินเทอร์เน็ตโดยตรง (Wi-fi)"
+      "content": "A direct Internet connection (Wi-Fi) is recommended."
     },
     {
       "id": "switch_allcacheclear",
-      "content": "เคลียร์เเคชทั้งหมด"
+      "content": "Clear all caches"
     },
     {
       "id": "switch_oldcacheclear",
-      "content": "เคลียร์เเคชเก่า"
+      "content": "Clear old caches"
     },
     {
       "id": "networkingerror_content",
-      "content": "เครือข่ายไม่เสถียร\nกรุณาตรวจสอบการเชื่อมต่อเครือข่ายของคุณ"
+      "content": "The network is unstable.\nPlease check your Internet connection."
     },
     {
       "id": "networkingerror_close",
-      "content": "ปิด"
+      "content": "Close"
     },
     {
       "id": "networkingerror_retry",
-      "content": "ลองใหม่"
+      "content": "Retry"
     },
     {
       "id": "loginui_ok",
-      "content": "ตกลง"
+      "content": "Confirm"
     },
     {
       "id": "login_cancel",
-      "content": "ยกเลิก"
+      "content": "Cancel"
     },
     {
       "id": "loginui_loading_battlehint",
-      "content": "คำเเนะนำในการต่อสู้"
+      "content": "Combat Tips"
     },
     {
       "id": "servererror_content",
-      "content": "เกิดข้อผิดพลาดทางเซิร์ฟเวอร์\nกรุณาลองใหม่ในภายหลัง"
+      "content": "A server error has occurred.\nPlease try again in a moment."
     },
     {
       "id": "forcequit_content",
-      "content": "ไม่สามารถเปิดเกมได้\nกำลังทำการปิดเกม"
+      "content": "Cannot operate the game.\nShutting down now."
     },
     {
       "id": "serverstate_openpreparation",
-      "content": "เรากำลังจัดเตรียมสิ่งต่างๆ อยู่!"
+      "content": "Things are still being prepared!"
     },
     {
       "id": "serverstate_regularcheck",
-      "content": "เซิฟเวอร์กำลังปิดปรับปรุงตามกำหนดการ"
+      "content": "The server is currently under routine maintenance."
     },
     {
       "id": "serverstate_temporary_check",
-      "content": "เซิฟเวอร์กำลังปิดปรับปรุงชั่วคราว"
+      "content": "The server is currently under temporary maintenance."
     },
     {
       "id": "serverstate_verify_invaliduser",
-      "content": "ไม่พบว่าบัญชีนี้เคยถูกสร้างหรือถูกปิดตัวลงไปเเล้ว"
+      "content": "The account does not exist or has been closed."
     },
     {
       "id": "serverstate_verify_ban",
-      "content": "บัญชีนี้ถูกจำกัดในการเล่น"
+      "content": "The account is restricted from playing."
     },
     {
       "id": "serverstate_verify_invalidauth",
-      "content": "เกิดข้อผิดพลาดขึ้น\nกรุณาลงชื่อเข้าใช้งานอีกครั้ง"
+      "content": "An error has occurred.\nPlease sign in again."
     },
     {
       "id": "guestlogin_failed_try_newguest",
-      "content": "การลงชื่อเข้าใช้งานบัญชี Guest ล้มเหลว\nบัญชีนั้นอาจถูกเชื่อมเเล้ว หรือไม่มีบัญชี Guest นี้\n\nต้องการสร้างบัญชี Guest ใหม่หรือไม่?"
+      "content": "Failed Guest Login.\nThe account is either already linked, or the Guest account doesn't exist.\n\nWould you like to make a new Guest account?"
     },
     {
       "id": "secession_remain_days",
-      "content": "บัญชีนี้กำลังถูกปิดตัวลง\nเหลือเวลาอีก {0}วัน {1}ชั่วโมง {2}นาที\n\nคุณสามารถกู้คืนบัญชีได้หากคุณทำการลงชื่อเข้าใช้งานตอนนี้\nต้องการกู้คืนบัญชี?"
+      "content": "The account is currently under a closure period.\nTime Remaining: {0}D {1}H {2}M\n\nYou can recover the account if you sign in now.\nRecover the account?"
     },
     {
       "id": "secession_canceled",
-      "content": "กู้คืนบัญชีเสร็จสิ้น"
+      "content": "Account recovered successfully."
     },
     {
       "id": "serverstate_verify_invalidclientversion",
-      "content": "ตัวเกมต้องได้รับการอัพเดท"
+      "content": "The game client must be updated."
     },
     {
       "id": "create_guest",
-      "content": "สร้างบัญชี Guest"
+      "content": "Create Guest Account"
     },
     {
       "id": "ask_to_remove_all_cache",
-      "content": "ต้องการเคลียร์เเคชทั้งหมด?"
+      "content": "Clear all caches?"
     },
     {
       "id": "networkingerror_update",
-      "content": "ไปที่ Store"
+      "content": "Go to Store"
     },
     {
       "id": "speed_hack_warning",
-      "content": "พบการใช้งานของโปรเเกรมภายนอกที่ไม่ได้รับอนุญาต"
+      "content": "Usage of unauthorized third party program has been detected."
     },
     {
       "id": "serverstate_verify_ban_startdate",
-      "content": "วันที่"
+      "content": "Date"
     },
     {
       "id": "serverstate_verify_ban_reason",
-      "content": "รายละเอียด"
+      "content": "Description"
     },
     {
       "id": "serverstate_verify_ban_reason_refund",
-      "content": "การละเมิดระบบคืนเงินของตลาด"
+      "content": "Abuse of Open Market refund system"
     },
     {
       "id": "serverstate_verify_ban_reason_cheat",
-      "content": "บันทึกกิจกรรมในเกมที่ผิดปกติ"
+      "content": "Abnormal game activity records"
     },
     {
       "id": "serverstate_blocking_endpoint",
-      "content": "ฟังก์ชั่นนี้กำลังอยู่ภายใต้การปรับปรุง"
+      "content": "This function is currently under maintenance."
     },
     {
       "id": "serverstate_verify_invaliduuid",
-      "content": "คำขอนี้กำลังถูกประมวลผลอยู่ \nโปรดรีสตาร์ทเกมเพื่อทำการเชื่อมโยงใหม่"
+      "content": "This request has already been processed.\nPlease restart the game to synchronize."
     },
     {
       "id": "login_scene_mini_story_warning_spoiler_format",
-      "content": "เนื้อเรื่องนี้เกิดขึ้นหลังจากเนื้อเรื่องหลักบทที่ {0}. ยังต้องการจะดูเนื้อเรื่องอยู่หรือไม่?"
+      "content": "This story takes place after the Main Story Chapter {0}. Would you like to view the story anyway?"
     },
     {
       "id": "login_scene_mini_story_unlock_code_105",
@@ -186,23 +186,23 @@
     },
     {
       "id": "switch_clearcatalog",
-      "content": "ลบ Catalogue"
+      "content": "Delete Catalogue"
     },
     {
       "id": "panel_clearcatalog",
-      "content": "ต้องการลบ catalogue?"
+      "content": "Delete catalogue?"
     },
     {
       "id": "serverstate_error_thirdparty_api",
-      "content": "เกิดช้อผิดพลาดจากการเชื่อมต่อเซิร์ฟเวอร์ภายนอก กรุณาลองใหม่ในภายหลัง"
+      "content": "External server connection error. Please try again at a later time."
     },
     {
       "id": "servererror_invalid_purchasing_package",
-      "content": "การสั่งซื้อล้มเหลว"
+      "content": "Transaction failed."
     },
     {
       "id": "forcequit_cache_initialize_fail",
-      "content": "ไม่สามารถเปิดเกมได้\nกรุณายืนยันสถานะเครือข่ายของคุณเเล้วลองใหม่อีกครั้ง\nหรือสอบถาม (ไม่รองรับภาษาไทย): limbussupport+bug@projmoon.com"
+      "content": "Game Client failed to launch properly.\nPlease confirm your network status and try again.\nInquiries: limbussupport+bug@projmoon.com"
     },
     {
       "id": "push_notification_message_full_stamina_default_title",
@@ -214,139 +214,139 @@
     },
     {
       "id": "push_notification_message_full_stamina_1_title",
-      "content": "Enkephalin ได้รับการเติมเสร็จสิ้นแล้ว "
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_1_text",
-      "content": "จ้งให้ทราบว่าปัจจุบันนั้นทุกอย่างยังคงเรียบร้อยดีตามหลักการสมบูรณ์แบบ จุดประสงค์ที่ผมมาหาเพียงเพื่อแจ้งให้ทราบว่า ขณะนี้ Enkephalin นั้นได้รับการเติมเต็มพร้อมแล้ว และนั่นคือทั้งหมดที่ผมจะกล่าว"
+      "content": "Take notice, yet naught is odd here. Ideally, my only purpose here would be to inform you that Enkephalin is replenished fully. Such is all I have to say."
     },
     {
       "id": "push_notification_message_full_stamina_2_title",
-      "content": "Enkephalin ได้รับการเติมเสร็จสิ้นแล้ว "
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_2_text",
-      "content": "ถึงผู้จัดการ เราขอแนะนำให้คุณนั้นแปลงโมดูลของ Enkephalin เพื่อประสิทธิภาพที่ดีขึ้นค่ะ"
+      "content": "Enkephalin recharge is complete. Dear manager, Enkephalin module conversion is recommended for the sake of efficiency."
     },
     {
       "id": "push_notification_message_full_stamina_3_title",
-      "content": "Enkephalin ได้รับการเติมจนเต็มแล้ว"
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_3_text",
-      "content": "ผู้จัดการผู้ทรงเกียรติ!!! ถังเชื้อเพลิงของเราได้รับการเปลี่ยนแล้ว!!! รีบมาเถิดสหายข้า!!! การผจญภัยเขาพวกเรายังต้องดำเนินต่อไปนะ!!"
+      "content": "MANAGER ESQUIRE!!! THE FUEL TANK HATH BEEN REFILLED!!! COME HITHER, FOR OUR ADVENTURES MUST GO ON!!!"
     },
     {
       "id": "push_notification_message_full_stamina_4_title",
-      "content": "Enkephalin ได้รับการเติมเสร็จสิ้นแล้ว "
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_4_text",
-      "content": "E.ต.ล ( Enkephalin เต็มละ )"
+      "content": "E.C.(Enkephalin Charged.)"
     },
     {
       "id": "push_notification_message_full_stamina_5_title",
-      "content": "Enkephalin ได้รับการเติมเสร็จสิ้นแล้ว "
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_5_text",
-      "content": "ขณะนี้ Enkephalin ได้รับการเติมแล้วคุณผู้จัดการ"
+      "content": "Enkephalin has been fully recharged, manager."
     },
     {
       "id": "push_notification_message_full_stamina_6_title",
-      "content": "Enkephalin ได้รับการเติมเสร็จสิ้นแล้ว "
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_6_text",
-      "content": "หวาา~ ดูเหมือนถัง Enkephalin จะเต็มแล้วล่ะ~ ลองไปเช็คหน่อยดีไหม?"
+      "content": "Woow~ Enkephalin's already fully charged~ Would you like to go check?"
     },
     {
       "id": "push_notification_message_full_stamina_7_title",
-      "content": "Enkephalin ได้รับการเติมเสร็จสิ้นแล้ว "
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_7_text",
-      "content": "เอ้ย ไอ้เอนเค— ไอ้เอนๆ เออ ไอ้เขียวๆนั่นแหละเต็มละ ไม่ไปดูหน่อยอ่"
+      "content": "The, uh. Enkeph—? ... The green stuff's full. Go take a gander, yeah?"
     },
     {
       "id": "push_notification_message_full_stamina_8_title",
-      "content": "Enkephalin ได้รับการเติมเสร็จสิ้นแล้ว "
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_8_text",
-      "content": "อ่าใช่.. Enkephalin เต็มแล้วล่ะ พวกเราพร้อมสำหรับการเดินทางครั้งถัดไปแล้ว ไปกันเถอะ"
+      "content": "Enkephalin's been recharged... Hm. Yeah, the bus is ready for another voyage. Let's go."
     },
     {
       "id": "push_notification_message_full_stamina_9_title",
-      "content": "Enkephalin ได้รับการเติมเสร็จสิ้นแล้ว "
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_9_text",
-      "content": "ดันเต้~ ตอนนี้ Enkephalin เต็มถังแล้วน้า! อย่าลืมเอาไปแปลงเป็นโมดูลด้วยล่ะ!"
+      "content": "Dante~ Enkephalin's charged! Don'tcha forget to convert 'em to modules!"
     },
     {
       "id": "push_notification_message_full_stamina_11_title",
-      "content": "Enkephalin ได้รับการเติมเสร็จสิ้นแล้ว "
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_11_text",
-      "content": "เอ่อ..คือ มันก็ไม่ได้อะไรขนาดนั้นหรอก แต่ Enkephalin เหมือนจะล้นแล้วนะครับ"
+      "content": "Hi, manager... are you... busy? I-it's nothing too serious, but... Enkephalin's about to overflow..."
     },
     {
       "id": "push_notification_message_full_stamina_12_title",
-      "content": "Enkephalin ได้รับการเติมเสร็จสิ้นแล้ว "
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_12_text",
-      "content": "เรียนมาเพื่อแจ้งให้ทราบ คุณผู้จัดการขณะนี้ Enkephalin นั้นเพียงพอต่อการใช้งานแล้ว ดิฉันขอแนะนำให้คุณเข้ามาจัดการแปลงเป็นโมดูลนะคะ"
+      "content": "Reporting to the Executive Manager. Enkephalin has been fully replenished. May I suggest that you use or convert them?"
     },
     {
       "id": "push_notification_message_full_stamina_13_title",
-      "content": "Enkephalin ได้รับการเติมเสร็จสิ้นแล้ว "
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_13_text",
-      "content": "เอ่อ.. เอ้อ ผู้จัดการเพื่อนยาก อยู่รึเปล่า? ไอ้.. เอ่อ ถังเชื้อเพลิงอะเต็มแล้วนะ มาเช็คหน่อยป่าว?"
+      "content": "Uhh, manager bud? You there? The, uh, the bus fuel tank is full... Might wanna come check?"
     },
     {
       "id": "push_notification_message_full_stamina_14_title",
-      "content": "Enkephalin ได้รับการเติมเสร็จสิ้นแล้ว "
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_14_text",
-      "content": "หมดเวลาพักแล้วนะ คุณผู้จัดการดันเต้ อย่าปล่อยให้รถบัสจอดพักนานเกินไปล่ะ"
+      "content": "Your break is over, manager Dante. Don't keep the bus sitting for too long."
     },
     {
       "id": "push_notification_message_full_stamina_15_title",
-      "content": "Enkephalin ได้รับการเติมเสร็จสิ้นแล้ว "
+      "content": "Enkephalin Charged"
     },
     {
       "id": "push_notification_message_full_stamina_15_text",
-      "content": "เมฟี่อิ่มแปล้ ชารอนจะออกรถแล้ว บรื้น-บรื้นน"
+      "content": "Mephi's stuffed. Charon, time to vroom-vroom."
     },
     {
       "id": "custom_localize_button",
-      "content": "เลือกภาษาที่กำหนดเอง"
+      "content": "Select Custom Language"
     },
     {
       "id": "custom_localize_title",
-      "content": "เลือกภาษาที่กำหนดเอง"
+      "content": "Select Custom Language"
     },
     {
       "id": "custom_localize_desc",
-      "content": "※ รีสตาร์ทเกมเพื่อเปลียนเเปลงภาษาให้เป็นภาษาที่กำหนดไว้"
+      "content": "※ Restart the game to apply the language change."
     },
     {
       "id": "steam_overlay_cannot_activate_title",
-      "content": "เกิดข้อผิดพลาดทางการสั่งซื้อผ่าน Steam"
+      "content": "Steam Transaction Error"
     },
     {
       "id": "steam_overlay_cannot_activate_text",
-      "content": "โปรดเปิดใช้งานตัวเลือก [เปิดการใช้งานโอเวอร์เลย์ Steam ขณะอยู่ในเกม]\nจากการคลิกขวาที่เกมใน Steam เลือกคุณสมบัติ เเล้วทั่วไป\nจากนั้นให้เปิดเกมใหม่อีกที"
+      "content": "Please turn on the [Enable the Steam Overlay while in-game] option\nfrom Steam's game properties - General,\nthen restart the game."
     },
     {
       "id": "servererror_remain_restore_purchasing",
-      "content": "คำสั่งซื้อยังอยู่ในระหว่างการดำเนินการ\n โปรดกดปุ่ม [กู้คืนคำสั่งซื้อ] เเล้วลองใหม่อีกครั้ง"
+      "content": "A transaction is still in progress.\nPlease use the [Restore Purchase] button and try again."
     }
   ]
 }

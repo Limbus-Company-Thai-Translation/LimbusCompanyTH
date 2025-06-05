@@ -2,332 +2,332 @@
   "dataList": [
     {
       "id": 0,
-      "place": "คาสิโน ชั้น 1",
-      "content": "บรรยากาศในคาสิโนจัดได้ว่า “ยุ่ง” เลยทีเดียว"
+      "place": "Casino 1F",
+      "content": "The casino could be best described as “busy”."
     },
     {
       "id": 1,
-      "content": "เสียงเริงร่าอันเกินเหตุที่ดังมาจากเครื่องปั่นสล็อต"
+      "content": "Excessively cheery sounds blared from slot machines."
     },
     {
       "id": 2,
-      "content": "เเสงสีที่ช่างจ้าเสียจน Sinner บางคนต้องเอามือปิดตา"
+      "content": "The lights were so bright that some of our Sinners had to cover their eyes."
     },
     {
       "id": 3,
-      "content": "เเละยามรักษาความปลอดภัยที่มองชุดอันหรูหราของพวกเราก่อนจะพยักหน้าให้ตามธรรมเนียม"
+      "content": "And the security guards took note of our garish outfits to give us a customary nod."
     },
     {
       "id": 4,
-      "content": "ซอเดย์กับเอฟฟี่ ที่เเต่งตัวเป็นเจ้ามือนั้น พยักหน้ากลับมาให่เราอย่างลับๆ ก่อนจะพาร๊อดย่าตรงไปที่เเคชเชียร์ของคาสิโน"
+      "content": "Saude and Effie, dressed as croupiers, discreetly nodded at us as they accompanied Rodya to the casino’s cage."
     },
     {
       "id": 5,
-      "content": "ฉันประทับใจในความเชี่ยวชาญในการปลอมตัวจริงๆ ตั้งเเต่ท่าทางการเดินจนไปถึงสีหน้าที่เเสดงออก เเทบไม่มีใครสงสัยเลยว่าพวกเขาเป็นพนักงานที่เพิ่งมาใหม่"
+      "content": "I was amazed by their ability to feign expertise; from the way they carried themselves to the facial expressions they made, few would doubt that they’re long-time employees."
     },
     {
       "id": 6,
       "model": "돈키호테",
-      "content": "ก…กลไกอันเปล่งประกายราวเวทมนตร์เหล่านี้คือสิ่งใดกัน?"
+      "content": "Wha… What manner of sorcery are these dazzling contraptions?"
     },
     {
       "id": 7,
       "model": "그레고르",
-      "content": "พยายามอย่าตื่นเต้นไปกับทุกอย่างเหมือนเด็กมากนะ ดอนกีโฮเต้… เดี๋ยวเขาก็จับได้หรอก"
+      "content": "Try not to go saucer-eyed at everything like a fascinated kid, Don Quixote. You’ll seem fishy…"
     },
     {
       "id": 8,
       "model": "이스마엘",
-      "content": "เเขกที่นี้ดวงดามัวหมองเหมือนตายเลย เเถมกลิ่นยังเเย่กว่าพวกโง่ Tingtang ที่เราเจอด้วย พวกเขาได้เเม้เเต่จะล้า…"
+      "content": "The guests here look dead inside with their dim eyes, and they smell worse than the Tingtang schmucks we faced. Do they even wash…"
     },
     {
       "id": 9,
       "model": "그레고르",
-      "content": "พวกเขาไม่ชอบขี้หน้าเธอหรอกนะ ถ้ายื่นจมูกโด่งๆเข้าไปเเบบนั้นน่ะ อิชมาเอล…"
+      "content": "I don’t think they’d be too happy about you holding your nose right before their faces, Ishmael…"
     },
     {
       "id": 10,
       "model": "이스마엘",
-      "content": "เเต่ไอ้กลิ่นเเบบนี้มีเเค่พวกลูกเรือเท่านั้นที่ได้ฉันเคยเจอนะ…"
+      "content": "But, this is the kind of bilgy stench I’d only ever caught from deckhands…"
     },
     {
       "id": 11,
-      "content": "โชคดีไป ที่พวกนั้นสนใจกับเครื่องปั่นสล็อตมากกว่าสิ่งที่พวกเราทำอยู่"
+      "content": "Fortunately, most of them were too focused on the machines to care about what we were doing."
     },
     {
       "id": 12,
       "model": "돈키호테",
-      "content": "ผู้จัดการผู้ทรงเกียรติ! ท่านเคยเห็นสิ่งนี้หรือเปล่า?"
+      "content": "Manager Esquire! Hath you seen such a thing?"
     },
     {
       "id": 13,
       "model": "돈키호테",
-      "content": "ข้าต้องทำเช่นใดจึงจะได้ยินระฆังอันเริงร่าเช่นเหล่าสหายนั่น?"
+      "content": "What must I do to hear the jolly bells as the other patrons are?"
     },
     {
       "id": 14,
       "model": "단테",
-      "content": "<ฉันก็ไม่เคยมาที่เเบบนี้เหมือนกัน เพราะงั้นฉันไม่รู้หรอก…>"
+      "content": "<I don’t think I’ve been to one of these places before, so I wouldn’t know…>"
     },
     {
       "id": 15,
-      "content": "การได้มองสัญลักษณ์เเละตัวเลขอันฉูดฉาดพวกนี้ค่อยๆทำให้ความเข้มงวดในการเป็นผู้จัดการของฉันค่อยๆลดลง"
+      "content": "Looking at all the flashy symbols and numbers spinning had slowly eroded my resolve to act the part of a stern manager."
     },
     {
       "id": 16,
       "model": "단테",
-      "content": "<ง-งั้นลองสักนิดจะเป็นอะไรไป?>"
+      "content": "<I, I guess a little peek is fine?>"
     },
     {
       "id": 17,
       "model": "돈키호테",
-      "content": "มันเขียนตรงนี้ว่าให้กดปุ่ม! ฉะนั้น...การกดคือสิ่งที่ควรกระทำสินะ?"
+      "content": "It says here to press the button! Is pressing it what one ought to do?"
     },
     {
       "id": 18,
-      "content": "สาบานต่อเข็มนาทีเเละชั่วโมงเลยว่าฉันจะไม่กดปุ่มนั้นเป็นอันขาด"
+      "content": "I swear upon my minute and hour hands that I had no intention to press that button, absolutely none."
     },
     {
       "id": 19,
-      "content": "มือที่ฉันยื่นออกไปอย่างรวดเร็วเพื่อไม้ให้ดอนกีโฮเต้กดปุ่มนั้นดันกลับพลาดไปโดนปุ่มพอดี—"
+      "content": "The hand I’d swiftly outstretched to stop Don Quixote from touching the machine unexpectedly fumbled and landed smack on the button—"
     },
     {
       "id": 20,
       "model": "단테",
-      "content": "<ซวยเเล้ว!>"
+      "content": "<Yikes!>"
     },
     {
       "id": 21,
-      "content": "—เเละด้วยเหตุบังเอิญบางอย่างที่ไม่สามารถคาดเดาได้ มีใครบางคนทิ้งโทเค็นไว้พอสำหรับหนึ่งเกมพอดี"
+      "content": "—and in an unpredictable series of coincidences, someone had left a token in it, enough for one game."
     },
     {
       "id": 22,
-      "content": "วงล้อได้เริ่มหมุนท่ามกลางเสียงร้องที่ดังกระหน่ำ…"
+      "content": "Reels started spinning under fanfare…"
     },
     {
       "id": 23,
-      "content": "พวกเราได้เเต่มองเหตุการณ์ที่กำลังจะเกิดขึ้นต่อกันเป็นทอดๆ"
+      "content": "We could only watch as the chain of events unfolded."
     },
     {
       "id": 24,
       "model": "소드",
-      "teller": "ซอเดย์",
+      "teller": "Saude",
       "title": "LCCB",
-      "content": "จะว่าไป ฉันหวังว่าดันเต้จะดูเเลสติ๊กเกอร์ที่พวกเราเอามาจาก Tingtang เป็นอย่างดีนะ"
+      "content": "By the way, I hope Dante handles the wish stickers we took from the Tingtang Gang with care."
     },
     {
       "id": 25,
       "model": "에피",
-      "teller": "เอฟฟี่",
+      "teller": "Effie",
       "title": "LCCB",
-      "content": "ผู้จัดการคนนั้นหรอ? นั้นเป็นสิ่งเดียวที่พวกเราขอ เขาคงไม่ทำให้ผิดหวังหรอก"
+      "content": "That manager? It was the only favor we asked of them, they’d better be doing a good job."
     },
     {
       "id": 26,
       "model": "로쟈",
-      "content": "เชื่อใจดันเต้ได้เลยนะ พวกเธอ~ เขาเป็นหนึ่งในคงที่สติดีพร้อมรับเรื่องตลอดเวลา"
+      "content": "You can count on Dante, dear duo~ They’re one of the few sensible pals who gets what’s up."
     },
     {
       "id": 27,
       "model": "소드",
-      "teller": "ซอเดย์",
+      "teller": "Saude",
       "title": "LCCB",
-      "content": "ได้ยินเเบบนั้นก็ดีใจหน่อย ด้วยสติ๊กเกอร๋เยอะขนาดนั้น จะชนะเกมไหนก็ง่ายไปหมด"
+      "content": "That’s good to hear. With so many sheets attached, they should be able to win any game with ease."
     },
     {
       "id": 28,
       "model": "소드",
-      "teller": "ซอเดย์",
+      "teller": "Saude",
       "title": "LCCB",
-      "content": "ที่นี้พวกเราเเค่อย่าสร้างความสนใจมากเกินไปก็พอ"
+      "content": "We just need to be careful not to draw attention here."
     },
     {
       "id": 29,
-      "content": "เเจ็คคคคคคคคพอต!"
+      "content": "JAAACKPOT!"
     },
     {
       "id": 30,
-      "content": "ผู้เล่นข้างๆเรามองมา อ้าปากค้างจนคางเเตะพึ้น…"
+      "content": "The players next to us stared with jaws dropped so far that their chins could touch the floor…"
     },
     {
       "id": 31,
-      "content": "ชิปคาสิโนจำนวนมากไหลออกมาจากตู้ เยอะเกินจนเก็บไม่หมด"
+      "content": "Waves of casino chips plunged from the machine, so many that I wouldn’t dare try to gather them up."
     },
     {
       "id": 32,
-      "content": "ฉันขอโทษนะ เอฟฟี่ ซอเดย์"
+      "content": "I’m so sorry, Effie, Saude."
     },
     {
       "id": 33,
-      "content": "ฉันตั้งใจจะทำให้มันถูกต้อง เเต่ตอนนี้มันกลับเละไปหมดเเล้ว"
+      "content": "I came here determined to do something right, and it fell apart all so soon."
     },
     {
       "id": 34,
-      "teller": "ผู้เล่นคาสิโนคนหนึ่ง",
-      "title": "คนโง่",
-      "content": "เเจ๊คพอตหรอ? เครื่องไหนกัน?"
+      "teller": "One Casinogoer",
+      "title": "Chump",
+      "content": "A jackpot? What machine is it?"
     },
     {
       "id": 35,
-      "teller": "ผู้เล่นคาสิโนอีกคนหนึ่ง",
-      "title": "คนโง่",
-      "content": "ได้เเบบนั้น ไม่ให้ซุ่มให้เสียงเลย? เนี่ยนะ?"
+      "teller": "Another Casinogoer",
+      "title": "Chump",
+      "content": "Just like that, no warning? Right now?"
     },
     {
       "id": 36,
       "model": "각잡힌카지노경호원",
-      "teller": "รปภ. ที่เข้มงวด",
-      "title": "คาสิโน J Corp",
-      "content": "ขอรบกวนสักครู่…"
+      "teller": "Rigid Security",
+      "title": "J Corp. Casino",
+      "content": "A moment, please…"
     },
     {
       "id": 37,
       "model": "각잡힌카지노경호원",
-      "teller": "รปภ. ที่เข้มงวด",
-      "title": "คาสิโน J Corp",
-      "content": "ขอดูบัตรประชาชนหน่อยนะครับ"
+      "teller": "Rigid Security",
+      "title": "J Corp. Casino",
+      "content": "Let me just check your ID."
     },
     {
       "id": 38,
       "model": "히스클리프",
-      "content": "จะเข้มอะไรขนาดนั้นว่ะ? ได้รางวัลก้อนโตในคาสิโนมันผิดหรือไง?"
+      "content": "What’s with the aggro? Is it a crime to win big at a casino?"
     },
     {
       "id": 39,
       "model": "파우스트",
-      "content": "โชคลาภในที่เเห่งนี้ไม่ได้เหมือนกับที่พวกเราคิดค่ะ ปกติจะมาจากการเก็บรวบรวมโชคเพื่อรับเงินรางวัลก้อนโตหรือเก็บเป็นจำนวนเล็กๆ เพื่อให้เสมอทุนค่ะ เเต่การได้เเจ็คพอตในการกดเพียงครั้งเดียวนั้นถือว่าเป็นเรื่องที่เป็นไปไม่ได้ในสถานที่เเห่งนี้ค่ะ"
+      "content": "Chance in this place doesn’t work the way we think it usually does. You could accumulate your luck for a big payout or trickle in small amounts to break even, but winning the jackpot on your first try should be a literal impossibility here."
     },
     {
       "id": 40,
       "model": "돈키호테",
-      "content": "ชิปโปรยปรายลงมาราวกับดาวตกเลยค่ะ!"
+      "content": "Chips are raining down like shooting stars!"
     },
     {
       "id": 41,
       "model": "이스마엘",
-      "content": "ฉันอุตส่าห์คาดหวังว่านายจะรู้สึกรับผิดชอบชั่วดี… เเต่สุดท้ายคำวิงวอนเล็กน้อยของดอนกีโฮเต้ก็ทำให้นายยอมเนี่ยนะ" 
+      "content": "I’d hoped you of all people would have a sense of responsibility… Yet all it took was Don Quixote’s siren plea for you to give in."
     },
     {
       "id": 42,
       "model": "이스마엘",
-      "content": "ผิดหวังจริงๆ นายเป็นถึงผู้จัดการของพวกเรา ฉันหวังว่านายจะเเสดงให้เห็นถึงความสามารถของนาย เเล้วล้างความล้มเหลวอันหน้าอับอายนี้ทิ้งไปซะ"
+      "content": "I’m disappointed. You’re none other than our manager, and I expected you to show your capability and clear the disgrace of failure from us."
     },
     {
       "id": 43,
-      "content": "เสียงกระซิบที่รุนเเรงเเละต่อเนื่องของอิชมาเอลถือเป็นสิ่งที่น่าประหลาดใจมาก ขนาดเกรกอร์ยังพึมพำด้วยความตะลึง"
+      "content": "Ishmael’s barrage of scathing whispers was something to marvel at, as Gregor muttered in awe."
     },
     {
       "id": 44,
-      "content": "เเละมากไปกว่านั้น สายตาอันเฉียบคมของเธอก็เป็นสิ่งฉันก็ไม่เคยสัมผัสมาก่อน…"
+      "content": "On top of that, her piercing gaze I had never felt before…"
     },
     {
       "id": 45,
-      "content": "…มันช่างน่าเกรงขามจนฉันอยากจะคดตัวไปอยู่ข้างใต้หินเลย ถ้ามีอ่ะนะ"
+      "content": "…It made me want to weasel away under a rock, if there were one."
     },
     {
       "id": 46,
-      "content": "เป็นครั้งเเรก ที่ขอบคุณไอหัวนาฬิกานี่ที่ทำให้ฉันไม่มีสายตาจะไปทัดเทียมกับเธอได้"
+      "content": "For once, I thanked my clock for lacking eyes to meet her glare."
     },
     {
       "id": 47,
       "model": "그레고르",
-      "content": "…เดี๋ยวก่อน นั่นคงไม่ใช่ปัญหาเดียวในตอนนี้หรอก…"
+      "content": "…Now hold on, that might not be our only problem…"
     },
     {
       "id": 48,
-      "content": "เกรกอร์มองไปทั่วทุกทิศทาง จนสายตาไปสะดุดกับการค้นพบอันน่าตกตะลีงที่เขาพึ่งเจอ"
+      "content": "Gregor was fretfully looking in every direction, until he stopped to point at the shocking discovery he’d just made."
     },
     {
       "id": 49,
-      "content": "เเละที่ที่เขาชี้ไปนั้นคือ—"
+      "content": "And where he pointed—"
     },
     {
       "id": 50,
       "model": "그레고르",
-      "content": "นี้เธอเลิกปลอมตัวไปตั้งเเต่ตอนไหนกัน? เรียวชู"
+      "content": "How long have you been off your disguise, Ryōshū?"
     },
     {
       "id": 51,
-      "content": "—คือเรียวชูที่หน้าตาบูดบึ้ง สวมเสื้อผ้าชุดเดิม ๆ ที่เธอใส่มาอยู่ตลอด"
+      "content": "—was a sullen Ryōshū, wearing the same clothes she’s always worn."
     },
     {
       "id": 52,
       "model": "료슈",
-      "content": "ฉันไม่ใส่เสื้อคนตายหรอกนะ"
+      "content": "I don’t put on others’ discarded clothing."
     },
     {
       "id": 53,
       "model": "그레고르",
-      "content": "โธ่… ผู้จัดการพวก วันนี้ไม่ใช่วันของเราจริงๆสินะ…"
+      "content": "Gah… Manager Bud, today isn’t our day, huh…"
     },
     {
       "id": 54,
       "model": "단테",
-      "content": "<อ่า… พวกเรากำลังฉิบหายมากๆเลยล่ะ…>"
+      "content": "<Yup… Looks like we’re screwed. Royally…>"
     },
     {
       "id": 55,
       "model": "에피",
-      "teller": "เอฟฟี่",
+      "teller": "Effie",
       "title": "LCCB",
-      "content": "เป็นไปไม่ได้… อุตส่าห์ลงเเรงให้เเผนการมันไปได้ด้วยดี…"
+      "content": "This can’t be… All the work we did to put this plan in motion…"
     },
     {
       "id": 56,
       "model": "에피",
-      "teller": "เอฟฟี่",
+      "teller": "Effie",
       "title": "LCCB",
-      "content": "เฟาสท์ คิดบ้าอะไรถึงพาพวกโง่นี้มากับเธอในภารกิจเเบบนี้ว่ะ? เธอควรจะฉลาดเเบบที่ไม่มีใครเทียบได้ใช่ไหม? ช่วยใช้หัวคิดทีสิว่ะ!"
+      "content": "Faust, what were you thinking volunteering to bring these fools along for your missions? You’re supposed to have near-unparalleled brilliance, right? Then use it!"
     },
     {
       "id": 57,
       "model": "파우스트",
-      "content": "ถึงฉันจะไม่ได้ทำงานกับพวกเขามานาน เเต่ฉันก็รับรู้ถึงบางสิ่งค่ะ"
+      "content": "Even though I haven’t worked with them for long, I was able to realize something:"
     },
     {
       "id": 58,
       "model": "파우스트",
-      "content": "ฉันควรจะกลายเป็นเฟาสท์ที่เชื่อในความไม่แน่นอนค่ะ"
+      "content": "I ought to become a Faust that believes in uncertainty."
     },
     {
       "id": 59,
       "model": "파우스트",
-      "content": "เมื่อการขาดแผนการได้กลายเป็นแผนเสียเอง ตัวแปรทั้งหมดก็จะคงที่"
+      "content": "When the lack of a plan becomes the plan, all variables become constants."
     },
     {
       "id": 60,
       "model": "파우스트",
-      "content": "นั่นคือสิ่งที่ 'แผน' ของฉันบ่งบอกค่ะ"
+      "content": "That is what my ‘plan’ entails."
     },
     {
       "id": 61,
       "model": "에피",
-      "teller": "เอฟฟี่",
+      "teller": "Effie",
       "title": "LCCB",
       "content": "……"
     },
     {
       "id": 62,
       "model": "이스마엘",
-      "content": "…เฮ้อ"
+      "content": "…Sigh."
     },
     {
       "id": 63,
-      "content": "เฟาสท์หันมามองฉันด้วยสีหน้าเดิมๆ"
+      "content": "Faust turned to me with a tranquil face."
     },
     {
       "id": 64,
-      "content": "ต้องขอบคุณเธอที่ทำให่รู้ว่าบทบาทของฉันคืออะไร"
+      "content": "Thanks to her, my role right now became clear."
     },
     {
       "id": 65,
       "model": "단테",
-      "content": "<เอาล่ะ… ถึงเวลาทำในสิ่งที่พวกเราทำกันเป็นปกติ…>"
+      "content": "<Alright… It’s time for our usual gig…>"
     },
     {
       "id": 66,
       "model": "단테",
-      "content": "<ฆ่าให้หมดหรือถูกฆ่ายังไงล่ะ>"
+      "content": "<Let’s kill and be killed.>"
     }
   ]
 }

@@ -3,27 +3,27 @@
     {
       "id": "battle_awaken_20301_1",
       "desc": "E.G.O Activation",
-      "dlg": "ควบไปด้วยกันเถิด,โรซินันเต้! ความยุติธรรมจักมีชัย!"
+      "dlg": "Gallop on, Rocinante! Justice shall prevail!"
     },
     {
       "id": "battle_awaken_20301_2",
       "desc": "E.G.O Activation",
-      "dlg": "มุ่งไปข้างหน้าอีก,โรซินันเต้! ซ้ำแล้วซ้ำเล่า,จนกว่าความฝันนั้นได้อยู่ในมือของเราในที่สุด!"
+      "dlg": "Onward, Rocinante! Again and again, until the dream is within our grasp!"
     },
     {
       "id": "battle_awaken_20302_1",
       "desc": "E.G.O Activation",
-      "dlg": "ข้ามอบให้เจ้าด้วยแรงจังๆ!"
+      "dlg": "Have at thee to boot!"
     },
     {
       "id": "battle_erosion_20302_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "...ขยี้พวกมัน"
+      "dlg": "…Crush them."
     },
     {
       "id": "battle_awaken_20303_1",
       "desc": "E.G.O Activation",
-      "dlg": "โฮ! ข้าจักช็อตไฟฟ้าพวกเจ้าทั้งหมดเอง!!!"
+      "dlg": "Ho! I shall electrocute them all!!!"
     },
     {
       "id": "battle_erosion_20303_1",
@@ -33,42 +33,42 @@
     {
       "id": "battle_awaken_20304_1",
       "desc": "E.G.O Activation",
-      "dlg": "ข้าขอคับนับ!!!!!! ข้าขอวิงวอนพวกเจ้าได้โปรดลองชิมซุปนี้เสียเถอะ!!!!"
+      "dlg": "Salutations!!!!!! I implore thee to try this soup!!!!"
     },
     {
       "id": "battle_erosion_20304_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "อหว่าาา... ล-ลองชิมสักนิดไหม..."
+      "dlg": "Ewerrgh… H—Have a soupçon…"
     },
     {
       "id": "battle_awaken_20305_1",
       "desc": "E.G.O Activation",
-      "dlg": "ตอนนี้,อนุญาตให้พวกเราทำการขอพรด้วยเถอะ!\nข้านั้นขอให้หินก้อนนี้ฟาดฟันท่านอย่างจริงใจและเที่ยงแท้!"
+      "dlg": "Now, let us make our wishes!\nI wish for this rock to smite thee true and willing!"
     },
     {
       "id": "battle_erosion_20305_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "เจ้าต้องขอพร... ด้วยความเที่ยงแท้สุดหัวใจ... มิเช่นนั้นเเล้วเคราะห์ร้าย... จักบังเกิดขึ้น..."
+      "dlg": "Thou must wish... with all thy heart... Lest misfortune... befall thee..."
     },
     {
       "id": "battle_awaken_20306_1",
       "desc": "E.G.O Activation",
-      "dlg": "สีสันใดกันหรือที่ดวงตาของพวกเจ้ามองเห็นในประกายไฟฟ้านี้เอ่ย?!"
+      "dlg": "What color do thine eyes behold in this electric spark?!"
     },
     {
       "id": "battle_erosion_20306_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "ได้โปรดหยุดเถิด... หยุดนำของของข้าไปจากตัวข้าเสียที..."
+      "dlg": "Please stop... stop taking things away from me..."
     },
     {
       "id": "battle_awaken_20307_1",
       "desc": "E.G.O Activation",
-      "dlg": "ดั่งได้ชุ่มไปในเลือดทั้งหมดนี้... ใช่เเล้ว...!\nจงเบ่งบานด้วยความสุขสันต์ จงเบ่งบาน! โอ้,จงเบ่งบานเสีย!"
+      "dlg": "Steeped in the blood of all... yes...!\nBlossom in euphoria, blossom! Oh, blossom!"
     },
     {
       "id": "battle_erosion_20307_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "เจ้าไม่มีวันเข้าในความกระหายของพวกเรา! ข้าจะเอาเลือดของเจ้าหากข้าต้องทำ...\nและ... และจงเบ่งบาน... ด้วยสีแดงเข้มดั่งเลือดที่กินใจข้ามากกว่าเดิม!"
+      "dlg": "You do not know of our thirst! I'll take your blood if I must...\nand... and blossom... its crimson ever more profound!"
     },
     {
       "id": "battle_awaken_20308_1",

@@ -2,55 +2,55 @@
   "dataList": [
     {
       "id": "tutorial_101_01",
-      "content": "โปรดอนุญาติให้ฉันอธิบายการต่อสู้ของคุณค่ะ"
+      "content": "Allow me to show you the basics of management and command."
     },
     {
       "id": "tutorial_101_02",
-      "content": "คุณสามารถออกคำสั่งเหล่า Sinners ได้โดยการลาก Chain สกิลข้างล่าง"
+      "content": "You can give orders to the Sinners by connecting (chaining) skills on the Dashboard at the bottom of the screen."
     },
     {
       "id": "tutorial_101_03",
-      "content": "กดค้างไว้ที่ตรงฟันเฟืองทางซ้ายดูค่ะ"
+      "content": "Press and hold this gear on the left."
     },
     {
       "id": "tutorial_101_04",
-      "content": "จากนั้น ลองลากโซ่ผ่านสกิลทั้งหมดจนสุดทางดูค่ะ"
+      "content": "From here, form a chain of skills all the way to the gear on the right."
     },
     {
       "id": "tutorial_101_05",
-      "content": "หลังจากคุณเลือกสกิลที่จะใช้ผ่านการลากโซ่เรียบร้อยแล้ว ให้กดฟันเฟืองทางขวาเพื่อเริ่มโจมตีค่ะ"
+      "content": "After you have formed a chain of skills, press the right gear to begin combat."
     },
     {
       "id": "tutorial_102_01",
-      "content": "ดูเหมือนว่าเราต้องการอะไรที่ทรงพลังกว่านี้สักหน่อย\nลองลากอีกแบบดูค่ะ"
+      "content": "It appears we need a powerful attack.\nLet’s form the proper chain for it."
     },
     {
       "id": "tutorial_102_02",
-      "content": "หากลากสกิลสีเดียวกันมากกว่า 2 สกิลขึ้นไป จะทำให้เกิด < Resonance > ."
+      "content": "By chaining 2 or more skills of the same Affinity this turn, you will cause <Resonance>."
     },
     {
       "id": "tutorial_102_03_popup_title",
-      "content": "ข้อมูลของ Resonance"
+      "content": "Resonance Input"
     },
     {
       "id": "tutorial_102_03",
-      "content": "Resonance จะช่วยเพิ่มดาเมจของสกิลแบบเดียวกัน\nตามรูปแบบของบาปประจำสกิล ( หรือสีนั่นแหละเรียกง่ายๆ )\nและสกิลแต่ละสกิลจะขั้นเลเวลของมันผ่านการ Resonance"
+      "content": "Resonance boosts the damage of skills with the same\nSin Affinity. (Their color, in other words.)\nThe Power of each skill is boosted by the number of skills that come before it."
     },
     {
       "id": "tutorial_103_01",
-      "content": "นั่นยังไม่พอลองอะไรแรงๆกว่านี้หน่อยค่ะ\nลอง Chain สกิลใหม่ดูค่ะ"
+      "content": "That wasn’t enough. We must strike them even harder.\nTry chaining our skills again."
     },
     {
       "id": "tutorial_103_02",
-      "content": "เมื่อลากสกิลสีเดียวกันสามสีขึ้นไป มันจะสร้างการ <Absolute Resonance> แทน"
+      "content": "By chaining 3 or more skills of the same Affinity in direct succession, you will cause <Absolute Resonance>."
     },
     {
       "id": "tutorial_103_03_popup_title",
-      "content": "อะไรคือ Absolute Resonance ?"
+      "content": "What is Absolute Resonance?"
     },
     {
       "id": "tutorial_103_03",
-      "content": "ตามที่เราได้บอกไป ถ้า Chain สกิลสีเดียวกัน 3 อันขึ้นไปจะทำให้เกิด <Absolute Resonance>.\nทุกสกิลที่ได้รับ < Absolute Resonance > จะได้บูสดาเมจเพิ่มตามจำนวนที่เพิ่มขึ้นค่ะ\nแล้วปุ่มก็จะสว่างขึ้นด้วย"
+      "content": "As we just covered, chaining 3 or more skills of the same Affinity in succession causes <Absolute Resonance>.\nEvery skill under <Absolute Resonance> receives a Power boost based on their total number.\nLikewise, this boost especially shines with more resonating skills."
     },
     {
       "id": "tutorial_104_01",
@@ -106,15 +106,15 @@
     },
     {
       "id": "tutorial_202_02",
-      "content": "เมื่อเหล่า Sinners กับศัตรูเริ่มเข้าสู้กัน จะเกิดการ < Clash > ขึ้น\n**เรื่องนี้สำคัญ อย่าข้ามไม่งั้นเล่นแพ้อย่าบ่น**"
+      "content": "When a Sinner and their target both use attack skills, a <Clash> occurs."
     },
     {
       "id": "tutorial_202_03_popup_title",
-      "content": "เอาล่ะการ Clash คืออะไรงั้นเหรอ"
+      "content": "What are Clashes?"
     },
     {
       "id": "tutorial_202_03",
-      "content": "จะเกิดการ < Clash > ขึ้นเมื่อสองฝ่ายเลือกสกิลมาโจมตีกันเรียบร้อย\nฝั่งไหนที่แต้มเยอะกว่าก็จะชนะ ทุกการชนะ จะเอาเหรียญเล็กๆออกจากสกิล\nการ Clash จะเกิดจนกว่าเหรียญโจมตีจะถูกหักออกหมด\nฝั่งไหนเหรียญหมดก่อน ก็จะเสียโอกาสในการโจมตีไป\nเหรียญเท่ากับจำนวนฮิต ผู้ชนะจะโจมตีตามจำนวนเหรียญที่เหลืออยู่ ยิ่ง Clash กันนาน ดาเมจจะยิ่งแรง"
+      "content": "A <Clash> occurs when two characters attack each other.\nThe side with the higher Power wins, removing 1 Coin from the loser.\nIf both sides still have Coins, more Clashes will occur until one side has lost all of its Coins.\nThe side that loses all their Coins will have their attack skill canceled.\nThe winner will then attack with their remaining Coins, gaining a damage bonus based on the total number of Clashes."
     },
     {
       "id": "tutorial_202_04",
@@ -130,15 +130,15 @@
     },
     {
       "id": "tutorial_203_01",
-      "content": "ละไอ้ลูกกลมๆข้างๆเลือดอ่ะ เรียก < Sanity > หรือ SP หรือค่าสติ"
+      "content": "The blue orb next to a character’s health bar is an indicator of their <Sanity>, or SP."
     },
     {
       "id": "tutorial_203_02_popup_title",
-      "content": "อะไรคือค่าสติ"
+      "content": "What is Sanity?"
     },
     {
       "id": "tutorial_203_02",
-      "content": "ทุกตัวจะมีเงื่อนไขในการเพิ่มหรือลดค่าสติ < Sanity > หรือ SP. สูงสุดคือ -45 ถึง +45.\nยิ่งเยอะยิ่งทำให้ทอยออกหัวง่ายขึ้น 1 SP ต่อเปอร์\nเงื่อนไขส่วนมากก็คงเป็น ทีมฆ่าได้จะได้ SP เพิ่ม ส่วนถ้าทีมตายหรือเลือดต่ำก็จะลด ( ส่วนใหญ๋รวมๆ )\nแล้วก็ศัตรูที่ SP ต่ำจะติดสถานะ ' เสียขวัญ ' ไม่ก็ ' แพนิค ' ด้วย"
+      "content": "The sphere on a unit’s right indicates their <Sanity>, or SP. It has a range of -45 to +45.\nUnits with higher Sanity have a higher chance of their Coin flips landing heads.\nDefeating enemies boosts Sanity, while ally deaths will harm Sanity.\nEnemy units at low Sanity may fall into states of “Low Morale” or “Panic”."
     },
     {
       "id": "tutorial_203_06",

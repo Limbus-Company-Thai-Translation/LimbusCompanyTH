@@ -2,35 +2,35 @@
   "dataList": [
     {
       "id": "MAINSTORY",
-      "content": "เนื้อเรื่องหลัก"
+      "content": "Main Story"
     },
     {
       "id": "PERSONALITYSTORY",
-      "content": "แฟ้มข้อมูลตัวตนบุคคล"
+      "content": "Identity Archive"
     },
     {
       "id": "NOTE_OF_DANTE",
-      "content": "โน้ตของดันเต้"
+      "content": "Dante’s Notes"
     },
     {
       "id": "EPISODE",
-      "content": "ตอน {0}"
+      "content": "Ep. {0}"
     },
     {
       "id": "PAGE",
-      "content": "หน้า {0}"
+      "content": "Pg. {0}"
     },
     {
       "id": "PROGRESS",
-      "content": "คืบหน้า"
+      "content": "Progress"
     },
     {
       "id": "Before",
-      "content": "ก่อนต่อสู้"
+      "content": "Pre-battle"
     },
     {
       "id": "After",
-      "content": "หลังต่อสู้"
+      "content": "Post-battle"
     },
     {
       "id": "None",
@@ -38,51 +38,51 @@
     },
     {
       "id": "ENTER",
-      "content": "ตกลง"
+      "content": "Enter"
     },
     {
       "id": "CLOSE",
-      "content": "ปิด"
+      "content": "Close"
     },
     {
       "id": "MIRRORWOLDS",
-      "content": "เหล่าโลกกระจก"
+      "content": "Mirror Worlds"
     },
     {
       "id": "STORY",
-      "content": "เนื้อเรื่อง"
+      "content": "Story"
     },
     {
       "id": "SECURITY_MATERIAL",
-      "content": "บันทึกลับ"
+      "content": "Classified Logs"
     },
     {
       "id": "SPEECH",
-      "content": "บทพูด"
+      "content": "Dialogue"
     },
     {
       "id": "OPEN_CONDITION",
-      "content": "วิธีการปลดล็อก: "
+      "content": "To Unlock: "
     },
     {
       "id": "DEEP_ANALYSIS",
-      "content": "ข้อมูลเชิงลึก: "
+      "content": "In-depth: "
     },
     {
       "id": "DATA_DOWNLOAD",
-      "content": "โหลดข้อมูล"
+      "content": "Data Download"
     },
     {
       "id": "DATA_DOWNLOAD_DESC",
-      "content": "เล่นไฟล์เสียงสำหรับบทพูดที่มีการให้เสียงเเล้ว?\n จะมีการโหลดข้อมูลเพิ่มเติมหากตอบตกลง"
+      "content": "Play sound files for voiced dialogue?\nAdditional data will be downloaded."
     },
     {
       "id": "DATA_DOWNLOAD_NO",
-      "content": "ยังไม่ได้ให้เสียง\n(0.00 MB)"
+      "content": "Unvoiced\n(0.00 MB)"
     },
     {
       "id": "DATA_DOWNLOAD_YES",
-      "content": "ให้เสียงเล้ว\n({0} MB)"
+      "content": "Voiced\n({0} MB)"
     },
     {
       "id": "CV_1",
@@ -138,123 +138,123 @@
     },
     {
       "id": "EnterStoryPopupDesc",
-      "content": "ต้องการที่จะเข้าไปหรือไม่\n{0}?"
+      "content": "Will you enter\n{0}?"
     },
     {
       "id": "No",
-      "content": "ยกเลิก"
+      "content": "Cancel"
     },
     {
       "id": "DetailStoryDungeon",
-      "content": "อยู่ในดันเจี้ยนเนื้อเรื่อง"
+      "content": "Within Story Dungeon"
     },
     {
       "id": "NeedsPersonality",
-      "content": "ต้องการ  Identity ตัวนี้"
+      "content": "Identity Required"
     },
     {
       "id": "NeedsPersonalityButton",
-      "content": "ดูเงื่อนไขที่ต้องการ"
+      "content": "View Requirements"
     },
     {
       "id": "MainStoryOpenCondition_101",
-      "content": "ผ่านด่าน 1-1"
+      "content": "Clear 1-1"
     },
     {
       "id": "MainStoryOpenCondition_102",
-      "content": "ผ่านด่าน 2-1"
+      "content": "Clear 2-1"
     },
     {
       "id": "MainStoryOpenCondition_103",
-      "content": "ผ่านด่าน 3-1"
+      "content": "Clear 3-1"
     },
     {
       "id": "PersonalityStory_OpenCodition",
-      "content": "ปลดล็อคที่ Uptie ขึ้น {0}"
+      "content": "Unlocked at Uptie Tier {0}"
     },
     {
       "id": "OTHERSTORY",
-      "content": "เรื่องราวคั่นกลาง"
+      "content": "Detour Tales"
     },
     {
       "id": "DanteNote_Record",
-      "content": "บันทึก"
+      "content": "Record"
     },
     {
       "id": "DanteNote_Time",
-      "content": "เวลา"
+      "content": "Time"
     },
     {
       "id": "DanteNote_Update",
-      "content": "อัพเดทล่าสุด"
+      "content": "Update"
     },
     {
       "id": "DanteNote_Main",
-      "content": "ฉันก็ไม่รู้ว่าจะเริ่มเขียนบันทึกนี้ยังไงดี\nคงเป็นเรื่องธรรมดาเพราะฉันก็เเทบจะจำอะไรไม่ได้เลยซักนิด \nบางทีฉันควรจะเริ่มเขียนทุกครั้งที่เจอกับบางสิ่งที่ฉันเคยลืมไปแล้ว"
+      "content": "I’m not sure where to even start.\nI guess it’s only natural, given that I can’t tell how much I forgot to begin with.\nMaybe I’ll start by making notes whenever I run into things I don’t remember."
     },
     {
       "id": "MINI",
-      "content": "สั้น"
+      "content": "Mini"
     },
     {
       "id": "DetailStoryMini",
-      "content": "ตอนสั้น"
+      "content": "Mini Episodes"
     },
     {
       "id": "OtherStoryOpenCondition_9103",
-      "content": "ผ่านด่าน 3.5-1"
+      "content": "Clear 3.5-1"
     },
     {
       "id": "OtherStoryOpenCondition_9010",
-      "content": "ผ่านด่าน 3.5-9"
+      "content": "Clear 3.5-9"
     },
     {
       "id": "MainStoryOpenCondition_104",
-      "content": "ผ่านด่าน 4-1"
+      "content": "Clear 4-1"
     },
     {
       "id": "OtherStoryOpenCondition_9104",
-      "content": "ผ่านด่าน 4.5-1"
+      "content": "Clear 4.5-1"
     },
     {
       "id": "OtherStoryOpenCondition_9011",
-      "content": "ผ่านด่าน 4.5-11"
+      "content": "Clear 4.5-11"
     },
     {
       "id": "MainStoryOpenCondition_105",
-      "content": "ผ่านด่าน 5-1"
+      "content": "Clear 5-1"
     },
     {
       "id": "OtherStoryOpenCondition_9012",
-      "content": "ผ่านด่าน 5-36"
+      "content": "Clear 5-36"
     },
     {
       "id": "OtherStoryOpenCondition_9105",
-      "content": "ผ่านด่าน 5.5-1"
+      "content": "Clear 5.5-1"
     },
     {
       "id": "OtherStoryOpenCondition_9013",
-      "content": "ผ่านด่าน 5.5-12"
+      "content": "Clear 5.5-12"
     },
     {
       "id": "OtherStoryOpenCondition_9014",
-      "content": "ผ่านด่าน 5.5-12"
+      "content": "Clear 5.5-12"
     },
     {
       "id": "OtherStoryOpenCondition_9107",
-      "content": "ผ่านด่าน 5.5-13"
+      "content": "Clear 5.5-13"
     },
     {
       "id": "OtherStoryOpenCondition_9015",
-      "content": "ผ่านด่าน 5.5-24"
+      "content": "Clear 5.5-24"
     },
     {
       "id": "MainStoryOpenCondition_106",
-      "content": "ผ่านด่าน 6-1"
+      "content": "Clear 6-1"
     },
     {
       "id": "OtherStoryOpenCondition_9016",
-      "content": "ผ่านด่าน 6-48"
+      "content": "Clear 6-48"
     },
     {
       "id": "theStoryOf",
@@ -262,51 +262,51 @@
     },
     {
       "id": "OtherStoryOpenCondition_9109",
-      "content": "ผ่านด่าน 6.5-1"
+      "content": "Clear 6.5-1"
     },
     {
       "id": "OtherStoryOpenCondition_9017",
-      "content": "ผ่านด่าน 6-48"
+      "content": "Clear 6-48"
     },
     {
       "id": "OtherStoryOpenCondition_9110",
-      "content": "ผ่านด่าน 6.5-16"
+      "content": "Clear 6.5-16"
     },
     {
       "id": "personality_voice_section_before_clear_chapter_format",
-      "content": "ก่อน\nบทที่ {0}"
+      "content": "Pre\nCanto {0}"
     },
     {
       "id": "personality_voice_section_after_clear_chapter_format",
-      "content": "หลัง\nบทที่ {0}"
+      "content": "Post\nCanto {0}"
     },
     {
       "id": "PersonalityStory_OpenCodition_UnlockCode106",
-      "content": "ผ่านบทที่ 6"
+      "content": "Clear Canto VI"
     },
     {
       "id": "PersoanlityStory_After",
-      "content": "(ตอนหลัง)"
+      "content": "(The After)"
     },
     {
       "id": "OtherStoryOpenCondition_9018",
-      "content": "ผ่านด่าน 6.5-30"
+      "content": "Clear 6.5-30"
     },
     {
       "id": "MainStoryOpenCondition_107",
-      "content": "ผ่านด่าน 7-1"
+      "content": "Clear 7-1"
     },
     {
       "id": "OtherStoryOpenCondition_9019",
-      "content": "ผ่านด่าน 7-36"
+      "content": "Clear 7-36"
     },
     {
       "id": "OtherStoryOpenCondition_9114",
-      "content": "ผ่านด่าน 7.5-1"
+      "content": "Clear 7.5-1"
     },
     {
       "id": "OtherStoryOpenCondition_9116",
-      "content": "ผ่านด่าน 7.5-15"
+      "content": "Clear 7.5-15"
     },
     {
       "id": "MainStoryOpenCondition_108",
