@@ -2,126 +2,126 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 2F",
-      "teller": "Bawling Casinogoer",
-      "title": "J Corp. Casino",
-      "content": "GAAH!!! NOT AGAIN!!!"
+      "place": "คาสิโนชั้น 2",
+      "teller": "ผู้เล่นโบว์ลิ่งในคาสิโน",
+      "title": "คาสิโน J Corp",
+      "content": "อ๊ากก!!! เอาอีกเเล้ว!!!"
     },
     {
       "id": 1,
-      "teller": "Bawling Casinogoer",
-      "title": "J Corp. Casino",
-      "content": "I lost once again, damn! When will this end?"
+      "teller": "ผู้เล่นโบว์ลิ่งในคาสิโน",
+      "title": "คาสิโน J Corp",
+      "content": "ฉันเเพ้อีกเเล้ว เเม่งเอ้ย! เมื่อไรมันจะจบเนี่ย?"
     },
     {
       "id": 2,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
+     "teller": "นักดนตรีผู้ร่าเริง",
       "title": "Los Mariachis",
-      "content": "Oye, espera, time out! Our dear customer here needs a little care!"
+      "content": "โอ้ เดี๋ยวสิ ไอหนุ่ม! คุณลูกค้าของเราต้องการการดูเเลหน่อยนะเนี่ย!"
     },
     {
       "id": 3,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
+     "teller": "นักดนตรีผู้ร่าเริง",
       "title": "Los Mariachis",
-      "content": "Dear Customer, I hope you haven’t forgotten our rule, have you?"
+      "content": "คุณลูกค้าครับ ผมหวังว่าคุณจะยังไม่ลืมกฎของพวกเราใช่ไหม?"
     },
     {
       "id": 4,
-      "teller": "Bawling Casinogoer",
-      "title": "J Corp. Casino",
-      "content": "B-But… That was all the money I had…"
+      "teller": "ผู้เล่นโบว์ลิ่งในคาสิโน",
+      "title": "คาสิโน J Corp",
+      "content": "ต-เเต่… นั้นมันเงินทั้งหมดที่ผมมีนะ…"
     },
     {
       "id": 5,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
+     "teller": "นักดนตรีผู้ร่าเริง",
       "title": "Los Mariachis",
-      "content": "If you keep dampening the mood of the table, we might throw a pañata party out of you."
+      "content": "ถ้ายังทำบรรยากาศกร่อยเเบบนี้ เดี๋ยวพวกเราจะจัดปาร์ตี้ปาญาต้าใส่เลยน่า"
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "(Uh, what’s a pañata party?)"
+      "content": "(เออ… ปาร์ตี้ปาญาต้าคืออะไรฟ่ะ?)"
     },
     {
       "id": 7,
       "model": "단테",
-      "content": "<I don’t think I want to know…>"
+      "content": "<ฉันก็ไม่อยากจะรู้เหมือนกัน…>"
     },
     {
       "id": 8,
-      "content": "Pressured by gentle intimidation, the weeping guest stood up from their seat."
+      "content": "เเขกที่กำลังร้องให้อยู่นั้น ลุกขึ้นจากที่นั่งหลังจากโดนกดดันเล็กน้อยจากเหล่านักดนตรี"
     },
     {
       "id": 9,
-      "content": "And then, being handed a pair of maracas from the staff, they…"
+      "content": "หลังจากนั้น เหล่าสตาฟก็ยื่นมาราคัสคู่หนึ่งให้ เเละพวกเขา…"
     },
     {
       "id": 10,
-      "content": "…Started dancing, sobbing all the way…"
+      "content": "…ก็เริ่มเต้นรำในขณะที่ยังร้องห่มร้องไห้อยู่…"
     },
     {
       "id": 11,
       "model": "히스클리프",
-      "content": "What’s this now…?"
+      "content": "อ-อะไรของมันว่ะ…?"
     },
     {
       "id": 12,
       "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
+      "teller": "นักดนตรีผู้สดใส",
       "title": "Los Mariachis",
-      "content": "There’s a rule every visitor to this floor must follow—una tradición mariachi, if you will."
+      "content": "มันมีกฎที่ผู้มาเยือนทุกคนในชั้นนี้ต้องทำตาม จะว่าเป็นธรรมเนียมของเหล่านักดนตรีเลยก็ว่าได้"
     },
     {
       "id": 13,
       "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
+      "teller": "นักดนตรีผู้สดใส",
       "title": "Los Mariachis",
-      "content": "Gambling is entertainment, an activity done purely for fun; thus, all the sadness and pain brought to you must be sublimated into dance."
+      "content": "การพนันเป็นกิจกรรมที่เล่นด้วยความสนุกสนานเท่านั้น ฉะนั้นความเศร้าโศกเเละความเจ็บปวดที่รู้สึกจากการพนันนั้นจะต้องถูกละลายผ่านการเต้นยังไงล่ะ"
     },
     {
       "id": 14,
       "model": "돈키호테",
-      "content": "Allow this knight to demonstrate what dancing is about!"
+      "content": "ขอให้อัศวินผู้นี้เเสดงให้เห็นว่า 'การร่ายรำ' คือสิ่งใด!"
     },
     {
       "id": 15,
-      "content": "Alas, they were harsher judges than they seemed."
+      "content": "เเต่เเล้ว พวกเขาก็ดูเป็นกรรมการที่โหดกว่าที่คิด"
     },
     {
       "id": 16,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
+     "teller": "นักดนตรีผู้ร่าเริง",
       "title": "Los Mariachis",
-      "content": "This one won’t do."
+      "content": "ไอนี่ไม่เวิร์ค"
     },
     {
       "id": 17,
       "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
+      "teller": "นักดนตรีผู้สดใส",
       "title": "Los Mariachis",
-      "content": "Her movement is insincere."
+      "content": "การเคลื่อนไหวของเธอดูไม่จริงใจเลยสักนิด"
     },
     {
       "id": 18,
       "model": "돈키호테",
-      "content": "What on earth do you mean?!"
+      "content": "หมายความว่าเช่นไรกัน?!"
     },
     {
       "id": 19,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
+     "teller": "นักดนตรีผู้ร่าเริง",
       "title": "Los Mariachis",
-      "content": "Dance is a window to the heart."
+      "content": "การเต้นรำคือหน้าต่างสู่หัวใจ"
     },
     {
       "id": 20,
       "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
+      "teller": "นักดนตรีผู้สดใส",
       "title": "Los Mariachis",
-      "content": "Without a clear and pure heart, it loses all meaning."
+      "content": "ถ้าไม่มีจิตใจที่บริสุทธิ์เเละโปร่งใส การเต้นไปก็ไม่มีความหมายอะไรเลย"
     },
     {
       "id": 21,
@@ -131,21 +131,21 @@
     {
       "id": 22,
       "model": "돈키호테",
-      "content": "…I find thine assessment rather disgracious."
+      "content": "…การประเมินของพวกท่านนั้นช่างน่ายางอายนัก"
     },
     {
       "id": 23,
       "model": "에피",
       "teller": "เอฟฟี่",
       "title": "LCCB",
-      "content": "This is getting further out of hand… What are you doing, Saude?"
+      "content": "นี่เริ่มจะเลยเถิดเกินไปเเล้วนะ… ทำอะไรของเธอน่ะ ซอเดย์?"
     },
     {
       "id": 24,
       "model": "소드",
       "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "Oh, I was writing our letter of apology in advance."
+      "content": "อ๋อ กำลังเขียนจดหมายขอโทษของพวกเราไว้ล่วงหน้านะคะ"
     }
   ]
 }
