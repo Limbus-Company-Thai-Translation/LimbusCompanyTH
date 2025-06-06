@@ -965,6 +965,34 @@
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu’s 12th Identity"
+    },
+    {
+      "id": 11212,
+      "title": "Heishou Pack - Si Branch",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor’s 12th Identity"
+    },
+    {
+      "id": 10912,
+      "title": "Heishou Pack - Si Branch",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion's 12th Identity"
+    },
+    {
+      "id": 10212,
+      "title": "Heishou Pack -\nMao Branch Adept",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust's 12th Identity"
+    },
+    {
+      "id": 10812,
+      "title": "Family Hierarch Candidate",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael's 12th Identity"
     }
   ]
 }

@@ -1,2 +1,2 @@
 # LimbusCompanyTH
-Limbus Company แปลภาษาไทย
+Limbus Company แปลภาษาไทย by Community TH Team

@@ -3,27 +3,27 @@
     {
       "id": "battle_awaken_21001_1",
       "desc": "E.G.O Activation",
-      "dlg": "หากผมสามารถตัดมันด้วยตัวเอง…"
+      "dlg": "หากผมสามารถตัดมันด้วยตัวเอง..."
     },
     {
       "id": "battle_awaken_21002_1",
       "desc": "E.G.O Activation",
-      "dlg": "ผมจะบดขยี้คุณ…"
+      "dlg": "ผมจะบดขยี้คุณ..."
     },
     {
       "id": "battle_erosion_21002_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "คุณก็จะเป็นเครื่องสังเวยเหมือนกัน."
+      "dlg": "คุณก็จะเป็นเครื่องสังเวยเหมือนกัน"
     },
     {
       "id": "battle_awaken_21003_1",
       "desc": "E.G.O Activation",
-      "dlg": "นี่คือท่าไม้ตาย…! โว้, อ๊ากก…"
+      "dlg": "นี่คือท่าไม้ตาย...! โว้, อ๊ากก..."
     },
     {
       "id": "battle_erosion_21003_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "อ่า… มัน… ปั่นป่วนไปหมดเลย…"
+      "dlg": "อ่า... มัน... ปั่นป่วนไปหมดเลย..."
     },
     {
       "id": "battle_awaken_21004_1",
@@ -64,6 +64,16 @@
       "id": "battle_erosion_21007_1",
       "desc": "E.G.O Corrosion",
       "dlg": "ตอนนี้คุณเริ่มขาดแล้วนะ, ผมจะเย็บคุณเอง! ฮะฮ่าฮะฮ่า... มานี่เลย!"
+    },
+    {
+      "id": "battle_awaken_21008_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Earthbound I have become, but... to embrace you, I endure this endless descent."
+    },
+    {
+      "id": "battle_erosion_21008_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "The earth has no punishment for your sins.\nShut your eyes, now. Accept the retribution of the heavens."
     }
   ]
 }
