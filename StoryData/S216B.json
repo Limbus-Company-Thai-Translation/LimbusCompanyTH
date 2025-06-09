@@ -2,171 +2,171 @@
   "dataList": [
     {
       "id": 0,
-      "place": "High Rollers Floor",
+      "place": "ชั้นของเหล่าไฮโรลเลอร์",
       "model": "단테",
-      "content": "<This isn’t good. We’ve reached the top floor, but we don’t have nearly enough wishpower…>"
+      "content": "<ไม่ดีเเน่ ถึงชั้นบนสุดเเล้วเเต่ยังมีเเรงปรารถนาไม่เพียงพอเลย…>"
     },
     {
       "id": 1,
       "model": "로쟈",
-      "content": "Aah~ No worries. I’ve been itching to tell you this, and it’s finally time."
+      "content": "อ้า~ไม่ต้องเป็นห่วงไป ฉันอยากบอกเรื่องนี้มานานล่ะ ถึงเวลาซักที"
     },
     {
       "id": 2,
       "model": "로쟈",
-      "content": "I actually pinched a little wishpower back at the pawnshop. It’s not a lot, but it should be just enough, right?"
+      "content": "ฉันเเอบจิกเเรงปรารถนาจากโรงรับจำนำมานิดนึงนะ ไม่เยอะ เเต่ก็น่าจะพอใช่ไหม?"
     },
     {
       "id": 3,
-      "content": "Rodya showed us a wish sticker sheet with a few labels left on it."
+      "content": "ร๊อดย่าโชว์เเผ่นสติ๊กเกอร์ที่มีสัญลักษณ์เหลืออยู่เพียงเล็กน้อย"
     },
     {
       "id": 4,
       "model": "소드",
       "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "Why didn’t you tell us earlier?"
+      "content": "ทำไมถึงไม่บอกกันก่อนล่ะคะ?"
     },
     {
       "id": 5,
       "model": "로쟈",
-      "content": "Like you said, gambling is all about keeping a poker face. Wouldn’t want to see one of us slip and complicate things."
+      "content": "อย่างที่บอกว่าการพนันคือการรักษาโป๊กเกอร์เฟซไง ฉันคงไม่อยากให้หนึ่งในพวกเราเผลอทำเรื่องไม่เป็นเรืองอีก"
     },
     {
       "id": 6,
       "model": "로쟈",
-      "content": "As for the boss role~ Mind if I borrow it for a sec, Dante?"
+      "content": "เเล้วก็บทบาทผู้นำเนี่ย~ ขอยืมบทนั้นซักนิดนึงได้ไหมดันเต้?"
     },
     {
       "id": 7,
-      "content": "I nodded, seeing as I wasn’t really doing much in this guise anyways."
+      "content": "ฉันพยักหน้าไป เพราะเห็นว่าถึงปลอมตัวไปฉันก็ไม่ได้ทำอะไรมากนัก"
     },
     {
       "id": 8,
-      "content": "Even if I were committed to the act, it would only be right for me to forfeit it with my knees bent, since things played out the way they did."
+      "content": "ถึงฉันจะเข้าถึงบทบาทนั้นจริง มันก็คงเป็นจังหวะดีที่ฉันจะยอมเเพ้เเล้วคุกเข่าให้กับสิ่งที่เกิดขึ้นทั้งหมดในวันนี้"
     },
     {
       "id": 9,
       "model": "소드",
       "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "…I would’ve been vehemently against this only hours ago. But now…"
+      "content": "…ถ้าเป็นชั่วโมงก่อน ฉันคงจะคัดค้านการตัดสินใจนี้อย่างรุนเเรง เเต่ตอนนี้…"
     },
     {
       "id": 10,
       "model": "로쟈",
-      "content": "Good thinking. I’ve never lost once in anything where money was involved."
+      "content": "คิดถูกเเล้วล่ะ ฉันไม่เคยเเพ้อะไรที่มีเงินมาเกี่ยวข้องหรอกนะ"
     },
     {
       "id": 11,
       "model": "로쟈",
-      "content": "Alright…"
+      "content": "เอาล่ะ…"
     },
     {
       "id": 12,
-      "place": "Private Room",
+      "place": "ห้องพนันส่วนตัว",
       "model": "로쟈",
-      "content": "The contestant enters~"
+      "content": "ผู้ท้าชิงเข้ามาเเล้วค่า~"
     },
     {
       "id": 13,
       "model": "로쟈",
-      "content": "Wait, I’m not the last? Aw, there goes my cool entry."
+      "content": "ห๊า ฉันไม่ได้มาคนสุดท้ายหรอ? โธ่ อดเปิดตัวเท่เลย"
     },
     {
       "id": 14,
       "teller": "???",
       "title": "???",
-      "content": "You are…?"
+      "content": "เธอคือ…?"
     },
     {
       "id": 15,
       "model": "로쟈",
-      "content": "My name’s Rodion. I’m here to gamble for the right to access the basement."
+      "content": "ชื่อโรเดียนค่ะ มาพนันเพื่อต้องการสิทธิ์ในการเข้าห้องใต้ดิน"
     },
     {
       "id": 16,
       "model": "아이드",
       "teller": "???",
       "title": "???",
-      "content": "Pwfhah!"
+      "content": "อะฮ่าฮ่า!"
     },
     {
       "id": 17,
       "model": "아이드",
       "teller": "???",
       "title": "???",
-      "content": "I was looking forward to finally meeting the infamous “wishpower whisker” in person, and look who we get instead. Aren’t you a little too confident for some unidentified stranger?"
+      "content": "ตอนเเรกก็คิดว่าได้จะเจอกับ “ผู้ชิงเเรงปรารถนา” อันเลื่องชื่อกับตัวเเต่ดูสิใครดันมาเเทน จะใจเด็ดไปหน่อยหรือเปล่าสำหรับไอเเปลกหน้าที่ไหนไม่รู้เนี่ย?"
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "What a dull take~ It’s not who you are that matters in this world, right? It’s about who wins."
+      "content": "พูดได้น่าเบื่อจัง~ มันไม่สำคัญหรอกว่าฉันจะเป็นใคร? สำคัญว่าใครจะชนะมากกว่าน่ะ"
     },
     {
       "id": 19,
       "model": "아이드",
       "teller": "???",
       "title": "???",
-      "content": "Well, you aren’t wrong there. The fact that you were able to get here is proof enough that you’re qualified."
+      "content": "ธอก็ไม่ผิดไปซะทีเดียวนะ การที่เธอมาถึงที่นี้ได้หมายความว่าเธอก็มีคุณสมบัติพอตัวเเล้วล่ะ"
     },
     {
       "id": 20,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "A pleasure. I’m Aida."
+      "content": "ฉันชื่อไอดะ ยินดีทีไ่ด้รู้จัก"
     },
     {
       "id": 21,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "And this is…"
+      "content": "ส่วนนี้ก็คือ…"
     },
     {
       "id": 22,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Golly, my back’s hurtin’."
+      "teller": "หัวหน้าเเก๊ง",
+     "title": "เเก็งเทีย ชิ่ว",
+      "content": "ให้ตายสิ หลังกูปวดชะมัด"
     },
     {
       "id": 23,
       "model": "로쟈",
-      "content": "…A robot? No, a prosthetic…?"
+      "content": "…หุ่นยนต์? ไม่สิ ร่างเทียมหรอ…?"
     },
     {
       "id": 24,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "What’s that stare? Never seen a full-body prosthetic before?"
+      "teller": "หัวหน้าเเก๊ง",
+     "title": "เเก็งเทีย ชิ่ว",
+      "content": "มองไรของเเก? ไม่เคยเห็นคนใส่ร่างเทียมทั้งตัวมาก่อนหรือไง?"
     },
     {
       "id": 25,
       "model": "로쟈",
-      "content": "Isn’t that model… a bit too antiquated? It kinda looks like it belongs in a museum."
+      "content": "ไม่ใช่ว่ารุ่นนั้น… โบราณไปหน่อยหรอ? ดูเหมือนพวกของที่จะอยู่ในพิพิธภัณฑ์มากกว่านะ"
     },
     {
       "id": 26,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Old is gold, as they say. Patched it up a few times, and now it’s sturdier than most new ones."
+      "teller": "หัวหน้าเเก๊ง",
+     "title": "เเก็งเทีย ชิ่ว",
+      "content": "เขาบอกว่ายิ่งเก่ายิ่งดี ซ่อมมาสักสองสามครั้งเเล้ว ตอนนี้ยังเจ๋งเเจ๋วเท่ารุ่นใหม่เลยล่ะ"
     },
     {
       "id": 27,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Why’s that boy bein’ so sluggish about comin’ here anyway? Arrogant brat thinks he can show up late to serious business, eh?"
+      "teller": "หัวหน้าเเก๊ง",
+     "title": "เเก็งเทีย ชิ่ว",
+      "content": "ทำไมไอ้หนุ่มนั้นมันถืออื้ออาดจังเลยว่ะ? ไอ้เวรนี้คิดว่าจะมาสายในธุรกิจสำคัญเเบบนี้ได้ไงเนี่ยหึม?"
     },
     {
       "id": 28,
       "teller": "???",
       "title": "???",
-      "content": "Pardon me. I had an urgent matter."
+      "content": "ขอโทษที พอดีติดธุระเร่งด่วนน่ะ"
     },
     {
       "id": 29,
@@ -176,16 +176,16 @@
     {
       "id": 30,
       "model": "아이드",
-      "teller": "Aida",
-      "title": "Los Mariachis",
-      "content": "You think the world revolves around you, Sonya? Do you crave attention so much that you have to arrive late and be showered in glares?"
+      "teller": "โซเนีย",
+      "title": "Yurodivy",
+      "content": "โซเนีย คิดว่าโลกหมุนรอบตัวนายหรือไง? นี่หิวเเสงขนาดที่ต้องมาสายเพื่อที่จะได้โดนคนอื่นจ้องหมดเลยหรือไง?"
     },
     {
       "id": 31,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "Haha, I didn’t mean to. If anything, you’d fit better as the protagonist of life, Aida."
+      "content": "ฮะฮ่า ผมไม่ได้ตั้งใจหรอก ถ้าอะไร ผมว่าเธอดูเหมือนตัวละครหลักมากกว่านะ ไอดะ"
     },
     {
       "id": 32,
@@ -195,70 +195,70 @@
     {
       "id": 33,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "It’s been a while, Rodya."
+      "content": "ไม่ได้เจอกันนานเลยนะ ร๊อดย่า"
     },
     {
       "id": 34,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "What’s up? You two know each other?"
+      "content": "ห๊ะ? พวกเธอสองคนรู้จักกันหรอ?"
     },
     {
       "id": 35,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "Let’s say that we… share a hometown. Isn’t that right, Rodya?"
+      "content": "ต้องพูดว่าพวกเรา…บ้านเกิดเดียวกันน่ะ ใช่ไหมล่ะ ร๊อดย่า?"
     },
     {
       "id": 36,
       "model": "로쟈",
-      "content": "So, are you… still leading the Yurodiviye, then?"
+      "content": "งั้น นายก็ยัง… เป็นผู้นำ Yurodiviye อยู่สินะ?"
     },
     {
       "id": 37,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "Dunno, it might be too early to say “still”… You were the one who left on your own just like that."
+      "content": "ไม่รู้สิ เร็วเกินไปที่จะบอกว่า “ยังเป็น” อยู่… เธอตั้งหากที่เป็นคนออกไปดื้อๆเเบบนั้นน่ะ"
     },
     {
       "id": 38,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "Now now, that’s enough chatting. Since we have all the players, let’s go over the rules again."
+      "content": "เอาน่า คุยกันเเค่นี้พอเเล้ว ไหนๆผู้เล่นครบเเล้ว มาทบทวนกฎกติกาอันอีกสักรอบเเล้วกัน"
     },
     {
       "id": 39,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "The four bidders for the casino are all here: Sonya, Aida, the Tieqiu, and… representing the Tingtang Gang’s boss… a suspicious yet shameless stand-in…"
+      "content": "ผู้ลงเล่นการพนันทั้งสี่คนมาถึงเเล้ว: โซเนีย ไอดะ พวกเทีย ชิ่วเเละ… ตัวเเทนหัวหน้าเเก๊ง Ting Tang…ที่น่าสงสัยอย่างไร้ยางอาย…"
     },
     {
       "id": 40,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "No cheats or sleights of hand are allowed during the game. The moment you’re spotted in the act, you’re out."
+      "content": "ห้ามมีการโกงไพ่หรือเล่นกลมือเป็นอันขาด ถ้าถูกจับได้เมื่อไร โดนตัดสิทธิ์ทันที"
     },
     {
       "id": 41,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "It should go without saying that anything involving wishpower is forbidden as well."
+      "content": "ซึ่งก็ควรบอกด้วยว่าการกระทำที่เกี่ยวข้องกับการใช้เเรงปรารถนาก็ถูกเเบนด้วยเช่นกัน"
     },
     {
       "id": 42,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Soon as you’re caught, you’re on the choppin’ block! You’ll sorely regret it!"
+      "teller": "หัวหน้าเเก๊ง",
+     "title": "เเก็งเทีย ชิ่ว",
+      "content": "ถ้าโดนจับได้เมื่อไร เเกจะโดนจับขึ้นเขียงเเน่! รับรองว่าจะต้องเสียใจอย่างเเน่นอน!"
     },
     {
       "id": 43,
@@ -268,113 +268,113 @@
     {
       "id": 44,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "We’ll play three games in total, and the one with the most chips wins. Simple enough?"
+      "content": "พวกเราจะเล่นกันทั้งหมดสามเกม เเละคนที่มีชิปเยอะสุดก็ชนะไป ง่ายไหมล่ะ?"
     },
     {
       "id": 45,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "The winner will get to take the elevator to the underground portion where the Golden Bough is."
+      "content": "ผู้ชนะก็จะได้เข้าลิฟต์ลงไปสู่ชั้นใต้ดินที่มีกิ่งทองเก็บอยู่"
     },
     {
       "id": 46,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "It’s the treasure the former owner of this casino was so desperate to claim, digging a whole tunnel to unearth it."
+      "content": "เป็นสมบัติที่อดีตเจ้าของคาสิโน ต้องการครอบครองเป็นอย่างมากถึงขั้นงมเข็มในมหาสมุทธเลยล่ะ"
     },
     {
       "id": 47,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "But then they suddenly croaked for reasons unknown, making us the “lucky” bidders…"
+      "content": "เเต่จู่ๆพวกเขาก็หายตัวไปอย่างไร้สาเหตุ ก็เลยทำให้พวกเรากลายเป็น “ผู้โชคดี” ยังไงล่ะ…"
     },
     {
       "id": 48,
       "model": "로쟈",
-      "content": "…What an elegant way to put that they died under shady circumstances."
+      "content": "…ช่างเป็นวิธีที่บอกว่าพวกเขาตายอย่างเเปลกประหลาดได้สง่างามเสียเหลือเกิน"
     },
     {
       "id": 49,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "Haha, oh Rodya. You’re still as cynical as ever, huh?"
+      "content": "ฮาฮ่า ให้ตายสิ ร๊อดย่า เธอนี่ยังคงเย้ยหยันไม่เปลี่ยนเลยนะ"
     },
     {
       "id": 50,
       "model": "로쟈",
-      "content": "…Shut it. How do you guys all know about the Golden Bough, though? Didn’t think it would be so widely known to the public."
+      "content": "…เงียบไปเลย พวกเธอรู้เรื่องเกี่ยวกับกิ่งทองได้ยังไงอ่ะ? ฉันไม่คิดว่าคนจะรู้จักเยอะขนาดนี้นะ"
     },
     {
       "id": 51,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "Any Syndicate worth its name has caught wind of the stories. Those about the Golden Bough buried down here… and the riches and fame it’ll bring to the owner."
+      "content": "ซินดิเคทชื่อดีหน้าไหนก็เคยได้ยินเรื่องนี้มาทั้งนั้นเเหละ เกี่ยวกับว่ามีกิ่งทองฝังอยู่ใต้คาสิโนเเห่งนี้… กับความมั่งคั่งเเละชื่อเสียงที่จะมอบให้กับผู้ที่ครอบครองมัน"
     },
     {
       "id": 52,
       "model": "로쟈",
-      "content": "If that’s the case, seems someone has gained an interest for worldly luxuries, huh? I thought you warned me to stay away from those things, Sonya."
+      "content": "ถ้าเช่นนั้น ก็เหมือนว่าใครสักคนจะเริ่มสนใจในความหรูหราบนโลกใบนี้เเล้วสินะ ไหนนายเป็นคนบอกให้ฉันอยู่ห่างจากของพวกนี้ไง? โซเนีย"
     },
     {
       "id": 53,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "The Golden Bough can be used to achieve far greater things, Rodya. My purpose has stayed the same. To destroy the system of oppression and exploitation, preventing the concentration of wealth…"
+      "content": "กิ่งทองมันนำไปใช้เพื่อบรรลุในสิ่งที่ยิ่งใหญ่กว่านั้นนะ ร๊อดย่า จุดมุ่งหมายของผมยังคงเหมือนเดิม ทำลายล้างระบบการกดขี่และการขูดรีด เพื่อป้องกันการกระจุกตัวของความมั่งคั่ง…"
     },
     {
       "id": 54,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Yeesh, there he goes again with the grand words. Someone stop ‘im."
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "ว้าวว ไอ้หมอนี่พูดคำหรูๆของมันออกมาอีกเเล้ว ใครก็ได้เอาเขาไปเก็บที"
     },
     {
       "id": 55,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "My apologies. It reminded me of the old times."
+      "content": "โทษที มันทำให้ผมนีกถึงวันวานน่ะ"
     },
     {
       "id": 56,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "It’s funny. I used to keep you from your obsession with gambling and money."
+      "content": "ตลกร้ายดี ที่เมื่อก่อนฉันพยายามห้ามเธอไม่ให้หลงไปในการพนันเเละเงินตรา"
     },
     {
       "id": 57,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "Yet here we are at the same table, keeping our hands of cards from each other in a gamble with our goals on the line."
+      "content": "เเต่ตอนนี้เรากลับนั่งโต๊ะเดียวกัน เก็บไพ่ในมือของเราจากกันเเละกัน เพื่อเดิมพันเป้าหมายเดียวกัน"
     },
     {
       "id": 58,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "What is your goal?"
+      "content": "เป้าหมายของเธอคืออะไรกันเเน่?"
     },
     {
       "id": 59,
       "model": "로쟈",
-      "content": "…To win."
+      "content": "…เพื่อชนะไง"
     },
     {
       "id": 60,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "…Of course."
+      "content": "…เรื่องนั้นมันเเน่อยู่เเล้ว"
     }
   ]
 }
