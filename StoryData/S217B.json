@@ -2,42 +2,42 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Private Room",
+      "place": "ห้องพนันส่วนตัว",
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "We’re at the final round. You all keeping a good eye on your chips?"
+      "content": "ถึงตาสุดท้ายเเล้วนะ ได้ดูว่าชิปยังอยู่ดีหรือเปล่า?"
     },
     {
       "id": 1,
       "model": "로쟈",
-      "content": "Hm, I’m all in."
+      "content": "หึม ฉันเทหมดหน้าตักนะ."
     },
     {
       "id": 2,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "…All in?"
+      "content": "…ห-หมดหน้าตัก?"
     },
     {
       "id": 3,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "Ooh~ Dealt a nice hand, huh, Rodya?"
+      "content": "อูวว~ ได้มือดีหรอ ร๊อดย่า?"
     },
     {
       "id": 4,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Hah~ That swagger of yours’s been rubbin’ me the wrong way, y’know that? You’re pushin’ yourself to the edge, so what’re you counting on?"
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "หา~ การที่เเกตอบนิ่มๆอย่างงั้นมันทำให้ฉันเสียเปรียบนะรู้เปล่า? เเกกำลังผลักตัวเองจนสุดขีดน่า คิดอะไรอยู่กันเเน่?"
     },
     {
       "id": 5,
       "model": "로쟈",
-      "content": "I’m the kind of gal who bets everything she has at the end."
+      "content": "ฉันก็เเค่เป็นผู้หญิงที่ชอบพนันทุกอย่างตอนจบน่ะ"
     },
     {
       "id": 6,
@@ -47,47 +47,47 @@
     {
       "id": 7,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Stop right there. Pull your sleeve up. Don’t think I didn’t see you bein’ sneaky."
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "หยุดเลย ถึงเเขนเสื้อขึ้น อย่าคิดว่ากูไม่เห็นนะ"
     },
     {
       "id": 8,
       "model": "로쟈",
-      "content": "Huh?!"
+      "content": "ห๊ะ?!"
     },
     {
       "id": 9,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "You just put one of them wish stickers you got from the Tingtang bossman on your arm."
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "เเกพึ่งติดสติ๊กเกอร์ที่ได้มาจากหัวหน้า TIngtang บนเเขนเเก"
     },
     {
       "id": 10,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "You were tryin’ to rake in all the chips this round so you can have the Golden Bough all to yourself."
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "จากนั้นเเกก็พยายามจะทุ่มหมดตัวตานี้เพื่อจะได้เอากิ่งทองไปเอง"
     },
     {
       "id": 11,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Look, everyone! Right ‘ere ‘neath her hand, this thing. ‘S got to be the sticker, ey?"
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "เห็นไหมทุกคน! ใต้เเขนเสื่อของเธอ ต้องเป็นสตี๊กเกอร์เเน่เลย ใช่ไหมล่ะ?"
     },
     {
       "id": 12,
       "model": "로쟈",
-      "content": "…Got proof?"
+      "content": "…หลักฐานล่ะ?"
     },
     {
       "id": 13,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "Sorry, Rodya, but can I take a look at your wrist for a second?"
+      "content": "โทษทีนะ ร๊อดย่า เเต่ขอดูข้อมือเธอซักเเปปนึงจะได้ไหม?"
     },
     {
       "id": 14,
@@ -97,139 +97,139 @@
     {
       "id": 15,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Nah, you aren’t! Don’t you touch ‘er. Far as I know, you two might be in cahoots."
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "ไม่อ่ะ หยุดเลย! อย่าเเตะเธอเด็ดขาด เท่าที่ฉันรู้ พวกเเกสองคนต้องร่วมมือกันเเน่ๆ"
     },
     {
       "id": 16,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Nooow, I’ll lay ‘er arm bare, so keep your eyes peeled, aight? I knew this sly little fox would play dirty."
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "เอาาล่ะ ฉันจะเปิดเเขนเสื้อเธอ เพราะฉะนั้นจับตาให้ดีๆนะ โอเค? รู้อยู่เเล้วว่าเจ้าเล่ห์นี้มันต้องเล่นสกปรกเเน่ๆ."
     },
     {
       "id": 17,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "Hold on now… This situation… and dialogue… all feel awfully familiar. Have I seen this before somewhere?"
+      "content": "เดี๋ยวก่อน… สถานการณ์เเบบนี้… คำพูดเเบบนี้… มันคุ้นเกินไปอ่ะ ฉันเคยเห็นเเบบนี้ที่ไหนมาก่อนหรือเปล่านะ?"
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Small-minded for someone so big. Do you really have to be petty about this?"
+      "content": " ตัวก็ใหญ่ ใจยังเเคบอีก จำเป็นต้องจิกกันขนาดนี้เลยหรอ?"
     },
     {
       "id": 19,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "And didn’t they teach you that with stolen wishpower comes strict responsibility?"
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "เเล้วไม่มีใครสอนเเกหรอว่าเเรงปรารถนาที่ขโมย มาพร้อมกับความรับผิดชอบที่ใหญ่ยิ่งล่ะ?"
     },
     {
       "id": 20,
       "model": "로쟈",
-      "content": "…You’ve watched too many movies man. What’s stolen?"
+      "content": "…ดูหนังเยอะเกินไปเเล้วไอ้หุ่นกระป๋อง อะไรโดนขโมยไปล่ะ?"
     },
     {
       "id": 21,
       "model": "로쟈",
-      "content": "If you find nothing, will you fold and walk out?"
+      "content": "ถ้านายไม่เจอสิ่งที่ตามหา จะยอมเเพ้เเล้วเดินออกไปเเบบเเมนๆไหมล่ะ?"
     },
     {
       "id": 22,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Hah, you’ve got guts. Fine, I’ll bet all my stakes that there’s a piece o’ the wishpower on your wrist. What do you say?"
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "หึ ใจกล้าดีนี่ ก็ได้ ฉันจะพนันทุกอย่างว่ามันมีไอ้สติ๊กเกอร์นั้นอยู่บนข้อมือของเธอ ว่าไงล่ะ?"
     },
     {
       "id": 23,
       "model": "로쟈",
-      "content": "Same as yours. So, one of us is about to go bust then? Scared, are you?"
+      "content": "เอาสิ งั้นต้องมีใครสักคนเเตกพ่ายไปสินะ? เเกอ่ะ ใจหรือเปล่า?"
     },
     {
       "id": 24,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Pahahahah! Oh that’s cute, you get that somewhere? Anyway, that means your words’re final, ey?"
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "พะฮ่าฮ่าฮ่า! น่ารักดีนี่ ไปเรียนคำพูดเเบบนั้นมาจากไหนล่ะ หึม? ยังไงก็ตาม พูดเเล้วไม่คืนคำนะ?"
     },
     {
       "id": 25,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "Oh my… This is going exactly how I remember… I’m pretty sure the conclusion was…"
+      "content": "โอ้ว้าว… นี้เหมือนที่ฉันจำได้เลย… ฉันมั่นใจเลยว่าผลที่ออกมาคือ…"
     },
     {
       "id": 26,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Here goes, let us confirm then~"
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "เอาล่ะ มาเช็คให้ชัวร์เลยดีกว่า~"
     },
     {
       "id": 27,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
       "content": "……"
     },
     {
       "id": 28,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "Wuhuh? What’s going on ‘ere?"
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "ห-ห๊า? เกิดบ้าไรขึ้นเนี่ย?"
     },
     {
       "id": 29,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "I saw it. I saw the little fox rub ‘er wrist! There’s—there’s no way…"
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "ฉันเห็น ฉันเห็นว่าไอยัยนี่มันถูข้อมือจริงๆ! ม—ไม่มีทางที่…"
     },
     {
       "id": 30,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "That means you’re out. What a pity."
+      "content": "หมายความว่าเเกเเพ้เเล้วไงล่ะ น่าเสียดายจริง"
     },
     {
       "id": 31,
       "model": "로쟈",
-      "content": "What happens to the loser, then? Lop off a hand or something?"
+      "content": "เเล้วจะเกิดอะไรขึ้นกับผู้เเพ้ล่ะ? ตัดมือทิ้งอะไรงี้หรอ?"
     },
     {
       "id": 32,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "You’re joking, right, Rodya? There’s no point in removing a prosthetic hand."
+      "content": "ล้อเล่นใช่ไหมเนี่ย ร๊อดย่า? หักเเขนเทียมไปก็ไม่ได้อะไรขึ้นมาหรอก"
     },
     {
       "id": 33,
       "model": "철공회보스",
-      "teller": "Crew Boss",
-      "title": "Tieqiu Crew",
-      "content": "No, this is… This can’t be right…"
+      "teller": "หัวหน้าเเก๊ง",
+      "title": "เเก็งเทีย ชิ่ว",
+      "content": "ไม่ นี่มัน… เป็นไปไม่ได้…"
     },
     {
       "id": 34,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "The defeated will be shown generosity, but false accusations need to be taken care of with more caution."
+      "content": "คนที่เเพ้ก็จะได้รับอภัยโทษไป เเต่คนที่กล่าวหาเเบบผิดๆจะต้องโดนจัดการเป็นพิเศษน่ะ "
     },
     {
       "id": 35,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "Hang on, are you…?"
+      "content": "เดี๋ยวก่อน อย่าบอกนะ…?"
     },
     {
       "id": -1,
@@ -243,28 +243,28 @@
     {
       "id": 37,
       "model": "로쟈",
-      "content": "Gweh… What in the…!"
+      "content": "ห-เหือก… อะไรกัน…!"
     },
     {
       "id": 38,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "For Wings’ sake, can you PLEASE give me a warning—just a little one!"
+      "content": "สาบานต่อ The Wing เลย! โปรดช่วยเตือนฉันหน่อยสิ! ซักนิดก็ได้!"
     },
     {
       "id": 39,
       "model": "아이드",
-      "teller": "Aida",
+      "teller": "ไอดา",
       "title": "Los Mariachis",
-      "content": "Ugh… Look at all the grease and spinal fluid… Bwegh."
+      "content": "เอือก… ดูคราบไขมันกับไขสันหลังที่ไหลออกมาสิ… เเหวะ"
     },
     {
       "id": 40,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "Remember, Rodya? It’s a trash compactor we saw at the waste disposal in our Backstreets."
+      "content": "จำเจ้านี้ได้ใช่ไหม ร๊อดย่า? มันคือเครื่องบดขยะที่เห็นในที่กำจัดขยะของเเบ็คสตรีทพวกเราไง"
     },
     {
       "id": 41,
@@ -274,89 +274,90 @@
     {
       "id": 42,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "I told you back then."
+      "content": "ก่อนหน้านั้นผมเคยบอกไปเเล้ว"
     },
     {
       "id": 43,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "That we proletarians should unite to take down the ruling class and build a new society."
+      "content": "ว่าชนชั้นกรรมาชีพอย่างพวกเราควรจะร่วมมือกันเพื่อโค่นชนชั้นปกครองเเล้วสร้างสังคมขึ้นมาใหม่"
     },
     {
       "id": 44,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "So then you replied:"
+      "content": "เเล้วเธอก็ตอบกลับมาว่า"
     },
     {
       "id": 45,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "“If you mean we should round up the rich and flatten ‘em under one of those compactors, then I’m all for it.”"
+      "content": "“ถ้าหมายถึงพวกเราจะบดขยี้พวกคนรวยให้เละเป็นชิ้นๆใต้เครื่องพวกนี้ งั้นฉันก็เอาด้วยคน”"
     },
     {
       "id": 46,
       "model": "로쟈",
-      "content": "…Small correction: I said “crush and pop ‘em”."
+      "content": "…เเก้นิดหน่อย: ฉันบอกว่า “บดขยี้เเล้วระเบิดหัวพวกมัน” ตั้งหาก"
     },
     {
       "id": 47,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "…Is that so."
+      "content": "…อย่างงั้นหรอ"
     },
     {
       "id": 48,
       "model": "소냐",
-      "teller": "Sonya",
+      "teller": "โซเนีย",
       "title": "Yurodivy",
-      "content": "Rodya, are you still unwilling to return to the Yurodiviye?"
+      "content": "ร๊อดย่า เธอยังไม่เต็มใจที่จะกลับมาที่ Yurodiviye สินะ?"
     },
     {
       "id": 49,
       "model": "로쟈",
-      "content": "I…"
+      "content": "ฉัน…"
     },
     {
       "id": 50,
       "model": "그레고르",
-      "content": "Didn’t you all… hear a loud slam just now?"
+      "content": "นี้พวกนาย… ได้ยินเสียงทุบดังโครมเมื่อกี้เปล่า?"
     },
     {
       "id": 51,
       "model": "소드",
       "teller": "ซอเดย์",
       "title": "LCCB",
-      "content": "Undoubtedly. After a quarrel about… wishpower and the like."
+      "content": "ไม่ต้องสงสัยเลย หลังจากที่เราทะเลาะ…เรื่องเเรงปรารถนาอะไรทำนองนั้นน่ะ"
     },
     {
       "id": 52,
       "model": "히스클리프",
-      "content": "What? Did they find out? Oi, quit gawking and turn that clock."
+      "content": "ห๊ะ? พวกมันจับได้หรอ? เห้ย หยุดมองเเล้วหมุนเข็มนาฬิกาได้เเล้วเว้ย"
     },
     {
       "id": 53,
       "model": "이스마엘",
-      "content": "Gosh, please stop pushing. …Aaah!"
+      "content": "ให้ตายสิ หยุดดันฉันมาได้ …อ๊าากก!"
     },
     {
       "id": 54,
       "model": "싱클레어",
-      "content": "Huh, woah—?!"
+      "content": "ห๊ะ เว๋ออ—?!"
     },
     {
       "id": 55,
-      "content": "Unfortunately, the door we were leaning against was a flimsy wooden frame covered with rice paper."
+      "content": "น่าเสียดาย ที่ประตูที่พวกเราพิงอยู่นั้นมันเป็นเพียงกรอบไม้บางๆที่ปิดด้วยกระดาษฟาง"
     },
     {
       "id": 56,
-      "content": "We all tumbled into the room as the door fell."
+      "content": "พวกทุกคนต่างล้มลงไปในห้องในขณะที่ประตูได้พังลง"
     }
   ]
 }
+

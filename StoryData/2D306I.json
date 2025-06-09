@@ -2,115 +2,115 @@
   "dataList": [{},
     {
       "id": 0,
-      "place": "Within the Ice Castle",
-      "content": "THOOM!"
+      "place": "ภายในปราสาทน้ำเเข็ง",
+      "content": "โครมมมม!"
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<What the…?>"
+      "content": "<อะไรกัน…?>"
     },
     {
       "id": 2,
-      "content": "The castle trembles intensely as frosty rubble falls around us from above."
+      "content": "ทั้งปราสาทสั่นสะเทือนอย่างรุนเเรงในขณะที่ก้อนน้ำเเข็งตกลงมารอบๆตัวเราจากข้างบน"
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<Wait, if this keeps up…>"
+      "content": "<เดี๋ยวก่อน ถ้ายังถล่มเเบบนี้…>"
     },
     {
       "id": 4,
-      "content": "A foreboding idea flashes in my head."
+      "content": "ความคิดอันเป็นลางร้ายผุดเข้ามาในหัว"
     },
     {
       "id": 5,
-      "content": "The ticking of my clock was like a reminder of how much time we had left."
+      "content": "เสียงติ๊กของนาฬิกาในหัวฉันเป็นเหมือนเครื่องย้ำเตือนว่าเราเหลือเวลาไม่มากเเล้ว"
     },
     {
       "id": 6,
       "model": "단테",
-      "content": "<Out… Outside, now!>"
+      "content": "<ออก…ไปข้างนอก เดี๋ยวนี้!>"
     },
     {
       "id": 7,
-      "place": "Ice Castle Where Neighbors Lie",
-      "content": "We evacuated from it in a hurry."
+      "place": "ปราสาทน้ำแข็งที่เหล่าเพื่อนบ้านพักผ่อน",
+      "content": "พวกเราอพยพออกมาด้วยความรวดเร็ว"
     },
     {
       "id": 8,
       "model": "이스마엘",
-      "content": "…Am I seeing this right?"
+      "content": "…นี้ฉันไม่ได้ตาฝาดใช้ไหม?"
     },
     {
       "id": 9,
       "model": "이스마엘",
-      "content": "The castle isn’t falling apart, it’s like…"
+      "content": "ปราสาทมันไม่ได้กำลังถล่มลงมา เเต่มัน…"
     },
     {
       "id": 10,
       "model": "파우스트",
-      "content": "Indeed, it’s most certainly rising to its feet."
+      "content": "ใช่ มันกำลังยกสูงขึ้นค่ะ"
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "Don’t look back! Just run!"
+      "content": "อย่าหันไปดูสิว่ะ! วิ่งต่อไป!"
     },
     {
       "id": 12,
       "model": "단테",
-      "content": "<Hoogh… Gahh… I, we ran quite a bit, but what now…?>"
+      "content": "<หูวว… หาา… พวกเราก็วิ่งกันมาพักนึงเเล้ว ไงต่อล่ะ…?>"
     },
     {
       "id": 13,
       "model": "뫼르소",
-      "content": "Footfalls. Not of a human. Rather slow and heavy."
+      "content": "ตัวสูงเป็นฟุต ไม่ใช่มนุษย์ เคลื่อนไหวได้ช้าเเละหนักเเน่นครับ"
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "…You could just say that something mammoth is after us!"
+      "content": "…นายก็เเค่บอกว่ามีตัวอะไรใหญ่เท่าเเมมมอธไล่เราก็ได้!"
     },
     {
       "id": 15,
       "model": "뫼르소",
-      "content": "That may have served better."
+      "content": "นั้นคงจะฟังดูดีกว่าสินะครับ"
     },
     {
       "id": 16,
       "model": "로쟈",
-      "content": "D—Dante! Our job here’s done, so we can just book it! Cool?"
+      "content": "ด—ดันเต้! งานเราจบเเล้ว ลืมเผ่นกันดีกว่า! เคนะ?"
     },
     {
       "id": 17,
       "model": "단테",
-      "content": "<G-Gimme a second! I never considered what to do after getting down here…>"
+      "content": "<ข-ขอเเปปนึงสิ! ยังไม่ได้คิดต่อว่าอยู่ข้างล่างเเล้วเอาไงต่อ…>"
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Oh, really! Does this look like the time for dopey plans?!"
+      "content": "ก็นะ! นี้ดูเหมือนเวลาที่ต้องคิดเเผ่นเจ๋งๆไหมล่ะ?!"
     },
     {
       "id": 19,
       "model": "그레고르",
-      "content": "The bus… Where’s the bus?"
+      "content": "รถบัส… รถบัสอยู่ไหนว่ะ?"
     },
     {
       "id": 20,
       "model": "히스클리프",
-      "content": "Stop yapping useless rubbish! We’re running the hell away!"
+      "content": "หยุดพล่ามเรื่องบ้าอะไรไม่รู้ได้เเล้ว! รีบเผ่นออกไปจากที่นี้สิว่ะ!"
     },
     {
       "id": 21,
       "model": "파우스트",
-      "content": "That might be the first logical statement I’ve heard leave your mouth, Heathcliff."
+      "content": "นั้นเป็นคำพูดเเรกที่สมเหตุสมผลที่สุดที่ฉันเคยได้ยินเลยล่ะ ฮีธคลิฟฟ์"
     },
     {
       "id": 22,
       "model": "히스클리프",
-      "content": "…I’m smashing your skull to pieces later."
+      "content": "…กูทุบหัวกะโหลกมึงทีหลังเเน่"
     }
   ]
 }
