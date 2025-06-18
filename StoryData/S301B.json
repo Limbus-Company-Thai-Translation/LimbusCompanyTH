@@ -2,8 +2,8 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
-      "content": "The sun is almost set, leaving the bus to be shrouded in dusk."
+      "place": "บน เมฟิสโตเฟเลส",
+      "content": "พระอาทิตย์กำลังลับฟ้า ทำให้รถบัสปกคลุมไปด้วยความมืดมัว"
     },
     {
       "id": 1,
@@ -12,25 +12,25 @@
     },
     {
       "id": 2,
-      "content": "Charon’s humming a song while driving."
+      "content": "คารอนฮัมเพลงไปในขณะที่เธอขับรถ"
     },
     {
       "id": 3,
-      "content": "I found myself singing along in my head to that strangely familiar tune."
+      "content": "ฉันก็ฮัมเพลงตามไปในหัวกับเพลงที่คุ้นหูนั้นเหมือนกัน"
     },
     {
       "id": 4,
       "model": "베르길리우스",
-      "content": "The most beautiful of performances are born from broken and ruined things. Ironic, the way the world works."
+      "content": "การเเสดงที่งดงามที่สุดนั้น ย่อมเกิดมาจากสิ่งที่พังเเละเเตกหักอยู่เสมอ ช่างน่าขัน ที่นั่นคือวิถีของโลกใบนี้"
     },
     {
       "id": 5,
-      "content": "Vergilius spoke, having noticed that I was looking at the driver’s seat."
+      "content": "เวอร์จิลิอุสพูดออกมาในขณะที่สังเกตเห็นฉันกำลังจ้องมองไป ณ ที่นั่งคนขับ"
     },
     {
       "id": 6,
       "model": "베르길리우스",
-      "content": "Alas, they have not the privilege to fully appreciate the glee of their own music… Oh, how unjust that is."
+      "content": "เเต่น่าเสียดาย ที่พวกเขาไม่มีสิทธิ์ที่จะชื่นชมยินดีเเด่บทเพลงของตัวเอง ช่างไม่ยุติธรรมเสียเลย"
     },
     {
       "id": 7,
@@ -40,160 +40,160 @@
     {
       "id": 8,
       "model": "베르길리우스",
-      "content": "Charon, you look like you’re in a good mood today."
+      "content": "คารอน วันนี้เธอดูอารมณ์ดีนะ"
     },
     {
       "id": 9,
-      "content": "Charon nodded."
+      "content": "คารอนพยักหน้าตอบกลับมา"
     },
     {
       "id": 10,
       "model": "카론",
-      "content": "Mhm, joy brings out singing."
+      "content": "อืม ความสุขนำมาสู่เสียงเพลงค่ะ"
     },
     {
       "id": 11,
       "model": "베르길리우스",
-      "content": "I see."
+      "content": "อย่างงั้นหรอ"
     },
     {
       "id": 12,
       "model": "베르길리우스",
-      "content": "Although…"
+      "content": "ถึงเเม้…"
     },
     {
       "id": 13,
       "model": "베르길리우스",
-      "content": "As far as I remember, you would often hum that song when you felt down."
+      "content": "เท่าที่ผมจำได้ เธอจะฮัมเพลงนั้นทุกครั้งที่รู้สึกไม่ดีไม่ใช่หรอ"
     },
     {
       "id": 14,
       "model": "카론",
-      "content": "Charon has no such memories."
+      "content": "คารอนจำเรื่องนั้นไม่ได้เลยค่ะ"
     },
     {
       "id": 15,
       "model": "카론",
-      "content": "Charon sings when she’s happy."
+      "content": "คารอนร้องเพลงเมื่อมีความสุขค่ะ"
     },
     {
       "id": 16,
-      "content": "Vergilius’s eyes seemed to well with a subdued shade of dark."
+      "content": "ตาของเวอร์จิลิอุสดูจะเนียนไปกับเฉดสีมืดอันนุ่มนวล"
     },
     {
       "id": 17,
-      "content": "The kind of hue that would be picked right away if one wanted to express solitude as a color."
+      "content": "เป็นเฉดสีที่คงจะถูกเลือกถ้าใครสักคนต้องการจะเเทนสีเเห่งความสันโดษ"
     },
     {
       "id": 18,
-      "content": "But it only lasted for a brief moment…"
+      "content": "เเต่มันก็อยู่ได้เพียงชั่วขณะ…"
     },
     {
       "id": 19,
-      "content": "So I decided to dismiss it as the vivid sunset playing tricks with the light."
+      "content": "ฉันจึงมองข้ามมันไปราวกับว่าเเสงอาทิตย์ที่กำลังตกดินเล่นตลกกับตาของฉันเอง"
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "…The world Charon hums now is one that lacks sound and color."
+      "content": "…โลกที่คารอนฮัมอยู่นี้มันทั้งไร้เสียงเเละสี"
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "She’s going through a long tunnel with no exit in sight."
+      "content": "เธอกำลังมุ่งหน้าสู่อุโมงค์ยาวไร้ซึ่งทางออกให้เห็น"
     },
     {
       "id": 22,
-      "content": "I’m sure that, just like the history of my own life that I’ve forgotten…"
+      "content": "ฉันมั่นใจว่านั้น ก็เหมือนกับความทรงจำในชีวิตฉันที่เลือมเลือนไป…"
     },
     {
       "id": 23,
-      "content": "Charon and Vergilius must have their own threads of cruel reminders."
+      "content": "คารอนกับเวอร์จิลิอุสต่างก็คงมีเส้นใยทีคอยย้ำเตือนเรื่องอันโหดร้ายพวกนั้น"
     },
     {
       "id": 24,
       "model": "베르길리우스",
-      "content": "Ah, pardon me. I believe that’s enough of personal stories, Dante."
+      "content": "อา ขออภัย ดันเต้ ผมว่าผมพูดเรื่องส่วนตัวมามากเพียงพอเเล้ว"
     },
     {
       "id": 25,
       "model": "베르길리우스",
-      "content": "Your work is to manage your crew, not befriend this old guide."
+      "content": "หน้าที่ของคุณคือการจัดการลูกน้องของคุณ ไม่ใช่สนิทชิดเชื้อกับไกด์อย่างผม"
     },
     {
       "id": 26,
-      "content": "When I looked at his face again, that momentary hint of sadness had fleeted, replaced with a faint smile."
+      "content": "เมื่อฉันมองกลับไปที่หน้าเขาอีกครั้ง สีหน้าเเห่งความเศร้านั้นก็ถูกเเทนที่ด้วยรอยยิ้มเล็กๆ"
     },
     {
       "id": 27,
-      "content": "I gave him a few nods, then turned around to check on the Sinners."
+      "content": " ฉันพยักหน้าให้เขา ก่อนจะหันกลับไปเช็คเหล่า Sinner"
     },
     {
       "id": 28,
-      "content": "Our bus passengers have had lifted spirits for a while now."
+      "content": "ผู้โดยสารบนรถบัสของเราก็เริ่มมีกำลังใจขึ้นมาสักพักแล้ว "
     },
     {
       "id": 29,
-      "content": "It helped that they did what they were assembled for and secured a Golden Bough for the first time."
+      "content": "ค่อนข้างช่วยเลยล่ะ กับการที่พวกเขาสามารถประกอบเเละเก็บกู้กิ่งทองมาได้สำเร็จเป็นครั้งเเรก"
     },
     {
       "id": 30,
-      "content": "All the Sinners were busy talking about their exploits in J Corp’s District."
+      "content": "Sinner ทุกคนนั้นต่างกำลังคุยกันเรื่องที่พวกเขาทำกันในเขต J Corp"
     },
     {
       "id": 31,
       "model": "로쟈",
-      "content": "You should’ve seen me show that card right there. Seriously, that was a real highlight~"
+      "content": "พวกเธอควรจะเห็นตอนที่ฉันโชว์การ์ดนะ บอกเลยว่า ช็อตนั้นคือไฮไลท์เลยล่ะ~"
     },
     {
       "id": 32,
       "model": "그레고르",
-      "content": "…I’m starting to get sick of hearing the same story for the seventh time in a row, so let me change the subject: Where are we going this time?"
+      "content": "…ฉันเริ่มเบื่อกับการฟังเรื่องเดิมซ้ำเป็นครั้งที่ 7 เเหละ งั้นขอเปลี่ยนเรื่องหน่อยเเล้วกัน รอบนี้เรากำลังมุ่งหน้าไปที่ไหนกัน?"
     },
     {
       "id": 33,
       "model": "베르길리우스",
-      "content": "This time… we’re headed to K Corp’s Nest."
+      "content": "ครั้งนี้… พวกเรากำลังมุ่งหน้าไปที่ Nest ของ K Corp"
     },
     {
       "id": 34,
       "model": "히스클리프",
-      "content": "District 11, eh? Job’s taking me to all sorts of places I’d never have thought to visit."
+      "content": "เขต 11 หรอ? งานนี้มันพาไปที่มากมายที่ฉันไม่เคยคิดจะไปเลยนะเนี่ย"
     },
     {
       "id": 35,
       "model": "돈키호테",
-      "content": "‘Tis home to another great individual! And you are certain to find a souvenir shop there! I’ve always yearned for a limited-edition figurine set!"
+      "content": "‘นั่นคือบ้านของยอดบุคคลอีกผู้หนึ่ง! และย่อมจะได้พบกับร้านขายของที่ระลึกเป็นแน่แท้! ข้านั้นถวิลหาชุดฟิกเกอร์ลิมิเต็ดเอดิชันมานานเหลือ!"
     },
     {
       "id": 36,
       "model": "로쟈",
-      "content": "Ooo~ Didn’t it also have a restaurant chain famous for its hamburg steak?"
+      "content": "โอ้~ ไม่ใช่เเถวนั้นมีร้านอาหารที่ดังเรื่องสเต๊กเเฮมเบิร์กหรอ?"
     },
     {
       "id": 37,
       "model": "오티스",
-      "content": "Huff… Life has gotten much easier these days, hasn’t it? Back in my marching days, all I had was a pinch of salt in my mouth."
+      "content": "หึม… เดี๋ยวนี้ชีวิตสะดวกสบายขึ้นจังนะ ย้อนกลับไปสมัยที่ฉันยังเป็นทหารอยู่ ฉันได้เเค่กินเศษเกลือเอง "
     },
     {
       "id": 38,
       "model": "이스마엘",
-      "content": "I know, right? The only food I could swallow during my voyage was canned soup that tasted like iron."
+      "content": "ใช่ไหมล่ะ? อาหารเดียวที่ฉันได้กินระหว่างการเดินเรือคือซุปกระป๋องที่รสชาติยังกะกินเหล็กน่ะ"
     },
     {
       "id": 39,
       "model": "로쟈",
-      "content": "…C-Can’t wait to try the steak~ Right, Ryōshū?"
+      "content": "…ร-รอกินสเต๊กไม่ไหวเเล้วใช่ม๊ะ~ เรียวชู?"
     },
     {
       "id": 40,
       "model": "료슈",
-      "content": "Well, imagining the variances in blood-color by region does make me salivate."
+      "content": "ก็ ถ้าคิดถึงความเเตกต่างระหว่างสีเลือดในเเต่ละเขตก็ทำให้ฉันน้ำลายไหลเเล้วล่ะ"
     },
     {
       "id": 41,
       "model": "로쟈",
-      "content": "Ugh… Can’t discuss anything with you. Hey, kiddo! What do you wanna eat?"
+      "content": "เออ… คุยอะไรกับเธอไม่รู้เรื่องเลย เฮ้ ไอ้หนู! อยากกินอะไรล่ะ?"
     },
     {
       "id": 42,
@@ -202,147 +202,147 @@
     },
     {
       "id": 43,
-      "content": "Looking for someone to share tales with and have a sensible conversation, Rodya naturally turned to Sinclair."
+      "content": "ในขณะที่เธอกำลังหาคนที่จะสามารถคุยกับเธอได้อย่างพอรู้ความ ร๊อดย่าจึงหันไปหาซินเเคลร์เป็นปกติ"
     },
     {
       "id": 44,
-      "content": "However…"
+      "content": "เเต่ว่า…"
     },
     {
       "id": 45,
       "model": "로쟈",
-      "content": "Sinclair?"
+      "content": "ซินเเคลร์?"
     },
     {
       "id": 46,
       "model": "로쟈",
-      "content": "Wha—?! Gosh, golly what’s wrong?"
+      "content": "ห-หา—?! ให้ตายสิ มีอะไรหรอครับ?"
     },
     {
       "id": 47,
       "model": "뫼르소",
-      "content": "He’s turned pale. He’s also suffering from hyperventilation and tremors."
+      "content": "สีหน้าเขาซีด เเละดูเหมือนจะมีอาการหายใจเร็วกับตัวสั่นครับ"
     },
     {
       "id": 48,
       "model": "단테",
-      "content": "<H—How long has he been like this?>"
+      "content": "<ป—เป็นสภาพนี้มานานเเค่ไหนเเล้ว?>"
     },
     {
       "id": 49,
       "model": "뫼르소",
-      "content": "Ever since Mister Vergilius mentioned K Corp."
+      "content": "ตั้งเเต่ที่คุณเวอร์จิลิอุสพูดเรื่อง K Corp ครับ"
     },
     {
       "id": 50,
       "model": "단테",
-      "content": "<Why didn’t you tell me earlier?>"
+      "content": "<ทำไมไม่บอกฉันก่อนล่ะ?>"
     },
     {
       "id": 51,
       "model": "뫼르소",
-      "content": "…Because you did not order me to do so."
+      "content": "…เพราะคุณไม่ได้สั่งให้ผมทำครับ"
     },
     {
       "id": 52,
-      "content": "Meursault stared at me like I was at fault for not doing the obvious."
+      "content": "เมอร์โซมองมาที่ฉันเหมือนผิดที่ฉันไม่ยอมบอกเเต่เเรก"
     },
     {
       "id": 53,
       "model": "싱클레어",
-      "content": "I… I just got an upset stomach. Sorry."
+      "content": "ท-โทษที ผ…ผมเเค่ท้องปั่นป่วนไปหน่อยนะครับ"
     },
     {
       "id": 54,
       "model": "로쟈",
-      "content": "Really sure you’re okay…?"
+      "content": "เเน่ใจว่าไม่เป็นไรอ่ะ…?"
     },
     {
       "id": 55,
       "model": "단테",
-      "content": "<Now that I think about it…>"
+      "content": "<พอฉันลองคิดดูดีๆเเล้ว…>"
     },
     {
       "id": 56,
       "model": "단테",
-      "content": "<Faust, I’m noticing a trend where one of us has visceral reactions to the destinations that Vergilius reveals.>"
+      "content": "<เฟาสท์ ฉันเริ่มเห็นเทรนด์เเล้วว่าพอเวอร์จิลิอุสบอกจุดหมายปลายทาง ทีไร จะต้องมีหนึ่งในพวกเราที่ดูจะสติแตกอยู่ตลอด>"
     },
     {
       "id": 57,
       "model": "단테",
-      "content": "<Additionally, when we arrive, it turns out that the place does have a history with the person in question.>"
+      "content": "<มากไปกว่านี้ พอพวกเราถึงที่หมาย สถานที่นั้นมักจะเกี่ยวโยงกับอดีตของคนที่ว่านั้นด้วย>"
     },
     {
       "id": 58,
       "model": "단테",
-      "content": "<Does that have something to do with the reason we joined the company?>"
+      "content": "<เรื่องพวกนั้นมีส่วนกับสาเหตุที่พวกเราเข้าร่วมกับบริษัทนี้หรือเปล่า?>"
     },
     {
       "id": 59,
       "model": "파우스트",
-      "content": "…You just referred to the team as “we”."
+      "content": "…คุณพึ่งเรียกทีมนี้ว่า “พวกเรา” ค่ะ"
     },
     {
       "id": 60,
       "model": "단테",
-      "content": "<Huh?>"
+      "content": "<ห๊ะ?>"
     },
     {
       "id": 61,
       "model": "파우스트",
-      "content": "It’s a part of my mission to detect the slightest of changes."
+      "content": "เป็นส่วนหนึ่งในภารกิจของฉันที่จะสังเกตความเปลี่ยนเเปลงพวกนี้ ไม่ว่าจะเล็กน้อยก็ตาม"
     },
     {
       "id": 62,
       "model": "파우스트",
-      "content": "As for your question, while I can’t tell you the reasons for recruiting the Sinners in detail…"
+      "content": "สำหรับคำถามของคุณนั้น ถึงเเม้ฉันจะบอกรายละเอียดเรื่องสาเหตุในการเกณฑ์เหล่า Sinner ไม่ได้…"
     },
     {
       "id": 63,
       "model": "파우스트",
-      "content": "There’d be no point in denying that our destinations and the backgrounds of each Sinner are indeed related to a degree."
+      "content": "เเต่ก็ปฎิเสธไม่ได้ว่า จุดหมายปลายทางของพวกเราเเละชีวประวัติของเหล่า Sinner นั้นมีความเกี่ยวข้องอยู่ในระดับนึง"
     },
     {
       "id": 64,
       "model": "히스클리프",
-      "content": "…Do all uppish snobs have some condition that makes them yap on and on about things that can be answered with a plain yes or no?"
+      "content": "…ทำไมพวกคนชั้นสูงทุกคนต้องมีอาการที่เอาเเต่พูดไปพูดมาเกี่ยวกับสิ่งที่ไม่สามารถตอบได้เพียงใช่กับไม่เนี่ย?"
     },
     {
       "id": 65,
       "model": "파우스트",
-      "content": "Hysteron proteron isn’t always correct. Faust simply adopts the most effective mode of communication for the given situation."
+      "content": "<ruby=การพูดกลับหน้ากลับหลัง>ฮิสเทอรอน โปรเทอรอน</ruby>ก็ไม่ได้ถูกเสมอไปหรอกค่ะ เฟาสท์เเค่น้อมรับวิธีการสื่อสารที่มีประสิทธิผลมากที่สุดในสถานการณ์นี้ค่ะ"
     },
     {
       "id": 66,
       "model": "히스클리프",
-      "content": "Hyst… Hysterowhat?"
+      "content": "ฮิสเท… ฮิสเทอโรอะไรนะ?"
     },
     {
       "id": 67,
       "model": "파우스트",
-      "content": "…It means that you’re struggling to understand Faust because you’re too uneducated, not that Faust is overeducated."
+      "content": "…นั้นหมายความว่าคุณกำลังพยายามทำความเข้าใจเฟาสท์เพราะคุณนั้นการศึกษาไม่ดีพอค่ะ ก็ไม่ใช่ว่าเฟาสท์นั้นมีการศึกษาสูงเกินไปหรอกค่ะ"
     },
     {
       "id": 68,
       "model": "히스클리프",
-      "content": "Why you…!"
+      "content": "เเกนะเเก…!"
     },
     {
       "id": 69,
       "model": "싱클레어",
-      "content": "Euhgk…"
+      "content": "อึกกก…"
     },
     {
       "id": 70,
-      "content": "Just as Heathcliff approached Faust with his bat shaking in fury…"
+      "content": "ในขณะที่ฮีธคลิฟฟ์กำลังมุ่งหน้ามาที่เฟาสท์ด้วยความโกรธ…"
     },
     {
       "id": 71,
-      "content": "Sinclair suddenly started throwing up on the floor."
+      "content": "ซินเเคลร์ก็เริ่มอ้วกลงบนพื้นของรถบัส"
     },
     {
       "id": 72,
-      "content": "The bus finally quieted down after that."
+      "content": "หลังจากนั้นในรถบัสก็เริ่มเงียบลง"
     }
   ]
 }
