@@ -73,12 +73,12 @@
     {
       "id": "battle_awaken_20608_1",
       "desc": "E.G.O Activation",
-      "dlg": "With solemn grace, I accept this deserved punishment."
+      "dlg": "ด้วยดวงใจแม้นแสนโศกา ข้าจะขอจำนนต่อการลงทัณฑ์นี้เอง"
     },
     {
       "id": "battle_awaken_20608_2",
       "desc": "E.G.O Activation",
-      "dlg": "With contemplation, I shall darken the clear skies above;\nwith my sacrifice, I shall exsanguinate my carnal blood upon this earth."
+      "dlg": "ด้วยจิตอันคร่ำครวญ ข้าขอก่อม่านหมองให้ปกคลุมฟากฟ้าอันสดใส\n และด้วยการสังเวยตน ข้าขอหลั่งโลหิตแห่งเรือนร่างลงสู่พื้นพิภพ"
     },
     {
       "id": "battle_erosion_20608_1",
