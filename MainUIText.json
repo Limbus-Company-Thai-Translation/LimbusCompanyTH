@@ -1931,6 +1931,30 @@
     {
       "id": "ego_gift_category_current_theme",
       "content": "Theme Pack Exclusive Fusion Gift"
+    },
+    {
+      "id": "mainui_exp_dungeon_10_title",
+      "content": "EXP Luxcavation #8 (Slash)"
+    },
+    {
+      "id": "mainui_exp_dungeon_10_open_day",
+      "content": "EXP Luxcavation #8 (Slash) opens on MON, TUE, and SUN."
+    },
+    {
+      "id": "mainui_exp_dungeon_11_title",
+      "content": "EXP Luxcavation #8 (Pierce)"
+    },
+    {
+      "id": "mainui_exp_dungeon_11_open_day",
+      "content": "EXP Luxcavation #8 (Pierce) opens on WED, THU, and SUN."
+    },
+    {
+      "id": "mainui_exp_dungeon_12_title",
+      "content": "EXP Luxcavation #8 (Blunt)"
+    },
+    {
+      "id": "mainui_exp_dungeon_12_open_day",
+      "content": "EXP Luxcavation #8 (Blunt) opens on FRI, SAT, and SUN."
     }
   ]
 }
