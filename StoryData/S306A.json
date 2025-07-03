@@ -2,41 +2,41 @@
   "dataList": [
     {
       "id": 0,
-      "place": "K Corp. Checkpoint",
-      "content": "K Corp’s Singularity: HP Bullets."
+      "place": "จุดตรวจคนเข้าเมือง K Corp",
+      "content": "<ruby=เอกเทศ>Singularity</ruby> ของ K Corp: กระสุน HP"
     },
     {
       "id": 1,
-      "content": "Any would-be fatal injuries we managed to inflict were healed away with a single shot of those regenerative rounds."
+      "content": "ไม่ว่าบาดเเผลที่พวกเราทำจะหนักหนาเเค่ไหนก็สามารถถูกรักษาได้ด้วยกระสุนเพียงหนึ่งนัด"
     },
     {
       "id": 2,
-      "content": "It was only a matter of time before the thread by which Heathcliff’s patience was hung snapped."
+      "content": "มันคงอีกไม่นานหรอกที่เส้นด้ายที่เรียกว่าความอดทนของฮีธคลิฟฟ์จะขาดสาย"
     },
     {
       "id": 3,
       "model": "히스클리프",
-      "content": "I can’t take it anymore! This has got to be the most pointless fight in the world! Can’t you see?"
+      "content": "ทนไม่ไหวเเล้วโว้ย! นี่เเม่งเป็นการต่อสู้ที่ไร้ประโยชน์ที่สุดในโลกเลย! ไม่เห็นหรือไงว่ะ?"
     },
     {
       "id": 4,
       "model": "파우스트",
-      "content": "I told you. Entering into conflict with a Wing is an exercise in futility."
+      "content": "ก็บอกเเล้วว่าการสร้างเรื่องกับ Wing นั้นเป็นการกระทำที่ไร้ประโยชน์ค่ะ"
     },
     {
       "id": 5,
       "model": "로쟈",
-      "content": "Just didn’t know the futility would hit us right away~"
+      "content": "ก็ไม่รู้ว่าไร้ประโยชน์มันจะเป็นเเบบนี้อ่ะ~"
     },
     {
       "id": 6,
       "model": "뫼르소",
-      "content": "The flesh regrows as soon as it’s removed."
+      "content": "เศษซากนั้นเติบใหม่ทันทีหลังจากถูกกำจัด"
     },
     {
       "id": 7,
       "model": "뫼르소",
-      "content": "It is difficult to continue on with combat."
+      "content": "เป็นเรื่องยากในการต่อสู้ต่อไปครับ"
     },
     {
       "id": 8,
@@ -46,49 +46,49 @@
     {
       "id": 9,
       "model": "료슈",
-      "content": "Really… Art can be rubbish like this, huh…"
+      "content": "ให้ตายสิ… ศิลปะมันดูขยะได้เช่นนี้เลยสินะ…"
     },
     {
       "id": 10,
-      "content": "Ryōshū made the most pained expression I’ve seen from her, begrudgingly swinging her sheath around."
+      "content": "เรียวชูเเสดงอาการที่เจ็บปวดที่สุดเท่าที่ฉันเคยเห็น ขณะที่เธอกวัดเเกว่งฝักดาบไปมาอย่างไม่เต็มใจ"
     },
     {
       "id": 11,
-      "content": "Cuts and slashes will mend before even a drop of blood can spill from them. There couldn’t be a worse battle for Ryōshū to fight."
+      "content": "รอยเเผลเเละรอยฟันจะหายก่อนที่เลือดจากไหลออกมาเสียอีก คงไม่มีการต่อสู้ไหนจะเเย่ไปมากกว่านี้เเล้วสำหรับเรียวชู"
     },
     {
       "id": 12,
       "model": "단테",
-      "content": "<Isn’t there anything we can do…?>"
+      "content": "<นี่เราทำอะไรไม่ได้เลยหรอ…?>"
     },
     {
       "id": 13,
       "model": "파우스트",
-      "content": "HP, or Helapoiesis, is a bioengineered technology that allows for the continuous repair of damaged or lost cells."
+      "content": "HP, หรือ เฮลาโปเอซิส คือเทคโนโลยีทางวิศวกรรมชีวภาพที่สามารถรักษาเซลล์ที่เสียหายหรือสูญหายได้อย่างต่อเนื่อง"    
     },
     {
       "id": 14,
       "model": "파우스트",
-      "content": "One dose already lasts considerably long, so imagine what that means for those in the Nest who receive constant supplies…"
+      "content": "ผลของกระสุนหนึ่งโดสถือว่านานมาก ลองจินตนาการดูว่าสำหรับคนใน Nest ที่ได้รับกระสุนชนิดนี้อย่างต่อเนื่อง มันจะออกมาเป็นยังไง…"
     },
     {
       "id": 15,
       "model": "파우스트",
-      "content": "To put it simply, you can’t reasonably defeat them in combat."
+      "content": "ถ้าจะให้พูดสั้นๆ คุณไม่สามารถเอาชนะพวกเขาในการต่อสู้ได้ค่ะ"
     },
     {
       "id": 16,
-      "content": "Even Faust was shaking her head in despondency, but then…"
+      "content": "เเม้เเต่เฟาสท์ยังส่ายหัวให้กับความสิ้นหวังนี้ เเต่ทันใดนั้น…"
     },
     {
       "id": 17,
       "teller": "???",
       "title": "???",
-      "content": "Mwahahahahaha!!! In the height of chaos, I have arrived at last!!"
+      "content": "มวะฮะฮะฮะฮ่าาาา!!! ท่ามกลางความโกลาหล ข้าก็ได้มาถึงซักที!!"
     },
     {
       "id": 18,
-      "content": "A peal of overwhelmingly energetic laughter rang through the air."
+      "content": "เสียงหัวเราะอันทรงพลังดังก้องไปทั่วอากาศ"
     }
   ]
 }

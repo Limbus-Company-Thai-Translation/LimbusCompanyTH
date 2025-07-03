@@ -2,106 +2,106 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "บน เมฟิสโตเฟเลส",
       "model": "카론",
-      "content": "Cock-a-hoop Charon’s cock-a-hoop parking."
+      "content": "คารอนอารมณ์ดี จอดรถอย่างอารมณ์ดี"
     },
     {
       "id": 1,
       "model": "베르길리우스",
-      "content": "Alright, off the bus. Time to get inspected."
+      "content": "เอาล่ะ ลงรถบัสได้ ถึงเวลาไปจุดตรวจเเล้ว"
     },
     {
       "id": 2,
       "model": "베르길리우스",
-      "content": "Ah, and let me add this just in case you’re feeling inclined to your usual antics."
+      "content": "อา ขอพูดไว้ก่อนถ้าคิดจะทำอะไรเเผลงๆ"
     },
     {
       "id": 3,
       "model": "베르길리우스",
-      "content": "Don’t go around making a scene expecting things to go your way…"
+      "content": "อย่าไปก่อเรื่องใหญ่โตเเล้วคิดว่าผลลัพธ์จะเป็นไปตามต้องการล่ะ…"
     },
     {
       "id": 4,
       "model": "베르길리우스",
-      "content": "Because that will not be how it works in this particular place."
+      "content": "เพราะนั่นจะไม่เกิดขึ้นกับสถานที่เเห่งนี้"
     },
     {
       "id": 5,
-      "content": "I thought his words were pretty intimidating, but despite the worries…"
+      "content": "ฉันก็คิดว่าคำพูดของเขาน่ากลัว เเต่ถึงเเม้จะกังวลเเค่ไหน…"
     },
     {
       "id": 6,
-      "place": "K Corp. Checkpoint",
+      "place": "จุดตรวจคนเข้าเมือง K Corp.",
       "model": "더미2",
-      "teller": "Announcement",
-      "title": "K Corp. Checkpoint",
-      "content": "We welcome all visitors to K Corp’s Nest openheartedly."
+      "teller": "ประชาสัมพันธ์",
+      "title": "จุดตรวจ K Corp",
+      "content": "พวกเราขอต้อนรับทุกท่านสู่ Nest ของ K Corp ค่ะ"
     },
     {
       "id": 7,
       "model": "더미2",
-      "teller": "Announcement",
-      "title": "K Corp. Checkpoint",
-      "content": "Please form an orderly line as you enter, and stand where the instructions indicate."
+      "teller": "ประชาสัมพันธ์",
+      "title": "จุดตรวจ K Corp",
+      "content": "กรุณาเข้าเเถวให้เป็นระเบียบ เเละยืนในจุดที่กำหนดไว้ด้วยค่ะ"
     },
     {
       "id": 8,
-      "content": "The menacing and interrogative atmosphere could subdue the temper of any first-time visitors—and the Sinners were no exception."
+      "content": "บรรยากาศที่น่ากลัวเเละดูไต่สวนนี้ สามารถที่จะสงบอารมณ์ของผู้ที่มาเยือนครั้งเเรกได้เลย เเม้เเต่เหล่า Sinner ก็ไม่เว้น"
     },
     {
       "id": 9,
-      "content": "I could occasionally hear Sinclair sniffling, followed by Rodya and Gregor calming him."
+      "content": "ฉันได้ยินเสียงซินเเคลร์สะอื้นเป็นระยะๆ ตามมาด้วยร๊อดย่ากับเกรเกอร์ที่กำลังปลอบเขาอยู่"
     },
     {
       "id": 10,
-      "content": "Any of my questions why were met with heads shaken sideways."
+      "content": "พอฉันถามไปว่าทำไมก็ถูกปฎิเสธด้วยการส่ายหน้าทั้งหมด"
     },
     {
       "id": 11,
       "model": "베르길리우스",
-      "content": "Look here, how nice it is to see you all stay in line and behave. Like a brood of chicks on an outing."
+      "content": "ดูสิ ช่างดีเหลือเกินที่พวกเเกเข้าเเถวกันเป็นระเบียบ อย่างกะลูกไก่เดินตามเเม่"
     },
     {
       "id": 12,
       "model": "이스마엘",
-      "content": "Wait, why’re you out here…"
+      "content": "เดี๋ยว ทำไมนายถึงตามมาด้วยล่ะ…"
     },
     {
       "id": 13,
       "model": "단테",
-      "content": "<What made you follow us outside the bus this time…?>"
+      "content": "<รอบนี้ อะไรทำให้ตามพวกเรามานอกรถบัสล่ะ…?>"
     },
     {
       "id": 14,
-      "content": "Noticing my flustered reaction at the unexpected company, Vergilius opened his mouth."
+      "content": "เวอร์จิลิอุสเลือกที่จะตอบกลับมา หลังจากเห็นปฎิกิริยาอันสับสนต่อการที่เขามาด้วย"
     },
     {
       "id": 15,
       "model": "베르길리우스",
-      "content": "Because this is a Nest, Dante."
+      "content": "ก็เพราะว่านี้คือ Nest ยังไงล่ะ ดันเต้"
     },
     {
       "id": 16,
       "model": "베르길리우스",
-      "content": "If one of you were to get into unexpected trouble here…"
+      "content": "ถ้าหนึ่งในพวกเเกดันไปสร้างปัญหาที่ไม่เข้าเรื่องล่ะก็…"
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "Well, Dante, the responsibility will be a bit too heavy for you to bear alone."
+      "content": "ความรับผิดชอบก็คงจะหนักเกินไปที่จะให้นายเเบกรับคนเดียวน่ะ ดันเต้"
     },
     {
       "id": 18,
-      "content": "When Vergilius put it like that…"
+      "content": "พอเวอร์จิลิอุสพูดยังงั้นเเล้ว…"
     },
     {
       "id": 19,
-      "content": "It sounded as if he were saying “You’re not reliable enough to be sent without supervision.”"
+      "content": "มันฟังดูเหมือนเขากำลังจะพูดอ้อมๆว่า “นายไม่น่าไว้วางใจพอที่จะถูกส่งไปคนเดียวโดยไม่มีคนคุมหรอก”"
     },
     {
       "id": 20,
-      "content": "…But I knew it’d be wise to keep this to myself."
+      "content": "…เเต่ถึงรู้ไปก็เก็บไว้รู้คนเดียวดีกว่า"
     }
   ]
 }

@@ -2,36 +2,36 @@
   "dataList": [
     {
       "id": 0,
-      "place": "K Corp. Checkpoint",
+      "place": "จุดตรวจคนเข้าเมือง K Corp.",
       "model": "단테",
-      "content": "<I’ve gotten used to this sort of situation, but it looks pretty serious.>"
+      "content": "<ถึงฉันจะเริ่มชินกับสถานการณ์เเบบนี้เเล้ว เเต่นี้ดูจริงจังชะมัด>"
     },
     {
       "id": 1,
       "model": "파우스트",
-      "content": "Indeed. We’ve violated a taboo of the Wing, after all."
+      "content": "เเน่นอน ก็เพราะเราพึ่งจะละเมิดข้อห้ามของ The Wing ไปค่ะ"
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "<It’s not like anyone was hurt—can’t we just talk this through?>"
+      "content": "<ก็ไม่ได้มีใครเจ็บตัวนี่—คุยกันดีๆไม่ได้หรอ?>"
     },
     {
       "id": 3,
-      "content": "Faust looked straight into my face."
+      "content": "เฟาสท์มองตรงมาที่ฉันตรงๆ"
     },
     {
       "id": 4,
-      "content": "For Faust to face someone directly when she usually stares into empty space as she speaks can only indicate one thing:"
+      "content": "ปกติเธอจะชอบมองไปในที่เปล่าๆ เเต่การที่เฟาสท์จะสามารถจ้องหน้าใครตรงๆ ได้นั้น"
     },
     {
       "id": 5,
-      "content": "I must have said something incredibly frustrating."
+      "content": "ฉันคงพูดอะไรที่น่าหงุดหงิดออกมาเเน่ๆ"
     },
     {
       "id": 6,
       "model": "파우스트",
-      "content": "No matter the Wing, infringement of a taboo means—"
+      "content": "ไม่ว่า The Wing ไหนก็ตาม การละเมิดข้อห้ามหมายถึง—"
     },
     {
       "id": -1,
@@ -40,53 +40,53 @@
     },
     {
       "id": 7,
-      "content": "A loud explosion left Don Quixote dismembered where she stood."
+      "content": "เสียงระเบิดดังสนั่นฉีกกระชากร่างของดอนกิโฆเต้ที่ยืนอยู่เป็นชิ้นๆ"
     },
     {
       "id": 8,
       "model": "파우스트",
-      "content": "—that lethal measures can be taken against the violator without warning."
+      "content": "—การใช้มาตรการรุนเเรงกับผู้ฝ่าฝืนได้โดยไม่มีการตักเตือนค่ะ"
     },
     {
       "id": 9,
-      "content": "It looks like border control isn’t willing to forgive us until they dismember the rest of the Sinners…"
+      "content": "ดูเหมือนเจ้าหน้าที่ตรวจคนเข้าเมืองคงจะไม่ให้อภัยเราจนกว่าจะฉีก Sinner ที่เหลือเป็นชิ้นๆ…"
     },
     {
       "id": 10,
-      "content": "Armed security staff was surrounding us on all sides."
+      "content": "เจ้าหน้าที่รักษาความปลอดภัยติดอาวุธครบมือกำลังล้อมพวกเราจากทุกฝั่ง"
     },
     {
       "id": 11,
       "model": "베르길리우스",
-      "content": "…You never cease to surprise me."
+      "content": "…มีอะไรให้ผมทึ่งอยู่เสมอเลย"
     },
     {
       "id": 12,
       "model": "베르길리우스",
-      "content": "You managed to wring out the last drop of expectation I had left for you."
+      "content": "พวกเเกบีบคั้นความหวังสุดท้ายที่ผมมีอยู่ไปจนหมดเเล้ว"
     },
     {
       "id": 13,
       "model": "베르길리우스",
-      "content": "I’m keeping out. Pin the whole thing on her, or take responsibility, or whatever."
+      "content": "ผมขอไม่ยุ่งเเล้วกัน จะโยนความผิดให้เธอทั้งหมดเลย หรือ จะรับผิดชอบ อะไรก็ตามใจ"
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "I thought you accompanied us to handle situations that our manager can’t alone?!"
+      "content": "ไหนบอกตามมาเพื่อช่วยจัดการสถานการณ์ที่ผู้จัดการคนเดียวเอาไม่อยู่อ่ะ?!"
     },
     {
       "id": 15,
       "model": "베르길리우스",
-      "content": "I came with you to take care of inevitable problems, not have a pissing session in the wind."
+      "content": "ผมมาที่นี้เพื่อจัดการกับปัญหาที่หลีกเลี่ยงไม่ได้ ไม่ใช่มายืนรดเยี่ยวไปกับสายลม"
     },
     {
       "id": 16,
-      "content": "Vergilius casually pushed his way through the line of armed guards and leaned against a wall."
+      "content": "เวอร์จิลิอุสเดินผ่านเจ้าหน้าที่ติดอาวุธออกไปเเล้วยืนพิงกับกำเเพงอย่างสบายๆ"
     },
     {
       "id": 17,
-      "content": "He then crossed his arms, as if to further drive home that he’ll remain a spectator."
+      "content": "จากนั้นเขาก็ยืนกอดอก เหมือนกับยืนยันว่าจะเป็นเพียงเเค่ผู้สังเกตการณ์"
     }
   ]
 }

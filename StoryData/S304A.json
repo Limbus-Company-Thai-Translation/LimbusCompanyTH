@@ -2,38 +2,38 @@
   "dataList": [
     {
       "id": 0,
-      "place": "K Corp. Checkpoint",
+      "place": "จุดตรวจคนเข้าเมือง K Corp.",
       "model": "단테",
-      "content": "<Really just gonna watch from there?>"
+      "content": "<จะยืนดูจากตรงนั้นจริงๆหรอ?>"
     },
     {
       "id": 1,
       "model": "베르길리우스",
-      "content": "You won’t sway me with that look, Manager."
+      "content": "มองมาเเบบนั้นก็ไม่ทำให้ผมเปลี่ยนใจหรอก ผู้จัดการ"
     },
     {
       "id": 2,
       "model": "베르길리우스",
-      "content": "I’m nothing more than a guide that none pay heed to; it would be impertinent of me to brandish my weapon."
+      "content": "ผมเป็นเพียงเเค่ไกด์นำทางที่ไม่มีใครสนใจ มันคงจะไม่เหมาะสมถ้าผมจะต้องหยิบอาวุธออกมา"
     },
     {
       "id": 3,
       "model": "베르길리우스",
-      "content": "Well, to meddle one final time: K Corp’s Singularity takes the form of healing bullets that restore most wounds in the blink of an eye."
+      "content": "ผมจะพูดเเทรกอีกเป็นครั้งสุดท้ายเเล้วกัน <ruby=เอกเทศ>Singularity</ruby> ของ K Corp นั้นคือกระสุนที่สามารถรักษาบาดเเผลได้ในพริบตา"
     },
     {
       "id": 4,
       "model": "베르길리우스",
-      "content": "I suppose it could be compared to that ability of yours."
+      "content": "ผมว่าก็คงเหมือนกับความสามารถที่คุณมีน่ะ"
     },
     {
       "id": 5,
       "model": "단테",
-      "content": "<Hey, wait…!>"
+      "content": "<เฮ้ เดี๋ยว…!>"
     },
     {
       "id": 6,
-      "content": "Completely ignoring my feeble plea—not that they could hear it—K Corp’s security guards closed in on us."
+      "content": "พิกเฉยต่อคำอ้อนวอนของผม—ก็ไม่ใช่ว่าพวกเขาจะได้ยินหรอก—เหล่าเจ้าหน้าที่รักษาความปลอดภัยของ K Corp ก็เริ่มล้อมพวกเรา"
     }
   ]
 }
