@@ -545,6 +545,12 @@
       "name": "Kkomi's Gift",
       "desc": "Open to receive 401 Free Lunacy.",
       "flavor": "It's like waking up from the strangest dream. It's Kkomi's midspring night's apology gift, probably for beating the crap out of us with those plush fists. \"Kkomi says seeya later\" - Vergilius"
+    },
+    {
+      "id": 30006,
+      "name": "Starlight of Immortality",
+      "desc": "Used in Mirror Dungeons.\n\n<color=#a16a3b>Starlight that can be collected only as long as the Mirror of Immortality remains open. Wish as people might to weave new tales from Starlight, they can only scavenge for what earthbound Starlight there remains—for the stars in the sky are no more.</color>",
+      "flavor": ""
     }
   ]
 }
