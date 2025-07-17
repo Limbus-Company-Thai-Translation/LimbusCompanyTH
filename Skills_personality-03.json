@@ -1,1497 +1,2325 @@
 {
-    "dataList": [{
-            "id": 1030601,
-            "levelList": [{
-                    "level": 1,
-                    "name": "ตรวจเช็คบัญชี",
-                    "desc": "",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        }
-                    ]
-                },
+  "dataList": [
+    {
+      "id": 1030601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ตรวจเช็คบัญชี",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
                 {
-                    "level": 2,
-                    "name": "ตรวจเช็คบัญชี",
-                    "desc": "[WhenUse] ฟื้นฟู 5 SP",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Laceration]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "ตรวจเช็คบัญชี",
-                    "desc": "[WhenUse] ฟื้นฟู 5 SP",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Laceration]"
-                            }]
-                        }
-                    ]
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
                 }
-            ]
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            }
+          ]
         },
         {
-            "id": 1030602,
-            "levelList": [{
-                    "level": 1,
-                    "name": "ข้อพิสูจความภักดี",
-                    "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม (highest A-Reson./3) (มากสุด 4)",
-                    "coinlist": [{
-                            "coindescs": [
-                                {}
-                            ]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 3 [Laceration]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [AttackDmgDown]"
-                                }
-                            ]
-                        }
-                    ]
-                },
+          "level": 2,
+          "name": "ตรวจเช็คบัญชี",
+          "desc": "[WhenUse] ฟื้นฟู 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
                 {
-                    "level": 2,
-                    "name": "ข้อพิสูจความภักดี",
-                    "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม (highest A-Reson./3) (มากสุด 4)\nถ้าหาก highest A-Reson is Envy A-Reson,ได้รับระดับการจู่โจมอีก 50% จากผลของสกิลข้างต้น (ปัดเศษลง)",
-                    "coinlist": [{
-                            "coindescs": [
-                                {}
-                            ]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 3 [Laceration]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [AttackDmgDown]"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "ข้อพิสูจความภักดี",
-                    "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม (highest A-Reson./2) (มากสุด 6)\nถ้าหาก highest A-Reson is Envy A-Reson., เพิ่มระดับการจู่โจมจากผลข้างต้นอีก 50% (ปัดเศษลง)\nได้รับระดับการจู่โจมจากผลข้างต้นเป็นเท่าตัว in Focused Encounters with 7 or fewer Participant Limits.",
-                    "coinlist": [{
-                            "coindescs": [
-                                {}
-                            ]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 3 [Laceration]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 1 [AttackDmgDown]"
-                                }
-                            ]
-                        }
-                    ]
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Laceration]"
                 }
-            ]
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            }
+          ]
         },
         {
-            "id": 1030603,
-            "levelList": [{
-                    "level": 3,
-                    "name": "อาฆาตแค้นอย่างเที่ยงธรรม",
-                    "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม (highest A-Reson./3) (มากสุด 4)\nถ้าหาก highest A-Reson is Envy A-Reson,ได้รับระดับการจู่โจมเพิ่มขึ้น 50% จากผลของสกิลข้างต้น (ปัดเศษลง)",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, พรรคพวก 1 คนที่มีค่า SP น้อยที่สุด ได้รับ 6 SP"
-                            }]
-                        }
-                    ]
-                },
+          "level": 4,
+          "name": "ตรวจเช็คบัญชี",
+          "desc": "[WhenUse] ฟื้นฟู 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
                 {
-                    "level": 4,
-                    "name": "อาฆาตแค้นอย่างเที่ยงธรรม",
-                    "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม  (highest A-Reson./2) (มากสุด 6)\nถ้าหาก highest A-Reson is Envy A-Reson., เพิ่มระดับการจู่โจมจากผลข้างต้นอีก 50% (ปัดเศษลง)\nได้รับระดับการจู่โจมจากผลข้างต้นเป็นเท่าตัว in Focused Encounters with 7 or fewer Participant Limits.",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, พรรคพวก 1 คนที่มีค่า SP น้อยที่สุด ได้รับ 6 SP"
-                            }]
-                        }
-                    ]
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Laceration]"
                 }
-            ]
-        },
-        {
-            "id": 1030604,
-            "levelList": [{
-                    "level": 1,
-                    "name": "ชำระแค้นหลายทบ",
-                    "desc": "",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ลดขีดค่าตุปัดตุเป๋ของผู้ใช้ ลง 3"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ลดขีดค่าตุปัดตุเป๋ของผู้ใช้ ลง 3"
-                            }]
-                        }
-                    ]
-                },
+              ]
+            },
+            {
+              "coindescs": [
                 {
-                    "level": 4,
-                    "name": "ชำระแค้นหลายทบ",
-                    "desc": "[StartBattle] เมื่อผลรวมของ Envy A-Reson. คือ 6+ , ใช้งาน 'A Just Vengeance' เป็น Counter แทน.\nเมื่อผลข้างต้นทำงาน the Skill's affinity เปลี่ยนเป็น Envy.\n('Multifold Retribution' ที่ด้านช้ายสุดจะทำงานก่อน. ทำงาน 2 ครั้งต่อเทิร์น)",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ลดขีดค่าตุปัดตุเป๋ของผู้ใช้ ลง 5"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ลดขีดค่าตุปัดตุเป๋ของผู้ใช้ ลง 5"
-                            }]
-                        }
-                    ]
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Laceration]"
                 }
-            ]
-        },
-        {
-            "id": 1030605,
-            "levelList": [{
-                    "level": 3,
-                    "name": "อาฆาตแค้นอย่างเที่ยงธรรม",
-                    "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม (highest A-Reson./3) (มากสุด 4)\nถ้าหาก highest A-Reson is Envy A-Reson,ได้รับระดับการจู่โจมเพิ่มขึ้น 50% จากผลของสกิลข้างต้น (ปัดเศษลง)",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, พรรคพวก 1 คนที่มีค่า SP น้อยที่สุด ได้รับ 6 SP"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "อาฆาตแค้นอย่างเที่ยงธรรม",
-                    "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม  (highest A-Reson./2) (มากสุด 6)\nถ้าหาก highest A-Reson is Envy A-Reson., เพิ่มระดับการจู่โจมจากผลข้างต้นอีก 50% (ปัดเศษลง)\nได้รับระดับการจู่โจมจากผลข้างต้นเป็นเท่าตัว in Focused Encounters with 7 or fewer Participant Limits.",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, พรรคพวก 1 คนที่มีค่า SP น้อยที่สุด ได้รับ 6 SP"
-                            }]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1030701,
-            "levelList": [{
-                    "level": 1,
-                    "name": "อันตัวข้าจะแทะเจ้า!",
-                    "desc": "",
-                    "coinlist": [{
-                        "coindescs": [{
-                            "desc": "[OnSucceedAttackHead] ทำสถานะ +2 [Burst] Count"
-                        }]
-                    }]
-                },
-                {
-                    "level": 2,
-                    "name": "อันตัวข้าจะแทะเจ้า!",
-                    "desc": "[WhenUse] ได้รับ +1 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
-                    "coinlist": [{
-                        "coindescs": [{
-                            "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] Count"
-                        }]
-                    }]
-                },
-                {
-                    "level": 4,
-                    "name": "อันตัวข้าจะแทะเจ้า!",
-                    "desc": "[WhenUse] ได้รับ +3 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
-                    "coinlist": [{
-                        "coindescs": [{
-                            "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] Count"
-                        }]
-                    }]
-                }
-            ]
-        },
-        {
-            "id": 1030702,
-            "levelList": [{
-                    "level": 1,
-                    "name": "เหยื่อล่อไฟกะพริบ",
-                    "desc": "",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Burst]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Burst]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 2 [Burst]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 2,
-                    "name": "เหยื่อล่อไฟกะพริบ",
-                    "desc": "[WhenUse] ได้รับ +2 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Burst]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Burst]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 2 [Burst]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 2 [Burst] Count หรือน้อยกว่า, ทำสถานะ +2 [Burst] Count"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "เหยื่อล่อไฟกะพริบ",
-                    "desc": "[WhenUse] ได้รับ +4 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า\n[WhenUse] ถ้าเป้าหมายมี 6+ [Burst], พลังเหรียญ +1",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Burst]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Burst]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 2 [Burst]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] หากเป้าหมายมี 2 [Burst] Count หรือน้อยกว่า, ทำสถานะ +3 [Burst] Count"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1030703,
-            "levelList": [{
-                    "level": 3,
-                    "name": "พายุหมุนง่ำๆๆ",
-                    "desc": "[WhenUse] ได้รับ +3 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า ",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ +3 [Burst] Count"
-                            }]
-                        },
-                        {},
-                        {
-                            "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู 10 HP."
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เพิ่มเติ่มอีกตามจำนวน [Burst] บน เป้าหมาย (1 HP ต่อ 1 [Burst]. สูงสุด 20)"
-                                },
-                                {
-                                    "desc": "เมื่อ 50%- HP, ทอยเหรียญอีกครั้ง (ครั้งเดียว)"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "พายุหมุนง่ำๆๆ",
-                    "desc": "[WhenUse] ได้รับ +5 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า\n[WhenUse] ถ้าเป้าหมายมี 6+ [Burst], พลังเหรียญ +1",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ +3 [Burst] Count"
-                            }]
-                        },
-                        {},
-                        {
-                            "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู 15 HP. ฟื้นฟูเพิ่มอีก +50% HP เมื่อใช้ซ้ำ"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ฟื้นฟู HP เพิ่มเติ่มอีกตามจำนวน [Burst] บน เป้าหมาย (2 HP ต่อ 1 [Burst]. สูงสุด 40)"
-                                },
-                                {
-                                    "desc": "เมื่อ 50%- HP, ทอยเหรียญอีกครั้ง (ครั้งเดียว)"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1030704,
-            "levelList": [{
-                    "level": 1,
-                    "name": "กระเทาะฟัน",
-                    "desc": "[EndBattle] ฟื้นฟู HP เท่ากับ โล่ที่คงเหลือ (1 ครั้ง ต่อ เทิร์น. ฟื้นฟูสูงสุด : 10% ของ Max HP)",
-                    "coinlist": [{
-                        "coindescs": [{
-                            "desc": ""
-                        }]
-                    }]
-                },
-                {
-                    "level": 4,
-                    "name": "กระเทาะฟัน",
-                    "desc": "[WhenUse] ถ้าเป้าหมายมี 6+ [Burst], พลังโดยรวม +3\n[EndBattle] ฟื้นฟู HP เท่ากับ โล่ที่คงเหลือ (1 ครั้ง ต่อ เทิร์น. ฟื้นฟูสูงสุด : 10% ของ Max HP)",
-                    "coinlist": [{
-                        "coindescs": [{
-                            "desc": ""
-                        }]
-                    }]
-                }
-            ]
-        },
-        {
-            "id": 1030801,
-            "levelList": [{
-                    "level": 1,
-                    "name": "ชักดาบ",
-                    "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 2,
-                    "name": "ชักดาบ",
-                    "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "ชักดาบ",
-                    "desc": "เมื่อข้ามี 5+ [Breath], พลังเหรียญ +1\n[WhenUse] ได้รับ +2 [Breath] Count",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ได้รับ 1 [Breath]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ได้รับ 1 [Breath]"
-                            }]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1030802,
-            "levelList": [{
-                    "level": 1,
-                    "name": "กวัดแกว่งคบดาบ",
-                    "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[CriticalOnSucceedAttack] ส่งผลแก่พันธมิตร 1 คนที่ไม่มี [Breath] หรือมี [Breath] Potency น้อยที่สุด, มอบ 2 [Breath]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 2,
-                    "name": "กวัดแกว่งคบดาบ",
-                    "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[CriticalOnSucceedAttack] ส่งผลแก่พันธมิตร 1 คนที่ไม่มี [Breath] หรือมี [Breath] Potency น้อยที่สุด, มอบ 2 [Breath]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "กวัดแกว่งคบดาบ",
-                    "desc": "เมื่อตัวข้ามี 7+ [Breath], พลังเหรียญ +1\n[WhenUse] ได้รับ +2 [Breath] Count",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[CriticalOnSucceedAttack] ส่งผลแก่พันธมิตร 1 คนที่ไม่มี [Breath] หรือมี [Breath] Potency น้อยที่สุด, มอบ 2 [Breath]\nถ้าหาก พันธมิตร มากจาก Blade Lineage, มอบ 2 [Breath] เพิ่มเติม"
-                            }]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1030803,
-            "levelList": [{
-                    "level": 3,
-                    "name": "ลาเจ้าละ!",
-                    "desc": "[WhenUse] ได้รับ 5 [Breath]",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] เหรียญสุดท้ายทำ +10% damage"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] เหรียญสุดท้ายทำ +10% damage"
-                            }]
-                        },
-                        {
-                            "coindescs": [
-                                {},
-                                {
-                                    "desc": "[CriticalOnSucceedAttack] ส่งผลแก่พันธมิตร 2 คนที่ไม่มี [Breath] หรือมี [Breath] Count น้อยที่สุด, มอบ +2 [Breath] Count"
-                                },
-                                {
-                                    "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, ได้รับ 1 [SlashDamageUp] เทิร์นหน้า"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "ลาเจ้าละ!",
-                    "desc": "<style=\"highlight\">At 10+ [Breath] on self, พลังเหรียญ +1\n</style>[WhenUse] ได้รับ 5 [Breath]",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] เหรียญสุดท้ายทำความเสียหาย +10%"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] เหรียญสุดท้ายทำความเสียหาย +10%"
-                            }]
-                        },
-                        {
-                            "coindescs": [
-                                {},
-                                {
-                                    "desc": "ทำความเสีบหาย +30% เมื่อติดคริ"
-                                },
-                                {
-                                    "desc": "[CriticalOnSucceedAttack] ส่งผลแก่พันธมิตร 2 คนที่ไม่มี [Breath] หรือมี [Breath] Count น้อยที่สุด, มอบ +2 [Breath] Count.\nถ้าหาก พันธมิตร มากจาก Blade Lineage, มอบ 2 [Breath] Count เพิ่มเติม"
-                                },
-                                {
-                                    "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้,มอบ 1 [SlashDamageUp] ให้ตัวข้า และพันธมิตร 1 คน เทิร์นหน้า"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1030804,
-            "levelList": [{
-                    "level": 1,
-                    "name": "หลบหลีก",
-                    "desc": "",
-                    "coinlist": [{
-                        "coindescs": [{
-                            "desc": ""
-                        }]
-                    }]
-                },
-                {
-                    "level": 4,
-                    "name": "หลบหลีก",
-                    "desc": "",
-                    "coinlist": [{
-                        "coindescs": [{
-                            "desc": ""
-                        }]
-                    }]
-                }
-            ]
-        },
-        {
-            "id": 1030901,
-            "levelList": [{
-                    "level": 1,
-                    "name": "พวกเรามาเตรียมตัวการเก็บกันเถอะ",
-                    "desc": "[WhenUse] ได้รับ +2 [Vibration] Count",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Vibration]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 2,
-                    "name": "พวกเรามาเตรียมตัวการเก็บกันเถอะ",
-                    "desc": "[WhenUse] ได้รับ +2 [Vibration] Count\n[WhenUse] ถ้าเป้าหมายมี 6+ [Vibration], พลังตอนปะทะ +1\n[WhenUse] ได้รับ +3 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Vibration]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "พวกเรามาเตรียมตัวการเก็บกันเถอะ",
-                    "desc": "[WhenUse] ได้รับ +2 [Vibration] Count\n[WhenUse] ได้รับ พลังตอนปะทะ +1 for every 6 [Vibration] บน เป้าหมาย (มากสุด 2)</style>\n[WhenUse] ได้รับ +3 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ได้รับ +4 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Vibration]"
-                            }]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1030902,
-            "levelList": [{
-                    "level": 1,
-                    "name": "เครื่องตัดแขนขาแบบเร่งของ T Corp.",
-                    "desc": "[WhenUse] ได้รับ +3 [Vibration] Count",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ใช้ได้มากสุดถึง 3 [Vibration] บน เป้าหมาย, and ได้รับ the same amount of [Vibration] Count on self"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Vibration]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 2,
-                    "name": "เครื่องตัดแขนขาแบบเร่งของ T Corp.",
-                    "desc": "[WhenUse] ได้รับ +3 [Vibration] Count\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี 6+ [Vibration], พลังตอนปะทะ +1</style>",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ใช้ได้มากสุดถึง 3 [Vibration] บน เป้าหมาย, and ได้รับ the same amount of [Vibration] Count on self"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 3 [Vibration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "<style=\"highlight\">[OnSucceedAttack] If this Skill's Coin effects consumed [Vibration] บน เป้าหมาย, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "เครื่องตัดแขนขาแบบเร่งของ T Corp.",
-                    "desc": "[WhenUse] ได้รับ +3 [Vibration] Count\n[WhenUse] <style=\"highlight\">พลังตอนปะทะ +1 for every 6 [Vibration] บน เป้าหมาย (มากสุด 2)</style>",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ใช้ได้มากสุดถึง 3 [Vibration] บน เป้าหมาย, and ได้รับ <style=\"highlight\">double the amount consumed</style> as [Vibration] Count on self\n<style=\"highlight\">ทำสถานะ ([Vibration] consumed - 1) [Binding] เทิร์นหน้า</style>"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 3 [Vibration]<style=\"highlight\"></style>"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] If this Skill's Coin effects consumed [Vibration] บน เป้าหมาย, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
-                            }]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1030903,
-            "levelList": [{
-                    "level": 3,
-                    "name": "ข้าขอสั่งให้เจ้า หยุด!",
-                    "desc": "[WhenUse] ถ้าเป้าหมายมี 6+ [Vibration], พลังตอนปะทะ +1\n[WhenUse] Consume 10 [Vibration] Count on self to ได้รับ พลังเหรียญ +2",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Vibration]"
-                            }]
-                        },
-                        {},
-                        {
-                            "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 10+ [Vibration], consume 10 [Vibration] บน เป้าหมาย and ทำสถานะ 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] If target's Speed is slower than this unit's, trigger [Switch_Vibration] into [VibrationChainPersonality]"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "ข้าขอสั่งให้เจ้า หยุด!",
-                    "desc": "[WhenUse] <style=\"highlight\">พลังตอนปะทะ +1 for every 6 [Vibration] บน เป้าหมาย (มากสุด 2)</style>\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี [Binding], ได้รับ พลังตอนปะทะ +1</style>\n[WhenUse] Consume 10 [Vibration] Count on self to ได้รับ พลังเหรียญ +2",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Vibration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "<style=\"highlight\">[OnSucceedAttack] ทำสถานะ 3 [Vibration]</style>"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 10+ [Vibration], consume 10 [Vibration] บน เป้าหมาย and ทำสถานะ 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]<style=\"highlight\"></style>"
-                                },
-                                {
-                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] If target's Speed is slower than this unit's, trigger [Switch_Vibration] into [VibrationChainPersonality]<style=\"highlight\"></style>"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1030904,
-            "levelList": [{
-                    "level": 1,
-                    "name": "ตัวข้าควรเรียกเวลา",
-                    "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, ได้รับ 4 [TimeRentalTwoPersonality] at Turn End (1 ครั้ง ต่อ เทิร์น)\n[WhenUse] For this turn: when hit by an enemy, ทำสถานะ 2 [Vibration] บน เป้าหมาย เทิร์นหน้า (2 ครั้งต่อเทิร์น)",
-                    "coinlist": [
-                        {}
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "ตัวข้าควรเรียกเวลา",
-                    "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, ได้รับ 4 [TimeRentalTwoPersonality] at Turn End (1 ครั้ง ต่อ เทิร์น)\n[WhenUse] For this turn: when hit by an enemy, ทำสถานะ <style=\"highlight\">3</style> [Vibration] บน เป้าหมาย เทิร์นหน้า (<style=\"highlight\">6 times</style> per turn)",
-                    "coinlist": [
-                        {}
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1031001,
-            "levelList": [{
-                    "level": 1,
-                    "name": "พอก็คือพอ",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Laceration]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 2,
-                    "name": "พอก็คือพอ",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี 6+ [Laceration], พลังเหรียญ +1</style>",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "พอก็คือพอ",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n[WhenUse] <style=\"highlight\">พลังเหรียญ +1 for every 6 [Laceration] บน เป้าหมาย (มากสุด 2)</style>",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                            }]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1031002,
-            "levelList": [{
-                    "level": 1,
-                    "name": "จงให้ทั้งหลายบานสะพรั่งอย่างเสรี",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n[BeforeAttack] At 10+ [BloodArmorPersonalityFirst], Atk Weight +1",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
-                                },
-                                {
-                                    "desc": "Deal +5% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด 25%)"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 2,
-                    "name": "จงให้ทั้งหลายบานสะพรั่งอย่างเสรี",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี 6+ [Laceration], พลังเหรียญ +1</style>\n[BeforeAttack] <style=\"highlight\">Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] on self (มากสุด 2)</style>",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
-                                },
-                                {
-                                    "desc": "Deal +<style=\"highlight\">10</style>% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด <style=\"highlight\">50</style>%)"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "จงให้ทั้งหลายบานสะพรั่งอย่างเสรี",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n[WhenUse] พลังเหรียญ +1 for every 6 [Laceration] บน เป้าหมาย (มากสุด 2)</style>\n[BeforeAttack] Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] on self (มากสุด 2)",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
-                                },
-                                {
-                                    "desc": "Deal +<style=\"highlight\">15</style>% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด <style=\"highlight\">75</style>%)"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1031003,
-            "levelList": [{
-                    "level": 3,
-                    "name": "ข้าจักต้องแทงทะลวง",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 10)\n[WhenUse] พลังตอนปะทะ +1 for every 10 [BloodArmorPersonalityFirst] (มากสุด 2)\n[WhenUse] ถ้าเป้าหมายมี 10+ [Laceration], พลังเหรียญ +1\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 50%)\n[WhenUse] Deal +10% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด 50%)\n[EndSkill] ถ้าเป้าหมายพ่ายแพ้, increase [BloodDinner] by 30; ได้รับ 10 [BloodArmorPersonalityFirst] (1 ครั้ง ต่อ เทิร์น)",
-                    "coinlist": [
-                        {},
-                        {},
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 3 [Laceration]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "ข้าจักต้องแทงทะลวง",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 10)\n[WhenUse] พลังตอนปะทะ +1 for every 10 [BloodArmorPersonalityFirst] (มากสุด 2)\n[WhenUse] <style=\"highlight\">พลังเหรียญ +1 for every 5 [Laceration] บน เป้าหมาย (มากสุด 2)</style>\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 50%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด <style=\"highlight\">100</style>%)\n[EndSkill] ถ้าเป้าหมายพ่ายแพ้, increase [BloodDinner] by <style=\"highlight\">60</style>; ได้รับ 10 [BloodArmorPersonalityFirst] (1 ครั้ง ต่อ เทิร์น)",
-                    "coinlist": [
-                        {},
-                        {},
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 3 [Laceration]"
-                            }]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1031004,
-            "levelList": [{
-                    "level": 1,
-                    "name": "พวกที่หัวเราะเยาะเย้ยควรมลายหายไป",
-                    "desc": "[DuelCounter]\n[StartBattle] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner]\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration]\n[StartBattle] To 1 ally with the least HP: มอบ 1 [SwirlingBloodPersonality] for every 50 [BloodDinner_Common_Accumulation] (มากสุด 10, 1 ครั้ง ต่อ เทิร์น)",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Laceration] Count"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "พวกที่หัวเราะเยาะเย้ยควรมลายหายไป",
-                    "desc": "[DuelCounter]\n[StartBattle] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner]\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration]\n[StartBattle] To 1 ally with the least HP: มอบ 1 [SwirlingBloodPersonality] for every 50 [BloodDinner_Common_Accumulation] (มากสุด <style=\"highlight\">15</style>, 1 ครั้ง ต่อ เทิร์น)",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ +2 [Laceration] Count"
-                            }]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1031005,
-            "levelList": [{
-                    "level": 1,
-                    "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 6 - แส้",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 20)\n[WhenUse] ได้รับ 20 [Laceration]\n[WhenUse] ทำสถานะ +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (มากสุด 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": ""
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[SuperCoin]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[SuperCoin]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 2,
-                    "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 6 - แส้",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 20)\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี 6+ [Laceration], พลังเหรียญ +1</style>\n[WhenUse] ได้รับ 20 [Laceration]\n[WhenUse] ทำสถานะ +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (มากสุด 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [{
-                                    "desc": "[SuperCoin]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[SuperCoin]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 6 - แส้",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 20)\n[WhenUse] <style=\"highlight\">พลังเหรียญ +1 for every 6 [Laceration] บน เป้าหมาย (มากสุด 2)</style>\n[WhenUse] ได้รับ 20 [Laceration]\n[WhenUse] ทำสถานะ +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (มากสุด 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [{
-                                    "desc": "[SuperCoin]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                                }
-                            ]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[SuperCoin]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                                },
-                                {
-                                    "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] บน เป้าหมาย once (target loses 1 [Laceration] Count)</style>"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1031006,
-            "levelList": [{
-                    "level": 1,
-                    "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 8 - แบ่งแยกออก",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ถ้าเป้าหมายมี 6+ [Laceration], พลังเหรียญ +1\n[BeforeAttack] At 10+ [BloodArmorPersonalityFirst], Atk Weight +1\n[EndSkill] If this Skill had an increased Atk Weight, consume 10 [BloodArmorPersonalityFirst]",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[SuperCoin]"
-                                },
-                                {
-                                    "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
-                                },
-                                {
-                                    "desc": "Deal +5% more damage for every 100 [BloodDinner_Common_Accumulation] (มากสุด 25%)"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 2,
-                    "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 8 - แบ่งแยกออก",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] <style=\"highlight\">พลังเหรียญ +1 for every 6 [Laceration] บน เป้าหมาย (มากสุด 2)</style>\n[BeforeAttack] <style=\"highlight\">ได้รับ Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (มากสุด 2)</style>\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[SuperCoin]"
-                                },
-                                {
-                                    "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
-                                },
-                                {
-                                    "desc": "Deal +<style=\"highlight\">10</style>% more damage for every 100 [BloodDinner_Common_Accumulation] (มากสุด <style=\"highlight\">50</style>%)"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 8 - แบ่งแยกออก",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] พลังเหรียญ +1 for every 6 [Laceration] บน เป้าหมาย (มากสุด 2)\n[BeforeAttack] ได้รับ Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (มากสุด 2)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained<style=\"highlight\"></style>",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[SuperCoin]"
-                                },
-                                {
-                                    "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
-                                },
-                                {
-                                    "desc": "Deal +<style=\"highlight\">15</style>% more damage for every 100 [BloodDinner_Common_Accumulation] (มากสุด <style=\"highlight\">75</style>%)"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1031007,
-            "levelList": [{
-                    "level": 3,
-                    "name": "ศาสตร์ผู้สืบทอดผลึกโลหิตแห่งซานโช - ลาซานเกร",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst] on self (มากสุด 2)\n[WhenUse] ถ้าเป้าหมายมี 10+ [Laceration], พลังเหรียญ +1\n[WhenUse] Deal +5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (มากสุด 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] ถ้าเป้าหมายพ่ายแพ้, increase [BloodDinner] by 50. Reได้รับ half of [BloodArmorPersonalityFirst] consumed by this Skill (1 ครั้ง ต่อ เทิร์น)",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[SuperCoin]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[SuperCoin]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[SuperCoin]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[SuperCoin]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 4 [Laceration] and +4 [Laceration] Count"
-                                },
-                                {
-                                    "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, ทำสถานะ 5 [Laceration] and +1 [Laceration] Count against all enemies"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "ศาสตร์ผู้สืบทอดผลึกโลหิตแห่งซานโช - ลาซานเกร",
-                    "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst] on self (มากสุด <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">พลังเหรียญ +1 for every 5 [Laceration] บน เป้าหมาย (มากสุด 2)</style>\n[WhenUse] Deal +5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (มากสุด 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] ถ้าเป้าหมายพ่ายแพ้, increase [BloodDinner] by <style=\"highlight\">100</style>. Reได้รับ half of [BloodArmorPersonalityFirst] consumed by this Skill (1 ครั้ง ต่อ เทิร์น)",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[SuperCoin]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[SuperCoin]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[SuperCoin]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[SuperCoin]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ <style=\"highlight\">8</style> [Laceration] and +4 [Laceration] Count"
-                                },
-                                {
-                                    "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, ทำสถานะ 5 [Laceration] and +1 [Laceration] Count against all enemies"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1031008,
-            "levelList": [{
-                    "level": 1,
-                    "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 15 - ปูทางสู่อวสาน",
-                    "desc": "[DuelCounter]\n[StartBattle] To (3 + (highest Reson. / 2)) allies with the least HP: มอบ (1 + ([BloodArmorPersonalityFirst] / 15)) [SwirlingBloodPersonality] for every 40 [BloodDinner_Common_Accumulation], then consume half of [BloodArmorPersonalityFirst] on self. (once per ally; rounded down)",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [{
-                                    "desc": "[SuperCoin]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ +3 [Laceration] Count"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 15 - ปูทางสู่อวสาน",
-                    "desc": "[DuelCounter]\n[StartBattle] To (3 + (highest Reson. / 2)) allies with the least HP: มอบ (1 + ([BloodArmorPersonalityFirst] / <style=\"highlight\">10</style>)) [SwirlingBloodPersonality] for every 40 [BloodDinner_Common_Accumulation], then consume half of [BloodArmorPersonalityFirst] on self. (once per ally; rounded down)",
-                    "coinlist": [
-                        {},
-                        {
-                            "coindescs": [{
-                                    "desc": "[SuperCoin]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ +3 [Laceration] Count"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1031101,
-            "levelList": [{
-                    "level": 1,
-                    "name": "ฟา จิน",
-                    "desc": "If this unit's Speed is faster than the target's by 3 or more, พลังเหรียญ +1\n[WhenUse] ได้รับ +2 [Breath] Count",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Combustion]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Combustion]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 2,
-                    "name": "ฟา จิน",
-                    "desc": "If this unit's Speed is faster than the target's by <style=\"highlight\">2</style> or more, พลังเหรียญ +1\n[WhenUse] ได้รับ +2 [Breath] Count",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "<style=\"highlight\">[OnSucceedAttack]</style> ทำสถานะ 1 [Combustion]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "<style=\"highlight\">[OnSucceedAttack]</style> ทำสถานะ 1 [Combustion]"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "ฟา จิน",
-                    "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ พลังเหรียญ based on Speed difference (พลังเหรียญ +1 for every 2 Speed difference; max 2)</style>\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Breath] Count",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]<style=\"highlight\"></style>"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]<style=\"highlight\"></style>"
-                                },
-                                {
-                                    "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] ทำสถานะ +1 [Combustion] Count</style>"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1031102,
-            "levelList": [{
-                    "level": 1,
-                    "name": "ฝ่ามือเพลิงสีหยก",
-                    "desc": "If this unit's Speed is faster than the target's by 3 or more, พลังเหรียญ +1\n[WinDuel] ได้รับ 3 [Breath]",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ได้รับ +2 [Breath] Count"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Combustion]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 2 [Combustion]"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 1 [DefenseDown] for every 6 [Combustion] บน เป้าหมาย (มากสุด 2, 1 ครั้ง ต่อ เทิร์น)"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 2,
-                    "name": "ฝ่ามือเพลิงสีหยก",
-                    "desc": "If this unit's Speed is faster than the target's by <style=\"highlight\">2</style> or more, พลังเหรียญ +1\n[WinDuel] ได้รับ 3 [Breath]",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "<style=\"highlight\">[OnSucceedAttack]</style> ได้รับ +2 [Breath] Count"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "<style=\"highlight\">[OnSucceedAttack]</style> ทำสถานะ 1 [Combustion]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 2 [Combustion]<style=\"highlight\"></style>"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 1 [DefenseDown] for every 6 [Combustion] บน เป้าหมาย (มากสุด <style=\"highlight\">3</style>, 1 ครั้ง ต่อ เทิร์น)"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "ฝ่ามือเพลิงสีหยก",
-                    "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ พลังเหรียญ based on Speed difference (พลังเหรียญ +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] ได้รับ 3 [Breath]\n<style=\"highlight\">- ได้รับ additional [Breath] Count equal to [DianxueDonQuixote] บน เป้าหมาย</style>",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] Count<style=\"highlight\"></style>"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ <style=\"highlight\">2</style> [Combustion]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 2 [Combustion]<style=\"highlight\"></style>"
-                                },
-                                {
-                                    "desc": "[OnSucceedAttack] ทำสถานะ 1 [DefenseDown] for every 6 [Combustion] บน เป้าหมาย (มากสุด <style=\"highlight\">5</style>, 1 ครั้ง ต่อ เทิร์น)\n<style=\"highlight\">- ทำสถานะ additional [DefenseDown] equal to [DianxueDonQuixote] บน เป้าหมาย</style>"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1031103,
-            "levelList": [{
-                    "level": 3,
-                    "name": "ขอให้ การประลองนี้เปืดหูเปิดตาด้วย",
-                    "desc": "Deal +10% more damage for every 1 [DianxueDonQuixote] บน เป้าหมาย (มากสุด 30%)\nIf this unit's Speed is faster than the target's by 2 or more, พลังเหรียญ +1\n[WinDuel] ได้รับ 5 [Breath]\n- ถ้าเป้าหมายมี [DianxueDonQuixote], ได้รับ 3 additional [Breath]",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Combustion]"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "Deal +([Breath] on self + [Combustion] บน เป้าหมาย)% more damage เมื่อติดคริ (มากสุด 30%)"
-                            }]
-                        }
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "ขอให้ การประลองนี้เปืดหูเปิดตาด้วย",
-                    "desc": "Deal <style=\"highlight\">+15%</style> more damage for every 1 [DianxueDonQuixote] บน เป้าหมาย (มากสุด <style=\"highlight\">45%</style>)\n<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ พลังเหรียญ based on Speed difference (พลังเหรียญ +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] ได้รับ 5 [Breath]\n- ถ้าเป้าหมายมี [DianxueDonQuixote], ได้รับ 3 additional [Breath]",
-                    "coinlist": [{
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]<style=\"highlight\"></style>"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]<style=\"highlight\"></style>"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                "desc": "[OnSucceedAttack] ทำสถานะ 2 [Combustion]<style=\"highlight\"></style>"
-                            }]
-                        },
-                        {
-                            "coindescs": [{
-                                    "desc": "ทำความเสียหายอีก +([Breath] on self + [Combustion] บน เป้าหมาย)% เมื่อติดคริ (มากสุด <style=\"highlight\">50%</style>)"
-                                },
-                                {
-                                    "desc": "<style=\"highlight\">[OnSucceedAttack] ถ้าเป้าหมายมี [DianxueDonQuixote], ทำสถานะ 3 [DefenseDown]</style>"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1031104,
-            "levelList": [{
-                    "level": 1,
-                    "name": "ดูท่าเจ้าจะขาดบทเรียนเรื่องมารยาทบนโต๊ะอาหารอย่างร้ายแรงเลยนะ!",
-                    "desc": "",
-                    "coinlist": [
-                        {}
-                    ]
-                },
-                {
-                    "level": 4,
-                    "name": "ดูท่าเจ้าจะขาดบทเรียนเรื่องมารยาทบนโต๊ะอาหารอย่างร้ายแรงเลยนะ!",
-                    "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ +1 พลังเหรียญ for every 2 Speed difference (มากสุด 2)</style>",
-                    "coinlist": [
-                        {}
-                    ]
-                }
-            ]
+              ]
+            }
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "id": 1030602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ข้อพิสูจความภักดี",
+          "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม (highest A-Reson./3) (มากสุด 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [AttackDmgDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "ข้อพิสูจความภักดี",
+          "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม (highest A-Reson./3) (มากสุด 4)\nถ้าหาก highest A-Reson is Envy A-Reson,ได้รับระดับการจู่โจมอีก 50% จากผลของสกิลข้างต้น (ปัดเศษลง)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [AttackDmgDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ข้อพิสูจความภักดี",
+          "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม (highest A-Reson./2) (มากสุด 6)\nถ้าหาก highest A-Reson is Envy A-Reson., เพิ่มระดับการจู่โจมจากผลข้างต้นอีก 50% (ปัดเศษลง)\nได้รับระดับการจู่โจมจากผลข้างต้นเป็นเท่าตัว in Focused Encounters with 7 or fewer Participant Limits.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [AttackDmgDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "อาฆาตแค้นอย่างเที่ยงธรรม",
+          "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม (highest A-Reson./3) (มากสุด 4)\nถ้าหาก highest A-Reson is Envy A-Reson,ได้รับระดับการจู่โจมเพิ่มขึ้น 50% จากผลของสกิลข้างต้น (ปัดเศษลง)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, พรรคพวก 1 คนที่มีค่า SP น้อยที่สุด ได้รับ 6 SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "อาฆาตแค้นอย่างเที่ยงธรรม",
+          "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม  (highest A-Reson./2) (มากสุด 6)\nถ้าหาก highest A-Reson is Envy A-Reson., เพิ่มระดับการจู่โจมจากผลข้างต้นอีก 50% (ปัดเศษลง)\nได้รับระดับการจู่โจมจากผลข้างต้นเป็นเท่าตัว in Focused Encounters with 7 or fewer Participant Limits.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, พรรคพวก 1 คนที่มีค่า SP น้อยที่สุด ได้รับ 6 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ชำระแค้นหลายทบ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ลดขีดค่าตุปัดตุเป๋ของผู้ใช้ ลง 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ลดขีดค่าตุปัดตุเป๋ของผู้ใช้ ลง 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ชำระแค้นหลายทบ",
+          "desc": "[StartBattle] เมื่อผลรวมของ Envy A-Reson. คือ 6+ , ใช้งาน 'A Just Vengeance' เป็น Counter แทน.\nเมื่อผลข้างต้นทำงาน the Skill's affinity เปลี่ยนเป็น Envy.\n('Multifold Retribution' ที่ด้านช้ายสุดจะทำงานก่อน. ทำงาน 2 ครั้งต่อเทิร์น)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ลดขีดค่าตุปัดตุเป๋ของผู้ใช้ ลง 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ลดขีดค่าตุปัดตุเป๋ของผู้ใช้ ลง 5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030605,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "อาฆาตแค้นอย่างเที่ยงธรรม",
+          "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม (highest A-Reson./3) (มากสุด 4)\nถ้าหาก highest A-Reson is Envy A-Reson,ได้รับระดับการจู่โจมเพิ่มขึ้น 50% จากผลของสกิลข้างต้น (ปัดเศษลง)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, พรรคพวก 1 คนที่มีค่า SP น้อยที่สุด ได้รับ 6 SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "อาฆาตแค้นอย่างเที่ยงธรรม",
+          "desc": "[StartBattle] สกิลนี้ ได้รับ 1 ระดัการจู่โจม  (highest A-Reson./2) (มากสุด 6)\nถ้าหาก highest A-Reson is Envy A-Reson., เพิ่มระดับการจู่โจมจากผลข้างต้นอีก 50% (ปัดเศษลง)\nได้รับระดับการจู่โจมจากผลข้างต้นเป็นเท่าตัว in Focused Encounters with 7 or fewer Participant Limits.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, พรรคพวก 1 คนที่มีค่า SP น้อยที่สุด ได้รับ 6 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "อันตัวข้าจะแทะเจ้า!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "อันตัวข้าจะแทะเจ้า!",
+          "desc": "[WhenUse] ได้รับ +1 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "อันตัวข้าจะแทะเจ้า!",
+          "desc": "[WhenUse] ได้รับ +3 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "เหยื่อล่อไฟกะพริบ",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "เหยื่อล่อไฟกะพริบ",
+          "desc": "[WhenUse] ได้รับ +2 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 2 [Burst] Count หรือน้อยกว่า, ทำสถานะ +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "เหยื่อล่อไฟกะพริบ",
+          "desc": "[WhenUse] ได้รับ +4 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า\n[WhenUse] ถ้าเป้าหมายมี 6+ [Burst], พลังเหรียญ +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] หากเป้าหมายมี 2 [Burst] Count หรือน้อยกว่า, ทำสถานะ +3 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "พายุหมุนง่ำๆๆ",
+          "desc": "[WhenUse] ได้รับ +3 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ +3 [Burst] Count"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 10 HP."
+                },
+                {
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เพิ่มเติ่มอีกตามจำนวน [Burst] บน เป้าหมาย (1 HP ต่อ 1 [Burst]. สูงสุด 20)"
+                },
+                {
+                  "desc": "เมื่อ 50%- HP, ทอยเหรียญอีกครั้ง (ครั้งเดียว)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "พายุหมุนง่ำๆๆ",
+          "desc": "[WhenUse] ได้รับ +5 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า\n[WhenUse] ถ้าเป้าหมายมี 6+ [Burst], พลังเหรียญ +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ +3 [Burst] Count"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ฟื้นฟู 15 HP. ฟื้นฟูเพิ่มอีก +50% HP เมื่อใช้ซ้ำ"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ฟื้นฟู HP เพิ่มเติ่มอีกตามจำนวน [Burst] บน เป้าหมาย (2 HP ต่อ 1 [Burst]. สูงสุด 40)"
+                },
+                {
+                  "desc": "เมื่อ 50%- HP, ทอยเหรียญอีกครั้ง (ครั้งเดียว)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "กระเทาะฟัน",
+          "desc": "[EndBattle] ฟื้นฟู HP เท่ากับ โล่ที่คงเหลือ (1 ครั้ง ต่อ เทิร์น. ฟื้นฟูสูงสุด : 10% ของ Max HP)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "กระเทาะฟัน",
+          "desc": "[WhenUse] ถ้าเป้าหมายมี 6+ [Burst], พลังโดยรวม +3\n[EndBattle] ฟื้นฟู HP เท่ากับ โล่ที่คงเหลือ (1 ครั้ง ต่อ เทิร์น. ฟื้นฟูสูงสุด : 10% ของ Max HP)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ชักดาบ",
+          "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "ชักดาบ",
+          "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ได้รับ 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ชักดาบ",
+          "desc": "เมื่อข้ามี 5+ [Breath], พลังเหรียญ +1\n[WhenUse] ได้รับ +2 [Breath] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ได้รับ 1 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "กวัดแกว่งคบดาบ",
+          "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ได้รับ 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] ส่งผลแก่พันธมิตร 1 คนที่ไม่มี [Breath] หรือมี [Breath] Potency น้อยที่สุด, มอบ 2 [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "กวัดแกว่งคบดาบ",
+          "desc": "[WhenUse] ได้รับ +2 [Breath] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] ส่งผลแก่พันธมิตร 1 คนที่ไม่มี [Breath] หรือมี [Breath] Potency น้อยที่สุด, มอบ 2 [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "กวัดแกว่งคบดาบ",
+          "desc": "เมื่อตัวข้ามี 7+ [Breath], พลังเหรียญ +1\n[WhenUse] ได้รับ +2 [Breath] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ได้รับ 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] ส่งผลแก่พันธมิตร 1 คนที่ไม่มี [Breath] หรือมี [Breath] Potency น้อยที่สุด, มอบ 2 [Breath]\nถ้าหาก พันธมิตร มากจาก Blade Lineage, มอบ 2 [Breath] เพิ่มเติม"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "ลาเจ้าละ!",
+          "desc": "[WhenUse] ได้รับ 5 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] เหรียญสุดท้ายทำ +10% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] เหรียญสุดท้ายทำ +10% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {},
+                {
+                  "desc": "[CriticalOnSucceedAttack] ส่งผลแก่พันธมิตร 2 คนที่ไม่มี [Breath] หรือมี [Breath] Count น้อยที่สุด, มอบ +2 [Breath] Count"
+                },
+                {
+                  "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, ได้รับ 1 [SlashDamageUp] เทิร์นหน้า"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ลาเจ้าละ!",
+          "desc": "<style=\"highlight\">At 10+ [Breath] on self, พลังเหรียญ +1\n</style>[WhenUse] ได้รับ 5 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] เหรียญสุดท้ายทำความเสียหาย +10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] เหรียญสุดท้ายทำความเสียหาย +10%"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {},
+                {
+                  "desc": "ทำความเสีบหาย +30% เมื่อติดคริ"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] ส่งผลแก่พันธมิตร 2 คนที่ไม่มี [Breath] หรือมี [Breath] Count น้อยที่สุด, มอบ +2 [Breath] Count.\nถ้าหาก พันธมิตร มากจาก Blade Lineage, มอบ 2 [Breath] Count เพิ่มเติม"
+                },
+                {
+                  "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้,มอบ 1 [SlashDamageUp] ให้ตัวข้า และพันธมิตร 1 คน เทิร์นหน้า"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "หลบหลีก",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "หลบหลีก",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "พวกเรามาเตรียมตัวการเก็บกันเถอะ",
+          "desc": "[WhenUse] ได้รับ +2 [Vibration] Count",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "พวกเรามาเตรียมตัวการเก็บกันเถอะ",
+          "desc": "[WhenUse] ได้รับ +2 [Vibration] Count\n[WhenUse] ถ้าเป้าหมายมี 6+ [Vibration], พลังตอนปะทะ +1\n[WhenUse] ได้รับ +3 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "พวกเรามาเตรียมตัวการเก็บกันเถอะ",
+          "desc": "[WhenUse] ได้รับ +2 [Vibration] Count\n[WhenUse] ได้รับ พลังตอนปะทะ +1 for every 6 [Vibration] บน เป้าหมาย (มากสุด 2)</style>\n[WhenUse] ได้รับ +3 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ได้รับ +4 [Aggro] แก่ช่องสกิลนี้เทิร์นหน้า"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "เครื่องตัดแขนขาแบบเร่งของ T Corp.",
+          "desc": "[WhenUse] ได้รับ +3 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ใช้ได้มากสุดถึง 3 [Vibration] บน เป้าหมาย, and ได้รับ the same amount of [Vibration] Count on self"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "เครื่องตัดแขนขาแบบเร่งของ T Corp.",
+          "desc": "[WhenUse] ได้รับ +3 [Vibration] Count\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี 6+ [Vibration], พลังตอนปะทะ +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ใช้ได้มากสุดถึง 3 [Vibration] บน เป้าหมาย, and ได้รับ the same amount of [Vibration] Count on self"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this Skill's Coin effects consumed [Vibration] บน เป้าหมาย, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "เครื่องตัดแขนขาแบบเร่งของ T Corp.",
+          "desc": "[WhenUse] ได้รับ +3 [Vibration] Count\n[WhenUse] <style=\"highlight\">พลังตอนปะทะ +1 for every 6 [Vibration] บน เป้าหมาย (มากสุด 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ใช้ได้มากสุดถึง 3 [Vibration] บน เป้าหมาย, and ได้รับ <style=\"highlight\">double the amount consumed</style> as [Vibration] Count on self\n<style=\"highlight\">ทำสถานะ ([Vibration] consumed - 1) [Binding] เทิร์นหน้า</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 3 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If this Skill's Coin effects consumed [Vibration] บน เป้าหมาย, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "ข้าขอสั่งให้เจ้า หยุด!",
+          "desc": "[WhenUse] ถ้าเป้าหมายมี 6+ [Vibration], พลังตอนปะทะ +1\n[WhenUse] Consume 10 [Vibration] Count on self to ได้รับ พลังเหรียญ +2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Vibration]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 10+ [Vibration], consume 10 [Vibration] บน เป้าหมาย and ทำสถานะ 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target's Speed is slower than this unit's, trigger [Switch_Vibration] into [VibrationChainPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ข้าขอสั่งให้เจ้า หยุด!",
+          "desc": "[WhenUse] <style=\"highlight\">พลังตอนปะทะ +1 for every 6 [Vibration] บน เป้าหมาย (มากสุด 2)</style>\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี [Binding], ได้รับ พลังตอนปะทะ +1</style>\n[WhenUse] Consume 10 [Vibration] Count on self to ได้รับ พลังเหรียญ +2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] ทำสถานะ 3 [Vibration]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ถ้าเป้าหมายมี 10+ [Vibration], consume 10 [Vibration] บน เป้าหมาย and ทำสถานะ 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target's Speed is slower than this unit's, trigger [Switch_Vibration] into [VibrationChainPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ตัวข้าควรเรียกเวลา",
+          "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, ได้รับ 4 [TimeRentalTwoPersonality] at Turn End (1 ครั้ง ต่อ เทิร์น)\n[WhenUse] For this turn: when hit by an enemy, ทำสถานะ 2 [Vibration] บน เป้าหมาย เทิร์นหน้า (2 ครั้งต่อเทิร์น)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ตัวข้าควรเรียกเวลา",
+          "desc": "[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, ได้รับ 4 [TimeRentalTwoPersonality] at Turn End (1 ครั้ง ต่อ เทิร์น)\n[WhenUse] For this turn: when hit by an enemy, ทำสถานะ <style=\"highlight\">3</style> [Vibration] บน เป้าหมาย เทิร์นหน้า (<style=\"highlight\">6 times</style> per turn)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "พอก็คือพอ",
+          "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "พอก็คือพอ",
+          "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี 6+ [Laceration], พลังเหรียญ +1</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "พอก็คือพอ",
+          "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 5 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n[WhenUse] <style=\"highlight\">พลังเหรียญ +1 for every 6 [Laceration] บน เป้าหมาย (มากสุด 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "จงให้ทั้งหลายบานสะพรั่งอย่างเสรี",
+          "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n[BeforeAttack] At 10+ [BloodArmorPersonalityFirst], Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
+                },
+                {
+                  "desc": "Deal +5% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด 25%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "จงให้ทั้งหลายบานสะพรั่งอย่างเสรี",
+          "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี 6+ [Laceration], พลังเหรียญ +1</style>\n[BeforeAttack] <style=\"highlight\">Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] on self (มากสุด 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
+                },
+                {
+                  "desc": "Deal +<style=\"highlight\">10</style>% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด <style=\"highlight\">50</style>%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "จงให้ทั้งหลายบานสะพรั่งอย่างเสรี",
+          "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 5 [Laceration]\n[WhenUse] พลังเหรียญ +1 for every 6 [Laceration] บน เป้าหมาย (มากสุด 2)</style>\n[BeforeAttack] Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] on self (มากสุด 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
+                },
+                {
+                  "desc": "Deal +<style=\"highlight\">15</style>% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด <style=\"highlight\">75</style>%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "ข้าจักต้องแทงทะลวง",
+          "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 10)\n[WhenUse] พลังตอนปะทะ +1 for every 10 [BloodArmorPersonalityFirst] (มากสุด 2)\n[WhenUse] ถ้าเป้าหมายมี 10+ [Laceration], พลังเหรียญ +1\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 50%)\n[WhenUse] Deal +10% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด 50%)\n[EndSkill] ถ้าเป้าหมายพ่ายแพ้, increase [BloodDinner] by 30; ได้รับ 10 [BloodArmorPersonalityFirst] (1 ครั้ง ต่อ เทิร์น)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ข้าจักต้องแทงทะลวง",
+          "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 10)\n[WhenUse] พลังตอนปะทะ +1 for every 10 [BloodArmorPersonalityFirst] (มากสุด 2)\n[WhenUse] <style=\"highlight\">พลังเหรียญ +1 for every 5 [Laceration] บน เป้าหมาย (มากสุด 2)</style>\n[WhenUse] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration]\n[WhenUse] Deal +5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 50%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% more damage for every 100 [BloodDinner_Accumulation] by self (มากสุด <style=\"highlight\">100</style>%)\n[EndSkill] ถ้าเป้าหมายพ่ายแพ้, increase [BloodDinner] by <style=\"highlight\">60</style>; ได้รับ 10 [BloodArmorPersonalityFirst] (1 ครั้ง ต่อ เทิร์น)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "พวกที่หัวเราะเยาะเย้ยควรมลายหายไป",
+          "desc": "[DuelCounter]\n[StartBattle] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner]\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration]\n[StartBattle] To 1 ally with the least HP: มอบ 1 [SwirlingBloodPersonality] for every 50 [BloodDinner_Common_Accumulation] (มากสุด 10, 1 ครั้ง ต่อ เทิร์น)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "พวกที่หัวเราะเยาะเย้ยควรมลายหายไป",
+          "desc": "[DuelCounter]\n[StartBattle] ใช้ได้มากสุดถึง 50 [BloodDinner] and ได้รับ 1 [BloodArmorPersonalityFirst] for every 10 [BloodDinner]\n- If this unit failed to consume [BloodDinner], ได้รับ 10 [Laceration]\n[StartBattle] To 1 ally with the least HP: มอบ 1 [SwirlingBloodPersonality] for every 50 [BloodDinner_Common_Accumulation] (มากสุด <style=\"highlight\">15</style>, 1 ครั้ง ต่อ เทิร์น)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 6 - แส้",
+          "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 20)\n[WhenUse] ได้รับ 20 [Laceration]\n[WhenUse] ทำสถานะ +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (มากสุด 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 6 - แส้",
+          "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 20)\n<style=\"highlight\">[WhenUse] ถ้าเป้าหมายมี 6+ [Laceration], พลังเหรียญ +1</style>\n[WhenUse] ได้รับ 20 [Laceration]\n[WhenUse] ทำสถานะ +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (มากสุด 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 6 - แส้",
+          "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 20)\n[WhenUse] <style=\"highlight\">พลังเหรียญ +1 for every 6 [Laceration] บน เป้าหมาย (มากสุด 2)</style>\n[WhenUse] ได้รับ 20 [Laceration]\n[WhenUse] ทำสถานะ +1 more [Laceration] On Hit for every 10 [BloodArmorPersonalityFirst]. (มากสุด 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] บน เป้าหมาย once (target loses 1 [Laceration] Count)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 8 - แบ่งแยกออก",
+          "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] ถ้าเป้าหมายมี 6+ [Laceration], พลังเหรียญ +1\n[BeforeAttack] At 10+ [BloodArmorPersonalityFirst], Atk Weight +1\n[EndSkill] If this Skill had an increased Atk Weight, consume 10 [BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
+                },
+                {
+                  "desc": "Deal +5% more damage for every 100 [BloodDinner_Common_Accumulation] (มากสุด 25%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 8 - แบ่งแยกออก",
+          "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] <style=\"highlight\">พลังเหรียญ +1 for every 6 [Laceration] บน เป้าหมาย (มากสุด 2)</style>\n[BeforeAttack] <style=\"highlight\">ได้รับ Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (มากสุด 2)</style>\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
+                },
+                {
+                  "desc": "Deal +<style=\"highlight\">10</style>% more damage for every 100 [BloodDinner_Common_Accumulation] (มากสุด <style=\"highlight\">50</style>%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 8 - แบ่งแยกออก",
+          "desc": "On Hit with this Skill: ฟื้นฟู 30% of the HP damage dealt (มากสุด 10)\n[WhenUse] พลังเหรียญ +1 for every 6 [Laceration] บน เป้าหมาย (มากสุด 2)\n[BeforeAttack] ได้รับ Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (มากสุด 2)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Deal +2.5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 25%)"
+                },
+                {
+                  "desc": "Deal +<style=\"highlight\">15</style>% more damage for every 100 [BloodDinner_Common_Accumulation] (มากสุด <style=\"highlight\">75</style>%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031007,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "ศาสตร์ผู้สืบทอดผลึกโลหิตแห่งซานโช - ลาซานเกร",
+          "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst] on self (มากสุด 2)\n[WhenUse] ถ้าเป้าหมายมี 10+ [Laceration], พลังเหรียญ +1\n[WhenUse] Deal +5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (มากสุด 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] ถ้าเป้าหมายพ่ายแพ้, increase [BloodDinner] by 50. Reได้รับ half of [BloodArmorPersonalityFirst] consumed by this Skill (1 ครั้ง ต่อ เทิร์น)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 4 [Laceration] and +4 [Laceration] Count"
+                },
+                {
+                  "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, ทำสถานะ 5 [Laceration] and +1 [Laceration] Count against all enemies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ศาสตร์ผู้สืบทอดผลึกโลหิตแห่งซานโช - ลาซานเกร",
+          "desc": "On Hit with this Skill: ฟื้นฟู 50% of the HP damage dealt (มากสุด 20)\n[WhenUse] Base Power +1 for every 10 [BloodArmorPersonalityFirst] on self (มากสุด <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">พลังเหรียญ +1 for every 5 [Laceration] บน เป้าหมาย (มากสุด 2)</style>\n[WhenUse] Deal +5% more damage for every [Laceration] บน เป้าหมาย (มากสุด 50%)\n[WhenUse] Deal +20% more damage for every 100 [BloodDinner_Common_Accumulation] (มากสุด 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every 10 [BloodArmorPersonalityFirst]\n[EndSkill] ถ้าเป้าหมายพ่ายแพ้, increase [BloodDinner] by <style=\"highlight\">100</style>. Reได้รับ half of [BloodArmorPersonalityFirst] consumed by this Skill (1 ครั้ง ต่อ เทิร์น)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ <style=\"highlight\">8</style> [Laceration] and +4 [Laceration] Count"
+                },
+                {
+                  "desc": "[EndSkill] ถ้าเป้าหมายพ่ายแพ้, ทำสถานะ 5 [Laceration] and +1 [Laceration] Count against all enemies"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 15 - ปูทางสู่อวสาน",
+          "desc": "[DuelCounter]\n[StartBattle] To (3 + (highest Reson. / 2)) allies with the least HP: มอบ (1 + ([BloodArmorPersonalityFirst] / 15)) [SwirlingBloodPersonality] for every 40 [BloodDinner_Common_Accumulation], then consume half of [BloodArmorPersonalityFirst] on self. (once per ally; rounded down)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "รูปแบบศาสตร์ผลึกโลหิตแห่งซานโช ที่ 15 - ปูทางสู่อวสาน",
+          "desc": "[DuelCounter]\n[StartBattle] To (3 + (highest Reson. / 2)) allies with the least HP: มอบ (1 + ([BloodArmorPersonalityFirst] / <style=\"highlight\">10</style>)) [SwirlingBloodPersonality] for every 40 [BloodDinner_Common_Accumulation], then consume half of [BloodArmorPersonalityFirst] on self. (once per ally; rounded down)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ฟา จิน",
+          "desc": "If this unit's Speed is faster than the target's by 3 or more, พลังเหรียญ +1\n[WhenUse] ได้รับ +2 [Breath] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "ฟา จิน",
+          "desc": "If this unit's Speed is faster than the target's by <style=\"highlight\">2</style> or more, พลังเหรียญ +1\n[WhenUse] ได้รับ +2 [Breath] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> ทำสถานะ 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> ทำสถานะ 1 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ฟา จิน",
+          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ พลังเหรียญ based on Speed difference (พลังเหรียญ +1 for every 2 Speed difference; max 2)</style>\n[WhenUse] ได้รับ +<style=\"highlight\">3</style> [Breath] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] ทำสถานะ +1 [Combustion] Count</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ฝ่ามือเพลิงสีหยก",
+          "desc": "If this unit's Speed is faster than the target's by 3 or more, พลังเหรียญ +1\n[WinDuel] ได้รับ 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ได้รับ +2 [Breath] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] ทำสถานะ 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [DefenseDown] for every 6 [Combustion] บน เป้าหมาย (มากสุด 2, 1 ครั้ง ต่อ เทิร์น)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "ฝ่ามือเพลิงสีหยก",
+          "desc": "If this unit's Speed is faster than the target's by <style=\"highlight\">2</style> or more, พลังเหรียญ +1\n[WinDuel] ได้รับ 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> ได้รับ +2 [Breath] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> ทำสถานะ 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [DefenseDown] for every 6 [Combustion] บน เป้าหมาย (มากสุด <style=\"highlight\">3</style>, 1 ครั้ง ต่อ เทิร์น)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ฝ่ามือเพลิงสีหยก",
+          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ พลังเหรียญ based on Speed difference (พลังเหรียญ +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] ได้รับ 3 [Breath]\n<style=\"highlight\">- ได้รับ additional [Breath] Count equal to [DianxueDonQuixote] บน เป้าหมาย</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ได้รับ +2 [Breath] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [DefenseDown] for every 6 [Combustion] บน เป้าหมาย (มากสุด <style=\"highlight\">5</style>, 1 ครั้ง ต่อ เทิร์น)\n<style=\"highlight\">- ทำสถานะ additional [DefenseDown] equal to [DianxueDonQuixote] บน เป้าหมาย</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "ขอให้ การประลองนี้เปืดหูเปิดตาด้วย",
+          "desc": "Deal +10% more damage for every 1 [DianxueDonQuixote] บน เป้าหมาย (มากสุด 30%)\nIf this unit's Speed is faster than the target's by 2 or more, พลังเหรียญ +1\n[WinDuel] ได้รับ 5 [Breath]\n- ถ้าเป้าหมายมี [DianxueDonQuixote], ได้รับ 3 additional [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +([Breath] on self + [Combustion] บน เป้าหมาย)% more damage เมื่อติดคริ (มากสุด 30%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ขอให้ การประลองนี้เปืดหูเปิดตาด้วย",
+          "desc": "Deal <style=\"highlight\">+15%</style> more damage for every 1 [DianxueDonQuixote] บน เป้าหมาย (มากสุด <style=\"highlight\">45%</style>)\n<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ พลังเหรียญ based on Speed difference (พลังเหรียญ +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] ได้รับ 5 [Breath]\n- ถ้าเป้าหมายมี [DianxueDonQuixote], ได้รับ 3 additional [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ทำสถานะ 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "ทำความเสียหายอีก +([Breath] on self + [Combustion] บน เป้าหมาย)% เมื่อติดคริ (มากสุด <style=\"highlight\">50%</style>)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] ถ้าเป้าหมายมี [DianxueDonQuixote], ทำสถานะ 3 [DefenseDown]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ดูท่าเจ้าจะขาดบทเรียนเรื่องมารยาทบนโต๊ะอาหารอย่างร้ายแรงเลยนะ!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ดูท่าเจ้าจะขาดบทเรียนเรื่องมารยาทบนโต๊ะอาหารอย่างร้ายแรงเลยนะ!",
+          "desc": "<style=\"highlight\">If this unit's Speed is faster than the target's, ได้รับ +1 พลังเหรียญ for every 2 Speed difference (มากสุด 2)</style>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "By Manager Esquire's Orders, I Am Here!",
+          "desc": "[WhenUse] Gain +2 [ThePowerOfLoveAndHate] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "By Manager Esquire's Orders, I Am Here!",
+          "desc": "<style=\"highlight\">[WhenUse] Consume 5 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1</style>\n[WhenUse] Gain +<style=\"highlight\">3</style> [ThePowerOfLoveAndHate] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "By Manager Esquire's Orders, I Am Here!",
+          "desc": "[WhenUse] Consume 5 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 2 [ThePowerOfLoveAndHate] (max 2)</style>\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">3</style> [ThePowerOfLoveAndHate] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "With Love! Hyah!",
+          "desc": "[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "With Love! Hyah!",
+          "desc": "<style=\"highlight\">[WhenUse] Deal +6% damage for every [ThePowerOfLoveAndHate] on self (max 30%)\n[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1</style>\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">4</style> [ThePowerOfLoveAndHate] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Burst]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict [VillainMark] against the main target next turn</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "With Love! Hyah!",
+          "desc": "[WhenUse] Deal +<style=\"highlight\">10</style>% damage for every [ThePowerOfLoveAndHate] on self (max <style=\"highlight\">50</style>%)\n[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1\n[WhenUse] Gain +<style=\"highlight\">5</style> [ThePowerOfLoveAndHate] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +4 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Inflict [VillainMark] against the main target next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Arcana Beats!! / Minor Arcana Slave!!!",
+          "desc": "Deal +15% damage for every [ArcanaQueenOfHate] on self (max 45%)\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], deal +([ThePowerOfLoveAndHate] x 15)% damage (max 75%)\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], Base Power +1\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Coin Power (Coin Power +1 for every 5 Count consumed, max 2)\n[WhenUse] Gain +6 [ThePowerOfLoveAndHate] Count\n[EndSkill] Gain 1 [ArcanaQueenOfHate]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Arcana Beats!! / Minor Arcana Slave!!!",
+          "desc": "Deal +<style=\"highlight\">30</style>% damage for every [ArcanaQueenOfHate] on self (max <style=\"highlight\">90</style>%)\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], deal +([ThePowerOfLoveAndHate] x <style=\"highlight\">20</style>)% damage <style=\"highlight\">(max 100%)</style>\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], Base Power +<style=\"highlight\">2</style>\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Coin Power (Coin Power +1 for every 5 Count consumed, max <style=\"highlight\">4</style>)\n[WhenUse] Gain +6 [ThePowerOfLoveAndHate] Count\n[EndSkill] Gain 1 [ArcanaQueenOfHate]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rapid Chant",
+          "desc": "[CanDuelGuard]\n[WhenUse] Base Power +1 for every [HystericGauge] (max 2)\n[WhenUse] Gain +2 [ThePowerOfLoveAndHate] Count (2 times per turn)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rapid Chant",
+          "desc": "[CanDuelGuard]\n[WhenUse] Base Power +1 for every [HystericGauge] <style=\"highlight\">(max 3)</style>\n[WhenUse] Gain +<style=\"highlight\">4</style> [ThePowerOfLoveAndHate] Count (2 times per turn)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Where are... the villains...?",
+          "desc": "Deal +3% damage for every [HystericGauge] on self (max 9%)\n[WhenUse] Gain +2 [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Where are... the villains...?",
+          "desc": "Deal <style=\"highlight\">+4%</style> damage for every [HystericGauge] on self <style=\"highlight\">(max 12%)</style>\n<style=\"highlight\">[WhenUse] Consume 5 [ThePowerOfLoveAndHate] Count on self to gain Base Power +1</style>\n[WhenUse] Gain <style=\"highlight\">+3</style> [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Where are... the villains...?",
+          "desc": "Deal <style=\"highlight\">+5%</style> damage for every [HystericGauge] on self <style=\"highlight\">(max 15%)</style>\n<style=\"highlight\">[WhenUse] Consume 5 [ThePowerOfLoveAndHate] Count on self to gain Base Power +1</style>\n<style=\"highlight\">[WhenUse] Base Power +1 for every 2 [ThePowerOfLoveAndHate] on self (max 2)</style>\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">3</style> [ThePowerOfLoveAndHate] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Get out of my head...",
+          "desc": "If this unit has [HystericGauge], Clash Power +1\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 8 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Get out of my head...",
+          "desc": "If this unit has [HystericGauge], <style=\"highlight\">Base Power +1</style>\n<style=\"highlight\">[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Base Power +1</style>\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 8 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Sinking]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Inflict [VillainMark] against the main target next turn</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Get out of my head...",
+          "desc": "<style=\"highlight\">Base Power +1 for every [HystericGauge] on self (max 2)\n- At 3 [HystericGauge], gain +1 Atk Weight\n- Deal -50% damage against sub-targets</style>\n[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Base Power +1\n[WhenUse] Gain +<style=\"highlight\">5</style> [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 8 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Inflict [VillainMark] against the main target next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031207,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Reversed Beats / Reversed Arcana Slave",
+          "desc": "This Skill deals -50% damage against sub-targets\n\n[WhenUse] Consume all [HystericGauge] to gain Clash Power +1\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Clash Power (Clash Power +1 for every 8 Count consumed, max 2)\n[WhenUse] Deal +12% damage for every [ThePowerOfLoveAndHate] on self (max 60%)\n[BeforeAttack] Consume all [ArcanaQueenOfHate] on self to gain +1 Atk Weight\n[BeforeAttack] If this Skill only has a single target(for Focused Encounters, a Part), but has 2+ Atk Weight, deal +20% damage\n[BeforeAttack] Base Power -6 for every Cracked Coin (max -18)\n[EndBattle] If this unit isn't at -45 SP, and is at less than 0 SP, heal 10 SP. Heal more SP the further this unit's SP value is from 0 (2 SP healed for every missing SP, max 50 SP)\n[WhenUse] Lose 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Reversed Beats / Reversed Arcana Slave",
+          "desc": "This Skill deals -50% damage against sub-targets\n\n[WhenUse] Consume all [HystericGauge]; <style=\"highlight\">Clash Power +1 for every Stack consumed (max 3)</style>\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Clash Power (Clash Power +1 for every <style=\"highlight\">5</style> Count consumed, max <style=\"highlight\">4</style>)\n[WhenUse] Deal +<style=\"highlight\">24</style>% damage for every [ThePowerOfLoveAndHate] on self (max <style=\"highlight\">120</style>%)\n[BeforeAttack] Consume all [ArcanaQueenOfHate] on self; <style=\"highlight\">gain +1 Atk Weight for every Stack consumed (max 3)\n- If this Skill consumed 3 [HystericGauge], gain +1 Atk Weight</style>\n[BeforeAttack] If this Skill only has a single target(for Focused Encounters, a Part), <style=\"highlight\">deal +(20 x (Atk Weight - 1))% damage (max 80%)</style>\n[BeforeAttack] Base Power -6 for every Cracked Coin (max -18)\n[EndBattle] If this unit isn't at -45 SP, and is at less than 0 SP, heal 10 SP. Heal more SP the further this unit's SP value is from 0 (2 SP healed for every missing SP, max 50 SP)\n[WhenUse] Lose 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
